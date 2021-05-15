@@ -1,13 +1,12 @@
 # Site settings
 title: "Programme Notes"
 SEOTitle: "BFI Southbank cinemas Programme Notes"
-#header-img: img/NFT1_2.jpeg
-header-img: img/dream-palace.jpeg
+header-img: img/NFT1_2.jpeg
 email: prognotes@bfi.org.uk
 description: "BFI Southbank"
 keyword: "BFI, 'British Film Institute', Cinema"
 url: "https://stephenmcconnachie.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                                              # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -28,6 +27,7 @@ permalink: pretty
 paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN  
 
@@ -52,7 +52,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -67,8 +67,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
-#sidebar-about-description: "黄玄，前端娱乐圈 NPC，编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
-#sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-about-description: "Programme Notes for BFI Southbank cinema screenings"
+#sidebar-avatar: /img/???      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
