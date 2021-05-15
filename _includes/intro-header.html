@@ -39,6 +39,7 @@
                     {% comment %} always create a h2 for keeping the margin {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+                    <br/>
                     <div class="tags">
                         {% for tag in page.tags %}
                         <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
