@@ -1,10 +1,10 @@
 # Site settings
-title: Programme Notes
-SEOTitle: BFI Southbank cinemas Programme Notes 
+title: "Programme Notes"
+SEOTitle: "BFI Southbank cinemas Programme Notes"
 header-img: img/home-bg.jpg
-email: propgnotes@bfi.org.uk
+email: prognotes@bfi.org.uk
 description: "BFI Southbank"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "BFI, 'British Film Institute', Cinema"
 url: "https://stephenmcconnachie.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
