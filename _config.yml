@@ -1,7 +1,8 @@
 # Site settings
 title: "Programme Notes"
 SEOTitle: "BFI Southbank cinemas Programme Notes"
-header-img: img/NFT1_2.jpeg
+#header-img: img/NFT1_2.jpeg
+header-img: img/dream-palace.jpeg
 email: prognotes@bfi.org.uk
 description: "BFI Southbank"
 keyword: "BFI, 'British Film Institute', Cinema"
