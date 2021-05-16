@@ -4,7 +4,7 @@ title: Portrait of a Lady on Fire
 published: true
 date: 2021-05-17 17:45:00
 readtime: true
-categories: ['Her Voice - Black Women from the Spotlight to the Screen']
+categories: ['Dream Palace - The Films That Cinemas Were Built For']
 tags: [Romance]
 metadata: 'France, 2019, 122 mins'
 pdf: 2021-05-17-portrait-of-a-lady-on-fire.pdf
@@ -19,18 +19,15 @@ Much of the film is a chamber piece, centring on the three women (four if we cou
 The film’s most indelible scene takes place on the beach, as the three protagonists stand around a bonfire with other local women. An uncanny, thrumming sound starts up, one that seems to come from below the world itself and to resonate within our bodies. It is like something from Lucile Hadžihalilovic or Gaspar Noé. Gradually it resolves into the sound of these women singing: ‘Fugere non possum’ – we cannot escape. There is a paradoxical beauty here. None of these women can flee their fate, but here, <br/>
 in their connection to one another, there is consolation – and something like freedom.<br/><br/>
 **Catherine Wheatley, Sight & Sound, March 2020**<br/><br/>
-<br/><br/>
 Céline Sciamma on ‘Portrait of a Lady on Fire’<br/><br/>
 This is a film all about the female gaze. How important was it for you to have a female director of photography, in this case, Claire Mathon? <br/><br/>
 This was my first film with Claire Mathon. I have always worked with female DPs. I know nothing else. It’s more a question for the actors as they’ve worked on different sets. Cinema has a strong hierarchy. And that’s the same even on my sets. I’m in charge; I get to create the world I want to live in for two months. You have power. The question is: what are you going to do with that power? I’m not saying there’s no hierarchy on my sets, but I tried to create a more horizontal way of working that is very collaborative. The film is all about that. It’s all about how there is no muse. The model and the artist are co-creators. I find it strange that people want to work differently. We should be asking this question to male directors. They seem to enjoy their own company very much. <br/><br/>
 Even though it’s a spoiler, I have to ask about the ending, because, after the slow-burn of the romance up to that point, it opens up such a flood of emotions. Could you explain how you arrived at the moment Marianne goes to the gallery and sees a portrait of Héloïse with the secret ‘page 28’ reference – the page in the book where Héloïse had asked Marianne to draw herself. <br/><br/>
-It took me a long time to figure out. I wanted Marianne to see Héloïse in a painting and that there would be a secret within the painting. But what kind of secret? The obvious one in art history is the open door of a birdcage. When a birdcage is open or closed in a painting it tells us about the girl’s virginity. When there are animals, it’s sexual metaphors. If I were to submit to a convention like this, it would have worked pretty well and people with that knowledge would have enjoyed the little wink. But that’s the thing. You want to find something new and think of something that’s going to really belong to <br/><br/>
-the film.<br/><br/>
-And so this book idea finally came up. And suddenly I knew it was the right idea because there’s several elements to it. The fact that there will be a finger in the book, and that this will be sexy. The fact that a number is a common language: everybody will get it, even those who don’t speak French. And there’s the mystery also because this number didn’t mean anything before the film, but it will suddenly: it’s that language that you now speak and a world you become part of. It belongs to the film but will live beyond the film. I want people to get ‘page 28’ tattoos. I wonder if anyone will hide notes at that page. I know that now when I want to hide something in a book, I’ll put it on page 28.<br/>
+It took me a long time to figure out. I wanted Marianne to see Héloïse in a painting and that there would be a secret within the painting. But what kind of secret? The obvious one in art history is the open door of a birdcage. When a birdcage is open or closed in a painting it tells us about the girl’s virginity. When there are animals, it’s sexual metaphors. If I were to submit to a convention like this, it would have worked pretty well and people with that knowledge would have enjoyed the little wink. But that’s the thing. You want to find something new and think of something that’s going to really belong to the film.<br/><br/>
+And so this book idea finally came up. And suddenly I knew it was the right idea because there’s several elements to it. The fact that there will be a finger in the book, and that this will be sexy. The fact that a number is a common language: everybody will get it, even those who don’t speak French. And there’s the mystery also because this number didn’t mean anything before the film, but it will suddenly: it’s that language that you now speak and a world you become part of. It belongs to the film but will live beyond the film. I want people to get ‘page 28’ tattoos. I wonder if anyone will hide notes at that page. I know that now when I want to hide something in a book, I’ll put it on page 28.<br/><br/>
 You could have ended the film there, but you keep going… <br/><br/>
 The final scene at the theatre [when Marianne sees Héloïse at a concert] was actually the first scene I had in mind. It was inspired by a poem by Mary Oliver, which says that a broken heart is an open heart to the rest of the world. I wanted a story relevant to today. There was no book to adapt, no painting out there. This is our imaginary, and a tribute to the other imaginaries out there that don’t exist. There’s nothing worse than realising your imaginaries don’t exist – you can go your whole life without seeing things. We’re activists for cinema today. We hope you experience something, that we give you the urge to go to the cinema or make some cinema.<br/><br/>
 **Céline Sciamma interviewed by Isabel Stevens, Sight & Sound, March 2020**<br/><br/>
-<br/><br/>
 **Credits**<br/>
 Portrait of a Lady on Fire (Portrait de la jeune fille en feu)<br/>
 Directed by: Céline Sciamma<br/>
@@ -49,7 +46,6 @@ Produced by: Bénédicte Couvreur<br/>
 Production Manager: Claire Langmann<br/>
 Assistant Director: Delphine Daull<br/>
 2nd Assistant Director: Anais Couette<br/>
-<br/>
 Script Supervisor: Cécile Rodolakis<br/>
 Casting: Christel Baras<br/>
 Written by: Céline Sciamma <br/>
@@ -67,7 +63,6 @@ Supervising Sound Editor: Valérie Deloof<br/>
 Stunt Co-ordinator: Benoît Talenton<br/>
 Historical Consultant: Severine Sofio<br/>
 <br/>
-<br/>
 **CAST**<br/>
 Noemie Merlant (Marianne)<br/>
 Adèle Haenel (Héloïse)<br/>
@@ -79,7 +74,6 @@ Guy Delamarche (man in the living room)<br/>
 Clément Bouyssou (boatman)<br/>
 France 2019<br/>
 122 mins <br/>
-<br/>
 <br/>
 **DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**<br/>
 <br/>
