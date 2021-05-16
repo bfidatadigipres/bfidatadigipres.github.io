@@ -4,7 +4,7 @@ title: Amazing Grace
 published: true
 date: 2021-05-17 17:45:00
 readtime: true
-categories: ['Her Voice - Black Women From The Spotlight To The Screen']
+categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Music, Documentary]
 metadata: 'USA, 2019, 88 mins'
 pdf: '2021-05-17-amazing-grace.pdf'
