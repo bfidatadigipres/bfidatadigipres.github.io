@@ -35,8 +35,8 @@ If I were to generalise, I&#39;d say there are two types of nomad,&#39; she adds
 
 **Graham Fuller, _Sight &amp; Sound_, March 2021**
 
-**Credits
-**Nomadland**  
+**Credits  
+**Nomadland  
 _Directed by_: Chloé Zhao  
 ©: 20th Century Studios  
 A _Highwayman, Hear/Say, Cor Cordium_ production  
@@ -60,24 +60,34 @@ _Re-recording Mixer_: Zach Seivers
 _Additional Re-recording Mixer_: Sergio Díaz  
 _Supervising Sound Editors_: Sergio Díaz, Zach Seivers  
 **CAST**  
-Frances McDormand_ (Fran)_  
-David Strathairn_ (Dave)_  
-Linda May_ (herself)_  
+Frances McDormand _(Fran)_  
+David Strathairn _(Dave)_  
+Linda May _(herself)_  
 Swankie _(herself)_  
-Bob Wells _(himself)   
+Bob Wells _(himself)_  
 USA 2020, 107 mins  
-_A Walt Disney Studios Motion Pictures UK release_  
 
- **NEW RELEASES &amp; RE-RELEASES**  
-**Ammonite** From Mon 17 May  
-**Sound of Metal** From Mon 17 May  
-**Nomadland** From Mon 17 May  
-**First Cow** From Fri 28 May  
-**After Love** From Fri 4 Jun  
-**Fargo** From Fri 11 Jun  
-**The Reason I Jump** From Fri 18 Jun  
-**Nashville** From Fri 25 Jun  
-**Ultraviolence** From Sat 26 JunSat 26 June 14:20 + Q&amp;A with director Ken Fero and contributor Janet Alder  
+_A Walt Disney Studios Motion Pictures UK release_
+  
+**NEW RELEASES &amp; RE-RELEASES**  
+**Ammonite** 
+From Mon 17 May  
+**Sound of Metal** 
+From Mon 17 May  
+**Nomadland** 
+From Mon 17 May  
+**First Cow** 
+From Fri 28 May  
+**After Love** 
+From Fri 4 Jun  
+**Fargo** 
+From Fri 11 Jun  
+**The Reason I Jump** 
+From Fri 18 Jun  
+**Nashville** 
+From Fri 25 Jun  
+**Ultraviolence**  
+From Sat 26 JunSat 26 June 14:20 + Q&amp;A with director Ken Fero and contributor Janet Alder  
   
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
