@@ -5,7 +5,7 @@ published: true
 date: 2021-05-17 14:45:00
 readtime: true
 categories: ['NEW RELEASES AND RE-RELEASES']
-tags: [Biopic]
+tags: [Drama]
 metadata: 'USA, 2020, 107 mins'
 pdf: '2021-05-17-nomadland.pdf'
 ---
