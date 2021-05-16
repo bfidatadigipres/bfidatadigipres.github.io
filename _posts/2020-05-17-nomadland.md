@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ammonite
+title: Nomadland
 published: true
-date: 2021-05-17 14:10:00
+date: 2021-05-17 14:45:00
 readtime: true
 categories: ['NEW RELEASES AND RE-RELEASES']
 tags: [Biopic]
-metadata: 'Australia | UK | USA, 2020, 120 mins'
-pdf: '2021-05-17-ammonite.pdf'
+metadata: 'USA, 2020, 107 mins'
+pdf: '2021-05-17-nomadland.pdf'
 ---
 _Nomadland_ stars Frances McDormand as a van-dwelling modern migrant worker travelling across the American West. A lyrical, anti-materialist neo-western with docudrama elements, it punctuates its melancholy with sublime images and epiphanic moments in the wilds. The movie and writer-director Chloé Zhao&#39;s previous features _Songs My Brothers Taught Me_ (2015) and _The Rider_ (2017) – both set on the Oglala Lakota Pine Ridge Reservation in South Dakota – empathise with people who have been rendered invisible by mainstream American society.
 
@@ -40,7 +40,7 @@ If I were to generalise, I&#39;d say there are two types of nomad,&#39; she adds
 ©: 20th Century Studios
 A _Highwayman, Hear/Say, Cor Cordium_ production
 _Presented by_: Searchlight Pictures
-_Produced by_: Frances McDormand, Peter Spears, Mollye Asher_,_ Dan Janvey, Chloé Zhao
+_Produced by_: Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, Chloé Zhao
 _Location Manager_: Nathan Dudley Harrison
 _Local Casting_: Hannah Logan Peterson, Nathan Dudley Harrison
 _Written for the Screen by_: Chloé Zhao
@@ -62,8 +62,9 @@ _Supervising Sound Editors_: Sergio Díaz, Zach Seivers
 Frances McDormand_ (Fran)_
 David Strathairn_ (Dave)_
 Linda May_ (herself)_
-Swankie_ (herself)  
-_Bob Wells _(himself)_USA 2020107 mins
+Swankie _(herself)_  
+Bob Wells _(himself)  
+USA 2020, 107 mins
 _A Walt Disney Studios Motion Pictures UK release_
 
  **NEW RELEASES &amp; RE-RELEASES**
