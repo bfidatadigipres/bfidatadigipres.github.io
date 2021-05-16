@@ -4,7 +4,7 @@ title: Portrait of a Lady on Fire
 published: true
 date: 2021-05-17 17:45:00
 readtime: true
-categories: ['Dream Palace - The Films That Cinemas Were Built For']
+categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
 tags: [Romance]
 metadata: 'France, 2019, 122 mins'
 pdf: 2021-05-17-portrait-of-a-lady-on-fire.pdf
