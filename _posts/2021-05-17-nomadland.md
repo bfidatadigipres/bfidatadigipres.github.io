@@ -33,65 +33,66 @@ I feel like the American road, that part of the country [the West], and the spir
 
 If I were to generalise, I&#39;d say there are two types of nomad,&#39; she adds. &#39;Some use the road as a means to an end, so that they can get back to home and stability. And the others stay on the road forever until the end. They are nomads at heart. To me, Fern is the second kind. Some of them find something that&#39;s inside them, whether it&#39;s in their bones or their blood or their ancestral DNA. They go, &quot;Wait a minute, actually I want to move.&quot; I see that in Fern, in Johnny and in Brady.&#39;
 
-## Graham Fuller, _Sight &amp; Sound_, March 2021
+**Graham Fuller, _Sight &amp; Sound_, March 2021**
 
-## Credits
-**Nomadland** _Directed by_: Chloé Zhao
-©: 20th Century Studios
-A _Highwayman, Hear/Say, Cor Cordium_ production
-_Presented by_: Searchlight Pictures
-_Produced by_: Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, Chloé Zhao
-_Location Manager_: Nathan Dudley Harrison
-_Local Casting_: Hannah Logan Peterson, Nathan Dudley Harrison
-_Written for the Screen by_: Chloé Zhao
-_Based on the book by_: Jessica Bruder
-_Director of Photography_: Joshua James Richards
-_Visual Effects by_: The Yard VFX
-_Edited by_: Chloé Zhao
-_Production Designer_: Joshua James Richards
-_Art Director_: Elizabeth Godar
-_Costume Designer_: Hannah Logan Peterson
-_End Titles by_: Endcrawl
-_Featuring the Music of_: Ludovico Einaudi
-_Sound Designer_: Sergio Díaz
-_Production Sound Recordist_: M. Wolf Snyder
-_Re-recording Mixer_: Zach Seivers
-_Additional Re-recording Mixer_: Sergio Díaz
-_Supervising Sound Editors_: Sergio Díaz, Zach Seivers
+**Credits
+**Nomadland**  
+_Directed by_: Chloé Zhao  
+©: 20th Century Studios  
+A _Highwayman, Hear/Say, Cor Cordium_ production  
+_Presented by_: Searchlight Pictures  
+_Produced by_: Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, Chloé Zhao  
+_Location Manager_: Nathan Dudley Harrison  
+_Local Casting_: Hannah Logan Peterson, Nathan Dudley Harrison  
+_Written for the Screen by_: Chloé Zhao  
+_Based on the book by_: Jessica Bruder  
+_Director of Photography_: Joshua James Richards  
+_Visual Effects by_: The Yard VFX  
+_Edited by_: Chloé Zhao  
+_Production Designer_: Joshua James Richards  
+_Art Director_: Elizabeth Godar  
+_Costume Designer_: Hannah Logan Peterson  
+_End Titles by_: Endcrawl  
+_Featuring the Music of_: Ludovico Einaudi  
+_Sound Designer_: Sergio Díaz  
+_Production Sound Recordist_: M. Wolf Snyder  
+_Re-recording Mixer_: Zach Seivers  
+_Additional Re-recording Mixer_: Sergio Díaz  
+_Supervising Sound Editors_: Sergio Díaz, Zach Seivers  
 **CAST**  
-Frances McDormand_ (Fran)_
-David Strathairn_ (Dave)_
-Linda May_ (herself)_
+Frances McDormand_ (Fran)_  
+David Strathairn_ (Dave)_  
+Linda May_ (herself)_  
 Swankie _(herself)_  
-Bob Wells _(himself)  
-USA 2020, 107 mins
-_A Walt Disney Studios Motion Pictures UK release_
+Bob Wells _(himself)   
+USA 2020, 107 mins  
+_A Walt Disney Studios Motion Pictures UK release_  
 
- **NEW RELEASES &amp; RE-RELEASES**
+ **NEW RELEASES &amp; RE-RELEASES**  
 **Ammonite** From Mon 17 May  
-**Sound of Metal** From Mon 17 May 
-**Nomadland** From Mon 17 May 
-**First Cow** From Fri 28 May 
-**After Love** From Fri 4 Jun 
-**Fargo** From Fri 11 Jun 
-**The Reason I Jump** From Fri 18 Jun 
-**Nashville** From Fri 25 Jun 
-**Ultraviolence** From Sat 26 JunSat 26 June 14:20 + Q&amp;A with director Ken Fero and contributor Janet Alder
-
+**Sound of Metal** From Mon 17 May  
+**Nomadland** From Mon 17 May  
+**First Cow** From Fri 28 May  
+**After Love** From Fri 4 Jun  
+**Fargo** From Fri 11 Jun  
+**The Reason I Jump** From Fri 18 Jun  
+**Nashville** From Fri 25 Jun  
+**Ultraviolence** From Sat 26 JunSat 26 June 14:20 + Q&amp;A with director Ken Fero and contributor Janet Alder  
+  
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
-
-**BECOME A BFI MEMBER**
-Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
-
-**BFI PLAYER**
-We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.
-See something different today on **player.bfi.org.uk**
-
-Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
-
-**Programme notes and credits compiled by the BFI Documentation Unit**
-
-**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**
-
-**The British Film Institute is a charity registered in England and Wales No. 287780**
+  
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  
+  
+**BFI PLAYER**  
+We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+See something different today on **player.bfi.org.uk**  
+  
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+  
+**Programme notes and credits compiled by the BFI Documentation Unit**  
+  
+**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
+  
+**The British Film Institute is a charity registered in England and Wales No. 287780**  
