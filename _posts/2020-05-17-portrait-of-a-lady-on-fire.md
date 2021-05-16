@@ -5,11 +5,11 @@ published: true
 date: 2021-05-17 17:45:00
 readtime: true
 categories: ['Her Voice']
-tags: [Romance, Fiction]
+tags: [Romance]
 metadata: 'France, 2019, 122 mins'
 pdf: 2021-05-17-portrait-of-a-lady-on-fire.pdf
 ---
-**SPOILER WARNING The following notes give away some of the plot.**<br/>
+**SPOILER WARNING** The following notes give away some of the plot.<br/>
 There are some films so exquisite that any attempt to put them into words feels like an act of violence. Céline Sciamma’s Portrait of a Lady on Fire (the French title translates more accurately as Portrait of a Young Girl on Fire – the difference at the level of power and freedom matters) is just such a film. It seems spun of gossamer, at once tensile and tenuous. ‘Take time to look at me,’ a voice commands in its opening moments. This moment is fleeting, it implies. Appreciate it while you can.<br/>
 After a brief prologue, the film opens in earnest as artist Marianne (Noémie Merlant) arrives on the Brittany coast sometime in the 18th century. She is sodden and panting, having thrown herself off the skiff bringing her to shore in order to rescue her materials, which have been swept overboard in a gorgeous, wordless scene (and one of very few to feature a man). On the beach, in the dusky half-light, the rocks form a proscenium arch. She wrings out her skirts and climbs to the isolated manor house that will be her lodging for the next seven days.<br/>
 Marianne has been given a week to paint the portrait of Héloïse (Adèle Haenel), the second daughter of an unseen merchant. The painting will be sent to a prospective suitor in Milan; if he likes it well enough, he will marry the girl. Héloïse’s older sister, it’s suggested, has killed herself rather than accept the same fate. Héloïse herself has chosen another form of resistance: refusing to sit for the portrait. Marianne’s assignment must be carried out in secret with the aid of maid Sophie (Luàna Bajrami), while she poses as a chaperone to the young woman. What follows is a love story, one that is thrilling, erotic and all the more pleasing for feeling at once strange and familiar. The plot incorporates elements of Sarah Waters’s Fingersmith, Choderlos de Laclos’s novel Dangerous Liaisons and Stephen Frears’s film version, and du Maurier’s and Hitchcock’s Rebecca, as well as the latter’s Vertigo. A gorgeous, extended shot of a weeping woman listening to Vivaldi’s Four Seasons brings to mind Jonathan Glazer’s Birth (2004) and Michael Haneke’s The Piano Teacher (2001).<br/>
