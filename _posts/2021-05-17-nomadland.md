@@ -35,8 +35,8 @@ If I were to generalise, I&#39;d say there are two types of nomad,&#39; she adds
 
 **Graham Fuller, _Sight &amp; Sound_, March 2021**
 
-**Credits  
-**Nomadland  
+**Credits**  
+**Nomadland**  
 _Directed by_: Chloé Zhao  
 ©: 20th Century Studios  
 A _Highwayman, Hear/Say, Cor Cordium_ production  
