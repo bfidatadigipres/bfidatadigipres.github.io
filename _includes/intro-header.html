@@ -2,7 +2,7 @@
     @param {string} type - 'page' | 'post' | 'keynote'
     @param {boolean} short
 {% endcomment %}
-
+-
 {% if include.type == 'post' %}
 <style type="text/css">
     header.intro-header{
@@ -37,9 +37,9 @@
                 <div class="post-heading">
                     <h1>{{ page.title }}</h1>
                     {% if page.metadata %}
-                    <h2 class="subheading">{{ page.cmetadata }}</h2>
+                    <h2>{{ page.metadata }}</h2>
                     {% endif %}
-                    {% comment %} always create a h2 for keeping the margin {% endcomment %}
+                    {% comment %} ALWAYS create a h2 to keep the margin {% endcomment %}
                     <h2 class="subheading">{{ page.categories }}</h2>
                     <!-- <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span> -->
                     <div class="tags">
