@@ -40,13 +40,13 @@
                     {% if page.metadata %}
                     <h4>{{ page.metadata }}</h4>
                     {% endif %}
-                    <h5 class="subheading">{{ page.categories }}</h5>
                     <!-- <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span> -->
                     <div class="tags">
                         {% for tag in page.tags %}
                         <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
+                    <h5 class="subheading">{{ page.categories }}</h5>
                 </div>
             </div>
         </div>
