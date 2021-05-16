@@ -51,7 +51,9 @@
                     {% if page.pdf %}
                     <br/>
                     <div class="tags">
-                        <a href="{{ site.baseurl }}/pdf/{{ page.pdf | url_encode }}" title="View as PDF">View as PDF</a>
+                        <a href="{{ site.baseurl }}/pdf/{{ page.pdf | url_encode }}" title="View as PDF">
+                        <img src="img/pdf-icon.png"/>
+                        </a>
                     </div>
                     {% endif %}
                 </div>
