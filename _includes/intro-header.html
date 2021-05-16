@@ -35,12 +35,12 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
+                    <div class="subheading">{{ page.categories }}</div>
                     <h1>{{ page.title }}</h1>
                     {% comment %} ALWAYS create a h2 to keep the margin {% endcomment %}
                     {% if page.metadata %}
                     <h4>{{ page.metadata }}</h4>
                     <br/>
-                    <h5 class="subheading">{{ page.categories }}</h5>
                     {% endif %}
                     <!-- <span class="meta">{{ page.date | date: "%B %-d, %Y" }}</span> -->
                     <!-- <div class="tags">
