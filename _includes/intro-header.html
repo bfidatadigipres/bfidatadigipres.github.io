@@ -48,6 +48,9 @@
                         <a class="tag" href="{{ site.baseurl }}/archive/?tag={{ tag | url_encode }}" title="{{ tag }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
+                    {% if page.pdf %}
+                    <a class="tag" href="{{ site.baseurl }}/pdf/{{ pdf | url_encode }}" title="PDF">PDF</a>
+                    {% endif %}
                 </div>
             </div>
         </div>
