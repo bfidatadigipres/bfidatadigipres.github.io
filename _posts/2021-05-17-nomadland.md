@@ -59,7 +59,7 @@ _Production Sound Recordist_: M. Wolf Snyder
 _Re-recording Mixer_: Zach Seivers  
 _Additional Re-recording Mixer_: Sergio Díaz  
 _Supervising Sound Editors_: Sergio Díaz, Zach Seivers  
-**CAST** 
+**CAST**  
 Frances McDormand _(Fran)_  
 David Strathairn _(Dave)_  
 Linda May _(herself)_  
@@ -71,21 +71,21 @@ USA 2020, 107 mins
 _A Walt Disney Studios Motion Pictures UK release_
   
 **NEW RELEASES &amp; RE-RELEASES**  
-**Ammonite** 
+**Ammonite**  
 From Mon 17 May  
-**Sound of Metal** 
+**Sound of Metal**  
 From Mon 17 May  
-**Nomadland** 
+**Nomadland**  
 From Mon 17 May  
-**First Cow** 
+**First Cow**  
 From Fri 28 May  
-**After Love** 
+**After Love**  
 From Fri 4 Jun  
-**Fargo** 
+**Fargo**  
 From Fri 11 Jun  
-**The Reason I Jump** 
+**The Reason I Jump**  
 From Fri 18 Jun  
-**Nashville** 
+**Nashville**  
 From Fri 25 Jun  
 **Ultraviolence**  
 From Sat 26 JunSat 26 June 14:20 + Q&amp;A with director Ken Fero and contributor Janet Alder  
