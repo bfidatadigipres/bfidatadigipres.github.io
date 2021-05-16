@@ -36,28 +36,6 @@ https://github.com/kitian616/jekyll-TeXt-theme
 				{% endcapture %}
         {{ tags | split:'__SEPERATOR__' | sort }}
 			</div>
-			
-			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<!-- Categories (as filter) -->
-			<div id='tag_cloud' class="tags tags-sup js-tags">
-				<a class="tag-button--all" data-encode="">
-					Show All
-					<sup>{{site.posts.size}}</sup>
-				</a>
-
-				{% capture tags %}
-				{% for category in site.categories %}
-				<a data-sort="{{ site.posts.size | minus: categories[1].size | prepend: '0000' | slice: -4, 4 }}"
-					data-encode="{{ categories[0] | strip | url_encode }}"
-					class="tag-button"
-					title="{{ categories[0] }}" rel="{{ categories[1].size }}">
-					{{ categories[0] }}
-					<sup>{{categories[1].size}}</sup>
-				</a>__SEPERATOR__
-				{% endfor %}
-				{% endcapture %}
-        {{ categories | split:'__SEPERATOR__' | sort }}
-			</div>
 
             <!-- Article List -->
 			<div class="mini-post-list js-result d-none">
