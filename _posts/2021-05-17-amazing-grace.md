@@ -43,25 +43,23 @@ Promotional Partner<br>
 
 **[Credits](https://www2.bfi.org.uk/films-tv-people/5ce28f525419a)**<br>
 **Amazing Grace, USA 2019, 88 mins**<br>
-Realised and Produced by: Alan Elliott<br>
-\[Concert footage directed by\]: Sydney Pollack<br>
-Presented by: Neon<br>
-Produced in association with: Sundial Pictures<br>
-Executive Producers: Stefan Nowicki, Joey Carey, Alexandra Johnes<br>
-Producers: Alan Elliott, Joe Boyd, Rob Johnson, Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D. Whittley, Joseph Woolf<br>
-Co-producer: Stephanie Apt<br>
-Editor: Jeff Buchanan<br>
-Post Production Services and Supervision: Final Cut USA, Inc<br>
-Colour and Balance: Rebecca Arce<br>
-Colourist: Kelly Reese<br>
-Art Direction and Titles: Mathieu Bitton<br>
-Music Mixer: Jimmy Douglass<br>
-Original album produced by: Aretha Franklin,<br>
-Arif Mardin, Jerry Wexler<br>
-Audio Project Managers: Bob Heiber,<br>
-Chris Reynolds, Ron Bonk, Kim Gott<br>
-Originally recorded live at: The New Temple Missionary Baptist Church, Los Angeles<br>
-Recording Engineers: Ray Thompson, Wally Heider, Special Thanks: Reverend William Barber II, Ari Emanuel, Matt Farmer, Julie Huntsinger, Phil Jackson, Tom Luddy, Sydney Pollack, Peter Sellars
+_Realised and Produced by:_ Alan Elliott<br>
+_\[Concert footage directed by\]:_ Sydney Pollack<br>
+_Presented by:_ Neon<br>
+_Produced in association with:_ Sundial Pictures<br>
+_Executive Producers:_ Stefan Nowicki, Joey Carey, Alexandra Johnes<br>
+_Producers:_ Alan Elliott, Joe Boyd, Rob Johnson, Chiemi Karasawa, Spike Lee, Sabrina V. Owens, Jerry Wexler, Tirrell D. Whittley, Joseph Woolf<br>
+_Co-producer:_ Stephanie Apt<br>
+_Editor:_ Jeff Buchanan<br>
+_Post Production Services and Supervision:_ Final Cut USA, Inc<br>
+_Colour and Balance:_ Rebecca Arce<br>
+_Colourist:_ Kelly Reese<br>
+_Art Direction and Titles:_ Mathieu Bitton<br>
+_Music Mixer:_ Jimmy Douglass<br>
+_Original album produced by:_ Aretha Franklin, Arif Mardin, Jerry Wexler<br>
+_Audio Project Managers:_ Bob Heiber, Chris Reynolds, Ron Bonk, Kim Gott<br>
+_Originally recorded live at:_ The New Temple Missionary Baptist Church, Los Angeles<br>
+_Recording Engineers:_ Ray Thompson, Wally Heider, Special Thanks: Reverend William Barber II, Ari Emanuel, Matt Farmer, Julie Huntsinger, Phil Jackson, Tom Luddy, Sydney Pollack, Peter Sellars
 With:<br>
 Aretha Franklin<br>
 Rev. James Cleveland<br>
@@ -87,7 +85,7 @@ Stanley B. Miller<br>
 Linda Jean Ovenland<br>
 Rashi Park<br>
 <br>
-**The Southern California Community Choir:**<br>
+_The Southern California Community Choir:_<br>
 Donna J. Hammond<br>
 Darryl Hardy<br>
 Betty Hollins<br>
