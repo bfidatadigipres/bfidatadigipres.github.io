@@ -1,4 +1,15 @@
-SPOILER WARNING The following notes give away some of the plot.<br/>
+---
+layout: post
+title: Portrait of a Lady on Fire
+published: true
+date: 2021-05-17 17:45:00
+readtime: true
+categories: ['Her Voice']
+tags: [Music, Documentary]
+metadata: 'USA, 2019, 88 mins'
+pdf: 2021-05-17-portrait-of-a-lady-on-fire.pdf
+---
+**SPOILER WARNING The following notes give away some of the plot.**<br/>
 There are some films so exquisite that any attempt to put them into words feels like an act of violence. Céline Sciamma’s Portrait of a Lady on Fire (the French title translates more accurately as Portrait of a Young Girl on Fire – the difference at the level of power and freedom matters) is just such a film. It seems spun of gossamer, at once tensile and tenuous. ‘Take time to look at me,’ a voice commands in its opening moments. This moment is fleeting, it implies. Appreciate it while you can.<br/>
 After a brief prologue, the film opens in earnest as artist Marianne (Noémie Merlant) arrives on the Brittany coast sometime in the 18th century. She is sodden and panting, having thrown herself off the skiff bringing her to shore in order to rescue her materials, which have been swept overboard in a gorgeous, wordless scene (and one of very few to feature a man). On the beach, in the dusky half-light, the rocks form a proscenium arch. She wrings out her skirts and climbs to the isolated manor house that will be her lodging for the next seven days.<br/>
 Marianne has been given a week to paint the portrait of Héloïse (Adèle Haenel), the second daughter of an unseen merchant. The painting will be sent to a prospective suitor in Milan; if he likes it well enough, he will marry the girl. Héloïse’s older sister, it’s suggested, has killed herself rather than accept the same fate. Héloïse herself has chosen another form of resistance: refusing to sit for the portrait. Marianne’s assignment must be carried out in secret with the aid of maid Sophie (Luàna Bajrami), while she poses as a chaperone to the young woman. What follows is a love story, one that is thrilling, erotic and all the more pleasing for feeling at once strange and familiar. The plot incorporates elements of Sarah Waters’s Fingersmith, Choderlos de Laclos’s novel Dangerous Liaisons and Stephen Frears’s film version, and du Maurier’s and Hitchcock’s Rebecca, as well as the latter’s Vertigo. A gorgeous, extended shot of a weeping woman listening to Vivaldi’s Four Seasons brings to mind Jonathan Glazer’s Birth (2004) and Michael Haneke’s The Piano Teacher (2001).<br/>
@@ -8,7 +19,7 @@ Much of the film is a chamber piece, centring on the three women (four if we cou
 The film’s most indelible scene takes place on the beach, as the three protagonists stand around a bonfire with other local women. An uncanny, thrumming sound starts up, one that seems to come from below the world itself and to resonate within our bodies. It is like something from Lucile Hadžihalilovic or Gaspar Noé. Gradually it resolves into the sound of these women singing: ‘Fugere non possum’ – we cannot escape. There is a paradoxical beauty here. None of these women can flee their fate, but here, <br/>
 in their connection to one another, there is consolation – and something <br/>
 like freedom.<br/>
-Catherine Wheatley, Sight & Sound, March 2020<br/>
+**Catherine Wheatley, Sight & Sound, March 2020**<br/>
 <br/>
 Céline Sciamma on ‘Portrait of a Lady on Fire’<br/>
 This is a film all about the female gaze. How important was it for you to have a female director of photography, in this case, Claire Mathon? <br/>
@@ -19,8 +30,9 @@ the film.<br/>
 And so this book idea finally came up. And suddenly I knew it was the right idea because there’s several elements to it. The fact that there will be a finger in the book, and that this will be sexy. The fact that a number is a common language: everybody will get it, even those who don’t speak French. And there’s the mystery also because this number didn’t mean anything before the film, but it will suddenly: it’s that language that you now speak and a world you become part of. It belongs to the film but will live beyond the film. I want people to get ‘page 28’ tattoos. I wonder if anyone will hide notes at that page. I know that now when I want to hide something in a book, I’ll put it on page 28.<br/>
 You could have ended the film there, but you keep going… <br/>
 The final scene at the theatre [when Marianne sees Héloïse at a concert] was actually the first scene I had in mind. It was inspired by a poem by Mary Oliver, which says that a broken heart is an open heart to the rest of the world. I wanted a story relevant to today. There was no book to adapt, no painting out there. This is our imaginary, and a tribute to the other imaginaries out there that don’t exist. There’s nothing worse than realising your imaginaries don’t exist – you can go your whole life without seeing things. We’re activists for cinema today. We hope you experience something, that we give you the urge to go to the cinema or make some cinema.<br/>
-Céline Sciamma interviewed by Isabel Stevens, Sight & Sound, March 2020 <br/>
+**Céline Sciamma interviewed by Isabel Stevens, Sight & Sound, March 2020**<br/>
 <br/>
+**Credits**<br/>
 Portrait of a Lady on Fire (Portrait de la jeune fille en feu)<br/>
 Directed by: Céline Sciamma<br/>
 ©: Lilies Films, Hold-Up Films & Productions, Arte France Cinéma<br/>
@@ -57,8 +69,7 @@ Stunt Co-ordinator: Benoît Talenton<br/>
 Historical Consultant: Severine Sofio<br/>
 <br/>
 <br/>
-<br/>
-CAST<br/>
+**CAST**<br/>
 Noemie Merlant (Marianne)<br/>
 Adèle Haenel (Héloïse)<br/>
 Luana Bajrami (Sophie)<br/>
@@ -71,7 +82,7 @@ France 2019<br/>
 122 mins <br/>
 <br/>
 <br/>
-DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR<br/>
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**<br/>
 <br/>
 Blow Out<br/>
 Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40<br/>
