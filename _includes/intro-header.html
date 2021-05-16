@@ -49,7 +49,8 @@
                         {% endfor %}
                     </div>
                     {% if page.pdf %}
-                    <a class="tag" href="{{ site.baseurl }}/pdf/{{ pdf | url_encode }}" title="PDF">PDF</a>
+                    <br/>
+                    <a class="tag" href="{{ site.baseurl }}/pdf/{{ page.pdf | url_encode }}" title="PDF">PDF</a>
                     {% endif %}
                 </div>
             </div>
