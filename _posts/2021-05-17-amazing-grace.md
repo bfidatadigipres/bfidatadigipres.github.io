@@ -4,14 +4,11 @@ title: Amazing Grace
 published: true
 date: 2021-05-17 17:45:00
 readtime: true
-categories: ['Her Voice']
+categories: ['Her Voice: Black Women from the Spotlight to the Screen]
 tags: [Music, Documentary]
 metadata: 'USA, 2019, 88 mins'
 pdf: 2021-05-17-amazing-grace.pdf
 ---
-
-**[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**
-
 [PDF](https://stephenmcconnachie.github.io/pdf/2021-05-17-amazing-grace.pdf)
 
 The first recorded evidence of Aretha Franklin’s glorious voice was captured in 1956, when she performed a string of gospel numbers in her Baptist minister father’s Detroit church. She was just 14, and the pop stardom she would achieve during her post-1967 tenure with Atlantic Records was still far ahead. Atlantic, though, kept Franklin well away from the gospel genre for several years, while her epochal soul hits shifted units. The calculation was, presumably, that gospel was just a bit too authentic, a bit too black, and unlikely to get airplay on pop radio.  
