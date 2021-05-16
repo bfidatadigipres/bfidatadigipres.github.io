@@ -6,7 +6,7 @@ date: 2021-05-17 17:45:00
 readtime: true
 categories: ['Her Voice']
 tags: [Music, Documentary]
-metadata: 'USA 2019, 88 mins'
+metadata: 'USA, 2019, 88 mins'
 pdf: 2021-05-17-amazing-grace.pdf
 ---
 **[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**
