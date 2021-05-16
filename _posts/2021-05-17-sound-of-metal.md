@@ -82,28 +82,28 @@ _Thanks_: Evelyn Glennie
 
  **CAST**  
  Riz Ahmed _(Ruben Stone)_  
- Olivia Cooke_ (Lou Berger)_  
- Paul Raci_ (Joe)_  
- Lauren Ridloff_ (Diane)_  
- Mathieu Amalric_ (Richard Berger)_  
- Domenico Toledo_ (Michael)_  
- Chelsea Lee_ (Jenn)_  
- Shaheem Sanchez_ (Shaheem)_  
- Chris Perfetti_ (Harlan)_  
- Bill Thorpe_ (the man)_  
- Michael Tow_ (pharmacist)_  
- William Xifaras_ (Michael's father)_  
- Rena Maliszweski_ (audiologist)_  
- Tom Kemp_ (Dr Paysinger)_  
- Elan Sicroff_ (pianist)_  
- Jeremy Stone_ (ASL teacher)_  
- Ezra Marder_ (ASL student)_  
- Hartmut Teuber_ (Karl)_  
- Hillary Baack_ (Hanna)_  
- Joe Toledo_ (Toledo)_  
- Adam Preston_ (Jake)_  
- Jonathon LeJeune_ (Frank)_  
- Sean Powell, Dani Miller, Alex Kilgore_ __(Surfbort members)_  
+ Olivia Cooke _(Lou Berger)_  
+ Paul Raci _(Joe)_  
+ Lauren Ridloff _(Diane)_  
+ Mathieu Amalric _(Richard Berger)_  
+ Domenico Toledo _(Michael)_  
+ Chelsea Lee _(Jenn)_  
+ Shaheem Sanchez _(Shaheem)_  
+ Chris Perfetti _(Harlan)_  
+ Bill Thorpe _(the man)_  
+ Michael Tow _(pharmacist)_  
+ William Xifaras _(Michael's father)_  
+ Rena Maliszweski _(audiologist)_  
+ Tom Kemp _(Dr Paysinger)_  
+ Elan Sicroff _(pianist)_  
+ Jeremy Stone _(ASL teacher)_  
+ Ezra Marder _(ASL student)_  
+ Hartmut Teuber _(Karl)_  
+ Hillary Baack _(Hanna)_  
+ Joe Toledo _(Toledo)_  
+ Adam Preston _(Jake)_  
+ Jonathon LeJeune _(Frank)_  
+ Sean Powell, Dani Miller, Alex Kilgore _(Surfbort members)_  
  
  USA 2019, 120 mins  
 
