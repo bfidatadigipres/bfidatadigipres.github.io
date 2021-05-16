@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES AND RE-RELEASES']
 tags: [Drama]
 metadata: 'USA, 2019, 120 mins'
-pdf: '2021-05-17-the-sound-of-metal.pdf'
+pdf: '2021-05-17-sound-of-metal.pdf'
 ---
 The elevator pitch of Darius Marder's debut film has the ring of a joke set-up: did you hear about the metal drummer who went deaf? It doesn't help that the target of the joke is the butt of so many rock stories. But Hollywood has been reassessing drummers. Rather than Animal from the Muppets or Spinal Tap's exploding rhythm section, we now get Christian Bale bashing his kit in _The Big Short_ (2015) and the percussive angst of _Whiplash_ (2014). The drummer has become a figure of serious intensity. _Sound of Metal_ continues the trend: a deeply moving portrait of a man in freefall, the film is no joke. We first meet Ruben (Riz Ahmed) in his domain, a sweaty rock club where, bare torsoed and inked up, he pounds the skins while girlfriend Lou (Olivia Cooke) provides guitar and vocals. Despite the rock 'n' roll, theirs is a disciplined set up. Ruben rises early, prepares a healthy vegan breakfast. The RV that serves as their tour bus and home is neatly organised. If anything, everything feels too tightly tied in place. Later, we'll learn that Ruben (and possibly Lou too) is a recovering addict and fills days with constant activity, partly to ward off empty moments when temptation might become too much. Ruben's hearing loss is sudden and catastrophic. The sound drops out of the movie and voices become muffled as Ruben struggles to grasp what is happening to him. His music, his sobriety and his life with Lou are on the line. Ruben isn't just losing his hearing, he's losing his purpose in life, his identity.  
 
