@@ -9,8 +9,6 @@ tags: [Music, Documentary]
 metadata: 'USA, 2019, 88 mins'
 pdf: '2021-05-17-amazing-grace.pdf'
 ---
-[PDF](https://stephenmcconnachie.github.io/pdf/2021-05-17-amazing-grace.pdf)
-
 The first recorded evidence of Aretha Franklin’s glorious voice was captured in 1956, when she performed a string of gospel numbers in her Baptist minister father’s Detroit church. She was just 14, and the pop stardom she would achieve during her post-1967 tenure with Atlantic Records was still far ahead. Atlantic, though, kept Franklin well away from the gospel genre for several years, while her epochal soul hits shifted units. The calculation was, presumably, that gospel was just a bit too authentic, a bit too black, and unlikely to get airplay on pop radio.  
 
 That industry context is vital to understanding the significance of Franklin’s 1972 Amazing Grace album, and this decades-delayed release of what was intended as an accompanying feature, shot during live sessions at a Baptist church in Watts, Los Angeles. In the era of Black Power and blaxploitation flicks, the grand soul diva’s return to her gospel roots was a major proclamation of cultural pride, facilitated by the recording and film arms of major US media corporation Warner Bros. The resulting double LP proved the bestselling album of her career. But the movie? That’s another story…  
