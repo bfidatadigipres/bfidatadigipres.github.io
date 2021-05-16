@@ -59,12 +59,13 @@ _Production Sound Recordist_: M. Wolf Snyder
 _Re-recording Mixer_: Zach Seivers  
 _Additional Re-recording Mixer_: Sergio Díaz  
 _Supervising Sound Editors_: Sergio Díaz, Zach Seivers  
-**CAST**  
+**CAST** 
 Frances McDormand _(Fran)_  
 David Strathairn _(Dave)_  
 Linda May _(herself)_  
 Swankie _(herself)_  
 Bob Wells _(himself)_  
+  
 USA 2020, 107 mins  
 
 _A Walt Disney Studios Motion Pictures UK release_
