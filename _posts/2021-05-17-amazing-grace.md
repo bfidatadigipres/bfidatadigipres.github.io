@@ -151,5 +151,17 @@ Fri 4 Jun 20:45; Thu 10 Jun 18:20<br><br>
 **The Wiz**<br>
 Sun 6 Jun 12:20; Fri 18 Jun 17:45<br><br>
 
-**[BECOME A BFI MEMBER](https://bfi.org.uk/join)** <br>
-Enjoy a great package of film benefits, including priority booking at BFI Southbank and BFI Festivals.<br>
+**BECOME A BFI MEMBER**  
+ Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on **player.bfi.org.uk**  
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+
+**Programme notes and credits compiled by the BFI Documentation Unit**  
+
+**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
+
+**The British Film Institute is a charity registered in England and Wales No. 287780**  
