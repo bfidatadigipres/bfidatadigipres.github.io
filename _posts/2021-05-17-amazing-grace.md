@@ -39,7 +39,8 @@ Forty-seven years later, this film is a testimony to the greatness of Aretha Fra
 **Production notes (with thanks to Neon)**
 
 Promotional Partner<br>
-![JazzFM](https://whatson.bfi.org.uk/ArticleMedia/Images/WhatsOn%20images/20210506/Logos/jazz-fm-logo-02.png)
+![Caramel Film Club](/img/partner/caramel-logo.jpeg)
+Celebrating films starring and directed by Black talent and more<br><br>
 
 **[Credits](https://www2.bfi.org.uk/films-tv-people/5ce28f525419a)**<br>
 **Amazing Grace, USA 2019, 88 mins**<br>
@@ -147,6 +148,6 @@ Fri 4 Jun 18:00; Sat 26 Jun 20:45<br><br>
 Fri 4 Jun 20:45; Thu 10 Jun 18:20<br><br>
 **The Wiz**<br>
 Sun 6 Jun 12:20; Fri 18 Jun 17:45<br><br>
-Celebrating films starring and directed by Black talent and more<br><br>
+
 **[BECOME A BFI MEMBER](https://bfi.org.uk/join)** <br>
 Enjoy a great package of film benefits, including priority booking at BFI Southbank and BFI Festivals.<br>
