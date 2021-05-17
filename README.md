@@ -1,1 +1,1 @@
-Test repo for BFI Southbank Programme Notes digital delivery
+BFI Programme Notes digital delivery, for all screenings at BFI Southbank.
