@@ -42,7 +42,7 @@ Forty-seven years later, this film is a testimony to the greatness of Aretha Fra
 <img style="float: left;" src="/img/partner/caramel-logo.jpg" alt="Caramel Film Club" title="Caramel Film Club">
 <br><br><br><br><br><br>
 <!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
-Celebrating films starring and directed by Black talent and more<br><br>
+Celebrating films starring and directed by Black talent and more<br>
 
 **[Credits](https://www2.bfi.org.uk/films-tv-people/5ce28f525419a)**<br>
 **Amazing Grace, USA 2019, 88 mins**<br>
