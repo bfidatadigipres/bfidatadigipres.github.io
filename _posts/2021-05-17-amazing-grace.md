@@ -44,7 +44,7 @@ Forty-seven years later, this film is a testimony to the greatness of Aretha Fra
 <!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
 Celebrating films starring and directed by Black talent and more<br>
 
-**[Credits](https://www2.bfi.org.uk/films-tv-people/5ce28f525419a)**<br>
+**Credits**<br>
 **Amazing Grace, USA 2019, 88 mins**<br>
 _Realised and Produced by:_ Alan Elliott<br>
 _\[Concert footage directed by\]:_ Sydney Pollack<br>
