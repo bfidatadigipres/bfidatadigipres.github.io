@@ -1,11 +1,11 @@
 # Site settings
 title: "Programme Notes"
-SEOTitle: "BFI Southbank cinemas Programme Notes"
+SEOTitle: "BFI Southbank Programme Notes"
 header-img: img/NFT1_2.jpeg
 email: prognotes@bfi.org.uk
 description: "BFI Southbank"
 keyword: "BFI, 'British Film Institute', Cinema, Film"
-url: "https://stephenmcconnachie.github.io"              # your host, for absolute URL
+url: "https://bfidatadigipres.github.io"              # your host, for absolute URL
 baseurl: ""                                              # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,8 +14,8 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     
-#zhihu_username:     huxpro
-#github_username:    huxpro
+#zhihu_username:     
+#github_username:    
 #twitter_username:   
 #facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
@@ -27,9 +27,6 @@ permalink: pretty
 paginate: 20
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -51,19 +48,12 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-#disqus_username: hux
-
 # Netease settings
 netease_comment: false
 
-# Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
-
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+#ga_domain:
 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
@@ -80,35 +70,3 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
-# Friends
-#friends: [
-#    {
-#    #     title: "Su",
-#    #     href: "http://su.gallery/"
-#    # },{
-#        title: "乱序（Midare）",
-#        href: "http://mida.re/"
-#    },{
-#        title: "Sherry Woo",
-#        href: "https://sherrywoo.me/"
-#    },{
-#        title: "Kun Qian",
-#        href: "http://kunq.me"
-#    },{
-#        title: "Ebn Zhang",
-#        href: "http://ebnbin.com/"
-#    },{
-#        title: "SmdCn",
-#        href: "http://blog.smdcn.net"
-#    },{
-#        title: "JiyinYiyong",
-#        href: "http://tiye.me/"
-#    },{
-#        title: "DHong Say",
-#        href: "http://dhong.co"
-#    },{
-#        title: "尹峰以为",
-#        href: "http://ingf.github.io/"
-#    }
-#]
