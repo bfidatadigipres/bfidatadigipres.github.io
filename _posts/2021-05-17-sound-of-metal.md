@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sound of Metal
+title: Sound of Metal
 published: true
 date: 2021-05-17
 readtime: true
