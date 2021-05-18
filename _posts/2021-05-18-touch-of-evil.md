@@ -1,0 +1,64 @@
+---
+layout: post
+title: Touch of Evil
+published: true
+date: 2021-05-18
+readtime: true
+categories: ['BIG SCREEN CLASSICS']
+tags: [Drama, Thriller]
+metadata: 'USA, 1958, 113 mins'
+pdf: '2021-05-18-touch-of-evil.pdf'
+---
+
+The last great Film Noir and the final film Orson Welles would direct in Hollywood, _Touch of Evil_ is a sweat-drenched saga of corruption and intrigue on the US/Mexico border.
+
+Beginning with one of the most celebrated tracking shots in cinema history, a bravura three-minute take following a bomb planted in a car as it crosses the US border, Welles crafts baroque, highly stylised masterpiece from inauspiciously pulpy source origins. A prestigious cast including Charlton Heston and Marlene Dietrich reinforces Welles’ playful mixture of A and B-movie tropes, but it’s Welles’ own turn as the leering, groteseque Hank Quinlan that steals the film. Seen in many different versions over the years, the film is here presented in Walter Murch’s 1998 restoration, based on Orson Welles’ 1957 memo to the head of Universal.
+<br>
+**bfi.org.uk**
+
+_Touch of Evil_ was shot quickly and efficiently between 18 February and 2 April 1957. During the summer, soon after Orson Welles had completed the editing and gone off on holiday to Mexico, Universal started to get worried, took control of the film and held it back for another six months while they shot extra scenes, re-edited it and cut it back by about 15 minutes. It was eventually released without fanfare in February 1958. In 1975 an archivist at UCLA, Bob Epstein, discovered a 108-minute version which, while not absolutely Welles’ original cut, is certainly very close, as close as we are likely to get.
+
+It was pure chance that Welles directed _Touch of Evil_ in the first place. Towards the end of 1955 he had returned to America from European exile. Having given up hope of getting film work as a director, he accepted a role in a minor Jeff Chandler vehicle, _Man in the Shadow_. He got on well with the producer, Albert Zugsmith, who offered him a part in his next film, a routine police thriller, before sending the script to Charlton Heston, hoping Heston might be inveigled into playing the lead by the chance to act with (or perhaps against) the great Orson Welles. Heston accepted, on condition that Welles not only acted in the film but directed it too. Welles began by rewriting the script, plundering Paul Monash’s original version, going back to Whit Masterson’s book, and making drastic changes of his own. Reversing the original script, where the husband was an American who had married a Mexican, he turned the hero, Miguel Vargas (Charlton Heston), into a Mexican, and Vargas’ wife (Janet Leigh) into an American: Welles played the corrupt and racist Hank Quinlan.
+
+As well as padding his own role, Welles wrote in scenes to highlight old associates and friends: Zsa Zsa Gabor is the madam of a low-rent strip-joint and Marlene Dietrich was given the crucial role of Tanya the fortune-teller. He also added a bizarre scene in which Leigh is forcibly shot up with drugs in her motel room. Her tormentors include Mercedes McCambridge, an old associate of Welles from radio days, as ‘a tough, masculine, hard-type broad’ (her words) in a black leather jacket and with shoe polish in her hair. The fateful Janet Leigh motel in _Psycho_ (it is no surprise to learn) was designed by the very same art director, Robert Clatworthy.
+
+However, the most crucial decision was to change the setting of the film from Southern California to one of those towns which are divided in two by the Mexican-American border. With these and other changes, the film was much more directly a disquisition on the theme of ‘crossing the border’, bristling with racial tension as the Mexican cop attempts to nail the American cop for perversion of justice. At the same time, of course, Welles built up his own part – the heavy, the ‘lousy cop’ Quinlan – at the expense of Heston’s idealistic Vargas.
+
+The justly famous opening shot was filmed at night outside the studio, in the streets of Venice, a beach suburb of LA which Welles used to escape supervision. It introduces us to the world of the border, a world littered with psychopathic youth gangs, sleazy motel rooms, garish strip-joints, seedy border posts, peeling police cells, filthy canals and cheap bars. The honeymoon kiss that is interrupted by a sudden explosion will not be resumed until after Susan has been persecuted, terrorised and framed on a drugs charge and a murder rap. The honeymoon couple will not be reunited until the very end of the film, when Miguel will say to Susan, ‘It’s all over, Susie. I’m taking you home. Home.’ Home? Where is home? The American side, racist and evil? Or Mexico City, where Vargas is constantly in danger from the cross-border drugs family he is bringing to justice.
+
+_Touch of Evil_ is the film in which Welles most creatively found a way of re-using everything he had achieved with _Citizen Kane_ – a way of making an anti-fascist film structured around an investigation, unmasking the truth hidden by power, a savage deconstruction of political egotism. Both films have the same basic structure, the exposure of an apparently great man as a charlatan, though he continues to command our grudging respect. With _Touch of Evil_, Welles took this model and permeated it with his fascination and concern for Mexico, turning a thriller into an anti-fascist parable which focussed on American racism as the potential platform for American fascism. As with _Citizen Kane_, too, the film is dominated by the monstrous egotist rather than the investigator.
+
+Welles clearly wanted to make the film a political and moral fable, its centrepiece the denunciation of Quinlan for racism and for framing suspects irrespective of whether they were guilty or not. Welles strongly resists the suggestion that his film is morally ambiguous, that we are induced to sympathise morally with Quinlan because, when the young Mexican he has framed ends up confessing to the crime, it somehow seems to justify his own dishonesty in framing him. Instead he claimed that, ‘It’s better to see a murderer go free than for a policeman to abuse his power. If you have a choice between the abuse of police power and letting a crime go unpunished, you have to choose the unpunished crime.’
+
+Welles also argued strenuously against the idea that his is a cinema of ‘ambiguity’, as Bazin had claimed. In the specific case of _Touch of Evil_, he pointed out that, ‘In melodrama, one’s sympathy is forcibly drawn to the villain.’ He reiterated that Quinlan’s ‘law’ is the law of the lynch-mob, that ‘Quinlan does not want to submit the guilty ones to justice so much as to assassinate them in the name of the law, using the police for his own purposes: and this is a fascist scenario, a totalitarian scenario, contrary to traditional law and human justice as I understand them.’ He compared Quinlan with Kane and with Harry Lime. ‘All these men are similar, and each in his own fashion stands for the things I most detest. But I like and I comprehend – I have a human sympathy for – these different characters I’ve created. Morally I find them detestable – morally, not humanly.’
+
+Towards the end of _Touch of Evil_, Quinlan asks the gypsy fortune-teller Tanya to read his future for him. She replies balefully, ‘You haven’t got any ... Your future’s all used up.’ It has often been commented that Tanya might have been talking about Welles, about his betrayal by Hollywood and his downfall as a commercial filmmaker. I do not think that casting Welles’ career in terms of failure and ruin is the best way to see it. On the contrary, he was a filmmaker who rejected the whole idea of making a Faustian bargain with Hollywood, recklessly scorning the tempting offers made to him by Mephistopheles. He was by no means a saint, but he believed that living with a good conscience was more important than power and worldly success. From a moral point of view, after all, it is Hollywood’s future that is now all used up, however much sympathy we may feel for its monstrous charm.
+<br>
+**Peter Wollen, _Sight and Sound_, October 1996**
+
+**Touch of Evil**<br>_Director:_ Orson Welles<br>_Production Company:_ Universal Pictures Company<br>_Producer:_ Albert Zugsmith<br>_Assistant Director:_ Phil Bowles<br>_Screenplay by:_ Orson Welles<br>_Based on the novel_ Badge of Evil _by_: Whit Masterson<br>_Director of Photography:_ Russell Metty<br>_Editors:_ Virgil Vogel, Aaron Stell<br>_Art Direction:_ Alexander Golitzen,Robert Clatworthy<br>_Set Decorations:_ Russell A. Gausman,John P. Austin<br>_Gowns:_ Bill Thomas<br>_Make-up:_ Bud Westmore<br>_Music:_ Henry Mancini<br>_Music Supervisor:_ Joseph Gershenson<br>_Sound:_ Leslie I. Carey, Frank Wilkinson<br>_Sound System:_ Westrex Recording System<br>_Studio:_ Universal Studios Hollywood<br>
+
+_uncredited_<br>_Director – Additional Material:_ Harry Keller<br>_Production Manager:_ F.D. Thompson<br>_2nd Assistant Director:_ Terence Nelson<br>_Screenplay:_ Paul Monash<br>_Camera Operator:_ Philip Lathrop<br>_Editors:_ Edward Curtiss, Ernest Nims<br>
+
+_Cast:_<br>Charlton Heston _(Ramon Miguel ‘Mike’ Vargas)_<br>Janet Leigh _(Susan Vargas)_<br>Orson Welles _(Hank Quinlan)_<br>Joseph Calleia _(Pete Menzies)_<br>Akim Tamiroff _(‘Uncle’ Joe Grandi)_<br>Joanna Moore _(Marcia Linnekar)_<br>Ray Collins _(District Attorney Adair)_<br>Dennis Weaver _(Mirador Motel night man)_<br>Valentin De Vargas _(‘Pancho’)_<br>Mort Mills _(Al Schwartz)_<br>Victor Millan _(Manolo Sanchez)_<br>Lalo Rios _(Risto)_<br>Michael Sargent _(Pretty Boy)_<br>Phil Harvey _(Blaine)_<br>Joi Lansing _(Zita, blonde in car)_<br>Harry Shannon _(Chief Gould)_<br>Marlene Dietrich _(Tanya)_<br>Zsa Zsa Gabor _(stripclub owner)_<br>
+
+_uncredited_<br>Dan White _(customs officer)_<br>Joseph Cotten _(police surgeon)_<br>John Dierkes _(man at the accident)_<br>Joe Basulto _(young delinquent)_<br>Gus Schilling _(Eddie Farnum)_<br>Billy House _(Linnekar Construction foreman)_<br>Rusty Wescoatt _(Casey)_<br>Wayne Taylor, Ken Miller, Raymond Rodriguez _(gang members)_<br>Mercedes McCambridge _(gang leader)_<br>Arlene McQuade _(Ginnie)_<br>Yolanda Bojorquez _(Bobbie)_<br>Jennie Dias _(Jackie)_<br>Eleanor Dorado _(Lia)_<br>William Tannen _(lawyer)_<br>Domenick Delgarde _(lackey)_<br>
+
+USA 1958©
+
+113 mins
+
+**BECOME A BFI MEMBER**
+
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join
+
+**BIG SCREEN CLASSICS**
+
+**Persona**<br>Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>**Touch of Evil**<br>Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>**The Tango Lesson**<br>Tue 18 May 20:45; Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>**Citizen Kane**<br>Wed 19 May 18:00; Sun 30 May 12:40; Mon 21 Jun 20:45<br>**L’eclisse (The Eclipse)**<br>Thu 20 May 14:15; Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>**La Haine**<br>Thu 20 May 17:50; Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>**The Last Picture Show (Director’s Cut)**<br>Fri 21 May 20:30; Mon 31 May 12:50; Mon 7 Jun 17:45<br>**Steamboat Bill, Jr.**<br>Sat 22 May 12:00; Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>**Raging Bull**<br>Sat 22 May 14:40; Sun 30 May 15:30; Tue 1 Jun 17:30<br>**Cleo from 5 to 7** **Cléo de 5 à 7**<br>Sat 22 May 21:00; Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>**The Big City (Mahanagar)**<br>Sun 23 May 12:10; Wed 23 Jun 17:40<br>**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br>Sun 23 May 15:20; Thu 24 Jun 17:40<br>**The Night of the Hunter**<br>Mon 24 May 14:30; Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>**Alice in the Cities (Alice in den Städten)**<br>Wed 26 May 17:50; Tue 1 Jun 14:30; Fri 25 Jun 20:45<br>**Eraserhead**<br>Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>**Man Hunt**<br>Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>**Sweet Smell of Success**<br>Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>**The Man Who Wasn’t There**<br>Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>**The White Ribbon (Das weisse Band)**<br>Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>**Bitter Victory**<br>Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Email prognotes@bfi.org.uk**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjA1ODMzODA3Nl19
+-->
