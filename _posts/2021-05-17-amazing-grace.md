@@ -59,7 +59,7 @@ _Music Mixer:_ Jimmy Douglass<br>
 _Original album produced by:_ Aretha Franklin, Arif Mardin, Jerry Wexler<br>
 _Audio Project Managers:_ Bob Heiber, Chris Reynolds, Ron Bonk, Kim Gott<br>
 _Originally recorded live at:_ The New Temple Missionary Baptist Church, Los Angeles<br>
-_Recording Engineers:_ Ray Thompson, Wally Heider, Special Thanks: Reverend William Barber II, Ari Emanuel, Matt Farmer, Julie Huntsinger, Phil Jackson, Tom Luddy, Sydney Pollack, Peter Sellars
+_Recording Engineers:_ Ray Thompson, Wally Heider, Special Thanks: Reverend William Barber II, Ari Emanuel, Matt Farmer, Julie Huntsinger, Phil Jackson, Tom Luddy, Sydney Pollack, Peter Sellars  
 **WITH**:<br>
 Aretha Franklin<br>
 Rev. James Cleveland<br>
@@ -79,8 +79,8 @@ Syndrul Drahe<br>
 Mary Ann Hall<br>
 Margerie Luper<br>
 Charles May<br>
-Ethel Ruth Mcisaac<br>
-Odessa L. Mccastle<br>
+Ethel Ruth McIsaac<br>
+Odessa L. McCastle<br>
 Stanley B. Miller<br>
 Linda Jean Ovenland<br>
 Rashi Park<br>
@@ -121,7 +121,7 @@ Night 2:<br>
 ‘Old Landmark’ (End Credits)<br>
 <br>
 
-USA 2019
+USA 2019  
 88 mins
 
 **[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**<br>
@@ -153,12 +153,12 @@ Fri 4 Jun 20:45; Thu 10 Jun 18:20<br>
 Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
 
 **BECOME A BFI MEMBER**  
- Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  
+ Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](https://www.bfi.org.uk/become-bfi-member)  
 
 **BFI PLAYER**  
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-See something different today on **player.bfi.org.uk**  
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
 
 **Programme notes and credits compiled by the BFI Documentation Unit**  
