@@ -60,7 +60,8 @@ _Original album produced by:_ Aretha Franklin, Arif Mardin, Jerry Wexler<br>
 _Audio Project Managers:_ Bob Heiber, Chris Reynolds, Ron Bonk, Kim Gott<br>
 _Originally recorded live at:_ The New Temple Missionary Baptist Church, Los Angeles<br>
 _Recording Engineers:_ Ray Thompson, Wally Heider, Special Thanks: Reverend William Barber II, Ari Emanuel, Matt Farmer, Julie Huntsinger, Phil Jackson, Tom Luddy, Sydney Pollack, Peter Sellars  
-**WITH**:<br>
+
+**With**:<br>
 Aretha Franklin<br>
 Rev. James Cleveland<br>
 Rev. C.L. Franklin<br>
@@ -160,6 +161,9 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We're also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **Programme notes and credits compiled by the BFI Documentation Unit**  
 **Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**  
