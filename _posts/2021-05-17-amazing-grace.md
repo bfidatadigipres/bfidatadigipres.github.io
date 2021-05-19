@@ -159,6 +159,7 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
 
 **BFI SOUTHBANK**  
