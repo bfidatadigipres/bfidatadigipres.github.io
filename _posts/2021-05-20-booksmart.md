@@ -6,7 +6,7 @@ date: 2021-05-20
 readtime: true
 categories: ['MEMBER PICKS']
 tags: [Comedy]
-metadata: 'USA, 2019, 102 mins'
+metadata: 'USA, 2019, 102 mins<br> Director: Olivia Wilde'
 pdf: '2021-05-20-booksmart.pdf'
 ---
 ‘It’s hilarious and just wonderful! It’s such a great film in terms of representation, and not clichéd at all’.<br>
