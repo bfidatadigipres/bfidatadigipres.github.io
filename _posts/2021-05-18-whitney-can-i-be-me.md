@@ -6,7 +6,7 @@ date: 2021-05-18
 readtime: true
 categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Music, Documentary]
-metadata: 'UK/USA, 2017, 105 mins'
+metadata: 'UK/USA, 2017, 105 mins<br> Directors: Nick Broomfield, Rudi Dolezal'
 pdf: '2021-05-18-whitney-can-i-be-me.pdf'
 ---
 Nick Broomfield made his name in the 1990s with a series of exposés in which he thrust his trademark oversized boom microphone into the lives of people who would rather not talk to him. This feature-length biography of the singer Whitney Houston is a much more nuanced affair, with Broomfield staying out of sight behind the camera, appearing only rarely as a disembodied voice asking a softly spoken question. In the main, the film simply cuts together interviews and archive footage to unfold the tragic story of a natural talent snuffed out by drug addiction and self-sabotage.
