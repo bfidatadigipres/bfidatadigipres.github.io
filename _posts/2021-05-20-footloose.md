@@ -6,7 +6,7 @@ date: 2021-05-20
 readtime: true
 categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
 tags: [Drama, Musical]
-metadata: 'USA, 1984, 107 mins'
+metadata: 'USA, 1984, 107 mins<br> Director: Herbert Ross'
 pdf: '2021-05-20-Footloose.pdf'
 ---
 
