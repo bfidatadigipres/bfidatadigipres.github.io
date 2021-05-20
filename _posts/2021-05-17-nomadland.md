@@ -6,7 +6,7 @@ date: 2021-05-17 14:45:00
 readtime: true
 categories: ['NEW RELEASES AND RE-RELEASES']
 tags: [Drama]
-metadata: 'USA, 2020, 107 mins'
+metadata: 'USA, 2020, 107 mins<br> Director: Chloé Zhao'
 pdf: '2021-05-17-nomadland.pdf'
 ---
 _Nomadland_ stars Frances McDormand as a van-dwelling modern migrant worker travelling across the American West. A lyrical, anti-materialist neo-western with docudrama elements, it punctuates its melancholy with sublime images and epiphanic moments in the wilds. The movie and writer-director Chloé Zhao&#39;s previous features _Songs My Brothers Taught Me_ (2015) and _The Rider_ (2017) – both set on the Oglala Lakota Pine Ridge Reservation in South Dakota – empathise with people who have been rendered invisible by mainstream American society.
