@@ -6,7 +6,7 @@ date: 2021-05-20
 readtime: true
 categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
 tags: [Drama]
-metadata: 'UK/France, 1989, 124 mins'
+metadata: 'UK/France, 1989, 124 mins<br> Director: Peter Greenaway'
 pdf: '2021-05-20-cook-the-thief-his-wife-and-her-lover.pdf'
 ---
 _Introduced by Justin Johnson, BFI Lead Programmer (Thursday 20 May only)._
