@@ -6,7 +6,7 @@ date: 2021-05-19
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'USA, 1941, 119 mins'
+metadata: 'USA, 1941, 119 mins<br> Director: Orson Welles'
 pdf: '2021-05-19-Citizen-Kane.pdf'
 ---
 **Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**
