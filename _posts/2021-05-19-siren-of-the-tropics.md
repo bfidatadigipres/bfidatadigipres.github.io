@@ -6,7 +6,7 @@ date: 2021-05-19
 readtime: true
 categories: ['HER VOICE - BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN']
 tags: [Drama, Musical]
-metadata: 'France, 1927, 86 mins'
+metadata: 'France, 1927, 86 mins<br> Directors: Henri Etiévant, Mario Nalpas'
 pdf: '2021-05-19-Siren-of-the-Tropics.pdf'
 ---
 
