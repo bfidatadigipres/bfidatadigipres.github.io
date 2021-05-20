@@ -26,7 +26,7 @@ _Directed by_: Nick Broomfield, Rudi Dolezal
 _a_ Lafayette Film _production_
 _In association with_: Passion Pictures  
 _Presented by_: Showtime Documentary Films, BBC  
-_Executive Producers_: John Battsek,Vinnie Malhotra, Shani Hinton, Ben Silverman  
+_Executive Producers_: John Battsek, Vinnie Malhotra, Shani Hinton, Ben Silverman  
 _Executive Producers for BBC_: Patrick Holland, Kate Townsend, Charles Finch  
 _Produced by_: Nick Broomfield, Marc Hoeferlin  
 _Archive Consultant_: Tom Haigh  
@@ -115,13 +115,19 @@ Sun 6 Jun 12:20; Fri 18 Jun 17:45<br>
 <!-- ![Caramel Film Club](/img/partner/caramel-logo.jpg) -->
 Celebrating films starring and directed by Black talent and more<br>
 
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
 **BECOME A BFI MEMBER**  
- Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-See something different today on **player.bfi.org.uk**  
-Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)  
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
-**Programme notes and credits compiled by the BFI Documentation Unit**<br>**Notes may be edited or abridged. Questions/comments? Email prognotes@bfi.org.uk**<br>**The British Film Institute is a charity registered in England and Wales No. 287780** 
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)** 
