@@ -42,8 +42,7 @@ Like _Stop Making Sense_, I think it has an arc. There’s a beginning and a mid
 
 _Did you learn anything from_ Stop Making Sense _that you put into action or avoided for this film?_
 
-Absolutely. Some of them were just really practical – if you put too much light on the audience, rather than capturing their Broadway babies: David Byrne  
-and Spike Lee excitement, they’ll clam up. Suddenly they’ll stop dancing. That happened on one of the nights we were filming _Stop Making Sense_ and I realised: ‘OK, never do that again.’
+Absolutely. Some of them were just really practical – if you put too much light on the audience, rather than capturing their Broadway babies: David Byrne and Spike Lee excitement, they’ll clam up. Suddenly they’ll stop dancing. That happened on one of the nights we were filming _Stop Making Sense_ and I realised: ‘OK, never do that again.’
 
 _In the show you cover ‘Hell You Talmbout’, a Janelle Monáe song about murdered Black Americans and police brutality. How do you feel knowing that things haven’t got any better since filming?_
 
