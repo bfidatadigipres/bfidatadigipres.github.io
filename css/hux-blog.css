@@ -615,12 +615,12 @@ pre.highlight {
 }
 .search-page #search-input {
   font-family: "Fira Code", Menlo, Monaco, Consolas, "Courier New", monospace;
-  border: none;
+  border: 1px;
   outline: none;
   padding: 0;
   margin: 0;
   width: 100%;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: bold;
   color: #404040;
 }
