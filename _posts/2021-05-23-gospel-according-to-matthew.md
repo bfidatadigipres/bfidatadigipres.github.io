@@ -5,7 +5,7 @@ published: true
 date: 2021-05-23
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama]
+tags: [Drama, Biopic]
 metadata: 'Italy/France, 1964, 137 mins<br> Director: Pier Paolo Pasolini'
 pdf: '2021-05-23-gospel-according-to-matthew.pdf'
 ---
