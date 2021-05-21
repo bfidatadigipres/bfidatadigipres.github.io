@@ -6,6 +6,8 @@ The notes use content from the BFI's [Sight and Sound](https://www.bfi.org.uk/si
 
 Each digital note includes a downloadable PDF to view offline.
 
+You can search by title, director, date (for example if you search for 196 you'll see all notes for films in the 1960s), season and country.
+
 The aim is to provide a note for every screening in the cinemas at BFI Southbank, but occasionally there is a screening where no suitable content can be found.
 
 Sometimes the notes contain spoilers that give away important information about the film's narrative, and in those cases you'll see a SPOILER warning at the start of the text.
