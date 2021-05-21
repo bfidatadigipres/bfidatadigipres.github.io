@@ -111,9 +111,10 @@ UK 2019<br>
 _Courtesy of Republic Film Distribution_<br>
 
 **Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br>
-
 <img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%"><br>
 <br><br><br><br><br>
+
+
 **EVENTS & STRANDS**<br>
 **The Human Voice** + pre-recorded intro and Q&A with Pedro Almodóvar and Tilda Swinton<br>Sat 22 May 15:00; Tue 1 Jun 18:20<br>**Woman with a Movie Camera: Rare Beasts + Q&A with writer-director Billie Piper**<br>Sat 22 May 17:15<br>**Sheffield Doc/Fest**<br>Fri 4 Jun 20:15<br>**Preview: Doctor Who: Dragonfire**<br>Sat 12 Jun 12:00<br>**Relaxed Screenings: The Reason I Jump**<br>Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>**Woman with a Movie Camera: Wildfire**<br>Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
 
