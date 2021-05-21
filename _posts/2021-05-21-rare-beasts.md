@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rare Beasts
-published: false
+published: true
 date: 2021-05-21
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
@@ -109,10 +109,9 @@ UK 2019<br>
 87min
 
 _Courtesy of Republic Film Distribution_<br>
+<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
+<br><br> **Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br>
 
-**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br>
-<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%"><br>
-<br><br><br><br><br>
 
 
 **EVENTS & STRANDS**<br>
