@@ -145,7 +145,7 @@ Alex Fraser, Michael Clark, Gary Logan, Tim Geary, Saffron Rainey, Hywel William
 UK/France 1989  
 124 mins
 
-[**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=dreampalace&BOparam::WScontent::loadArticle::context_id=)  
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**    
 **Blow Out**<br>
 Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
 **The General**<br>
