@@ -64,7 +64,7 @@ France 1927<br>86 mins
 
 With recorded score
 
-**[HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=hervoice&BOparam::WScontent::loadArticle::context_id=)**<br>
+**HER VOICE: BLACK WOMEN FROM THE SPOTLIGHT TO THE SCREEN**<br>
 **Amazing Grace**<br>
 Mon 17 May 18:10; Sat 29 May 15:15; Tue 8 Jun 18:10<br>
 **Whitney: Can I Be Me**<br>
