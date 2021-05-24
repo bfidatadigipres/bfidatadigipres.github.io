@@ -106,8 +106,7 @@ Monica M. Da Silva, Terry Gay Ulmer _(girls)_
 USA 1984  
 107 mins
 
-[**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**](https://whatson.bfi.org.uk/Online/default.asp?BOparam::WScontent::loadArticle::permalink=dreampalace&BOparam::WScontent::loadArticle::context_id=)
-
+**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
 **Blow Out**<br>
 Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
 **The General**<br>
