@@ -5,7 +5,7 @@ published: true
 date: 2021-05-23
 readtime: true
 categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
-tags: [Thriller, Film noir]
+tags: [Thriller, Film Noir, Crime, Mystery]
 metadata: 'USA, 1973, 112 mins<br> Director: Robert Altman'
 pdf: '2021-05-23-long-goodbye.pdf'
 ---
