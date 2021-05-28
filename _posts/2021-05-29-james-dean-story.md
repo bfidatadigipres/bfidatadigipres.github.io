@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The James Dean Story
-published: false
+published: true
 date: 2021-05-29
 readtime: true
 categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
