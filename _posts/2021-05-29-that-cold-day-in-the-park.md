@@ -1,7 +1,7 @@
 ---
 layout: post
 title: That Cold Day in the Park
-published: false
+published: true
 date: 2021-05-29
 readtime: true
 categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
