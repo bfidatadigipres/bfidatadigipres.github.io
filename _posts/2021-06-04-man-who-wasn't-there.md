@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Man Who Wasn't There
-published: false
+published: true
 date: 2021-06-04
-readtime: false
+readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Film Noir]
 metadata: 'USA, 2001, 116 mins<br> Director: Joel Coen'
-pdf: '2021-06-04-man-who-wasn't-there.pdf'
+pdf: '2021-06-04-man-who-wasnt-there.pdf'
 ---
 In October 1942, Raymond Chandler wrote a letter to Blanche Knopf, wife and associate of his American publisher, in which he described his resentment at having ‘to ride around on [Dashiell] Hammett and James Cain, like an organ grinder’s monkey.’ Hammett is ‘all right’, he allowed, ‘but James Cain – faugh! Everything he touches smells like a billygoat. He is every kind of writer I detest, a _faux naïf_, a Proust in greasy overalls, a dirty little boy with a piece of chalk and a board fence and nobody looking. Such people are the offal of literature, not because they write about dirty things, but because they do it in a dirty way. Nothing hard and clean and cold and ventilated.’
 
