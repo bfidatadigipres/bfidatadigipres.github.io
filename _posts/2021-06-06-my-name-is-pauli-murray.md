@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Name Is Pauli MUrray
+title: My Name Is Pauli Murray
 published: true
 date: 2021-06-06
 readtime: true
