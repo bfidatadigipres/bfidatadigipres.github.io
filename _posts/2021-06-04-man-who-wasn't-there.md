@@ -3,7 +3,7 @@ layout: post
 title: The Man Who Wasn't There
 published: false
 date: 2021-06-04
-readtime: true
+readtime: false
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Film Noir]
 metadata: 'USA, 2001, 116 mins<br> Director: Joel Coen'
