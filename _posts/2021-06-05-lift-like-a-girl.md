@@ -2,7 +2,7 @@
 layout: post
 title: Lift like a Girl
 published: true
-date: 2021-06-04
+date: 2021-06-05
 readtime: true
 categories: ['SHEFFIELD DOC/FEST 2021']
 tags: [Documentary, Sport]
