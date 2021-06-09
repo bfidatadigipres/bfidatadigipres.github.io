@@ -2,7 +2,7 @@
 layout: post
 title: The White Ribbon
 published: true
-date: 2021-06-04
+date: 2021-06-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
