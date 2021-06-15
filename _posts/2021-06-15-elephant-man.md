@@ -34,7 +34,7 @@ Merrick’s singularity, however, was that he was something more: the extent of 
 
 In a wider sense, perhaps, his life is a simple testimony to the power of theatre (or film) to metamorphose the mundane or the grotesque into something wholly mysterious. The doctors, awestruck by the sight of Merrick the ‘specimen’, are moved to hide their confusion by applauding Treves’ ‘showmanship’; and, in a framing sequence, the audience at the surreal pantomime – _Puss-in-Boots_ played, it appears, among the stars – which Merrick attends with his almost patroness Princess Alexandra are moved to applaud their own magnanimity in ‘accepting’ Merrick, for a moment, into their own closed society. Both audiences are curiously uncurious: creatures of reflex rather than reflection. The dying Merrick hears his mother’s voice – ‘Nothing ever dies’ – and the filmmaker might be adding ‘Particularly the fear and loathing of “monsters” whose appearance periodically compels us to question our normality.’<br>
 **John Pym, _Sight and Sound_, Winter 1980**
-
+<br><br>
 
 
 **THE ELEPHANT MAN**<br>
@@ -192,7 +192,7 @@ Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
 
 **In partnership with**  
 <img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
 <br><br><br><br><br><br><br><br>
 
