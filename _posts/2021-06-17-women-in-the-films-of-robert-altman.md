@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Women in the Films of Robert Altman – An Online Panel Discussion
-published: false
+published: true
 date: 2021-06-17
 readtime: true
 categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
