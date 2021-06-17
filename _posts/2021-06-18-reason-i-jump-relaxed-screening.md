@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Reason I Jump<br> (Relaxed Screening)
-published: false
+published: true
 date: 2021-06-18
 readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary, Drama]
 metadata: 'USA/UK 2020, 82 mins<br> Director: Jerry Rothwell'
-pdf: '2021-06-18-reason-i-jump-relaxed screening.pdf'
+pdf: '2021-06-18-reason-i-jump-relaxed-screening.pdf'
 ---
 
 ‘I think we can change the conversation around autism by being part of the conversation,’ says Ben on his letter board. Jerry Rothwell’s multi-award winning documentary is a significant step in the right direction. Immersive surround sound and intense images characterise this exploration of neurodiversity, based on Naoki Higashida’s best-selling book about his life with autism. The film challenges viewers to re-calibrate their reference points on behaviours and to imagine what it feels like to experience the world with senses at the forefront, rather than words. Travelling the world to meet Amrit, Joss, Ben, Emma and Jestina we find passionate, creative and thoughtful young people whose everyday experiences are bound by society.
