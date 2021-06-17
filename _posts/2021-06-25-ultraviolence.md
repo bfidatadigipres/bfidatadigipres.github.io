@@ -4,7 +4,7 @@ title: Ultraviolence
 published: true
 date: 2021-06-25
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['NEW RELEASES']
 tags: [Documentary]
 metadata: 'UK, 2020, 75 mins<br> Director: Ken Fero'
 pdf: '2021-06-25-ultraviolence.pdf'
