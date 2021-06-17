@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reason I Jump
-published: true
+published: false
 date: 2021-06-18
 readtime: true
 categories: ['RELAXED SCREENING']
@@ -58,8 +58,7 @@ Tue 22 June 18.10 NFT3<br>
 
 
 
-**Relaxed Screenings**
-
+**Relaxed Screenings**<br>
 Relaxed screenings are presented each month for those in the neuro-diverse community, their assistants and carers. As a result of our Covid Safety plan our relaxed screening adjustments have changed.
 
 <li>Seats are currently removed from the auditorium in order to maintain social distancing regulations.
