@@ -30,7 +30,7 @@ _WolfWalkers_ is more of an action-adventure than Moore’s other films, especia
 
 WolfWalkers is hugely successful in engaging us with the enchantingly expressive girls, and with Robyn’s love for her father.<br>
 **Andrew Osmond, _Sight & Sound_, December 2020**<br>
-<br><br>
+<br>
 
 **WOLFWALKERS**<br>
 _Directed by_: Tomm Moore, Ross Stewart  
