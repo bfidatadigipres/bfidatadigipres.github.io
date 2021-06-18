@@ -2,14 +2,14 @@
 layout: post
 title: In the Earth
 published: true
-date: 2021-06-10
+date: 2021-06-18
 readtime: true
-categories: ['IN PERSON & PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Horror, Sci-Fi, Thriller]
 metadata: 'UK 2021, 107 mins<br> Director: Ben Wheatley'
-pdf: '2021-06-10-in-the-earth.pdf'
+pdf: '2021-06-18-in-the-earth.pdf'
 ---
-_+ Q&A with director Ben Wheatley_
+
 
 Following an uncharacteristically tepid adaptation of Daphne du Maurier’s _Rebecca_ undertaken for Netflix and released last year, Ben Wheatley here returns to the diseased rural British underbelly he probed in his reputation-making early works, _Kill List_ (2011), _Sightseers_ (2012) and _A Field in England_ (2013). Conceived and made in the throes of the Covid-19 crisis, and premiered at January’s online edition of the Sundance Film Festival, _In the Earth_ uses a pandemic as the jumping-off point for a delirious folk horror, in which the science of mycorrhizal networks (webs of communication whereby plants can transfer nutrients and minerals between them) infects the more familiar genre territory of woodland spirits greedy for blood sacrifice. ‘People get a bit funny in the woods sometimes,’ says Frank (Mark Monero), one of the sombre government employees who welcome newcomer Martin (Joel Fry) to a research encampment somewhere near Bristol: ‘It is a hostile environment.’ This phrase, used by the Home Office to describe its policy of making life unpleasant for immigrants to the United Kingdom, hints at a political undercurrent in what is to come; but Wheatley’s cocktail of horror tropes and hippy science proves more hallucinogenic than satirical in its effect.
 
@@ -100,39 +100,32 @@ USA/UK 2021
 _Courtesy of Universal Pictures_<br>
 <br><br>
 
-**EVENTS & STRANDS**<br>
-**Preview: Doctor Who: Dragonfire**<br>
-Sat 12 Jun 12:00<br>
-**Relaxed Screenings: The Reason I Jump**<br>
-Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
-**Woman with a Movie Camera: Wildfire**<br>
-Sun 20 Jun 18:40 (+ Q&A with director Cathy Brady); Mon 21 Jun 18:10; Tue 22 Jun 14:40; Wed 23 Jun 20:50; Thu 24 Jun 14:45<br>
-<br>
-
-**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
-Thu 17 Jun 17:20<br>
-**My Beautiful Laundrette**<br>
-Fri 18 Jun 20:20<br>
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
-Sat 19 Jun 20:30<br>
-**Ahimsa: Gandhi the Power of the Powerless**<br>
-Sun 20 Jun 15:00<br>
-**Searching for Happiness…**<br>
-Tue 22 Jun 20:50<br>
-**Nazarband Captive**<br>
-Wed 23 Jun 20:45<br>
-**A’hr Kayattam**<br>
-Thu 24 Jun 18:00<br>
-**The Salt in Our Waters Nonajoler Kabbo**<br>
-Sun 27 Jun 15:00<br>
-<br>
-
-**SHEFFIELD DOC/FEST 2021**
-**UK Premiere: The First 54 Years: An Abbreviated Manual for Military Occupation + pre-recorded Q&A**<br>
-Fri 11 Jun 20:20<br>
-**Closing Night: World Premiere: The Story of Looking + pre-recorded Q&A**<br>
-Sat 12 Jun 20:50<br>
+**NEW RELEASES & RE-RELEASES**<br>
+**After Love**<br>
+From Fri 4 Jun <br>
+**Fargo**<br>
+From Fri 11 Jun<br>
+**The Reason I Jump**<br>
+From Fri 18 Jun<br>
+**In the Earth**<br>
+From Fri 18 Jun<br>
+**Nashville**<br>
+From Fri 25 Jun<br>
+**Ultraviolence**<br>
+From Sat 26 Jun<br>
+Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder<br>
+**Supernova**<br>
+From Fri 2 Jul<br>
+**Another Round**<br>
+From Fri 9 Jul<br>
+**Jumbo**<br>
+From Fri 9 Jul<br>
+**Deerskin**<br>
+From Fri 16 Jul<br>
+**Girlfriends**<br>
+From Fri 23 Jul<br>
+**Mandabi**<br>
+From Fri 23 Jul<br>
 <br><br>
 
 **BFI SOUTHBANK**  
@@ -142,8 +135,9 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
