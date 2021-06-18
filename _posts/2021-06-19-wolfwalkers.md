@@ -4,7 +4,7 @@ title: WolfWalkers
 published: false
 date: 2021-06-19
 readtime: true
-categories: ['BFI Families']
+categories: ['BFI FAMILIES']
 tags: [Adventure, Animation, Children]
 metadata: 'Ireland/UK/France 2020, 103 mins<br> Directors: Tomm Moore, Ross Stewart'
 pdf: '2021-06-19-wolfwalkers.pdf'
