@@ -17,7 +17,7 @@ _Bitter Victory_ is a very characteristic Nicholas Ray film: there is a spectacu
 
 The just war against the Germans in North Africa in _Bitter Victory_ takes second place to the temperamental hostility of fellow officers – it is a study in grace and shabbiness (like _The Savage Innocents_) and to Richard Burton’s wintry refusal to regard life as more than a trap or an anachronism. It is a CinemaScope picture of unfailing visual crisis. The close-ups on the stretched screen are among the most sombre images of exposed loneliness ever filmed. In one sequence, Burton has to shoot a wounded soldier and then labours to carry another on his back, only to find the burden has died too, after dreadful agony: ‘I kill the living and save the dead.’ It is one of Ray’s grimmest jokes, resigned, mirthless and apocalyptic.<br>
 **David Thomson, _Sight and Sound_, Autumn 1979**<br>
-<br><br>
+<br>
 
 **BITTER VICTORY  (Amère Victoire)**<br>
 _Directed by:_ Nicholas Ray<br>
