@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raya and the Last Dragon
-published: false
+published: true
 date: 2021-06-20
 readtime: true
 categories: ['BFI FAMILIES']
