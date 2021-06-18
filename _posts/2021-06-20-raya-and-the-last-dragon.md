@@ -28,7 +28,7 @@ But along her journey, Raya will learn that it’ll take more than a dragon to s
 ‘You can’t really get to unity without trust, and for Raya it will take trusting a group of strangers if she is ever going to have a united Kumandra,’ adds Carlos López Estrada, who shares directing duties with Don Hall.
 
 Raya’s quest to find the last dragon, destroy the Druun and save her world is also a journey of self-discovery – a quest filled with danger, adventure, humor and new friendships, yet tinged with regret, loss and anger born of the need to avenge a wrong. What Raya learns, and comes to believe, is bigger than all of us: we can trust, wecan work together, we can unite. And, most importantly, we must.<br>
-**Production notes**<br>
+**Production notes**<br><br>
 
 **RAYA AND THE LAST DRAGON**<br>
 _Directed by_: Don Hall, Carlos López Estrada  
