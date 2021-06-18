@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bitter Victory
-published: false
+published: true
 date: 2021-06-20
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
@@ -17,7 +17,7 @@ _Bitter Victory_ is a very characteristic Nicholas Ray film: there is a spectacu
 
 The just war against the Germans in North Africa in _Bitter Victory_ takes second place to the temperamental hostility of fellow officers – it is a study in grace and shabbiness (like _The Savage Innocents_) and to Richard Burton’s wintry refusal to regard life as more than a trap or an anachronism. It is a CinemaScope picture of unfailing visual crisis. The close-ups on the stretched screen are among the most sombre images of exposed loneliness ever filmed. In one sequence, Burton has to shoot a wounded soldier and then labours to carry another on his back, only to find the burden has died too, after dreadful agony: ‘I kill the living and save the dead.’ It is one of Ray’s grimmest jokes, resigned, mirthless and apocalyptic.<br>
 **David Thomson, _Sight and Sound_, Autumn 1979**<br>
-<br>
+<br><br>
 
 **BITTER VICTORY  (Amère Victoire)**<br>
 _Directed by:_ Nicholas Ray<br>
@@ -69,7 +69,7 @@ France/USA 1957©<br>
 102 mins<br>
 
 \* Uncredited<br>
-<br>
+<br><br>
 
 **BIG SCREEN CLASSICS**<br>
 **Bitter Victory**<br>
@@ -104,3 +104,23 @@ Mon 28 Jun 21:00<br>
 Tue 29 Jun 14:15<br>
 **Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
 Wed 30 Jun 17:45<br>
+<br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
