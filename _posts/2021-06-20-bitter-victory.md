@@ -69,7 +69,7 @@ France/USA 1957©<br>
 102 mins<br>
 
 \* Uncredited<br>
-<br><br>
+<br>
 
 **BIG SCREEN CLASSICS**<br>
 **Bitter Victory**<br>
