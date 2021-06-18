@@ -104,7 +104,7 @@ Mon 28 Jun 21:00<br>
 Tue 29 Jun 14:15<br>
 **Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
 Wed 30 Jun 17:45<br>
-<br><br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
