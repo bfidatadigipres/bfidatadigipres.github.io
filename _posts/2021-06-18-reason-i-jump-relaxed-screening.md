@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reason I Jump<br> (Relaxed Screening)
-published: false
+published: true
 date: 2021-06-18
 readtime: true
 categories: ['RELAXED SCREENING']
