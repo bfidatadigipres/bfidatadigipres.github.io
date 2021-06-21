@@ -44,16 +44,14 @@ BFI Southbank has been awarded the National Autistic Society's Autism Friendly A
 We welcome your feedback on this screening. Please share your thoughts on the message page<br>
 http://thereasonijumpfilm.com/watch/<br>
 or to us at <br>
-Victoria.Humphreys@bfi.org.uk<br>
+Relaxedscreeningsfeedback@bfi.org.uk<br>
 
 
 Find out more at
-**bfi.org.uk/relaxed**
+**bfi.org.uk/relaxed**<br>
 
 
-The next relaxed screening is<br>
-**THE REASON I JUMP**<br>
-Tue 22 June 18.10 NFT3<br>
+
 
 
 
