@@ -50,8 +50,9 @@ Relaxedscreeningsfeedback@bfi.org.uk<br>
 Find out more at
 **bfi.org.uk/relaxed**<br>
 
-
-
+The next Relaxed Screening<br>  
+Tuesday 27 July 18.00 NFT3<br> 
+Programme details to be announced shortly see **www.bfi.org.uk/relaxed**<br>
 
 
 
