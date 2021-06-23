@@ -10,19 +10,6 @@ metadata: 'USA/UK 2020, 82 mins<br> Director: Jerry Rothwell'
 pdf: '2021-06-18-reason-i-jump.pdf'
 ---
 
-The book _The Reason I Jump_, which was the springboard for this new film by Grierson Award-winning director Jerry Rothwell, was originally written by Higashida Naoki, a non-speaking autistic teen. Higashida describes his thoughts and perceptions with a vividness and expressiveness that defy common assumptions about the developmental disability, which is estimated to affect one in 270 people worldwide.
-
-First published in Japan in 2007, the book gained popularity in the west after being released in an English translation by David Mitchell – author of _Cloud Atlas_, 2004 –  and his wife Yoshida Keiko, themselves the parents of an autistic son. Though some reviewers and psychologists have questioned the methods behind it and challenged its authenticity, the book has nevertheless added impetus to a wider challenge to notions that have long caused the stigmatisation of the neurodivergent, including misconceptions about their emotional and imaginative capacities. In one of his comments in Rothwell’s film, Mitchell has a frank explanation for that ugly history: ‘Neurotypicals are rubbish at understanding anything that is not neurotypical.’
-
-While Mitchell’s point may be a harsh one, that limitation applies to some of this documentary’s otherwise well-intentioned attempts to immerse its largely neurotypical viewership in the inner worlds of five non-verbal autistic individuals. In the case of Amrit, a young woman in Noida, India, the director isolates objects within the frame in close focus while blurring out the rest to simulate the nature of her visual perception, which she herself conveys in her remarkable artworks. For Joss, a young man in the English coastal town of Broadstairs, the film demonstrates his keen ear for green electricity feeder pillars by layering their distinctive electric hums into a dense soundscape.
-
-Whether such tactics really put viewers inside these subjects’ minds may be impossible to know given the communication gulf that can exist for Rothwell’s non-verbal subjects. That may be why his film’s most expressionistic sequences are not as affecting as less flashy scenes featuring two other subjects – Ben and Emma, two friends in Arlington, Virginia – reflecting on their close bond and showing off their knowledge of Juan and Eva Perón with the help of a digital device and their therapist’s letter chart.
-
-Equally moving is the film’s portrayal of the love and dedication shown by these subjects’ families, who share the hope that the world will learn to regard their children with the empathy they deserve. Another gulf – that of the availability of resources and supports depending on where these families are in the world – is highlighted by the story of the parents of Jestina in Sierra Leone and their founding of their area’s first school for the autistic, part of their ongoing efforts to change the attitudes of neighbours who may perceive the challenging behaviour of an autistic child as evidence of demonic possession.
-
-It is arguable that Rothwell’s efforts to create sensory replicas of his subjects’ experiences replace one faulty representation with another; even if that’s so, his film is still a valuable and compelling addition to the growing canon of features and documentaries on the subject because of the ways it prioritises the perspectives of autistic individuals and their families. Indeed, the most thoughtful words here belong to Ben: ‘I think we can change the conversation around autism by being part of the conversation.’<br>
-**Jason Anderson, _Sight & Sound_, Summer 2021**<br>
-<br>
 **Director Jerry Rothwell on ‘The Reason I Jump’**
 
 Naoki Higashida’s descriptions of a world without speech provoke us to think differently about autism. For most of history, nonspeaking autistic people have been considered less than human: ostracised within communities, banished to institutions, even in some ages and places, killed en masse. Stigma is still a feature of most autistic people’s lives.
@@ -39,7 +26,25 @@ When I was approached to direct it, I felt a strong affinity with the project. A
 
 When I first read Naoki’s book it took me by surprise. So fluent and perceptive was the writing of this teenager that I – like some of Naoki’s reviewers –wondered how much his original words had changed through the process of transcription and translation. It certainly ran against the established idea that autistic people lack a ‘theory of mind’, something that had never matched with my experience anyway. Meeting Naoki was revelatory too. His capacity to use his alphabet board unaided to type thoughtful answers to my questions – whilst at the same time being subject to distractions, impulses, and apparently random associations, was extraordinary to observe. During our conversation he would repeatedly stand up and go to the window before sitting down again to type the remainder of whatever sentence it was that had been interrupted by this impulse. When I asked him what it was that drew him to the window, he typed ‘I watch the wheels of cars’. When I asked why, he typed ‘They are like galaxies rotating’. Think of that, next time you’re waiting for a bus.
 
-Once you recognise the capacities of nonspeaking autistic people and how they have been systematically overlooked, then our terrible history – of institutionalisation, behaviour modification, killings – becomes all the more shocking. I hope the film can play a role in changing those misconceptions. The idea of neurodiversity – that we all perceive the world in subtly different ways–- is a powerful and important one, which I think helps build the bridges and solidarity we need for a more inclusive world.<br>
+Once you recognise the capacities of nonspeaking autistic people and how they have been systematically overlooked, then our terrible history – of institutionalisation, behaviour modification, killings – becomes all the more shocking. I hope the film can play a role in changing those misconceptions. The idea of neurodiversity – that we all perceive the world in subtly different ways–- is a powerful and important one, which I think helps build the bridges and solidarity we need for a more inclusive world.
+
+_What were the challenges and opportunities of using Naoki’s groundbreaking book as a foundation for the film?_
+
+In previous documentaries, I’ve tended to adopt a method which first finds a shape for the film and then looks for narrative in whatever situation I’m filming, gradually building a more and more detailed structure through the production process.
+
+But the book _The Reason I Jump_ is organised as answers to a set of 58 questions about autism. It has no plot and few characters other than Naoki and his family.  It’s beautifully written, but initially the idea of turning it into a film felt quite daunting – especially as the option of making the film about Naoki wasn’t available, because Naoki didn’t want to appear on screen; he wanted his writing to stand for itself.
+
+So the film takes the book as a starting point and riffs on its themes and ideas.  In the end, this became a strength and led perhaps to a more unusual film than an issue-led biopic. It felt to me that the film’s structure should be a developing revelation of Naoki’s ideas about autism whilst immersing us in the everyday experiences of other nonspeaking autistic people in different parts of the world. Naoki’s words apply to himself – and as he says himself, he can’t claim to speak for all autistic people – but they do provide a nudge to think about the things we’re seeing on screen in a different way.
+
+Not having a single story was a first for me – and really changed the production process. This process felt much more instinctive and responsive to the immediacy of whatever we were filming. There were plenty of dead ends, but as we developed the film a shape emerged: one which took an audience from an intense visual and auditory world to one of sensory overload through to finding a way to communicate, and to fighting stigma. I thought it was important to explore experiences of autism in the global south and so sought out contributors in Africa and India as well as the US and UK and, rather than intercut their stories, I gave them each a section where we can spend time with and get to know them.
+
+_Can you tell us about the research process?_
+
+Our research took us into the literature of brilliant writing by other nonspeaking autistics – Tito Mukhopadjyay, Ido Kedar, Amy Sequenzia – and also to first-hand accounts about sensory experience from other autistic writers – such as Donna Williams’ _Autism and Sensing_ and Temple Grandin’s _Thinking in Pictures_. There are common themes to this writing – describing a world in which removing the neurotypical filters points us towards aspects of human experience that many of us only half sense. Those ideas are echoed in some of the neuroscience around autism – and we spoke to Prof. Henry Markram about his ‘Intense World’ theory and looked at research around language and motor-sensory issues. We tried to build as neurodiverse a production team as we could – and also drew on an advisory group of autistic people who were incredibly supportive and helpfully provocative at key moments.
+
+_What do you hope the film will achieve?_
+
+I hope the film is part of a shift in the way we see autistic people who don’t communicate in a neurotypical way – away from the simplistic and damaging ideas of ‘mild’ and ‘severe’, ‘high functioning’ and ‘low functioning’ and towards an understanding of the constellation of individual strengths and challenges people face. I feel that all of us can identify with some of the stars in that constellation, and that recognising this can help build solidarity with and support for people, and construct a more ‘autism friendly’ world.<br>
 **Jerry Rothwell, Production notes, 2019**<br>
 <br>
 
@@ -84,9 +89,47 @@ _A Picturehouse Entertainment release_<br>
 
 **Content warning**: this film contains flashing images.
 
-**Relaxed Screenings: The Reason I Jump**<br>
-Fri 18 Jun 14:30; Tue 22 Jun 18:10<br>
-<br>
+
+**Glossary**
+
+**Autism**  
+Autism is a neurological variation that occurs in about one percent of the population. According to the National Institute of Mental Health, Autism Spectrum Disorder is a group of complex disorders related to brain development. The word ‘spectrum’ is used because there is no set characteristic, gene, or biological marker expressed consistently by every autistic person.  Common markers of autism include variations in communication and social interaction, and repetitive patterns of behaviour, interests or activities. However, every autistic individual is different. The formal diagnosis of ASD has changed significantly with research and science, and will continue to evolve. 
+
+Look at ‘Understanding the Spectrum’ (https://the-art-of-autism.com) to see a visual representation of the spectrum.
+
+**Apraxia**  
+Apraxia  is the inability to initiate, stop or slow down a sequence of movements on demand. It affects the motor planning process it takes to execute movement.
+
+**Dysregulation**  
+When an autistic is triggered by an external or internal stimulus that causes their baseline level of a regulated state to become no longer balanced.
+
+**Identity-first Language**  
+Identify-first language refers to identifying language where the condition, in this case ‘autism’, comes before other descriptors, like ‘autistic person’ or ‘Deaf person’. Many autistic people prefer identity-first language in contrast to people-first language, which places the person before the condition or diagnosis, as in, ‘person with a disability’. As with any group that faces stigma or marginalisation, the best way to get identity language ‘right’ is to ask and then honour a person’s individual preference with regard to how they identify themselves.
+
+**Minimally Speaking**  
+An individual who is minimally speaking can communicate longer and deeper thoughts by effectively pointing to letters in order to spell, and can communicate some basics with speech.
+
+**Nonspeaking**  
+Nonspeaking refers to individuals who do not have speech as a reliable or consistently reliable means to communicate their true thoughts. Use of speech is a motor skill, not a measure of an individual’s capacity for comprehension or communication. ‘Nonspeaking autistic’ is the language preference of the people whose stories are being told in  _The Reason I Jump_. It is identify-first and is preferred over ‘non-verbal’, since ‘verbal’ in Latin translates to ‘without words’. Though they do not use speech to communicate, the people in the book and the film do have a lot to say.
+
+**Neurodiversity**  
+This term refers to the myriad ways in which brains function differently from what is considered ‘typical’, without assigning judgement to those differences. Autism is one form of neurodiversity.
+
+**Neurotypical**  
+Refers to brains that function within the ranges of what is statistically considered to be within the range of ‘normal’.
+
+**Unreliably speaking**  
+An individual who is an unreliable speaker is not always able to use speech to communicate everything they want to say but wants others to know that they appreciate their effort to connect and recognise that they can’t always know if there is more to share.
+
+**References**
+
+_The Human’s Guide to Supporting Autistics_<br>
+Written by Autistic Subject Matter Experts:  Adam Farrell, Alex Cormaney, Charlie Colligan, David Knight, Gordy Baylinson, Ian Nordling,  Nick Moore
+
+Autistic Self-Advocacy Network (https://autisticadvocacy.org) ‘The Significance of Semantics: Person-First Language: Why It Matters’<br><br><br>
+
+
+
 
 **IN PERSON & PREVIEWS**<br>
 **Censor + Q&A with director Prano Bailey-Bond**<br>
@@ -133,3 +176,6 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjczNzg1MDldfQ==
+-->
