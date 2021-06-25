@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nashville
-published: false
+published: true
 date: 2021-06-25
 readtime: true
 categories: ['RE-RELEASES']
