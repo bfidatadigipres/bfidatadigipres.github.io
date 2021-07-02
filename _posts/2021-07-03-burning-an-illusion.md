@@ -1,16 +1,23 @@
 ---
 layout: post
 title: Burning an Illusion
-published: false
+published: true
 date: 2021-07-03
 readtime: true
-categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
+categories: ['T A P E  PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
 tags: [Drama]
 metadata: 'UK, 1981, 105 mins<br> Director: Menelik Shabazz'
 pdf: '2021-07-03-burning-an-illusion.pdf'
 ---
 
-**SPOILER WARNING The following notes give away some of the plot.**
+**SPOILER WARNING The following notes give away some of the plot.**<br>
+
+Menelik Shabazz, director of films including *Blood Ah Go Run* (1981), *Burning an Illusion* (1982), *Catch a Fire* (1996) and *The Story of Lover’s Rock* (2011) died this week from complications related to diabetes. He was in Zimbabwe, working on a new film, at the time of his death.<br>
+
+Shabazz’s work is vital to British film culture and holds a personal significance for T A P E  Collective. When we included Burning an Illusion in the season, Nellie Alston shared: ‘This film more than any other has made me feel like I understood my mother’s generation from their struggles to their joys.’<br>
+
+In a feature for *Monthly Film Bulletin* in 1989, Shabazz talked beautifully about his work and his vision for the cinema: ‘Film unifies most of the art forms. In fact, all the art forms can fit into film. The paintings serve as a summing up. I think that helps, especially in places where people don’t speak English… the image helps to encapsulate what has gone before. I’m very impressed when I go to a place like Burkina Faso, which is one of the poorest countries in the world, and they have a major film festival. I’ve never seen queues so long. African cinema has a lot to offer, but it’s suffering from problems of finance and lack of continuity. Souleymane Cisse has shown that African cinema is continually evolving and reaching new heights.’<br>
+**_Sight & Sound_, bfi.org.uk, 2 July 2021**
 
 Three decades after it was made, why does Menelik Shabazz’s first feature, a simple tale of a young girl’s relationship, hold such attention? Firstly, because it foregrounds the experience of a young black British woman, breaking with the tradition of placing white males at the centre of a story. Even today, that is highly unusual. Secondly, it focuses on her life as a young woman, not as a symbol of black experience.
 
@@ -167,3 +174,4 @@ Join the BFI mailing list for regular programme updates. Not yet registered? Cre
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
