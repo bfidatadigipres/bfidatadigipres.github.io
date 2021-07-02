@@ -18,8 +18,7 @@ Born in Senegal, the son of a fisherman, he was expelled from formal education a
 
 As an active member of the French Communist Party, Sembène soon made a name for himself as an advocate of black liberation and independence for the colonised African nations. An enthusiastic autodidact, devouring everything he could find in the CP libraries and literary workshops, he decided to become a writer. His first novel, _Le Docker noir_ (_The Black Docker_), about an African docker who suffers mistreatment at work and is executed after accidentally killing a white woman, was published in 1956. He went on to write six more novels and four novellas, including _Les Bouts de bois de Dieu_ (_God’s Bits of Wood_), a fctionalised account of the 1947-48 railroad strike on the Dakar-Niger line that’s generally reckoned his finest novel.
 
-Literature always remained Sembène’s first love. But he came to realise that it wasn’t the best way to reach his intended African audience, many of whom read little or were illiterate. Film offered a more promising medium with a far wider reach. In 1961 he travelled to Moscow for a year to study filmmaking at the Gorky Studios with Mark Donskoi and Sergei Gerasimov, and on his return to Africa he launched his career as a writer-director with _Borom sarret_ and  
-_La Noire de…_ (A previous documentary short, _L’Empire songhai_, on the pre-colonial empire that dominated the western Sahel in the 15th and 16th centuries, seems to have remained unreleased.)
+Literature always remained Sembène’s first love. But he came to realise that it wasn’t the best way to reach his intended African audience, many of whom read little or were illiterate. Film offered a more promising medium with a far wider reach. In 1961 he travelled to Moscow for a year to study filmmaking at the Gorky Studios with Mark Donskoi and Sergei Gerasimov, and on his return to Africa he launched his career as a writer-director with _Borom sarret_ and  _La Noire de…_ (A previous documentary short, _L’Empire songhai_, on the pre-colonial empire that dominated the western Sahel in the 15th and 16th centuries, seems to have remained unreleased.)
 
 A key strength of Sembène’s work was that, while consistently exposing and condemning the exploitation of Africa by the European colonial powers, he unhesitatingly turned his critical gaze on the way Africans themselves – especially the new African bourgeoisie – abused their power and exploited their fellow citizens. His Marxist background never misled him into taking a simplistic, blame-it-all-on-the-colonialists attitude to the problems he explored. So while the white French family are the target of his anger in _La Noire de_…, the wretched hero of _Borom sarret_ (played by Ly Abdoulaye) is the victim of those around him.
 
@@ -39,7 +38,7 @@ Can we get our mother tongue, and things lost with it, back? <br>
 <br>
 
 
-**I BIT MY TOUNGUE**<br>
+**I BIT MY TONGUE**<br>
 _Director:_ Nina Khada<br>
 
 France 2020<br>
