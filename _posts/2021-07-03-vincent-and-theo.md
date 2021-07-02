@@ -5,7 +5,7 @@ published: true
 date: 2021-07-03
 readtime: true
 categories: ['ROBERT ALTMAN - AMERICAN OUTSIDER']
-tags: [Dram, Biopic]
+tags: [Drama, Biopic]
 metadata: 'France/UK/Netherlands/Italy 1990, 140 mins<br> Director: Robert Altman'
 pdf: '2021-07-03-vincent-and-theo.pdf'
 ---
