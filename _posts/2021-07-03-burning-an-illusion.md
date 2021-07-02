@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burning an Illusion
-published: true
+published: false
 date: 2021-07-03
 readtime: true
 categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
