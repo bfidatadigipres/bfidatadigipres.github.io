@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Binding Sentiments (Holdudvar)
-published: true
+published: false
 date: 2021-07-06
 readtime: true
 categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>  THE CINEMA OF MÁRTA MÉSZÁROS']
