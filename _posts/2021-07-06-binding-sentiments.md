@@ -59,7 +59,7 @@ István Bujtor, Zoltán Gera, István Zsugán (_Balassa’s friends)_<br>
 Hungary 1969<br>
 82 mins<br>
 
-**THE CINEMA OF MÁRTA MÉSZÁROS**<br>
+**ORDINARY PEOPLE, EXTRAORDINARY LIVES  THE CINEMA OF MÁRTA MÉSZÁROS**<br>
 **Binding Sentiments (Holdudvar)**<br>
 Tue 6 Jul 20:50; Sat 17 Jul 15:20<br>
 **Don’t Cry, Pretty Girls! (Szép lányok, ne sírjatok!)**<br>
