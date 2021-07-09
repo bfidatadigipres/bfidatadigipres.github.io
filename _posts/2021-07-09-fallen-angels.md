@@ -111,6 +111,9 @@ Thu 22 Jul 18:30; Fri 30 Jul 18:20<br>
 **My Blueberry Nights**<br>
 Fri 23 Jul 20:50; Wed 28 Jul 20:40<br>
 
+Presented in partnership with Janus Films and the ICA<br>
+
+
 **Media partner**<br>
 <img style="float: left;" src="/img/F Far out Logo.png" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br>
