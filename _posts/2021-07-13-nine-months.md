@@ -2,7 +2,7 @@
 layout: post
 title: Nine Months<br> (Kilenc hónap)
 published: true
-date: 2021-07-13
+date: 2021-07-13 
 readtime: true
 categories: ['ORDINARY PEOPLE, EXTRAORDINARY LIVES<br>THE CINEMA OF MÁRTA MÉSZÁROS']
 tags: [Drama]
