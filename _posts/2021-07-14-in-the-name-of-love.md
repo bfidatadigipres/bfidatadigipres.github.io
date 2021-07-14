@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the Mood for Love<br> (Fa yeung nin wa)
-published: false
+published: true
 date: 2021-07-14
 readtime: true
 categories: ['WORLD OF WONG KAR WAI']
