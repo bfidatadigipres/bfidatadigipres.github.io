@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Girlfriends
-published: false
+published: true
 date: 2021-07-16
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW<br>POWERED BY JAGUAR']
