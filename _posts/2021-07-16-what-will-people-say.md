@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will People Say
-published: false
+published: true
 date: 2021-07-16
 readtime: true
 categories: ['T A P E  PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
