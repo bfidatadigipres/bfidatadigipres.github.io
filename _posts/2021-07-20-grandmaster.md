@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Grandmaster (Yi dai zong shi) 
+title: The Grandmaster<br> (Yi dai zong shi) 
 published: true
 date: 2021-07-20
 readtime: true
