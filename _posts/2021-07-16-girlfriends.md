@@ -2,12 +2,12 @@
 layout: post
 title: Girlfriends
 published: true
-date: 2021-07-16
+date: 2021-07-23
 readtime: true
-categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW<br>POWERED BY JAGUAR']
+categories: ['RE-RELEASES']
 tags: [Comedy, Drama]
 metadata: 'USA 1978, 88 mins<br> Director: Claudia Weill'
-pdf: '2021-07-16-girlfriends.pdf'
+pdf: '2021-07-23-girlfriends.pdf'
 ---
 
 One of the key unsung films of ‘second wave’ 70s feminism, Claudia Weill’s spare, funny and vividly authentic study of Manhattan best friends severed by a sudden marriage, was a breath of indie fresh air in a decade of backslapping buddy movies. As struggling photographer Susan (a thin-skinned Melanie Mayron) tries to swap bar mitzvah portraits for a Soho art show, and her BFF Anne (Anita Skinner) finds herself mired in motherhood, Weill tracks them with the cool, Cassavetian realism she acquired as a documentary maker.
@@ -96,48 +96,39 @@ USA 1978
 88 mins
 
 A Park Circus release
-
-<img style="float:left" src="/img/WWAMC.jpg" alt="WWAMC" title="WWAMC"  width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>**Woman with a Movie Camera is powered by Jaguar and generously supported by Jane Stanton**<br><br><br><br>
-
-
-
-**Woman with a Movie Camera Summit:  Q&A with Claudia Weill, director of _Girlfriends_  
-Available online from 10:00 Saturday 17 July**  
-Director Claudia Weill joins us to discuss her landmark 1978 _Girlfriends_, one of the first (and still one of the best) films to authentically portray the complexities of female friendship and life in your early 20s. The underrated classic is a true ‘godmother’ to _Girls_, _Frances Ha_, _Broad City_ and many other film and TV shows about young women trying to find their way.  
-Host: Anna Smith
 <br><br>
 
 
-
-
-**IN PERSON & PREVIEWS**<br>
-**Woman with a Movie Camera Preview: Girlfriends**<br>
-Fri 16 Jul 18:15<br>
-**Sonic Cinema World Premiere:  What The Hell Is It This Time? Sparks Live in London + intro by Edgar Wright**<br>
-Tue 3 Aug 17:10<br>
-**Preview: The Sparks Brothers + Q&A with director Edgar Wright**<br>
-Tue 3 Aug 19:45<br>
-**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast (TBA)**<br>
-Wed 4 Aug 18:15<br>
-**Preview: I’m Your Man (****Ich bin dein Mensch) + pre-recorded Q&A with director Maria Schrader**<br>
-Mon 9 Aug 17:50<br>
-**BFI & Radio Times Television Festival presents: TV Preview: Vigil + Q&A with cast and creatives (TBA)**<br>
-Mon 23 Aug 18:10<br>
-
 **NEW RELEASES & RE-RELEASES**<br>
-**Another Round**<br> From Fri 9 Jul<br>
-**Jumbo**<br> From Fri 9 Jul<br>
-**Tove**<br> From Fri 9 Jul<br>
-**Deerskin** <br>From Fri 16 Jul<br>
 **Girlfriends** <br>From Fri 23 Jul<br>
 **Mandabi**<br> From Fri 23 Jul<br>
+**I Never Cry**<br> From Fri 23 Jul<br>
 **Limbo** <br>From Fri 30 Jul<br>
 **The Most Beautiful Boy in the World**<br>From Fri 30 Jul<br>
 **Now, Voyager**<br> From Fri 6 Aug<br>
 **The Story of a Three Day Pass (La Permission)**<br>From Sat 7 Aug<br>
 **Censor**<br> From Fri 20 Aug<br>
 **Souad**<br> From Fri 27 Aug<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTM1NDEzOTYzOSw1ODYxNjUyMF19
 -->
