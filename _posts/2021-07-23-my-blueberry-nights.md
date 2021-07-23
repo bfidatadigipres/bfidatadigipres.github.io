@@ -48,7 +48,7 @@ _I know the actual shoot was fairly tight, so I wonder if you found any time for
 In some ways there was even more of that than in the Chinese films. I had to involve all the cast and crew. At the start of the shoot I told everybody: ‘We’ve seen so many films about Chinese people made by foreigners which look very weird to us, and I don’t want to repeat that mistake! Even if I spent three years here working on this film, I’d never see things as an American does. So I need all of you to be involved in commenting and giving advice.’ They were a bit shocked at first, because of course they’re used to having directors tell them exactly what they want. But they got into it, and we ended up having a lot of fun together. They were surprised when I gave them a script; they thought I didn’t work with one at all. And we did make changes as we went along, often in response to their suggestions, though all of the changes were to bring us closer to the characters.<br>
 **Wong Kar Wai interviewed by Tony Rayns, _Sight & Sound_, March 2008**<br>
 <br>
-**MY BLUEBERRY NIGHTS**
+**MY BLUEBERRY NIGHTS**<br>
 _Directed by_: Wong Kar Wai  
 _©/Presented by_: Block 2 Pictures  
 _Production Companies_: Jet Tone Films, Lou Yi Limited  
