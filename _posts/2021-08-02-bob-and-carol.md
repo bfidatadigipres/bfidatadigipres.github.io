@@ -9,6 +9,7 @@ tags: [Comedy, Drama, Romance]
 metadata: 'USA, 1969, 101 mins<br> Director: Paul Mazursky'
 pdf: '2021-08-02-bob-carol-ted-alice.pdf'
 ---
++ pre-recorded intro by Julie Lobalzo Wright, University of Warwick (Wednesday 18 August only)
 
 While monogamy remains the secular religion, Mazursky’s ambling satire, exploring a bourgeois 60s LA foursome both electrified and terrified by the possibilities of sexual freedom, retains a curious relevance. Triggered by his own brush with self-actualisation counter-culture at Esalen in California, Mazursky saw his first feature (he’d been shunted aside from the 1968 hippie rom-com _I Love You, Alice B. Toklas!_) as a ‘comedy of manners played with as much reality as possible’. Delivering its deliciously awkward marital exchanges in long scenes whose moods shift and tilt Cassavetes-style, it’s a compassionate relationship comedy, sidestepping the cynicism of later, harsher sex-culture bulletins like _Carnal Knowledge_ (1971) and _Shampoo_ (1975).
 
