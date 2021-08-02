@@ -25,7 +25,7 @@ Social change moves forward and is pushed back with virulence, and moves forward
 
 
 
-**Thelma & Louise**<br>
+**THELMA & LOUISE**<br>
 _Directed by_: Ridley Scott  
 _©_: Pathé Entertainment Inc  
 _Production Companies_: Percy Main, Pathé Entertainment  
