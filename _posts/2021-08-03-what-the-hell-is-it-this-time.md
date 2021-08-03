@@ -7,7 +7,7 @@ readtime: true
 categories: ['SONIC CINEMA']
 tags: [Music]
 metadata: 'UK, 2021, 95 mins<br> Director: Edgar Wright'
-pdf: '2021-08-01-what-the-hell-is-it-this-time.pdf'
+pdf: '2021-08-03-what-the-hell-is-it-this-time.pdf'
 ---
 _+ intro by Edgar Wright_
 
