@@ -14,7 +14,7 @@ pdf: '2021-08-03-bright-star.pdf'
 
 **Jane Campion on ‘Bright Star’**
 
-_Did you have a particular idea about the Romantics that led you to make  _Bright Star_?_
+_Did you have a particular idea about the Romantics that led you to make_ Bright Star _?_
 
 I’d read Richard Holmes’ _Coleridge_, which is just stunning, and then Andrew Motion’s _Keats_. But I was trying to write a character [for a different script] – an English creative writing teacher – and I didn’t know much about poetry. Keats meets Fanny about halfway through Motion’s book. Up until that time he was sworn against romance. He laughed when friends said they had fallen in love; he thought they were wasting their time and losing their ambition and focus. And then it happened to him! I found the story incredibly powerful and unexpected. When you think of the Romantics, you think of a cliché, but how they themselves began was very different. Keats was just a young man who was crazy about poetry, very ambitious to do his best work and very uncomfortable with women, because he felt that they didn’t like him much.
 
