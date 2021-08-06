@@ -2,15 +2,13 @@
 layout: post
 title: The Sparks Brothers
 published: true
-date: 2021-08-03
+date: 2021-08-06
 readtime: true
-categories: ['PREVIEWS']
+categories: ['NEW RELEASES']
 tags: [Music]
 metadata: 'UK/USA, 2021, 135 mins<br> Director: Edgar Wright'
-pdf: '2021-08-03-sparks-brothers.pdf'
+pdf: '2021-08-06-sparks-brothers.pdf'
 ---
-
-_+ Q&A with director Edgar Wright_
 
 There aren’t many bands who arrive at their 50th anniversary on a creative roll, still luring in new generations of fans, making Top 10 albums, and doing so by releasing music every bit as challenging and inventive as their earliest recordings. In fact, there is precisely one: Sparks.
 
@@ -86,10 +84,6 @@ UK/USA 2021<br>
 Courtesy of Universal Pictures<br>
 
 **IN PERSON & PREVIEWS**<br>
-**Preview: The Sparks Brothers + Q&A with director Edgar Wright**<br>
-Tue 3 Aug 19:45<br>
-**BFI & Radio Times Television Festival presents: TV Preview: The North Water + Q&A with director Andrew Haigh and cast**<br>
-Wed 4 Aug 18:15<br>
 **The Alan Whicker Centenary: Welcome to Whicker’s World + intro**<br>
 Sat 7 Aug 14:30<br>
 **The Alan Whicker Centenary: The Life and Legacy of Alan Whicker**<br>
