@@ -7,7 +7,7 @@ readtime: true
 categories: ['EARL CAMERON']
 tags: [Drama]
 metadata: 'UK, 1961, 93 mins<br> Director: Roy Baker'
-pdf: '2021-08-08-flame-in-the-street.pdf'
+pdf: '2021-08-08-flame-in-the-streets.pdf'
 ---
 
 _Flame in the Streets_ originated in a stage play, _Hot Summer Night_, which Ted Willis wrote in 1958 and adapted for television the following year as part of ABC’s Armchair Theatre, which also provided an outlet for playwrights like Harold Pinter, Clive Exton and Alun Owen. The plays were made with tiny budgets, used only two or three sets and were necessarily dependent on good scripts and acting. Willis’ play fitted the format very well.
