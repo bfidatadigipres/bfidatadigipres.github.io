@@ -120,10 +120,13 @@ Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
 Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
 
 With thanks to Martin Shingler
-
-**Promotional drinks partner**  
+ 
 <img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
+**Eve’s Poison**<br>
+Grab a Betty Davis inspired cocktail specially made with Sipsmith gin at BFI Riverfront this August.
+<br><br>
 
 
 **BFI SOUTHBANK**  
