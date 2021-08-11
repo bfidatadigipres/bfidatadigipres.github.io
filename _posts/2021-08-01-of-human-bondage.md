@@ -143,11 +143,13 @@ Fri 20 Aug 17:45; Mon 30 Aug 15:20<br>
 Tue 24 Aug 20:45; Mon 30 Aug 12:40<br>
 
 With thanks to Martin Shingler
-
-**Promotional drinks partner**  
+  
 <img style="float: left;" src="/img/partner/Sipsmith London Logo-Black-Vector-01 (1).jpg" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br>
 
+**Eve’s Poison**<br>
+Grab a Betty Davies inspired cocktail specially made with Sipsmith gin at BFI Riverfront this August.
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
