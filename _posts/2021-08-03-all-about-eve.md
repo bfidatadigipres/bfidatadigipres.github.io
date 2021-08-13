@@ -161,7 +161,7 @@ With thanks to Martin Shingler
 <br><br><br><br><br><br><br><br>
 
 **Eve’s Poison**<br>
-Grab a Betty Davis inspired cocktail specially made with Sipsmith gin at BFI Riverfront this August.
+Grab a Bette Davis inspired cocktail specially made with Sipsmith gin at BFI Riverfront this August.
 <br><br>
 
 
