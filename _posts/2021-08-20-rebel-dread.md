@@ -5,7 +5,7 @@ published: true
 date: 2021-08-20
 readtime: true
 categories: ['S.O.U.L. FEST 2021']
-tags: [Music]
+tags: [Music, Documentary]
 metadata: 'UK 2020, 86 mins<br> Director: William E. Badgley'
 pdf: '2021-08-20-rebel-dread.pdf'
 ---
