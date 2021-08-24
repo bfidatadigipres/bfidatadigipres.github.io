@@ -14,7 +14,7 @@ pdf: '2021-08-24-stand-clear-of-the-closing-doors.pdf'
 Showing the city through a documentary-like lens, the film follows Ricky, an autistic teen who loses himself in New York’s sprawling subway system. Based on true events, the film’s authenticity is leant further weight with the casting of Jesus Sanchez-Velez, an actor with Asperger syndrome who powerfully conveys Ricky’s frustrations at being unable to communicate with the outside world.
 
 <img style="float: left;" src="/img/stand-clear.png">
-<br><br><br><br><br><br><br><br><br><br><br>><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **+ Overload**<br>
 Winning the Best Animation at the Into Film Awards 2020, this stop motion animation depicts what it feels like to have autism and ride on a busy train.
