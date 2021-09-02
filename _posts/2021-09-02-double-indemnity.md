@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Double Indemnity
-published: false
+published: true
 date: 2021-09-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
