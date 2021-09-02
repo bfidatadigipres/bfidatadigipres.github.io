@@ -6,7 +6,7 @@ date: 2021-09-02
 readtime: true
 categories: ['A PRYOR ENGAGEMENT']
 tags: [Drama]
-metadata: 'usa 1973, 103 mins<br> Director: Richard B. Harris'
+metadata: 'USA 1973, 103 mins<br> Director: Richard B. Harris'
 pdf: '2021-09-02-some-call-it-loving.pdf'
 ---
 
