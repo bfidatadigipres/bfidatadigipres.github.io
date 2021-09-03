@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cry of the City
-published: false
+published: true
 date: 2021-09-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
