@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saint Etienne Shorts Programme
-published: false
+published: true
 date: 2021-09-05
 readtime: true
 categories: ['THE FILMS OF SAINT ETIENNE']
