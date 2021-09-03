@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finisterre
-published: false
+published: true
 date: 2021-09-04
 readtime: true
 categories: ['THE FILMS OF SAINT ETIENNE']
