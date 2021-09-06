@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Undercover Man
-published: false
+published: true
 date: 2021-09-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
