@@ -70,7 +70,6 @@ Algeria/France/Qatar 2019<br>
 
 
 **THE TIME IS NEW: SELECTIONS FROM CONTEMPORARY ARAB CINEMA**<br>
-
 **200 Meters**<br>
 Tue 7 Sep 20:50; Wed 15 Sep 18:10<br>
 **As Above, So Below  (Kama fissamaa’, kathalika ala al-ard)**<br>
