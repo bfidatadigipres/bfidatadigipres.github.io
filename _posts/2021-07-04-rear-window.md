@@ -2,12 +2,12 @@
 layout: post
 title: Rear Window
 published: true
-date: 2021-07-04
+date: 2021-09-09
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Thriller]
 metadata: 'USA, 1954, 112 mins<br> Director: Alfred Hitchcock'
-pdf: '2021-07-04-rear-window.pdf'
+pdf: '2021-09-09-rear-window.pdf'
 ---
 
 **Refocusing the Spectator: a comparison of the critical response to  ‘Rear Window’ in 1954 and on its re-release in 1983**
@@ -92,33 +92,37 @@ Iphigenie Castiglioni _(bird woman)_<br>
 
 USA 1954©<br>
 112 mins
+
+Pre-recorded intro by Geoff Andrew, Programmer-at-Large (Wed 15 Sep only)
 <br><br>
 
 **BIG SCREEN CLASSICS**<br>
-**Battleship Potemkin (Bronenosets Potemkin)**<br>
-Thu 1 Jul 14:30; Thu 15 Jul 18:00; Sat 24 Jul 11:50<br>
-**Hope and Glory**<br>
-Thu 1 Jul 17:30; Mon 5 Jul 14:30; Fri 23 Jul 18:00<br>
-**Casablanca**<br>
-Fri 2 Jul 14:30; Sat 17 Jul 13:00; Sat 24 Jul 14:40; Thu 29 Jul 18:00<br>
-**All about My Mother (Todo sobre mi madre)**<br>
-Fri 2 Jul 20:40; Tue 6 Jul 20:45; Sat 10 Jul 21:00; Thu 22 Jul 14:30<br>
-**How Green Was My Valley**<br>
-Sat 3 Jul 11:30; Thu 8 Jul 14:15; Fri 16 Jul 17:50<br>
-**Wild Strawberries (Smultronstället)**<br>
-Sat 3 Jul 18:10; Mon 5 Jul 20:45; Sun 11 Jul 12:50; Wed 21 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jul 14:30<br>
-**All the President’s Men**<br>
-Sun 4 Jul 11:50; Tue 20 Jul 14:15; Sat 31 Jul 20:20<br>
+**The Stranger**<br>
+Wed 1 Sep 18:00 (+ pre-recorded intro by film critic Farran Smith Nehme); Fri 17 Sep 21:00;  Fri 1 Oct 14:30<br>
+**Detective Story**<br>
+Thu 2 Sep 18:00; Fri 24 Sep 18:00; Sun 3 Oct 12:10<br>
+**Double Indemnity**<br>
+Thu 2 Sep 14:45; Sun 12 Sep 15:00;  Wed 29 Sep 17:45 (+ intro by Lucy Bolton, Queen Mary University of London); Sat 2 Oct 20:50<br>
+**Call Northside 777**<br>
+Fri 3 Sep 20:40; Thu 9 Sep 14:30;  Tue 14 Sep 17:50; Mon 20 Sep 17:50<br>
+**The Hound of the Baskervilles**<br>
+Sat 4 Sep 15:15; Thu 30 Sep 18:15<br>
+**Cry of the City**<br>
+Sun 5 Sep 18:10; Thu 9 Sep 18:10;  Sat 18 Sep 21:00; Tue 21 Sep 14:45<br>
+**The Undercover Man**<br>
+Mon 6 Sep 18:10; Thu 23 Sep 14:45;  Sun 26 Sep 12:00<br>
+**The Big Sleep**<br>
+Tue 7 Sep 20:45; Sun 19 Sep 11:00;  Mon 4 Oct 17:45<br>
+**Laura**<br>
+Wed 8 Sep 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 16 Sep 14:30;  Tue 21 Sep 21:00; Fri 1 Oct 20:50<br>
+**The Third Man**<br>
+Wed 8 Sep 21:00; Fri 10 Sep 14:30;  Tue 14 Sep 20:50; Sat 2 Oct 11:30<br>
 **Rear Window**<br>
-Sun 4 Jul 15:40; Fri 9 Jul 14:30; Tue 20 Jul 17:50; Mon 26 Jul 18:00; Sat 31 Jul 11:10<br>
-**The Magnificent Ambersons**<br>
-Mon 5 Jul 20:50; Wed 14 Jul 18:00 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sun 25 Jul 15:00<br>
-**Distant Voices, Still Lives**<br>
-Wed 7 Jul 18:00 (+ pre-recorded intro by film critic Thirza Wakefield); Sun 18 Jul 12:45; Mon 19 Jul 20:50; Fri 30 Jul 14:30<br>
-**35 Shots of Rum (35 Rhums)**<br>
-Mon 12 Jul 20:45; Wed 28 Jul 17:40 (+ pre-recorded intro by Be Manzini, poet and director of Caramel Film Club)<br>
-**Man About Town (Le Silence est d’or)**<br>
-Tue 13 Jul 14:15; Sun 18 Jul 12:30; Mon 26 Jul 14:20<br>
+Thu 9 Sep 20:45; Wed 15 Sep 17:20 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sat 25 Sep 11:30; Tue 28 Sep 20:45;  Tue 5 Oct 14:30<br>
+**The Big Heat**<br>
+Sat 11 Sep 14:30; Mon 13 Sep 21:00;  Wed 22 Sep 18:00 (+ intro by Simran Hans,  writer and film critic for ‘The Observer’);  Mon 27 Sep 17:50<br>
+**Philosophical Screens: Temptation and Coincidence in ‘Double Indemnity’**<br>
+Wed 29 Sep 20:00 Blue Room<br>
 <br>
 
 **BFI SOUTHBANK**  
