@@ -2,20 +2,38 @@
 layout: post
 title: The Maltese Falcon
 published: true
-date: 2021-09-08
+date: 2021-09-17
 readtime: true
-categories: ['PREVIEW']
+categories: ['RE-RELEASES']
 tags: [Mystery, Film Noir]
 metadata: 'USA 1941, 101 mins<br> Director: John Huston'
-pdf: '2021-09-08-maltese-falcon-intro.pdf'
+pdf: '2021-09-17-maltese-falcon.pdf'
 ---
-
-_Join Adrian Wootton OBE, CEO of Film London, for a richly illustrated introduction and a fascinating look at some of the key figures behind this classic noir, including author Dashiell Hammett, director John Huston and the film’s unforgettable stars._
 
 John Huston’s directorial debut, this year celebrating its 80th anniversary, turned Bogart into a major star. Adapted from Dashiell Hammett’s novel about a San Francisco detective’s investigations into the murder of his business partner, Huston’s snappily witty script retains the plot’s labyrinthine complexity while revelling in colourful characterisations of the villains Sam Spade encounters during his quest. Inspired casting includes Lorre as volatile Joel Cairo, Greenstreet as menacingly amiable Kasper Gutman, and Cook as his gunman. But it’s the fraught, febrile relationship between Bogart’s Spade and Mary Astor’s femme fatale – who persuaded his partner to take on her case – that shapes the deep, dark core of desire, doubt and duplicity pervading the film from beginning to memorable end.  
 **Geoff Andrew, Programmer-at-large**
 
-**Adrian Wootton OBE**, is Chief Executive of Film London and the British Film Commission. Adrian is a Programme Advisor to the BFI London Film Festival, Venice Film Festival and Noir in Fest, Milan, and Founding Director of Shots in the Dark Festival, Nottingham. Adrian is an authority on the noir, crime, mystery and thriller genres and has lectured widely, broadcast, written and curated on the subject including on Dashiell Hammett, John Huston and Humphrey Bogart. In 2012 Adrian received an Honorary Doctorate in the Arts and was appointed Visiting Professor of Film & Media at Norwich University of the Arts. In 2014 Adrian received an Honorary Doctorate of Letters from the University of East Anglia and in 2017 was awarded an OBE for Services to Film. Most recently, Adrian has led the BFC’s work to develop the COVID-19 production guidance for film and high-end TV drama, as part of the BFI’s wider COVID-19 Screen Sector Recovery Task Force.
+John Huston’s career started erratically; the son of Walter Huston, he began as an actor himself. After several false starts it was not until 1938 that his career in films got under way. For the next four years he worked with Warners on such scripts as _Juarez_, _Dr. Ehrlich’s Magic Bullet_, _High Sierra_; his first chance as writer-director came in 1941 with _The Maltese Falcon_.
+
+The adaptation is a devoted piece of work. Huston had long wanted to film Hammett’s novel and realised that it presented, almost as it stood, all the ingredients for an exciting drama of murder, rapacity and intrigue. Inevitably he had to compress – one minor figure (Rhea Guttman, the Fat Man’s daughter) disappears, and the complications are foreshortened – but his adaptation is otherwise scrupulously faithful. Most of the dialogue is Hammett’s; the plot development is identical; the characters are as near to the original as is humanly possible.
+
+_The Maltese Falcon_ has been flattered by a host of imitators, but never rivalled. Its success is due largely to its discipline; it is composed of many excellences in performance and technique, but such is Huston’s grasp that none of these is permitted to destroy the balance of the whole as a piece of story-telling – a strange, fantastically peopled situation working uncompromisingly to its inevitable conclusion. Unlike its successors it never stoops to sensationalism or to the conventional simplifications usually dictated by the box-office.
+
+It is interesting to note that two of its characters at least survived to figure in later films of the genre: the Fat Man (The Falcon, introduced by Sydney Greenstreet for the first time) and the false heroine, the beautiful, lethal schemer, here given her classic portrayal by Mary Astor. But the perfection had never been recaptured, either by Greenstreet himself in his appearances since, or (in, for instance, _The Fallen Sparrow_, _Build My Gallows High_, _The Lady from Shanghai_) by any of Miss Astor’s futile imitators.  
+**Lindsay Anderson, National Film Theatre programme notes**
+
+The word ‘hero’ never seems to fit the _noir_ protagonist, for his world is devoid of the moral framework necessary to produce the traditional hero. He has been wrenched from familiar moorings, and is a hero only in the modern sense in which that word has been progressively redefined to fit the existential bias of contemporary fiction. For the past 50 years we have groped for some term that would more aptly describe such a protagonist: the Hemingway hero; the anti-hero; the rebel hero; the non-hero.
+
+In one respect the Sam Spade of Huston’s _The Maltese Falcon_, as portrayed by Humphrey Bogart, is the least typical _noir_ hero since he is the least vulnerable. Unlike Warner Brothers’ first two attempts at the novel (1931 and 1936), this third is quite faithful to both the letter and the spirit of the Hammett original. The film’s one unfortunate omission is the Flitcraft parable Spade tells Brigid O’Shaughnessy, for this is our only chance to peep into Spade’s interior life. And what it reveals is that Spade is by nature an existentialist, with a strong conception of the randomness of existence. Robert Edenbaum sees Spade as representative of Hammett’s ‘daemonic’ tough guy: ‘... He is free of sentiment, of the fear of death, of the temptations of money and sex. He is what Albert Camus calls “a man without memory”, free of the burden of the past. He is capable of any action, without regard to conventional morality, and thus is apparently as amoral ... as his antagonists. His refusal to submit to the trammels which limit ordinary mortals results in a godlike immunity and independence, beyond the power of his enemies ... [but] the price he pays for his power is to be cut off behind his own self-imposed masks, in an isolation that no criminal, in a community of crime, has to face.’ (‘The Poetics of the Private Eyes’, in _Tough Guy Writers of the Thirties_, edited by David Madden; Carbondale, Illinois, 1968)  
+**Robert G. Porfirio, _Sight and Sound_, Autumn 1976**
+
+**Contemporary reviews**
+
+The son of a famous father – who incidentally plays a very small part in the film, for luck, perhaps – John Huston has used with effective moderation the idea of the camera seeking and emphasising some characteristic, mental or physical or both of its subject rather than its ordinary form. This approach has undoubtedly added to the strength of the very fine performance of Sydney Greenstreet as Kasper Gutman, the arch-crook, and Mr Huston has been wise enough to confine the idea to one character only. His lighting and camera work is unusual in what would normally be unnoticed sequences. For example, a telephone on a bedside table with night-light upon it from the open window plus a side-lamp, the speaker being out of the picture, but the voice heard.  In other words, the picture of a telephone conversation. The story is strong of itself with an unusual ending and fine acting, but it is the treatment which makes it the best thriller so far this year.  
+**Evelyn Russell, _Sight and Sound_, Autumn 1942**
+
+This is a brilliantly directed, brilliantly acted and somewhat unusual film of its type. The atmosphere is well-sustained throughout and the casting is excellent. Mary Astor as the lovely but wicked Brigid is uncommonly attractive, and  Lee Patrick gives a good performance as Spade’s efficient and understanding secretary. Spade himself is played with aplomb by Humphrey Bogart.  Finally the hitherto unknown Sydney Greenstreet gives a magnificent characterisation as the fat arch-villain.  
+**_Monthly Film Bulletin_, April 1942**
 <br><br>
 
 
@@ -138,5 +156,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTQ1ODg2MF19
+eyJoaXN0b3J5IjpbMTMyNzA5NTYxOSwxNTUxNDU4ODYwXX0=
 -->
