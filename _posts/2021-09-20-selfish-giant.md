@@ -159,8 +159,7 @@ Duchess _(Foal)_<br>
 UK 2013©<br>
 91 mins<br>
 
-**NFTS AT 50**
-
+**NFTS AT 50**<br>
 **The Selfish Giant + Q&A with director Clio Barnard** <br>
 Mon 20 Sep 20:50<br>
 **Oranges Are Not the Only Fruit + Q&A with director Beeban Kidron** <br>
