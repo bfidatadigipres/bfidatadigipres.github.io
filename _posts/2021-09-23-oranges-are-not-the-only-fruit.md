@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oranges Are Not the Only Fruit
-published: false
+published: true
 date: 2021-09-23
 readtime: true
 categories: ['NFTS AT 50']
