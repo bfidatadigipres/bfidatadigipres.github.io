@@ -2,15 +2,13 @@
 layout: post
 title: Sweetheart
 published: true
-date: 2021-09-13
+date: 2021-09-24
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Comedy, Drama]
 metadata: 'UK 2021, 104 mins<br> Director: Marley Morrison'
-pdf: '2021-09-13-sweetheart.pdf'
+pdf: '2021-09-24-sweetheart.pdf'
 ---
-
-_+ Q&A with director Marley Morrison and actors Nell Barlow and Jo Hartley_
 
 ‘Is this what we’re doing? Sunbathing?’ marvels AJ (Nell Barlow) as she settles into a new friendship with Isla (Ella RaeSmith), a lifeguard at the holiday park she is visiting with her family. This interior monologue, characterised largely by AJ’s disdain for what other people find fun, is sustained throughout _Sweetheart_. Marley Morrison’s feature debut is a gentle comedy-drama of hi-fi feelings on a lo-fi stage – _Little Miss Sunshine_ meets _Bhaji on the Beach_. ‘Nobody likes being pale,’ AJ’s mother Tina (Jo Hartley) instructs her, as she attempts to win her teenage daughter over with the gaudy gimmicks of Freshwater, the summer destination she always used to adore. The park’s delights are captured with a combination of humour, tenderness and pity, from the caravan crammed full of two (going on three) generations of a bickering family to a stage magician with a mediocre routine and lacklustre audience.
 
@@ -92,17 +90,27 @@ Courtesy of Peccadillo Pictures
 <img style="float: left;" src="/img/flare-logo-2020-01.png" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-**IN PERSON & PREVIEWS**<br>
-**Prime Suspect: 30th Anniversary (First Series Complete Screening)**<br>
-Sun 19 Sep 14:00<br>
-**Lynda La Plante in Conversation**<br>
-Sun 19 Sep 18:45<br>
-**Preview: Convergence + Q&A with director Orlando von Einsiedel and co-director and film contributor Hassan Akkad**<br>
-Wed 29 Sep 19:00<br>
-**60th Anniversary: Whistle Down the Wind  + actor Hayley Mills in Conversation**<br>
-Sun 3 Oct 12:00<br>
-**Preview: Dune + pre-recorded Q&A  with Denis Villeneuve**<br>
-Tue 5 Oct 18:30<br>
+**NEW RELEASES &  RE-RELEASES**<br>
+**Souad**<br>
+Continues from Fri 27 Aug<br>
+**Annette**<br>
+From Fri 10 Sep<br>
+**The Maltese Falcon**<br>
+From Fri 17 Sep<br>
+**Rose Plays Julie**<br>
+From Fri 17 Sep<br>
+**Sweetheart**
+From Fri 24 Sep<br>
+**Never Gonna Snow Again  (S´niegu juz nigdy nie be dzie)**<br>
+From Fri 22 Oct<br>
+**Seven Samurai (Shichinin no Samurai)**<br>
+From Fri 29 Oct<br>
+**Naked**<br>
+From Fri 12 Nov<br>
+**Petite Maman**<br>
+From Fri 26 Nov<br>
+**Rebel Dykes**<br>
+From Fri 26 Nov<br>
 <br>
 
 **BFI SOUTHBANK**  
