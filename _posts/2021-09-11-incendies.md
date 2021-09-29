@@ -9,6 +9,7 @@ tags: [Drama]
 metadata: 'Canada/Francia 2010, 131 mins<br> Director: Denis Villeneuve'
 pdf: '2021-09-11-incendies.pdf'
 ---
+**SPOILER WARNING The following notes give away some of the plot.**<br>
 
 From the outset, _Incendies_ is clearly not going to be your average tale of conflict in the Middle East. We open with a slow, dreamy pan accompanied by a Radiohead song, ‘You and Whose Army?’ We look out of the window on to a scene of pastoral loveliness: palm trees swaying in a warm desert wind, an oasis alive with birdsong and cicadas (Jordan, as immaculately photographed by André Turpin). The camera pulls back as the music wafts, distantly at first – absurd, like a Noel Coward song played at the wrong speed on an old wind-up gramophone. ‘Come on, come on/ Holy Roman Empire/Come on if you think/Come on if you think/ You can take us all on,’ Thom Yorke croons in words you can hardly make out. A series of almost static framings follows; the children in the shot seem to have a sad, ethereal beauty. It’s puzzling, even as it’s affecting, and for a moment the film seems to teeter on the brink of disaster – it really does look like a plausible Radiohead video for the song being played.
 
