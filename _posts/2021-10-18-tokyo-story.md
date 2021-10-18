@@ -91,8 +91,7 @@ Japan 1953<br>
 
 
 **With the kind support of:**<br>
-Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation,  
-Toei Co. Ltd<br>
+Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
 
 
 **BFI SOUTHBANK**  
