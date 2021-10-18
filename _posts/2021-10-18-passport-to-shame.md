@@ -112,7 +112,7 @@ Mon 1 Nov 20:50; Thu 25 Nov 20:50<br>
 
 **Promotional partners**<br>
 
-<img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png"><br>
+<img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png"><br><br><br>
 <br>
 
 <img style="float: left;" src="/img/Soho Radio Circle No Background.png" width="20%" height="20%">
