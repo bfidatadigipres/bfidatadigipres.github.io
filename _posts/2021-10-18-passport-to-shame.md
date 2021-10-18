@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Passport to Shame
-published: false
+published: true
 date: 2021-10-18
 readtime: true
 categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
@@ -112,10 +112,10 @@ Mon 1 Nov 20:50; Thu 25 Nov 20:50<br>
 
 **Promotional partners**<br>
 
-<img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png">
+<img style="float: left;" src="/img/fopp-40th-anniv-logo-01.png"><br>
 
 <img style="float: left;" src="/img/Soho Radio Circle No Background.png" width="20%" height="20%">
-<br><br>
+<br><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
