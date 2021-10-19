@@ -5,7 +5,7 @@ published: true
 date: 2021-09-16
 readtime: true
 categories: ['A PRYOR ENGAGEMENT']
-tags: [Talk, Comedy]
+tags: [Talks, Comedy]
 metadata: 
 pdf: '2021-09-16-richard-pryor-a-comedy-genius.pdf'
 ---
