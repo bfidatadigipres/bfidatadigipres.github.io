@@ -34,7 +34,7 @@ Interestingly enough, Rodgers revealed in a 2002 interview that Aldrich told her
 For 40 years _Kiss Me Deadly_ was mostly seen with a false ending: Soberin’s beach house explodes with Hammer and Velda inside. But detective work by Silver and film editor Glenn Erickson led to the discovery of the ending Aldrich had filmed from Bezzerides’ script. In 1997 they were granted permission to view Aldrich’s personal print, which had been donated to the Directors Guild of America after he died in 1983. This version, which shows the distraught Hammer rescuing Velda and staggering into the Malibu surf as they watch the beach house go up, was issued on home video in 1997. It softens Hammer’s character by hinting that he does care about Velda, while showing him the consequences of the havoc he has wrought through his reactionary agenda. Erickson asserts: ‘By dwelling on Hammer’s powerlessness against the fiery evil he has released, the film’s original final statement now firmly reinforces Bezzerides’ condemnation of the whole Spillane ethos and what it says about American arrogance and greed.’ That message won’t be lost on anyone who sees _Kiss Me Deadly_ today, nor will the existential wisdom that Velda imparts to her unthinking lover/boss: ‘They. A wonderful word. And who are they? They are the nameless ones who kill people for the great whatsit. Does it exist? Who cares? Everyone everywhere is so involved in the fruitless search for what?’<br>
 **Graham Fuller, _Sight & Sound_, July 2006**<br>
 
-**KISSME DEADLY**<br>
+**KISS ME DEADLY**<br>
 _Director_: Robert Aldrich  
 _Production Company_: Parklane Pictures  
 _A Presentation by_: Victor Saville  
@@ -127,7 +127,6 @@ Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
 Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20<br>
 **Shaft**<br>
 Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
-
 
 
 **BFI SOUTHBANK**  
