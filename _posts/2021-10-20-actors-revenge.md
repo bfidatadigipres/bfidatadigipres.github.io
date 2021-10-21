@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Actor's Revenge
-published: false
+published: true
 date: 2021-10-20
 readtime: true
 categories: ['JAPAN 2021<br> 100 YEARS OF JAPANESE CINEMA']
