@@ -2,7 +2,7 @@
 layout: post
 title: Devil in a Blue Dress
 published: true
-date: 2021-10-120
+date: 2021-10-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Crime, Thriller]
