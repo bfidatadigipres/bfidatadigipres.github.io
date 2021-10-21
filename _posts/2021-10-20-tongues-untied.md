@@ -10,7 +10,7 @@ metadata: 'USA, 1989, 55 mins<br> Director: Marlon T. Riggs'
 pdf: '2021-10-19-tongues-untied.pdf'
 ---
 
-_+ intro by programmer Rico Johnson-Sinclair_
+_+ intro by programmer Rico Johnson-Sinclair _
 
 What does it take to claim your rightful Black identity, as a member of the LGBTQIA+ community? Poignant yet playful, and affirming in the most important ways, _Tongues Untied_ speaks to the damage Black queer men do to their sense of self in majority white and gay communities, and how to break the cycle.<br>
 **bfi.org.uk**
