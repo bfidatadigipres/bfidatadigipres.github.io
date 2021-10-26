@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer of Soul<br> (... Or, When the Revolution Could Not Be Televised)
-published: false
+published: true
 date: 2021-10-26
 readtime: true
 categories: ['RELAXED SCREENING']
