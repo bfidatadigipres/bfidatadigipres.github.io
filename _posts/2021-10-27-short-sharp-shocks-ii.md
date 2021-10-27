@@ -126,7 +126,7 @@ _Music_: Colin Towns
 _Sound Mixer_: Neil Kingsbury<br>
 _Sound Dubbing:_  John Wood<br>
 
-**Cast**<br>  
+**Cast**<br>
 Geraldine James _(girl)_  
 John White _(man)_  
 David Casey, Hilary Gasson _(telephone voices)_<br>
