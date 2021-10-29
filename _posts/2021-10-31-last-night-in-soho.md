@@ -10,7 +10,7 @@ metadata: 'UK 2021, 155 mins<br> Director: Edgar Wright'
 pdf: '2021-10-31-last-night-in-soho.pdf'
 ---
 
-_+Q&A with Edgar Wright_
+_+ Q&A with Edgar Wright. Writer Krysty Wilson-Cairns and cinematographer Chung Chung-hoon will be joining the Q&A, which will be hosted by Justin Johnson, BFI Lead Programmer._
 
 Louis CK once pointed out in a routine that the only people who could truly use a time machine to travel into the past would be white heterosexual men. Time travel for any other group would involve a loss of freedom and an increase in danger. And yet our culture is obsessed with nostalgic recreations of decades, particularly the 80s, the 70s and the 60s. There is a constant hankering for the past, but it is a foreign country, a pre-#MeToo world which might be a delightful prospect for certain comedians, but not for a large section of the population.
 
