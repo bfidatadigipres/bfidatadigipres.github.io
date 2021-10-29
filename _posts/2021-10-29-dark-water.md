@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dark Water
-published: false
+published: true
 date: 2021-10-29
 readtime: true
 categories: ['J-HORROR WEEKENDER']
