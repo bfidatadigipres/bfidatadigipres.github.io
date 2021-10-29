@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Small World of Sammy Lee
-published: false
+published: true
 date: 2021-10-30
 readtime: true
 categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
