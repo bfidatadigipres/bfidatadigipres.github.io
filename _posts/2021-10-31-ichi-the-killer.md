@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ichi the Killer
-published: false
+published: true
 date: 2021-10-31
 readtime: true
 categories: ['J-HORROR WEEKENDER']
