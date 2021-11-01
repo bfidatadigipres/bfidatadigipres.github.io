@@ -7,7 +7,7 @@ readtime: true
 categories: ['EDGAR WRIGHT’S LONDON AFTER DARK']
 tags: [Documentary, Drama]
 metadata: 'UK 1965, 84 mins<br> Director: Arnold Louis Miller'
-pdf: '2021-11-01-primitive-london.pdf'
+pdf: '2021-11-01-primitve-london.pdf'
 ---
 
 Another Stanley Long and Arnold Miller exposé of the ‘real’ London, now with a _Mondo Cane_ flavour that leaves you with whiplash as you veer from naughty glimpses of burlesque shows, to mods and rockers, to ‘wife-swappers’ and back again – all topped off with a very entertaining anthropological voiceover.  A highly amusing peek into a Soho lost to the mists of time.  
