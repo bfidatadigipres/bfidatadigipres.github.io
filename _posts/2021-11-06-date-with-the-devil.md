@@ -7,7 +7,7 @@ readtime: true
 categories: ['AFRICAN ODYSSEYS']
 tags: [Talks]
 metadata:
-pdf: '2021-11-05-cause-for-concern.pdf'
+pdf: '2021-11-06-date-with-the-devil.pdf'
 ---
 
 Born in Trinidad during the dying days of British colonialism, Darcus Howe settled in the UK in the 1960s. As an activist he was central to organising political campaigns, including the historic Mangrove Nine trial and The Black Peoples’ Day of Action, 1981. Howe also became a household name with a career in broadcasting that spanned three decades from the 1980s. His politically provocative and penetrating stance was richly imbued with his passion for literature and the arts, and he brought poets, musicians and his mentor CLR James to the fore. Changing the face of TV, Howe created stimulating programming that stands as a landmark in enlightened broadcasting.
