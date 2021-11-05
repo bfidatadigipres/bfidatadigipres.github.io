@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Date with the Devil<br> Darcus Howe’s Journey from Black Power to Broadcasting
-published: false
+published: true
 date: 2021-11-06
 readtime: true
 categories: ['AFRICAN ODYSSEYS']
