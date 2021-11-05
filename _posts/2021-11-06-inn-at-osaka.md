@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Inn at Osaka
-published: false
+published: true
 date: 2021-11-06
 readtime: true
 categories: ['JAPAN 2021<br>100 YEARS OF JAPANESE CINEMA']
