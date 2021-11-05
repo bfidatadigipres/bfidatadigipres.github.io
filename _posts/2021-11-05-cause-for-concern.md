@@ -5,7 +5,7 @@ published: false
 date: 2021-11-05
 readtime: true
 categories: ['AFRICAN ODYSSEYS']
-tags:
+tags: [Talks]
 metadata:
 pdf: '2021-11-05-cause-for-concern.pdf'
 ---
