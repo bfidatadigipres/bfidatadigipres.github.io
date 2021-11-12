@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Becoming Cousteau
-published: false
+published: true
 date: 2021-11-12
 readtime: true
 categories: ['NEW RELEASES']
