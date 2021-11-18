@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hand of God
-published: false
+published: true
 date: 2021-11-18
 readtime: true
 categories: ['PREVIEWS']
