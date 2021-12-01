@@ -3,10 +3,10 @@ layout: post
 title: Naomi Kawase<br> Sky, Wind, Fire, Water, Earth + Birth/Mother
 published: true
 date: 2021-12-01
-readtime: false
+readtime: true
 categories: ['JAPAN 2021<br>ANOTHER GAZE']
 tags: [Documentary, Experimental]
-metadata: 'Japan 2001, 50 mins<br> Japan 2006, 40 mins Director: Naomi Kawase'
+metadata: 'Japan 2001, 50 mins<br> Japan 2006, 40 mins<br> Director: Naomi Kawase'
 pdf: '2021-12-01-naomi-kawase.pdf'
 ---
 
@@ -84,69 +84,54 @@ Wed 15 Dec 18:10 (+ intro by Another Gaze’s Daniella Shreir); Wed 29 Dec 20:40
 
 **JAPAN 2021**<br>
 **100 YEARS OF JAPANESE CINEMA**<br>
-**Early Summer (Bakushû)**<br>
-Mon 18 Oct 14:30; Tue 19 Oct 20:35; Wed 20 Oct 17:50; Thu 18 Nov 20:20 (+ intro by Professor Alastair Phillips, University of Warwick); Sun 21 Nov 11:30<br>
-**The Flavour of Green Tea over Rice (Ochazuke no aji)**<br>
-Mon 18 Oct 18:10; Wed 20 Oct 20:40; Thu 21 Oct 14:40; Mon 8 Nov 14:30; Tue 23 Nov 14:40<br>
-**Tokyo Story (Tôkyô monogatari)**<br>
-Mon 18 Oct 20:20; Thu 21 Oct 14:30; Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
-**Throne of Blood (Kumonosu-jô)**<br>
-Tue 19 Oct 18:10; Thu 21 Oct 20:35 (+ **Inside Cinema: Akira Kurosawa**); Wed 27 Oct 20:30; Tue 9 Nov 20:40; Fri 12 Nov 14:15 (+ **Inside Cinema: Akira Kurosawa**); Sat 27 Nov 20:50<br>
-**Early Spring (Sôshun)**<br>
-Tue 19 Oct 14:30; Wed 20 Oct 20:15; Thu 21 Oct 17:30; Sat 20 Nov 14:50; Tue 23 Nov 17:40<br>
-**Yojimbo**<br>
-Tue 19 Oct 20:55; Thu 21 Oct 17:55; Fri 19 Nov 14:30 (+ **Inside Cinema: Akira Kurosawa**); Fri 26 Nov 18:10; Sun 28 Nov 12:00 15 (+ **Inside Cinema: Akira Kurosawa**)<br>
-**An Actor’s Revenge (Yukinojô henge)**<br>
-Wed 20 Oct 14:15; Mon 1 Nov 14:30; Thu 11 Nov 20:40 (+ intro by Jennifer Coates, The University of Sheffield); Sat 20 Nov 12:15<br>
-**Souls on the Road (Rojô no reikion)**<br>
-Fri 22 Oct 18:00; Sat 30 Oct 15:30<br>
-**A Page of Madness (Kurutta ichipeiji)**<br>
-Sat 23 Oct 13:00; Mon 15 Nov 20:50<br>
-**Silent Cinema presents: I Was Born, But... (Otona no miru ehon – Umarete wa mita keredo)**<br>
-Sat 23 Oct 15:00; Sun 28 Nov 14:45 (+ intro by Bryony Dixon, BFI National Archive curator)<br>
-**Our Neighbour, Miss Yae (Tonari no Yae-chan)**<br>
-Sun 24 Oct 12:40; Mon 1 Nov 18:15 (+ intro by season co-programmer Alexander Jacoby)<br>
-**Humanity and Paper Balloons (Ninjô kami fûsen)**<br>
-Sun 24 Oct 15:00; Tue 2 Nov 20:45<br>
-**Talk: A Time of Change and How Japanese Film Bore Witness to It**<br>
-Mon 25 Oct 18:20<br>
-**Children of the Beehive (Hachi no su no kodomotachi)**<br>
-Mon 25 Oct 20:45 (+ intro by season co-programmer Alexander Jacoby); Mon 8 Nov 18:20<br>
-**The Life of Matsu the Untamed (aka The Rickshaw Man) (Muhomatsu no issho)**<br>
-Tue 26 Oct 20:40; Sun 7 Nov 11:40<br>
-**Fallen Blossoms (aka Flowers Have Fallen) (Hana chirinu)**<br>
-Sun 31 Oct 13:00; Wed 3 Nov 18:20 (+ intro by Japanese film scholar Alejandra Armendáriz-Hernández)<br>
-**My Love Has Been Burning (aka Flame of My Love) (Waga koi wa moenu)**<br>
-Fri 5 Nov 18:30; Mon 15 Nov 17:40<br>
-**Love Letter (Koibumi)**<br>
-Sat 6 Nov 12:30; Sun 21 Nov 14:40 (+ intro by Irene González-López, co-editor of ‘Tanaka Kinuyo: Nation, Stardom and Female Subjectivity’)<br>
-**An Inn at Osaka (Ôsaka no yado)**<br>
-Sat 6 Nov 15:30; Sun 21 Nov 18:00 (+ pre-recorded intro by Professor Hiroshi Kitamura, College of William & Mary)<br>
-**Godzilla (Gojira)**<br>
-Sun 7 Nov 15:50; Tue 23 Nov 20:40<br>
-**Marital Relations (Meoto zenzai)**<br>
-Sun 7 Nov 18:20; Thu 25 Nov 18:00 (+ pre-recorded intro by Professor Hideaki Fujiki, Nagoya University)<br>
-**Sansho the Bailiff (Sansho Dayu)**<br>
-Mon 8 Nov 20:40; Sun 28 Nov 18:20<br>
-**She Was Like a Wild Chrysanthemum (Nogiku no gotoki kimi nariki)**<br>
-Tue 9 Nov 18:20; Tue 30 Nov 20:40<br>
-**Harakiri (Seppuku)**<br>
-Wed 10 Nov 18:00; Tue 16 Nov 20:25<br>
-**Night Drum (Yoru no tsuzumi)**<br>
-Wed 10 Nov 20:50; Tue 16 Nov 18:15<br>
-**Talk: Female Archetypes in Classical Japanese Cinema**<br>
-Thu 11 Nov 18:10<br>
-**Yearning (Midareru)**<br>
-Fri 12 Nov 18:20; Fri 26 Nov 21:00<br>
-**Elegant Beast (aka The Graceful Brute) (Shitoyakana kedamono)**<br>
-Wed 17 Nov 20:50; Sat 27 Nov 18:30 (+ pre-recorded intro by Professor Yuka Kanno, Doshisha University)<br>
-**Talk: The Family and Home in the Golden Age of Japanese Cinema**<br>
-Thu 18 Nov 18:00<br>
-**Onibaba**<br>
-Fri 19 Nov 20:50; Tue 30 Nov 17:50<br>
-**Tokyo Olympiad (Tôkyô orinpikku)**<br>
-Sat 20 Nov 16:40; Wed 24 Nov 18:40<br>
-<br>
+**After Life (Wandafuru raifu)**  
+Wed 1 Dec 18:10; Fri 10 Dec 20:40; Mon 13 Dec 20:40; Wed 29 Dec 14:20  
+**In the Realm of the Senses (Ai no corrida)**  
+Wed 1 Dec 20:50; Sat 11 Dec 20:45; Wed 22 Dec 18:20  
+**Funeral Parade of Roses (Bara no sôretsu)**  
+Thu 2 Dec 18:00 (+ pre-recorded intro by Professor Mitsuyo Wada-Marciano, Kyoto University); Tue 14 Dec 14:30; Mon 27 Dec 15:50  
+**The Shifting Spaces of Modern Japanese Cinema**  
+Thu 2 Dec 20:40  
+**Woman of the Dunes (Suna no Onna)**  
+Fri 3 Dec 18:00 (+ intro by Espen Bale, BFI National Archive); Sat 18 Dec 17:30  
+**Tokyo Drifter (Tôkyô nagaremono)**  
+Fri 3 Dec 20:50; Thu 23 Dec 18:30  
+**Black Rain (Kuroi ame)**  
+Sat 4 Dec 17:50; Tue 28 Dec 18:15  
+**Straits of Hunger (aka A Fugitive from the Past) (Kiga kaikyô)**  
+Sun 5 Dec 16:30; Sat 18 Dec 14:30  
+**Woman of the Lake (Onna no mizûmi)**  
+Mon 6 Dec 18:00; Wed 15 Dec 20:50  
+**Silence Has No Wings (Tobenai chinmoku)**  
+Mon 6 Dec 20:55; Wed 15 Dec 18:00  
+**The Long Darkness (Shinobugawa)**  
+Wed 8 Dec 20:40; Sun 19 Dec 12:40  
+**Pale Flower (Kawaita hana)**  
+Thu 9 Dec 18:00; Sun 19 Dec 18:20  
+**Death By Hanging (Kôshikei)**  
+Fri 10 Dec 17:50; Fri 17 Dec 18:00  
+**Muddy River (Doro no kawa)**  
+Sun 12 Dec 11:50 (+ intro by season co-programmer Alexander Jacoby); Thu 23 Dec 20:40  
+**The Demon (Kichiku)**  
+Sun 12 Dec 14:50 (+ intro by season co-programmer Alexander Jacoby); Sun 19 Dec 16:00  
+**The Man Who Stole the Sun (Taiyô wo nusunda otoko)**  
+Sun 12 Dec 18:00; Thu 16 Dec 20:10  
+**Tampopo**  
+Mon 13 Dec 18:00 (+ intro by Catherine Wheatley, King’s College London); Fri 17 Dec 20:45; Tue 28 Dec 15:10  
+**Philosophical Screens: Tampopo**  
+Mon 13 Dec 20:15 Blue Room  
+**The Emperor’s Naked Army Marches On (Yuki Yukite, Shingun)**  
+Sat 18 Dec 11:40; Mon 27 Dec 18:20  
+**Moving (Ohikkoshi)**  
+Sat 18 Dec 20:35; Wed 29 Dec 20:30  
+**Fire Festival (Himatsuri)**  
+Mon 20 Dec 17:50; Mon 27 Dec 13:20  
+**Suzaku (Moe No Suzaku)**  
+Tue 21 Dec 17:45; Thu 30 Dec 21:00  
+**Shall We Dance? (Shall we dansu?)**  
+Tue 21 Dec 20:30; Thu 30 Dec 17:40  
+**Love Letter**  
+Wed 22 Dec 20:50; Tue 28 Dec 12:10  
 
 **Supported by**  
 <img style="float: left;" src="/img/Grand Seiko.png">
