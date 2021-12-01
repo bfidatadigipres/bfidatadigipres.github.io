@@ -3,7 +3,7 @@ layout: post
 title: Naomi Kawase<br> Sky, Wind, Fire, Water, Earth + Birth/Mother
 published: true
 date: 2021-12-01
-readtime: true
+readtime: false
 categories: ['JAPAN 2021<br>ANOTHER GAZE']
 tags: [Documentary, Experimental]
 metadata: 'Japan 2001, 50 mins<br> Japan 2006, 40 mins Director: Naomi Kawase'
