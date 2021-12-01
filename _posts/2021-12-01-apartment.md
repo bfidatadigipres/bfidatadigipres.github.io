@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Apartment
-published: false
+published: true
 date: 2021-12-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
