@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Witches of Eastwick
-published: false
+published: true
 date: 2021-12-02
 readtime: true
 categories: ['MEMBER PICKS']
