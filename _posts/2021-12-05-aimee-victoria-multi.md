@@ -7,7 +7,7 @@ readtime: true
 categories: ['BUSTING THE BIAS']
 tags: [Shorts]
 metadata: 'UK/USA 2021, 10/18 mins<br>Directors: Chrystee Pharris, Mikail Chowdhury, Storm Smith'
-pdf: '2012-12-05-aimee-victoria-multi.pdf'
+pdf: '2021-12-05-aimee-victoria-multi.pdf'
 ---
 
 _+ Q&A_
