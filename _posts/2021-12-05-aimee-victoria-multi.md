@@ -7,7 +7,7 @@ readtime: true
 categories: ['BUSTING THE BIAS']
 tags: [Shorts]
 metadata: 'UK/USA 2021, 10/18 mins<br>Directors: Chrystee Pharris, Mikail Chowdhury, Storm Smith'
-pdf: 'Busting the Bias - Aimee Victoria and The Multi.pdf'
+pdf: '2012-12-05-aimee-victoria-multi.pdf'
 ---
 
 _+ Q&A_
