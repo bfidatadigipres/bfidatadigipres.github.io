@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Christmas Tale
-published: false
+published: true
 date: 2021-12-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
