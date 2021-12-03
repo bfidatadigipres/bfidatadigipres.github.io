@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's Personal + Q&A
-published: false
+published: true
 date: 2021-12-04
 readtime: true
 categories: ['BUSTING THE BIAS']
