@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aimee Victoria + The Multi
-published: false
+published: true
 date: 2021-12-05
 readtime: true
 categories: ['BUSTING THE BIAS']
