@@ -98,7 +98,7 @@ UK 1964<br>
 112 mins<br>
 
 
-Sixties British Cinema by Robert Murphy is available to buy from the BFI Shop: https://shop.bfi.org.uk<br>
+Sixties British Cinema by Robert Murphy is available to buy from the BFI Shop: [**shop.bfi.org.uk**](https://shop.bfi.org.uk)<br> 
 <img style="float: left;" src="/img/sixties-british-cinema.png" width="30%" height="30%">
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <br>
