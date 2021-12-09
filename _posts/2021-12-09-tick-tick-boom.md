@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tick, tick...BOOM!
-published: false
+published: true
 date: 2021-12-09
 readtime: true
 categories: ['IN PERSON & PREVIEWS']
