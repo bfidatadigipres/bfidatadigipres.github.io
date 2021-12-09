@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Battle Royale
-published: false
+published: true
 date: 2021-12-09
 readtime: true
 categories: ['JAPAN 2021 AT THE BFI IMAX']
