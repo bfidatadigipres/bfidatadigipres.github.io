@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1970s Odd Pop and Rare Rock
-published: false
+published: true
 date: 2021-12-11
 readtime: true
 categories: ['THE PRECIOUS THINGS']
