@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Great Gatsby
-published: false
+published: true
 date: 2021-12-11
 readtime: true
 categories: ['A CLASS OF HIS OWN<br>THE FILMS OF JACK CLAYTON']
