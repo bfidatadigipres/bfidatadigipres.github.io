@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It's a Wonderful Life
-published: false
+published: true
 date: 2021-12-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
