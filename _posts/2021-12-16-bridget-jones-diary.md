@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bridget Jones's Diary at 20
-published: false
+published: true
 date: 2021-12-16
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br>POWERED BY JAGUAR']
