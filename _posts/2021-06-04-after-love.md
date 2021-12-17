@@ -2,9 +2,9 @@
 layout: post
 title: After Love
 published: true
-date: 2021-06-04
+date: 2021-12-17
 readtime: true
-categories: ['NEW RELEASES AND RE-RELEASES']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'UK/USA, 2020, 89 mins<br> Director: Aleem Khan'
 pdf: '2021-06-04-after-love.pdf'
@@ -114,28 +114,7 @@ UK/USA 2020<br>
 _A BFI release_<br>
 
 The _After Love_ soundtrack, featuring the original score from award-winning composer Chris Roe, released by Thirty Six Minutes, is out now and available on all major streaming platforms.<br>
-<br><br><br>
-**NEW RELEASES & RE-RELEASES**<br>
-**Ammonite**<br>
-From Mon 17 May<br>
-**Sound of Metal**<br>
-From Mon 17 May<br>
-**Nomadland**<br>
-From Mon 17 May<br>
-**First Cow**<br>
-From Fri 28 May<br>
-**After Love**<br>
-From Fri 4 Jun (Q&A with director Aleem Khan on Fri 4 Jun 17:30; Q&A with director Aleem Khan and actor Joanna Scanlan on Sun 13 Jun 18:40)<br>
-**Fargo**<br>
-From Fri 11 Jun<br>
-**The Reason I Jump**<br>
-From Fri 18 Jun<br>
-**Nashville**<br>
-From Fri 25 Jun<br>
-**Ultraviolence**<br>
-From Sat 26 Jun; Sat 26 June 14:20 + Q&A with director Ken Fero and contributor Janet Alder<br>
-<br><br>
-
+<br>
 
 
 **BFI SOUTHBANK**  
