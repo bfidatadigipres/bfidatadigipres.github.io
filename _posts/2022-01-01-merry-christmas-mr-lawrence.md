@@ -4,7 +4,7 @@ title: Merry Christmas Mr. Lawrence
 published: false
 date: 2022-01-01
 readtime: true
-categories: ['BOWIE: STARMAN AND THE SILVER SCREEN']
+categories: ['BOWIE<br>STARMAN AND THE SILVER SCREEN']
 tags: [War]
 metadata: 'UK/Japan/New Zealand 1983, 123 mins<br> Director: Nagisa Oshima'
 pdf: '2022-01-01-merry-christmas-mr-lawrence.pdf'
