@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shall We Dance?
-published: false
+published: true
 date: 2021-12-21
 readtime: true
 categories: ['JAPAN 2021<br>100 YEARS OF JAPANESE CINEMA']
