@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metropolis
-published: false
+published: true
 date: 2022-01-02
 readtime: true
 categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
