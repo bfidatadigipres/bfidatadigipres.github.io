@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merry Christmas Mr. Lawrence
-published: false
+published: true
 date: 2022-01-01
 readtime: true
 categories: ['BOWIE<br>STARMAN AND THE SILVER SCREEN']
