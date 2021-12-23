@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christiane F.
-published: false
+published: true
 date: 2022-01-02
 readtime: true
 categories: ['BOWIE<br>STARMAN AND THE SILVER SCREEN']
