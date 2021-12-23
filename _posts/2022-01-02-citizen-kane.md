@@ -2,12 +2,12 @@
 layout: post
 title: Citizen Kane
 published: true
-date: 2022-01-02
+date: 2022-01-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1941, 119 mins<br> Director: Orson Welles'
-pdf: '2022-01-02-citizen-kane.pdf'
+pdf: '2022-01-03-citizen-kane.pdf'
 ---
 
 Orson Welles’ first feature and greatest masterpiece – a richly philosophical survey of the seemingly unfathomable contradictions in the life and character of a media tycoon – was for Truffaut ‘so complete... a world view which is personal, generous and noble.’ He found many reasons to love and admire the film, and paid affectionate tribute to its importance to his life in _Day for Night_.<br>
