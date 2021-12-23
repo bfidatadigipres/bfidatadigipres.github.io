@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Clockwork Orange
-published: false
+published: true
 date: 2022-01-03
 readtime: true
 categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
