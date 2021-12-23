@@ -115,6 +115,7 @@ Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
 Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
 **Bigger Than Life**<br>
 Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
+<br>
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 <br>
