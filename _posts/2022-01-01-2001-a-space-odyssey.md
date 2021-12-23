@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2001 - A Space Odyssey
-published: false
+published: true
 date: 2022-01-01
 readtime: true
 categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
