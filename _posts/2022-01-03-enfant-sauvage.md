@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'Enfant sauvage
-published: false
+published: true
 date: 2022-01-03
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
