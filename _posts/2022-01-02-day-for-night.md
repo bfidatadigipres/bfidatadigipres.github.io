@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Day for Night
-published: false
+published: true
 date: 2022-01-02
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
