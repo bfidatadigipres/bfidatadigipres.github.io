@@ -92,7 +92,7 @@ France 1978©<br>
 <br><br>
 
 **THE ANTOINE DOINEL CYCLE**<br>
-**Antoine et Colette (**from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
+**Antoine et Colette (** from **L’Amour à vingt ans) + Stolen Kisses (Baisers volés)**<br>
 Sat 1 Jan 17:50, Tue 11 Jan 20:35,  Sat 15 Jan 12:10, Sun 23 Jan 15:30<br>
 **Bed and Board (Domicile conjugale)**<br>
 Mon 3 Jan 13:00, Thu 13 Jan 20:45,  Wed 19 Jan 14:30<br>
