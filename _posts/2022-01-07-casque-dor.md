@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casque d'or
-published: false
+published: true
 date: 2022-01-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
