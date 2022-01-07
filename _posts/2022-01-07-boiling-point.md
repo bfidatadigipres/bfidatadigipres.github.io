@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boiling Point
-published: false
+published: true
 date: 2022-01-07
 readtime: true
 categories: ['NEW RELEASES']
