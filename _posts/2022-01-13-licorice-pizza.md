@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Licorice Pizza
-published: false
+published: true
 date: 2022-01-13
 readtime: true
 categories: ['NEW RELEASES']
