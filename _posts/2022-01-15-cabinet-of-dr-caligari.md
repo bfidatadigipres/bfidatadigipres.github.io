@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cabinet of Dr. Caligari
-published: false
+published: true
 date: 2022-01-15
 readtime: true
 categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
