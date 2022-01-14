@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intrepid Women
-published: false
+published: true
 date: 2022-01-16
 readtime: true
 categories: ['TO THE ENDS OF THE EARTH']
