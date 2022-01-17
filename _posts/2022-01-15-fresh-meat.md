@@ -12,7 +12,7 @@ pdf: '2022-01-15-fresh-meat.pdf'
 
 To celebrate the 10th anniversary of this iconic and award-winning Channel 4 comedy we’re delighted to welcome cast Jack Whitehall, Zawe Ashton, Joe Thomas, Kimberley Nixon, Greg McHugh and Charlotte Ritchie, as well as the writer-creators Jesse Armstrong and Sam Bain in conversation with your host Beth Webb.
 
-From its first episode, _Fresh Meat_ broke new ground thanks to its cripplingly self-aware yet heartfelt portrayal of university life, shaped loosely by Armstrong and Bain’s own experiences together in Manchester. Bolstered by the combined talent of six then-burgeoning comedy actors, whose collective bond stands firm today, the show, produced by Objective for Channel 4, went on to win several awards and was successful in many territories worldwide. Through conversation and archive clips, the _Fresh Meat_ alumni will celebrate their time together on this formative show and its lasting legacy.
+From its first episode, _Fresh Meat_ broke new ground thanks to its cripplingly self-aware yet heartfelt portrayal of university life, shaped loosely by Armstrong and Bain’s own experiences together in Manchester. Bolstered by the combined talent of six then-burgeoning comedy actors, whose collective bond stands firm today, the show, produced by Objective for Channel 4, went on to win several awards and was successful in many territories worldwide. 
 
 Through conversation and archive clips, the _Fresh Meat_ alumni will celebrate their time together on this formative show and its lasting legacy.
 
