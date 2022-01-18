@@ -7,7 +7,7 @@ readtime: true
 categories: ['MEMBER PICKS']
 tags: [Drama, War]
 metadata: 'UK 1984, 142 mins<br> Director: Roland Joffé'
-pdf: '2022-01-19-killing fields.pdf'
+pdf: '2022-01-19-killing-fields.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
