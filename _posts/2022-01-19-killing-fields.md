@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Killing Fields
-published: false
+published: true
 date: 2022-01-19
 readtime: true
 categories: ['MEMBER PICKS']
