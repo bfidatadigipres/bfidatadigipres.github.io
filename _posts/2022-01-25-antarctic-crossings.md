@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Antarctic Crossings – Postwar Shorts
-published: false
+published: true
 date: 2022-01-25
 readtime: true
 categories: ['TO THE ENDS OF THE EARTH']
