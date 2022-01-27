@@ -18,8 +18,8 @@ One could trace a long list of influences, both literary and cinematic, that mad
 -   12:05 – Live presentation by Sonali Joshi, who will be talking about Truffaut’s male characters as literary heroes
 -   12:35 – Pre-recorded presentation by Marilyn Mallia looking at  _The Story of Adèle H_ in relation to the gothic tradition
 -   13:10 – Lunch
--   14:00 – Live presentation by Catherine Wheatley, who will be talking about Truffaut’s relationship to André Bazin and Jean Renoir
--   14:35 – Pre-recorded presentation by Pasquale Iannone, who will consider the extent to which Truffaut was influenced by two of his filmmaking masters – Alfred Hitchcock and Roberto Rossellini
+-   14:00 – Pre-recorded presentation by Pasquale Iannone, who will consider the extent to which Truffaut was influenced by two of his filmmaking masters – Alfred Hitchcock and Roberto Rossellini
+-   14:20 – Live presentation by Catherine Wheatley, who will be talking about Truffaut’s relationship to André Bazin and Jean Renoir
 -   15:05 – Comfort break
 -   15:15 – Live discussion with Sonali Joshi and Catherine Wheatley, chaired by Ginette Vincendeau
 -   16:15 – Event ends
