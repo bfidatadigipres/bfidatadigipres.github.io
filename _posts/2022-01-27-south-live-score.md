@@ -6,7 +6,7 @@ date: 2022-01-27
 readtime: true
 categories: ['SILENT CINEMA PRESENTS']
 tags: [Documentary]
-metadata: 'UK 1919 81 mins<br> Director: Frank Hurley'
+metadata: 'UK 1919, 81 mins<br> Director: Frank Hurley'
 pdf: '2022-01-27-south-live-score.pdf'
 ---
 
