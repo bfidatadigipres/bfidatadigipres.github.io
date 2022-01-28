@@ -1,7 +1,7 @@
 ---
 layout: post
 title: François Truffaut's Cinematic and Literary Influences
-published: false
+published: true
 date: 2022-01-29
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
