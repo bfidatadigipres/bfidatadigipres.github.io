@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Epic of Everest<br>+ live score by Simon Fisher Turner
-published: false
+published: true
 date: 2022-01-29
 readtime: true
 categories: ['TO THE ENDS OF THE EARTH']
