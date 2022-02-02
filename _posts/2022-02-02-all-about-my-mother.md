@@ -2,7 +2,7 @@
 layout: post
 title: All about My Mother
 published: true
-date: 2022-27-02
+date: 2022-02-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
