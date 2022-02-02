@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Young Soul Rebels
-published: false
+published: true
 date: 2022-02-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
