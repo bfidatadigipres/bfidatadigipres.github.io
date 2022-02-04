@@ -1,7 +1,7 @@
 ---
 layout: post
 title: African Redemption<br>The Life and Legacy of Marcus Garvey
-published: false
+published: true
 date: 2022-02-05
 readtime: true
 categories: ['AFRICAN ODYSSEYS - UK PREMIERE']
