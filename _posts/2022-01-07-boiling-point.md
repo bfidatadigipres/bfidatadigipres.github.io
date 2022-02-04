@@ -33,8 +33,7 @@ The foul-mouthed and red-faced chef barking at his staff is a cliché we are all
 _Directed by_: Philip Barantini  
 ©: Ascendant Films Ltd  
 _Production Companies_: Ascendant Films,  Burton Fox Films  
-_In association with_: Matriarch Productions,  White Hot Productions, Three Little Birds,  Alpine Films, Bromantics, Insight Media Fund, Urban Way, The Electric Shadow Company  
-_Executive Producers_: Stephen Graham,  Hannah Walters, Ian Kirk, Sara Sehdev, Ming Zhu, Michael Gilmore, Philip Barantini, Ray Panthaki, Bob Clarke, Gareth Jones, John Jencks, Jay Taylor, Angus Henderson, Charlotte Henderson, William Henderson, Paul Mellor, Peter Maddock, Samantha Warham, Ward Trowman, Anthony Jabre, Oscar Veronese, Adrian Foulger, Wei Xu  
+_In association with_: Matriarch Productions,  White Hot Productions, Three Little Birds,  Alpine Films, Bromantics, Insight Media Fund, Urban Way, The Electric Shadow Company  _Executive Producers_: Stephen Graham,  Hannah Walters, Ian Kirk, Sara Sehdev, Ming Zhu, Michael Gilmore, Philip Barantini, Ray Panthaki, Bob Clarke, Gareth Jones, John Jencks, Jay Taylor, Angus Henderson, Charlotte Henderson, William Henderson, Paul Mellor, Peter Maddock, Samantha Warham, Ward Trowman, Anthony Jabre, Oscar Veronese, Adrian Foulger, Wei Xu  
 _Produced by_: Bart Ruspoli, Hester Ruoff  
 _Co-producer_: Stefan D’Bart  
 _Production Executive for Electric Shadow Company_: Sarah Laita  
@@ -110,7 +109,7 @@ Hannah Traylen _(Holly)_
 Diljohn Singh _(Krish)_  
 Jordan Alexandra _(Bryony)_  
 Shereen Walker _(Hannah)_  
-Precious Wura Arabi _(Emma)_  
+Precious Wura Alabi _(Emma)_  
 Ayanna Coleman-Potempa _(Philly)_  
 Kimesha Campbell _(Lola)_  
 Gina Ruysen _(Kathryn)_  
