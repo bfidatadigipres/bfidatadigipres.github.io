@@ -44,8 +44,7 @@ Dunye gives us permission to define ourselves in ways that both claim our ancest
 **The Watermelon Woman**<br>
 _Director:_ Cheryl Dunye<br>
 _Film Recreations Director:_ Doug McKeown<br>
-_Watermelon Woman Photo Arcs:_ Cheryl Dunye,
-Zoe Leonard<br>
+_Watermelon Woman Photo Arcs:_ Cheryl Dunye, Zoe Leonard<br>
 _Production Company:_ Dancing Girl Productions<br>
 _Executive Producer:_ Michael Light<br>
 _Co-executive Producers:_ Annie Taylor, Burke Moody<br>
@@ -72,8 +71,7 @@ _Screenplay:_ Cheryl Dunye<br>
 _Film Recreations:_ Cheryl Dunye, Doug McKeown<br>
 _Director of Photography:_ Michelle Crenshaw<br>
 _Additional Photography:_ Dane Smith<br>
-_Photography (Watermelon Woman Photo Arc):_
-Zoe Leonard<br>
+_Photography (Watermelon Woman Photo Arc):_ Zoe Leonard<br>
 _Film Recreations Graphic Design:_ Scott Purcell<br>
 _Editor:_ Annie Taylor<br>
 _Additional Editors:_ Magali Taylor, Burke Moody<br>
@@ -98,8 +96,7 @@ _Saxophone/Flute:_ Paul Shapiro<br>
 _Additional Production/Keyboards:_ Gary Schreiner<br>
 _Music Supervisor:_ Bill Coleman<br>
 _Karaoke Music Tracks:_ Raphael Paris<br>
-_Music Co-ordinators:_ Stephen C. Rocamboli,
-S. Madison Bédard<br>
+_Music Co-ordinators:_ Stephen C. Rocamboli, S. Madison Bédard<br>
 _Drum Programming:_ Jim Mussen<br>
 _Sound Recording:_ Jack A. Mehlbaum<br>
 _Sound Mixers:_ Tom Jucarone, Rob Sayers<br>
