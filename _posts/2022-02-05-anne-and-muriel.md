@@ -5,7 +5,7 @@ published: true
 date: 2022-02-05
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
-tags: [Drama]
+tags: [Drama, Period]
 metadata: 'France 1971, 130 mins<br> Director: François Truffaut'
 pdf: '2022-02-05-anne-and-muriel.pdf'
 ---
