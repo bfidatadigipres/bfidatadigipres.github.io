@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Together
-published: false
+published: true
 date: 2022-02-08
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
