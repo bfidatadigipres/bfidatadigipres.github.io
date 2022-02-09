@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brokeback Mountain
-published: false
+published: true
 date: 2022-02-09
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
