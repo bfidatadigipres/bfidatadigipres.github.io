@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Story of Adele H.
-published: false
+published: true
 date: 2022-02-09
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
