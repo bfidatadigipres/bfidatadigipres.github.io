@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fantastic Woman
-published: true
+published: false
 date: 2022-02-13
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
@@ -16,7 +16,7 @@ The viewer first encounters Marina Vidal (Daniela Vega), the defiant, enigmatic 
 
 Early sequences work to establish the relaxed intimacy of the couple’s relationship: the informal birthday dinner at a Chinese restaurant; their tender dance; the passion of their lovemaking back at Orlando’s flat. They are palpably at ease in each other’s company. But from the moment Orlando suffers an aneurysm 12 minutes into the film, everything changes. Marina, a trans woman, is shut out of his affairs by both his family and by the authorities: framed peering through the window of the hospital emergency room where Orlando is being treated; left standing in a space designated an ‘_área sucia_’ (dirty area); made to leave the apartment she shared with Orlando; confronted and thrown out of his wake at the pointedly titled Church of the Sacred Family.
 
-Both the narrative and the camerawork seek to signpost Marina’s grief: as she opens Orlando’s wardrobe, she buries her head in his clothes to take in his scent; as she drives, the focus on the empty car seat where he once sat physicalises the absence in her life. Lelio also ruptures the realist veneer of the film by showing how Orlando continues to haunt Marina’s everyday activities: we see his reflection in her sunglasses; sitting in the back of her car at the carwash, or standing in the crowds at a noisy discotheque; or guiding her into the crematorium to bid farewell to his corpse. The void is made all too tangible. Orlando’s ex-wife Sonia (Aline Küppenheim) may see Marina and Orlando’s relationship as perverse – referring to it as a soap opera, which she contrasts with her own ‘normal’ past with him – but the film’s play with authenticity and reality ultimately undermines any fixed ideas about what constitutes the normal or the natural.
+Both the narrative and the camerawork seek to signpost Marina’s grief: as she opens Orlando’s wardrobe, she buries her head in his clothes to take in his scent; as she drives, the focus on the empty car seat where he once sat physicalises the absence in her life. Lelio also ruptures the realist veneer of the film by showing how Orlando continues to haunt Marina’s everyday activities: we see his reflection in her sunglasses; sitting in the back of her car at the carwash, or standing in the crowds at a noisy discotheque; or guiding her into the crematorium to bid farewell to his corpse.<br> The void is made all too tangible. Orlando’s ex-wife Sonia (Aline Küppenheim) may see Marina and Orlando’s relationship as perverse – referring to it as a soap opera, which she contrasts with her own ‘normal’ past with him – but the film’s play with authenticity and reality ultimately undermines any fixed ideas about what constitutes the normal or the natural.
 
 _A Fantastic Woman_ is, in many ways, a tale of emotional survival in the wake of verbal, physical and psychological abuse. Undermined, ostracised and even criminalised, Marina is made to feel a social pariah – by the doctor (Alejandro Goic) who informs her of Orlando’s death, asking if ‘Marina Vidal’ is her nickname; and by Cortés (Amparo Noguera), the female detective from the sexual offences unit, who assumes that theirs was a violent, abusive relationship. ‘You don’t need to treat me like a criminal,’ she tells the doctor, who has asked the police to bring her back in after she runs out of the hospital in shock. The frequent side-view filming of these encounters points to a confrontational hostility that marginalises Marina, repeatedly pushing her out of conversations. The complicit mutterings between the policeman and the doctor at the hospital find a later echo in the whispered encounter between Cortés and the forensic services doctor who is asked to examine Marina.
 
@@ -42,8 +42,7 @@ _Production Companies_: Participant Media, Fabula, Komplizen Film,  Consejo Naci
 _Presented by_: Participant Media  
 _Executive Producers_: Jeff Skoll, Jonathan King, Rocio Jadue Z., Mariane Hartard, Ben Von Dobeneck  
 _Producers_: Juan de Dios Larraín, Pablo Larraín, Sebastián Lelio, Gonzalo Maza  
-_Co-producers_: Janine Jackowski, Jonas Dornbach, Maren Ade,  
-Fernanda Del Nido  
+_Co-producers_: Janine Jackowski, Jonas Dornbach, Maren Ade, Fernanda Del Nido  
 _Associate Producers ZDF/Arte_: Alexander Bohr, Martín Cárcamo  
 _Director of Production_: Eduardo Castro  
 _Head of Production_: Alejandro Wise  
