@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Wheel of Fortune and Fantasy
-published: true
-date: 2021-12-29
+published: false
+date: 2022-02-11
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'Japan 2021, 121 mins<br> Director: Ryusuke Hamaguchi'
-pdf: '2021-12-29-wheel-of-fortune-and-fantasy.pdf'
+pdf: '2022-02-11-wheel-of-fortune-and-fantasy.pdf'
 ---
 
 ‘Excuse me, can you go back the same way?’ The taxi turns around. This is the first manoeuvre in a film whose English title anticipates its narrative twists. Except this isn’t the same way, this isn’t quite repetition. The film is slippery with such divergencies. Premiering in this year’s Berlinale Competition, Ryusuke Hamaguchi’s _Wheel of Fortune and Fantasy_ continues the director’s interest in doublings, coincidences and duplicity that has earned him comparisons with Rivette and Rohmer since his debut melodrama, _Passion_, in 2008.
@@ -72,28 +72,7 @@ Japan 2021<br>
 121 mins
 
 Courtesy of Modern Films  
-<br>
-
-**IN PERSON & PREVIEWS**<br>
-**TV Preview: Afterlife Season 3 + Q&A with  Ricky Gervais and cast**<br>
-Thu 6 Jan 18:15<br>
-**Oliver Stone in Conversation**<br>
-Fri 14 Jan 18:20<br>
-**Natural Born Killers**<br>
-Fri 14 Jan 20:30<br>
-**Fresh Meat 10th Anniversary: Q&A with  cast and creatives**<br>
-Sat 15 Jan 18:15<br>
-**Mark Kermode Live in 3D at the BFI**<br>
-Mon 17 Jan 18:10<br>
-**Preview: The Souvenir Part II + Q&A with  writer-director Joanna Hogg**<br>
-Mon 17 Jan 20:30<br>
-**Woman with a Movie Camera Preview: Amulet  + Q&A with writer-director Romola Garai**<br>
-Fri 21 Jan 18:00<br>
-**African Odysseys presents: UK Premiere:  A Bruddah’s Mind Cabeça de Nego + Q&A with director Déo Cardoso**<br>
-Sat 22 Jan 14:00<br>
-**Silent Cinema presents: South: Sir Ernest Shackleton’s Glorious Epic of the Antarctic + live score**<br>
-Thu 27 Jan 19:00<br>
-<br>
+<br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
