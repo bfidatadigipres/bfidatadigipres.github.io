@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophical Screens<br>Jules et Jim
-published: false
+published: true
 date: 2022-02-10
 readtime: true
 categories: ['FRANÇOIS TRUFFAUT<br>FOR THE LOVE OF FILMS']
