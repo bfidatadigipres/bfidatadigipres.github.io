@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fantastic Woman
-published: false
+published: true
 date: 2022-02-13
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
