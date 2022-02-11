@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Beautiful Laundrette
-published: false
+published: true
 date: 2022-02-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
