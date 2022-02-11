@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wheel of Fortune and Fantasy
-published: false
+published: true
 date: 2022-02-11
 readtime: true
 categories: ['NEW RELEASES']
