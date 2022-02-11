@@ -1,15 +1,14 @@
 ---
 layout: post
 title: My Beautiful Laundrette
-published: true
-date: 2021-06-18
+published: false
+date: 2022-02-12
 readtime: true
-categories: ['BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'UK 1985, 97 mins<br> Director: Stephen Frears'
-pdf: '2021-06-18-my-beautiful-laundrette.pdf'
+pdf: '2022-02-12-my-beautiful-laundrette.pdf'
 ---
-_+ On-stage interview with writer Hanif Kureishi_
 
 **SPOILER WARNING The following notes give away some of the plot**.
 
@@ -129,30 +128,52 @@ UK 1985©<br>
 97 mins
 <br><br>
 
-**BAGRI FOUNDATION LONDON INDIAN FILM FESTIVAL**<br>
-**LIFF Opening Night: WOMB (Women of My Billion) + on stage Q&A with Srishti Bakshi and film critic Anna Smith**<br>
-Thu 17 Jun 17:20<br>
-**My Beautiful Laundrette + on-stage interview with writer Hanif Kureishi**<br>
-Fri 18 Jun 20:20<br>
-**The Warrior + on-stage career interview with writer-director Asif Kapadia**<br>
-Sat 19 Jun 20:30<br>
-**Ahimsa: Gandhi the Power of the Powerless**<br>
-Sun 20 Jun 15:00<br>
-**Searching for Happiness…**<br>
-Tue 22 Jun 20:50<br>
-**Nazarband Captive**<br>
-Wed 23 Jun 20:45<br>
-**A’hr Kayattam**<br>
-Thu 24 Jun 18:00<br>
-**The Salt in Our Waters Nonajoler Kabbo**<br>
-Sun 27 Jun 15:00<br>
-<br><br><br>
+**BIG SCREEN CLASSICS**<br>
+**To Wong Foo, Thanks for Everything! Julie Newmar**<br>
+Tue 1 Feb 18:20; Fri 25 Feb 20:45<br>
+**Young Soul Rebels**<br>
+Wed 2 Feb 18:20 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Thu 17 Feb 20:45<br>
+**All About My Mother (Todo sobre mi madre)**<br>
+Wed 2 Feb 20:45; Wed 16 Feb 21:00<br>
+**Beautiful Thing**<br>
+Thu 3 Feb 20:45; Mon 14 Feb 20:30<br>
+**The Handmaiden (Ah-ga-ssi)**<br>
+Fri 4 Feb 17:50; Sat 12 Feb 20:10; Sun 27 Feb 17:50<br>
+**Rent**<br>
+Sat 5 Feb 12:30; Sun 20 Feb 18:10<br>
+**Maurice**<br>
+Sun 6 Feb 15:20; Mon 14 Feb 18:00<br>
+**The Watermelon Woman**<br>
+Mon 7 Feb 20:45; Sat 26 Feb 20:30<br>
+**Happy Together (Chun gwong cha sit)**<br>
+Tue 8 Feb 18:15 (+ intro by Yi Wang, Queer East); Sun 13 Feb 15:20<br>
+**My Own Private Idaho**<br>
+Tue 8 Feb 20:45; Wed 23 Feb 18:00 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair)<br>
+**Brokeback Mountain**<br>
+Wed 9 Feb 17:45 (+ intro by BFI Race Equality Lead Rico Johnson-Sinclair); Mon 21 Feb 20:25<br>
+**Go Fish**<br>
+Wed 9 Feb 20:40; Sat 26 Feb 18:20<br>
+**Rope**<br>
+Thu 10 Feb 18:30; Tue 22 Feb 14:30<br>
+**Victim**<br>
+Thu 10 Feb 20:40; Sun 13 Feb 13:00; Mon 21 Feb 18:00<br>
+**Desert Hearts**<br>
+Fri 11 Feb 20:40; Wed 16 Feb 18:20 (+ intro by BFI Head Librarian Emma Smart)<br>
+**My Beautiful Laundrette**<br>
+Sat 12 Feb 18:20; Tue 15 Feb 20:45; Sat 19 Feb 20:45<br>
+**A Fantastic Woman (Una mujer fantástica)**<br>
+Sun 13 Feb 18:40; Tue 22 Feb 20:50<br>
+**Mädchen in Uniform**<br>
+Fri 18 Feb 20:30; Sat 26 Feb 16:00<br>
+**Moonlight**<br>
+Thu 24 Feb 14:30; Mon 28 Feb 20:45<br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
-Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
