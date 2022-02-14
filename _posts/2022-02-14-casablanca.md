@@ -4,7 +4,7 @@ title: Casablanca
 published: true
 date: 2022-02-14
 readtime: true
-categories: ['VALENTINE'S DAY FILMS']
+categories: ['VALENTINE’S DAY FILMS']
 tags: [Romance, War, Drama]
 metadata: 'USA, 1942, 102 mins<br> Director: Michael Curtiz'
 pdf: '2022-02-14-casablanca.pdf'
