@@ -2,12 +2,12 @@
 layout: post
 title: Portrait of a Lady on Fire
 published: true
-date: 2021-05-17 17:45:00
+date: 2022-02-14
 readtime: true
-categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+categories: ['VALENTINE’S DAY FILMS']
 tags: [Romance]
 metadata: 'France, 2019, 122 mins<br> Director: Céline Sciamma'
-pdf: 2021-05-17-portrait-of-a-lady-on-fire.pdf
+pdf: 2022-02-14-portrait-of-a-lady-on-fire.pdf
 ---
 **SPOILER WARNING** The following notes give away some of the plot.<br/><br/>
 There are some films so exquisite that any attempt to put them into words feels like an act of violence. Céline Sciamma’s Portrait of a Lady on Fire (the French title translates more accurately as Portrait of a Young Girl on Fire – the difference at the level of power and freedom matters) is just such a film. It seems spun of gossamer, at once tensile and tenuous. ‘Take time to look at me,’ a voice commands in its opening moments. This moment is fleeting, it implies. Appreciate it while you can.<br/><br/>
@@ -28,8 +28,8 @@ And so this book idea finally came up. And suddenly I knew it was the right idea
 You could have ended the film there, but you keep going… <br/><br/>
 The final scene at the theatre [when Marianne sees Héloïse at a concert] was actually the first scene I had in mind. It was inspired by a poem by Mary Oliver, which says that a broken heart is an open heart to the rest of the world. I wanted a story relevant to today. There was no book to adapt, no painting out there. This is our imaginary, and a tribute to the other imaginaries out there that don’t exist. There’s nothing worse than realising your imaginaries don’t exist – you can go your whole life without seeing things. We’re activists for cinema today. We hope you experience something, that we give you the urge to go to the cinema or make some cinema.<br/><br/>
 **Céline Sciamma interviewed by Isabel Stevens, Sight & Sound, March 2020**<br/><br/>
-**Credits**<br/>
-Portrait of a Lady on Fire (Portrait de la jeune fille en feu)<br/>
+
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**<br/>
 Directed by: Céline Sciamma<br/>
 ©: Lilies Films, Hold-Up Films & Productions, Arte France Cinéma<br/>
 A Lilies Films production<br/>
@@ -63,7 +63,7 @@ Supervising Sound Editor: Valérie Deloof<br/>
 Stunt Co-ordinator: Benoît Talenton<br/>
 Historical Consultant: Severine Sofio<br/>
 <br/>
-**CAST**<br/>
+**Cast**<br/>
 Noemie Merlant (Marianne)<br/>
 Adèle Haenel (Héloïse)<br/>
 Luana Bajrami (Sophie)<br/>
@@ -75,65 +75,21 @@ Clément Bouyssou (boatman)<br/>
 France 2019<br/>
 122 mins <br/>
 <br/>
-**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**<br/>
-<br/>
-Blow Out<br/>
-Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40<br/>
-Winner of the Dream Palace Audience Vote: Portrait of a Lady on Fire (Portrait de la jeune fille en feu)<br/>
-Mon 17 May 20:45; Sun 30 May 12:20<br/>
-The General<br/>
-Tue 18 May 18:10 (+ intro by Stuart Brown, BFI Head of Programme and Acquisitions); Sat 29 May 12:45<br/>
-The Shout + pre-recorded intro by Mark Jenkin<br/>
-Wed 19 May 21:00; Thu 3 Jun<br/>
-The Cook, the Thief, His Wife & Her Lover <br/>
-Thu 20 May 17:30 (+ intro by Justin Johnson, BFI Lead Programmer); Thu 24 Jun 20:30<br/>
-Footloose + pre-recorded intro by Francis Lee<br/>
-Thu 20 May 20:45; Sat 29 May 18:00<br/>
-Car Wash<br/>
-Fri 21 May 18:00 (+ intro by Gurinder Chadha); Mon 31 May 18:50<br/>
-David Byrne’s American Utopia<br/>
-Fri 21 May 20:45 (+ intro by Tricia Tuttle, BFI Festival Director); Mon 14 Jun 18:00<br/>
-Beginning + pre-recorded intro by Luca Guadagnino<br/>
-Sat 22 May 11:30; Tue 22 Jun 20:30<br/>
-Black Narcissus<br/>
-Sat 22 May 14:20 (+ intro by Edgar Wright); Mon 7 Jun 17:50<br/>
-The Wonders (Le meraviglie) + pre-recorded intro by Mark Cousins<br/>
-Sat 22 May 15:15; Thu 3 Jun 20:30<br/>
-Hair + pre-recorded intro by Kleber Mendonça Filho<br/>
-Sat 22 May 20:30; Fri 28 May 17:45<br/>
-Magnificent Obsession + Fear Eats the Soul (Angst essen Seele auf)<br/>
-Sun 23 May 15:45 (+ intro by Heather Stewart, BFI Creative Director); Sun 6 Jun 18:40<br/>
-Beau Travail + pre-recorded intro by Kirsten Johnson<br/>
-Sun 23 May 18:40; Sun 30 May 18:20<br/>
+
 <br/>
 <br/>
-Mirror (Zerkalo) + pre-recorded intro by Malgorzata Szumowska<br/>
-Mon 24 May 17:50; Wed 9 Jun 14:30<br/>
-Syndromes and a Century (Sang sattawat) + pre-recorded intro by Chaitanya Tamhane<br/>
-Mon 24 May 20:30; Sat 19 Jun 17:50<br/>
-Goodbye, Dragon Inn (Bú sàn)<br/>
-Wed 26 May 18:10 (+ intro by Peter Strickland); Wed 2 Jun 20:50<br/>
-The Gleaners & I (Les glaneurs et la glaneuse) + pre-recorded intro by Zhu Shengze<br/>
-Thu 27 May 18:15; Fri 26 Jun 14:30<br/>
-The Seventh Seal (Det sjunde inseglet) + pre-recorded intro by Mike Williams, Editor Sight & Sound<br/>
-Fri 28 May 20:50; Wed 30 Jun 14:30<br/>
-Broadcast News<br/>
-Sun 30 May 15:40 (+ intro by Sarah Smith); Sat 19 Jun 20:20<br/>
-The Elephant Man + pre-recorded intro by Prano Bailey-Bond<br/>
-Tue 15 Jun 17:45; Sat 19 Jun 12:00<br/>
-The Warriors<br/>
-Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br/>
-<br/>
-<br/>
-BECOME A BFI MEMBER  Enjoy a great package of film benefits including priority booking at<br/>
-BFI Southbank and BFI Festivals. Join today at bfi.org.uk/join  <br/>
-BFI PLAYER We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. <br/>
-<br/>
-See something different today on player.bfi.org.uk <br/>
-<br/>
-BFI SOUTHBANK<br/>
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.<br/>
-We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down. <br/>
-<br/>
-Join the BFI mailing list for regular programme updates. <br/>
-Not yet registered? Create a new account at www.bfi.org.uk/signup<br/>
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
