@@ -9,6 +9,7 @@ tags: [Romance]
 metadata: 'France 2019, 122 mins<br> Director: Céline Sciamma'
 pdf: 2022-02-14-portrait-of-a-lady-on-fire.pdf
 ---
+
 **SPOILER WARNING** The following notes give away some of the plot.<br/><br/>
 There are some films so exquisite that any attempt to put them into words feels like an act of violence. Céline Sciamma’s Portrait of a Lady on Fire (the French title translates more accurately as Portrait of a Young Girl on Fire – the difference at the level of power and freedom matters) is just such a film. It seems spun of gossamer, at once tensile and tenuous. ‘Take time to look at me,’ a voice commands in its opening moments. This moment is fleeting, it implies. Appreciate it while you can.<br/><br/>
 After a brief prologue, the film opens in earnest as artist Marianne (Noémie Merlant) arrives on the Brittany coast sometime in the 18th century. She is sodden and panting, having thrown herself off the skiff bringing her to shore in order to rescue her materials, which have been swept overboard in a gorgeous, wordless scene (and one of very few to feature a man). On the beach, in the dusky half-light, the rocks form a proscenium arch. She wrings out her skirts and climbs to the isolated manor house that will be her lodging for the next seven days.<br/><br/>
