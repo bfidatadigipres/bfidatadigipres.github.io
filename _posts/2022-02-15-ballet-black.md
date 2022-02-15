@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ballet Black
-published: false
+published: true
 date: 2022-02-15
 readtime: true
 categories: ['EXPERIMENTA FOCUS - STEPHEN DWOSKIN']
