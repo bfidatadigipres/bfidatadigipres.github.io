@@ -1,14 +1,17 @@
 ---
 layout: post
 title: The Night of the Hunter
-published: true
-date: 2021-05-24
+published: false
+date: 2022-02-21
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['SENIORS']
 tags: [Drama, Thriller]
 metadata: 'USA, 1955, 92 mins<br> Director: Charles Laughton'
-pdf: '2021-05-24-night-of-the-hunter.pdf'
+pdf: '2022-02-21-night-of-the-hunter.pdf'
 ---
+
+_Introduced by BFI programmer David Somerset_
+
 In my film-watching experience, _The Night of the Hunter_ is the closest a director has come to capturing the hypnotic, compelling potency of the kind of nightmares we have when we are children. Initially, I was knocked out by Stanley Cortez’s stunning black and white photography, but after repeated viewing I have also developed immense respect for [Charles] Laughton’s direction and for the actors’ performances (in particular, Lillian Gish and Robert Mitchum, but Shelley Winters as Mitchum’s new wife is also quite unforgettable). Not only is the film very frightening – every single adult, with the exception of Lillian Gish, betrays the two helpless children – but it’s filled with great beauty and compassion for the innocence of childhood. There is a recurring image of wandering, homeless kids begging for food. At one point Gish comments on children surviving horrendous experiences – ‘they abide and they endure,’ she says.
 
 Like a Grimm’s fairy tale it mixes magical beauty with primal fears. While elements of the movie now seem awkward and/or dated, for the most part it still holds tremendous power. My favourite moments: Lillian Gish in her rocking chair on the screened-in porch, holding a gun and singing a hymn with Robert Mitchum who sits just outside the house waiting for an opportunity to get inside to kill her and the children; the love/hate speech Mitchum makes in the ice-cream store while passing himself off as a preacher; the ghostly river journey made by the children with all the night creatures watching them sail by in the moonlight; and, at the end, when the mob of self-righteous do-gooders have turned into screaming maniacs calling for the murderer’s blood, the moment when the camera pans off the mob to Gish with her arms around the homeless children she has taken under her wing, leading them off to safety. As Rachel, a benefactor of lost children, Lillian Gish scoops up any kid who needs her – ‘I’m an old tree with branches for many birds’, she says, ‘I’m good for something in this world and I know it.’<br>
@@ -27,7 +30,7 @@ Political and economic crises encourage an uncomplicated (and pointless) nostalg
 <br><br>
   
 
-**The Night of the Hunter**<br>
+**THE NIGHT OF THE HUNTER**<br>
 _Directed by:_ Charles Laughton<br>
 _©:_ Paul Gregory Productions<br>
 _Presented by:_ Paul Gregory Productions<br>
@@ -59,7 +62,7 @@ _Camera Operator:_ Bud Mautino<br>
 _Camera Assistants:_ Seymour Hoffberg, Robert B. Hauser<br>
 _Gaffer:_ James Potevin<br>
 
-**Cast:**<br>
+**Cast**<br>
 Robert Mitchum _(Preacher Harry Powell)_<br>
 Shelley Winters _(Willa Harper)_<br>
 Lillian Gish _(Miss Rachel Cooper)_<br>
@@ -84,65 +87,60 @@ USA 1955©<br>
 
 
 
-**BIG SCREEN CLASSICS**<br>
-**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
-Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
-**Alice in the Cities (Alice in den Städten)**<br>
-Wed 26 May 17:50; Tue 1 Jun 14:30; Fri Jun 25 20:45<br>
-**Eraserhead**<br> 
-Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
-**Man Hunt**<br> 
-Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
-**Persona**<br> 
-Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Mon 28 Jun 21:00<br>
-**La Haine**<br> 
-Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
-**Citizen Kane**<br> 
-Sun 30 May 12:40; Mon 21 Jun 20:45<br>
-**Raging Bull**<br> 
-Sun 30 May 15:30; Tue 1 Jun 17:30<br>
-**Touch of Evil**<br> 
-Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
-**The Last Picture Show (Director’s Cut)**<br>
-Mon 31 May 12:50; Mon 7 Jun 17:45<br>
-**Steamboat Bill, Jr.**<br> 
-Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>
-**Sweet Smell of Success**<br>
-Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
-**The Man Who Wasn’t There**<br>
-Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
-**L’eclisse (The Eclipse)**<br> 
-Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
-**The White Ribbon (Das weisse Band)**<br>
-Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
-Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
-**The Night of the Hunter**<br> 
-Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
-**The Tango Lesson**<br> 
-Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
-**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
-Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
-**Bitter Victory**<br>
-Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
-**The Big City (Mahanagar)**<br> 
-Wed 23 Jun 17:40<br>
-**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br> 
-Thu 24 Jun 17:40<br>
-<br><br>
-**BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+**IN PERSON & PREVIEWS**<br>
+**A Tribute to Roger Michell: Preview:  The Duke + Q&A with actor Jim Broadbent and producer Nicky Latham**<br>
+Thu 24 Feb 18:00<br>
+**BFI Expanded: World Premiere: UNIQUE**<br>
+Fri 25 Feb 19:00 and 20:30<br>
+**Woman with a Movie Camera Preview: Ali & Ava + Q&A with writer-director Clio Barnard**<br>
+Mon 28 Feb 20:20<br>
+**Preview: Rebel Dread + Q&A with Don Letts**<br>
+Thu 3 Mar 18:00<br>
+**Doctor Who: Revelation of the Daleks**<br>
+Sat 5 Mar 12:00<br> 
+**Mark Kermode Live in 3D at the BFI**<br>
+Mon 7 Mar 18:10<br>
+**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
+Mon 7 Mar 20:35<br> 
+**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
+Wed 9 Mar 18:10<br> 
+**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
+Fri 11 Mar 20:40<br> 
 
-**BFI SOUTHBANK**<br>
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
 
-We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+**REGULAR PROGRAMME**<br>
+**Member Picks:  Close Encounters of the Third Kind**<br>
+Wed 23 Feb 17:50<br>
+**Terror Vision: The People under the Stairs**<br>
+Thu 24 Feb 20:40<br>
+**Relaxed Screening:  Keep the Change + discussion**<br>
+Mon 28 Feb 20:10<br>
+**Projecting the Archive: A Question of Adultery + intro by BFI Curator Josephine Botting**<br>
+Tue 1 Mar 18:20<br> 
+**Member Picks: Evita**<br>
+Fri 4 Mar 17:50<br> 
+**African Odysseys: From the Caribbean to West Africa: Edric Connor’s Travelogues**<br>
+Sun 6 Mar 14:00-16:30<br> 
+**Silent Cinema: The Joker (Jokeren) + intro by BFI Curator Bryony Dixon**<br>
+Sun 6 Mar 15:00<br> 
+**Experimenta: Ticket of No Return + pre-recorded intro remembering Tabea Blumenschein with Ulrike Ottinger**<br>
+Tue 8 Mar 18:00<br> 
+**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
+Thu 10 Mar 18:15<br> 
+<br>
 
-**BFI PLAYER**<br>
-We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view.<br> See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
