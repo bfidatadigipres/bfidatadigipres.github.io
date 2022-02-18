@@ -2,15 +2,13 @@
 layout: post
 title: The Souvenir Part II
 published: true
-date: 2022-01-17
+date: 2022-02-18
 readtime: true
-categories: ['PREVIEWS & EVENTS']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'UK 2021, 107 mins<br> Director: Joanna Hogg'
-pdf: '2022-01-17-souvenir-part-II.pdf'
+pdf: '2022-02-18-souvenir-part-II.pdf'
 ---
-
-_+ Q&A with writer-director Joanna Hogg_
 
 How do you follow a film like _The Souvenir_ (2019)? Joanna Hogg’s unsparing portrait of the relationship between a student filmmaker, Julie (Honor Swinton-Byrne) and an older man, Anthony (Tom Burke), who ends up dying from a heroin overdose, was loaded with metatextual emotion by virtue of being naked autobiography. Hogg recycled personal mementos, using photographs of the view from her own apartment window in 1980s Knightsbridge to show Julie’s view of the same and bringing her own gold-framed bed onto the set for Julie to sleep in. These tactile details blurred the line between truth and art, a line further blurred with playful sophistication in this transfixing sequel.
 
