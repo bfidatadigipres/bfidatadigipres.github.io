@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Night of the Hunter
-published: false
+published: true
 date: 2022-02-21
 readtime: true
 categories: ['SENIORS']
