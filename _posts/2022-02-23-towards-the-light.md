@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Towards the Light<br>Asta Nielsen
-published: false
+published: true
 date: 2022-02-23
 readtime: true
 categories: ['IN THE EYES OF A SILENT STAR<br> THE FILMS OF ASTA NIELSEN']
