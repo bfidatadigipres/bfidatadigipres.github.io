@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ali & Ava
-published: false
+published: true
 date: 2022-02-28
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br>POWERED BY JAGUAR']
