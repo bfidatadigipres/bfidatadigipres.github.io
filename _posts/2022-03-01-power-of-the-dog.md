@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of the Dog +<br> Jane Campion in Conversation
-published: false
+published: true
 date: 2022-03-01
 readtime: true
 categories: ['EVENTS & PREVIEWS']
