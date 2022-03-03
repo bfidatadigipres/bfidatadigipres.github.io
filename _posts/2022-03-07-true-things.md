@@ -1,7 +1,7 @@
 ---
 layout: post
 title: True Things
-published: false
+published: true
 date: 2022-03-07
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br>POWERED BY JAGUAR']
