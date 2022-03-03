@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rebel Dread + Q&A
-published: false
+published: true
 date: 2022-03-03
 readtime: true
 categories: ['PREVIEW']
