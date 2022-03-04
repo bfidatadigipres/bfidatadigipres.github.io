@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8½
-published: false
+published: true
 date: 2022-03-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
