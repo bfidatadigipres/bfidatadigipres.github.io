@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les Demoiselles de Rochefort
-published: false
+published: true
 date: 2022-03-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
