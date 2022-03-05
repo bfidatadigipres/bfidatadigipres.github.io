@@ -2,12 +2,12 @@
 layout: post
 title: Les Demoiselles de Rochefort
 published: true
-date: 2022-03-05
+date: 2022-03-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Music, Comedy, Drama]
 metadata: 'France, 1967, 126 mins<br> Director: Jacques Demy'
-pdf: '2022-03-05-demoiselles-de-rochefort.pdf'
+pdf: '2022-03-06-demoiselles-de-rochefort.pdf'
 ---
 
 Following on from the success of _The Umbrellas of Cherbourg_ comes  _Les Demoiselles de Rochefort_ – Jacques Demy’s large-scale tribute to the Hollywood musical featuring screen legend Gene Kelly. The story centres on twin sisters Delphine and Solange (played by real-life sisters Catherine Deneuve and Francoise Dorléac) who, tired of their humdrum existence, dream of finding success and romance in Paris. The superb ensemble, also featuring Danielle Darrieux, Michel Piccoli, Jacques Perrin, George Chakiris and Grover Dale, weave and wander around the town, looking for and just missing the love of their lives.<br>
