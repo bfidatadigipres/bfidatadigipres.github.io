@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spirited Away
-published: false
+published: true
 date: 2022-03-28
 readtime: true
 categories: ['ANIME']
