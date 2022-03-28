@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Léon Morin, prêtre
-published: false
+published: true
 date: 2022-03-28
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
