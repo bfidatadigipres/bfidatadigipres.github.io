@@ -111,7 +111,7 @@ Sat 16 Apr 18:35; Tue 26 Apr 20:55<br>
 This season was co-programmed by writer and academic Hanako Miyata<br>
 
 <img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
-<br><br><br>
+<br><br><br><br><br>
 
 **Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
 <br>
