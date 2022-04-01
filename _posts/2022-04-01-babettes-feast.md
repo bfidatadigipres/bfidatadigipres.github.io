@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Babette's Feast
+title: Babette’s Feast
 published: true
 date: 2022-04-01
 readtime: true
