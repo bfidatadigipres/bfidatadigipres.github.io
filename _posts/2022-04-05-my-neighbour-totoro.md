@@ -20,7 +20,7 @@ _Totoro_ is among the simplest of films, one of very few with the courage to tel
 This is a film in which everything that will ever be important happens without anything much happening at all. Every frame is packed with life – intensely observed, scrupulously presented, passionately loved. Totoro’s forest remains evergreen because there is more intensity and passion invested in any given frame than some franchises muster across an expensive multi-part run. The film’s initial lack of box-office success gave way to a long run as Ghibli’s biggest earner, largely by turning that dedication and commitment to making something beautiful into a delightful range of merchandise.<br>
 
 The woods, valleys and small farms that Miyazaki documents with such a depth of tenderness have now been built over, swallowed by the expansion of Tokyo. _Totoro_, however, endures, a remembered dream flying across a sky of perfect blue in a landscape that will never fade or die. If Miyazaki had never made another film, he would still be one of the greatest of all directors.<br> 
-**Helen McCarthy, Sight & Sound, Summer 2020**<br>
+**Helen McCarthy, _Sight & Sound_, Summer 2020**<br>
 
 Studio Ghibli was established after the success of _Nausicaä: Valley of the Wind_ (1984) specifically for the production of Hayao Miyazaki’s follow-up, the Swiftian tale of airborne adventure, _Laputa: Castle in the Sky_ (1986). However, it was the double-billing of his next title with Isao Takahata’s tonally quite different _Grave of the Fireflies_ that really cemented the position of Japan’s best-loved animation house on its home turf.<br>
 
