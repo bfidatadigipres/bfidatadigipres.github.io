@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Body
-published: false
+published: true
 date: 2022-04-06
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br>POWERED BY JAGUAR']
