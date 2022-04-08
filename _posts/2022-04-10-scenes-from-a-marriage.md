@@ -7,7 +7,7 @@ readtime: true
 categories: ['LIV ULLMANN - FACE TO FACE']
 tags: [Drama]
 metadata: 'Sweden 1973, 162 mins<br> Director: Ingmar Bergman'
-pdf: '2022-04-10-scenes-from-a-marriage-intro.pdf'
+pdf: '2022-04-10-scenes-from-a-marriage.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
