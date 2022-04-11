@@ -2,12 +2,12 @@
 layout: post
 title: The Gospel According to Matthew
 published: true
-date: 2021-05-23
+date: 2022-04-11
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Biopic]
 metadata: 'Italy/France, 1964, 137 mins<br> Director: Pier Paolo Pasolini'
-pdf: '2021-05-23-gospel-according-to-matthew.pdf'
+pdf: '2022-04-11-gospel-according-to-matthew.pdf'
 ---
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
 
@@ -95,48 +95,56 @@ Italy/France 1964<br>
 
 
 **BIG SCREEN CLASSICS**<br>
-**Persona**<br>
-Mon 17 May 14:30; Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
-**Touch of Evil**<br>
-Tue 18 May 14:30; Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
-**The Tango Lesson**<br>
-Tue 18 May 20:45; Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
-**Citizen Kane**<br>
-Wed 19 May 18:00; Sun 30 May 12:40; Mon 21 Jun 20:45<br>
-**L’eclisse (The Eclipse)**<br>
-Thu 20 May 14:15; Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
-**La Haine**<br>
-Thu 20 May 17:50; Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
-**The Last Picture Show (Director’s Cut)**<br>
-Fri 21 May 20:30; Mon 31 May 12:50; Mon 7 Jun 17:45<br>
-**Steamboat Bill, Jr.**<br>
-Sat 22 May 12:00; Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>
-**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
-Sat 22 May 21:00; Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
-**The Big City (Mahanagar)**<br>
-Sun 23 May 12:10; Wed 23 Jun 17:40<br>
-**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br>
-Sun 23 May 15:20; Thu 24 Jun 17:40<br>
-**The Night of the Hunter**<br>
-Mon 24 May 14:30; Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
-**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
-Tue 25 May 20:30; Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
-**Alice in the Cities (Alice in den Städten)**<br>
-Wed 26 May 17:50; Tue 1 Jun 14:30; Fri 25 Jun 20:45<br>
-**Eraserhead**<br>
-Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
-**Man Hunt**<br>
-Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
-**Sweet Smell of Success**<br>
-Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
-**The Man Who Wasn’t There**<br>
-Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
-**The White Ribbon (Das weisse Band)**<br>
-Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
-Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
-**Bitter Victory**<br>
-Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
+**Léon Morin, prêtre (Léon Morin, Priest)**<br>
+Mon 28 Mar 17:50; Thu 7 Apr 20:40;  Sun 24 Apr 12:00<br>
+**Lourdes**<br>
+Tue 29 Mar 20:50; Thu 7 Apr 18:10;  Wed 20 Apr 20:50<br>
+**Ordet (The Word)**<br>
+Wed 30 Mar 17:45 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 10 Apr 15:30;  Fri 15 Apr 18:10; Sat 23 Apr 11:50<br>
+**Black Narcissus**<br>
+Thu 31 Mar 21:00; Tue 12 Apr 20:45;  Tue 19 Apr 18:10; Sat 30 Apr 15:00<br>
+**Babette’s Feast (Babettes Gaestebud)**<br>
+Fri 1 Apr 18:10; Sun 10 Apr 12:10;  Sat 16 Apr 12:20; Tue 26 Apr 20:50<br>
+**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**<br>
+Sat 2 Apr 20:40; Fri 8 Apr 18:15; Tue 19 Apr 20:50; Mon 25 Apr 18:10<br>
+**The Seventh Seal (Det Sjunde Inseglet)**<br>
+Sun 3 Apr 15:20; Mon 18 Apr 15:20;  Fri 22 Apr 20:50<br>
+**The Miracle Woman**<br>
+Mon 4 Apr 18:20; Fri 15 Apr 20:50;  Thu 28 Apr 18:10; Fri 29 Apr 18:10<br>
+**Stalker**<br>
+Tue 5 Apr 20:00; Sat 9 Apr 17:30;  Thu 21 Apr 20:00; Sat 23 Apr 20:00<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Wed 6 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 14 Apr 20:30;  Fri 22 Apr 17:50; Mon 25 Apr 20:45<br>
+**Une Femme douce (A Gentle Creature)**<br>
+Wed 6 Apr 21:00; Wed 13 Apr 18:20 (+ intro by independent filmmaker and critic Alex Barrett);  Mon 18 Apr 13:10<br>
+**The New World**<br>
+Sun 10 Apr 17:30; Sat 30 Apr 19:50<br>
+**The Gospel According to Matthew  (Il vangelo secondo Matteo)**<br>
+Mon 11 Apr 18:00; Sun 17 Apr 14:40<br>
+**The Last Temptation of Christ**<br>
+Fri 15 Apr 14:15; Sun 24 Apr 17:40<br>
+**Sebastiane**<br>
+Sat 16 Apr 14:50; Tue 19 Apr 20:30; Wed 27 Apr 17:45 (+ intro by BFI curator Simon McCallum)<br>
+**I Confess**<br>
+Sun 17 Apr 12:00; Wed 20 Apr 18:00 (+ intro tbc)<br>
+<br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 
 
