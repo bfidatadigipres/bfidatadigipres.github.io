@@ -148,6 +148,7 @@ Sun 24 Apr 17:50; Fri 29 Apr 20:20 (+ intro by Elaine Wong, short film programme
 
 **In cultural partnership with**<br><br>
 <img style="float: left;" src="/img/norwegian embassy.png" width="30%" height="30%"><br><br><br>
+
 <img style="float: left;" src="/img/embassy of sweden.jpg" width="30%" height="30%">
 <br><br><br><br><br>
 **BFI SOUTHBANK**  
