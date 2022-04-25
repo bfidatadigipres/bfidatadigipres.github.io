@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ghost in the Shell
-published: false
+published: true
 date: 2022-04-25
 readtime: true
 categories: ['ANIME']
