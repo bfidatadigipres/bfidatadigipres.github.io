@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Illuminating the Wilderness
-published: false
+published: true
 date: 2022-04-26
 readtime: true
 categories: ['EXPERIMENTA - RELAXED SCREENING']
@@ -58,8 +58,15 @@ UK 2016
 Monday 30 May 18:10 NFT3  
 **In Pursuit of Silence**  
 Monday 27 June 18:20 NFT3
-<br>
 
+**The next Experimenta screenings are:**  
+**LENSING THE LANDSCAPE: RIVER YAR + discussion with artists William Raban and Chris Welsby**  
+Wednesday 18 May 18:15 NFT1  
+**PREMIERE: WAYFINDER + Q&A with director Larry Achiampong**  
+Tuesday 21 June 18:15 NFT3  
+**EXPERIMENTA MIXTAPE: S02 E01 Curated by Onyeka Igwe**  
+Wednesday 08 June 18:00 NFT3  
+<br>
 
 
 **Relaxed screenings**<br>
@@ -85,7 +92,7 @@ Relaxed screenings are presented each month for those in the neurodiverse commun
 
 <li>There will be a safe space for customers to use if you need to leave the auditorium.
 
-<li>You will be able to make some noise.
+<li>We understand you may make some noise.
 
 <li>Please ask us if you need help.
 
