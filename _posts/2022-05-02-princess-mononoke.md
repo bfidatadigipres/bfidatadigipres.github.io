@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Princess Mononoke
-published: false
+published: true
 date: 2022-05-02
 readtime: true
 categories: ['BFI FAMILIES']
