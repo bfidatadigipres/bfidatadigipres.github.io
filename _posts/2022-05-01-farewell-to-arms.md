@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Farewell to Arms
-published: false
+published: true
 date: 2022-05-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
