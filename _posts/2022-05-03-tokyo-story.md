@@ -2,7 +2,7 @@
 layout: post
 title: Tokyo Story
 published: true
-date: 2022-05-3
+date: 2022-05-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
