@@ -10,6 +10,10 @@ metadata: 'Belgium 1992, 96 mins<br> Directors: Rémy Belvaux, André Bonzel,  B
 pdf: '2022-05-02-man-bites-dog.pdf'
 ---
 
+**The films of the New French Extremity and the accompanying focus on Gaspar Noé examine an important, controversial and highly violent cinema movement. They are not suitable for all.**
+
+**The film you are about to watch may contain very dark themes, graphic imagery, and scenes of a very upsetting nature including sexual violence and body horror.**
+
 **SPOILER WARNING** The following notes give away some of the plot.
 
 A low-budget Belgian horror movie with strong cult status, _Man Bites Dog_ revolves around a film crew shooting a documentary about Ben the serial killer (Benoît Poelvoorde). The crew follows Ben when he visits his parents, attends a bar and recites his poetry. They also follow him when he rapes and murders people: men, women, young and old. Despite its comic aspects, _Man Bites Dog_ is truly disturbing, not only because Ben commits his violent acts so cold-bloodedly, but also because the film crew witnessing the brutality seems far from bothered by it. In fact, as the narrative unfolds, the crew becomes more and more involved in the various murders.
