@@ -10,6 +10,10 @@ metadata: 'France 1999, 96 mins<br> Director: François Ozon'
 pdf: '2022-05-04-criminal-lovers.pdf'
 ---
 
+**The films of the New French Extremity and the accompanying focus on Gaspar Noé examine an important, controversial and highly violent cinema movement. They are not suitable for all.
+
+**The film you are about to watch may contain very dark themes, graphic imagery, and scenes of a very upsetting nature including sexual violence and body horror.**
+
 **François Ozon on ‘Criminal Lovers’**
 
 _In_ Criminal Lovers _you collide the world's violent reality with the fantasy and symbolism of fairy tales. It’s a daring project._
