@@ -10,6 +10,10 @@ metadata: 'France 1998, 93 mins<br> Director: Gaspar Noé'
 pdf: '2022-05-01-i-stand-alone.pdf'
 ---
 
+**The films of the New French Extremity and the accompanying focus on Gaspar Noé examine an important, controversial and highly violent cinema movement. They are not suitable for all.**
+
+**The film you are about to watch may contain very dark themes, graphic imagery, and scenes of a very upsetting nature including sexual violence and body horror.**
+
 _Seul contre tous_ is a feature-length follow-up to Gaspar Noé’s acclaimed 1992 short _Carne_. In the earlier film the same unnamed central character, a dour butcher, brings up his possibly autistic daughter in a nightmarish world of blood, horsemeat, stunted relationships and frustrated sexual desire. With its disconcerting humming soundtrack, minimal dialogue and harshly drawn environment, _Carne_ is directly indebted to David Lynch’s _Eraserhead_, which Noé describes as ‘the closest thing to a nightmare’ he has seen on the screen.
 
 Despite the success of _Carne_, which has been shown several times on French television and won Noé the support of a disparate group of luminaries after its screening at Cannes, the director had a hard time completing _Seul contre tous_, having been snubbed by France’s official funding mechanisms and Canal Plus. This accounts for the five-year gap between the films. Noé lists his supporters in the end credits of _Seul contre tous_, who include the fashion designer Agnès B and Dario Argento. Agnès B lent Noé funds at the point when he had used his own money – from sales of _Carne_ – to the point of bankruptcy. She is, says Noé, the saviour of his film.
