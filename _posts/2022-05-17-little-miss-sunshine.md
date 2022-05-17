@@ -119,8 +119,7 @@ Matt Winston _(pageant MC)_
 Joan Scheckel _(judge)_  
 Casandra Ashe _(girl in hallway)_  
 Mel Rodriguez _(Officer Martinez)_  
-Alexandria Alaman, Alissa Anderegg, Brittany Baird, Cambria Baird, Brenae Bandy, Kristen Holaas, Maliah Hudson, Destry Jacobs, Lindsey Jordan,  
-Shane Murphy, Annabelle Roberts, Sydni Stevenson-Love, Nicole Stoehr, Lauren Yee _(pageant contestants)_
+Alexandria Alaman, Alissa Anderegg, Brittany Baird, Cambria Baird, Brenae Bandy, Kristen Holaas, Maliah Hudson, Destry Jacobs, Lindsey Jordan, Shane Murphy, Annabelle Roberts, Sydni Stevenson-Love, Nicole Stoehr, Lauren Yee _(pageant contestants)_
 
 USA 2006<br>
 102 mins<br>
