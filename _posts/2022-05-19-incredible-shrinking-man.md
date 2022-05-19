@@ -6,7 +6,7 @@ date: 2022-05-19
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Sci-Fi]
-metadata: 'USA 1957, 92 mins<br> Director: Jack Arnold'
+metadata: 'USA 1957, 81 mins<br> Director: Jack Arnold'
 pdf: '2022-05-19-incredible-shrinking-man.pdf'
 ---
 
@@ -85,7 +85,7 @@ _uncredited_<br>
 Luce Potter _(Violet)_<br>
 
 USA 1957©<br>
-92 mins<br>
+81 mins<br>
 
 **BIG SCREEN CLASSICS**<br>
 **The Incredible Shrinking Man**<br>
