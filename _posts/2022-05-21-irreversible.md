@@ -1,17 +1,14 @@
 ---
 layout: post
-title: Irreversible - The Straight Cut
+title: Irreversible
 published: true
-date: 2022-05-02
+date: 2022-05-21
 readtime: true
-categories: ['FOCUS ON - GASPAR NOÉ']
+categories: ['CRUEL FLESH<br>FILMS OF THE  NEW FRENCH EXTREMITY']
 tags: [Drama]
-metadata: 'France 2002, 86 mins<br> Director: Gaspar Noé'
-pdf: '2022-05-02-irreversible-straight-cut.pdf'
+metadata: 'France 2002, 97 mins<br> Director: Gaspar Noé'
+pdf: '2022-05-21-irreversible.pdf'
 ---
-
-In 2019 Gaspar Noé returned to his 2002 film _Irreversible_ to tell the story of Marcus and Pierre’s revenge mission in chronological order. Noé’s clock-wise recut goes beyond a linear reassembling of the narrative. It creates a shift in tone, leading us to relate and empathise with the characters in a different way, while losing none of the original story’s shocking cruelty.  
-**bfi.org.uk**
 
 In his introduction to the Edinburgh screening of _Irreversible_,  writer/director Gaspar Noé told the audience that certain scenes may prove unwatchable, but asked them to stick with it, joking that the reverse narrative meant the film actually had an ironically ‘happy ending’. While his comments were interpreted by some as a William Castle-style come-on (daring the audience to endure the horrors ahead), they were clearly based in experience, the director having observed many patrons trying to make it through _Irreversible_ and failing, whether through choice (disgusted walk-outs) or sheer physical obligation (those who could bear no more). The fact that it is already becoming fashionable to bemoan how ‘unaffected’ one was by _Irreversible_ stands as proof of its extraordinary impact, to which the studiedly cynical are now affecting imperviousness.
 
@@ -79,7 +76,7 @@ Foulaux _(Janice)_
 Gaspar Noé _(Rectum Club masturbator)_ *
 
 France 2002©  
-86 mins
+97 mins
 
 *Uncredited
 <br><br>
