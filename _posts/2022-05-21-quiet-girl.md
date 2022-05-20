@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'Ireland 2022, 95 mins<br> Director: Colm Bairéad'
-pdf: '2022-05-19-quiet-girl.pdf'
+pdf: '2022-05-21-quiet-girl.pdf'
 ---
 
 This sensitive adaptation of Claire Keegan’s acclaimed short story ‘Foster’ follows a quiet, neglected girl as she’s sent away from her dysfunctional family to live with foster parents for the summer in rural Ireland. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one. Centred on a remarkable performance by its young star Catherine Clinch, this poignant Irish-language film is both a moving coming of age story and a beautiful portrait of rural life.<br>
