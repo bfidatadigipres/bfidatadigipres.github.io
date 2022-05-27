@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Taxi Driver
-published: true
-date: 2022-01-07
+published: false
+date: 2022-06-04
 readtime: true
-categories: ['HOOKED TO THE SILVER SCREEN<br>BOWIE AT THE MOVIES']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
-pdf: '2022-01-07-taxi-driver.pdf'
+pdf: '2022-06-04-taxi-driver.pdf'
 ---
 
-Travis Bickle (Robert De Niro), an insomniac ex-marine traumatised by Vietnam, is disgusted by the nocturnal New York street life he observes from his taxi. Rejected by beautiful political aide Betsy (Cybill Shepherd), Travis becomes ambiguously obsessed with a child prostitute (Jodie Foster) and seems increasingly unstable. Paul Schrader’s screenplay draws on the mythology of 1940s noir, and Scorsese directs with an eye for expressionist detail while eliciting a brilliant central performance from De Niro. Wowed by the film in Berlin, Bowie would go on to collaborate with Scorsese and Schrader on film projects.  
+It was writer Paul Schrader whose love of _Pickpocket_ drove him to script this searing drama – the first of his many ‘lonely man’ studies – about an obsessive New York taxi driver driven to crime. Schrader later borrowed heavily from Bresson’s film for _American Gigolo_ – sadly unavailable for this programme. Though also an admirer, Scorsese opts for a mise-en-scène more expressionist than Bressonian.  
 **bfi.org.uk**
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -94,32 +94,35 @@ _Taxi Driver_ by Amy Taubin is available from the BFI Shop: **https://shop.bfi.o
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-**HOOKED TO THE SILVER SCREEN: BOWIE AT THE MOVIES**<br>
-**2001: A Space Odyssey**<br>
-Sat 1 Jan 14:20, Sun 23 Jan 18:00,  Wed 26 Jan 14:00, 17:30 (IMAX)<br>
-**Metropolis**<br>
-Sun 2 Jan 12:00, Tue 4 Jan 14:30, Sun 30 Jan 12:00 (with live piano accompaniment)<br>
-**A Clockwork Orange**<br>
-Mon 3 Jan 13:10, Wed 12 Jan 20:25,  Sun 23 Jan 15:00, Wed 26 Jan 20:40 (IMAX)<br>
-**Querelle**<br>
-Tue 4 Jan 20:20, Tue 18 Jan 18:00<br>
+**BIG SCREEN CLASSICS**<br>
+**The Merchant of Four Seasons  (Händler der vier Jarhreszeiten)**<br>
+Wed 1 Jun 18:10 (+ intro); Sat 11 Jun 20:30<br>
+**Ivan’s Childhood (Ivanovo Detsvo)**<br>
+Thu 2 Jun 14:30; Mon 20 Jun 20:50<br>
+**The Goalkeeper’s Fear of the Penalty (Die Angst des Tormanns beim Elfmeter)**<br>
+Fri 3 Jun 20:50; Mon 13 Jun 18:10; Fri 24 Jun 20:45<br>
 **Taxi Driver**<br>
-Fri 7 Jan 18:00, Sun 16 Jan 18:20,  Thu 27 Jan 20:45<br>
-**The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) + Un chien andalou**<br>
-Sat 15 Jan 12:30 (+ Inside Cinema: David Bowie), Sat 22 Jan 15:15<br>
+Sat 4 Jun 20:45; Wed 15 Jun 20:40;  Sun 26 Jun 18:20<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Sun 5 Jun 13:10; Tue 14 Jun 20:45;  Wed 29 Jun 20:40<br>
+**Escape from Alcatraz**<br>
+Mon 6 Jun 20:45; Sat 25 Jun 17:50<br>
+**Thief**<br>
+Tue 7 Jun 20:30; Thu 16 Jun 18:00;  Sat 18 Jun 20:30; Thu 30 Jun 20:30<br>
+**71 Fragments of a Chronology of Chance  (71 Fragmente einer Chronologie des Zufalls)**<br>
+Wed 8 Jun 18:10 (+ intro by Geoff Andrew, Programmer at Large); Mon 27 Jun 21:00<br>
+**Rosetta**<br>
+Fri 10 Jun 20:50; Wed 22 Jun 18:15 (+ intro)<br>
+**Stranger by the Lake (L’Inconnu du lac)**<br>
+Sun 12 Jun 18:10; Wed 15 Jun 18:10;  Tue 28 Jun 20:40<br>
+**Down by Law**<br>
+Fri 17 Jun 20:45; Tue 21 Jun 20:45<br>
+**Certain Women**<br>
+Sun 19 Jun 13:10; Thu 23 Jun 20:50; Wed 29 Jun 18:10 (+ intro by BFI Director of Public Programme and Audiences, Jason Wood)<br>
 <br>
 
-**In association with**  
-<img style="float: left;" src="/img/bowie-75.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-**Promotional partner**  
-<img style="float: left;" src="/img/brixton-brewery.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
-<br><br>
-
 **BFI SOUTHBANK**  
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
