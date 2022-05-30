@@ -38,6 +38,7 @@ Australia/UK 2013<br>
 
 
 <img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>
+
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
 **RELAXED SERIES:**
