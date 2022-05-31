@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Merchant of Four Seasons
-published: false
+published: true
 date: 2022-06-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
