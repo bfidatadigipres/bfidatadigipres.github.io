@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judy Garland - 20th Century Icon
+title: Judy Garland<br> 20th Century Icon
 published: true
 date: 2022-06-01
 readtime: true
