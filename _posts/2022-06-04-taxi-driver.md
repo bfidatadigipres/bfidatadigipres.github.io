@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taxi Driver
-published: false
+published: true
 date: 2022-06-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
