@@ -7,7 +7,7 @@ readtime: true
 categories: ['OF SIN AND SALVATION<br>THE CINEMA OF ROBERT BRESSON']
 tags: [Drama]
 metadata: 'France 1951, 110 mins<br> Director: Robert Bresson'
-pdf: '2022-06-02-diary-of-a-contry-priest.pdf'
+pdf: '2022-06-02-diary-of-a-country-priest.pdf'
 ---
 
 This portrait of an ailing young curate haunted by his perceived failures in saving human souls is something of a transitional work; the literary script (from a novel by Georges Bernanos) is played out by a partly non-professional cast, while a new, stark visual simplicity is introduced. The dark subject matter is transformed by Bresson’s distinctive narrative style – the illuminating interplay of voiceover and image, leading to an evocation of liberating grace.<br>
