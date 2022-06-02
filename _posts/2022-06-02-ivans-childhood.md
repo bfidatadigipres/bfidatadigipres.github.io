@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ivan's Childhood
-published: false
+published: true
 date: 2022-06-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
