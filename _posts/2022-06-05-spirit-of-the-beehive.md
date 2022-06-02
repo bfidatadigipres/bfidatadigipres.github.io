@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Spirit of the Beehive
-published: false
+published: true
 date: 2022-06-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
