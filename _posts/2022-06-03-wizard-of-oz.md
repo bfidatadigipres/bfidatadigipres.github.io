@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wizard of Oz
-published: false
+published: true
 date: 2022-06-03
 readtime: true
 categories: ['BFI FAMILIES']
