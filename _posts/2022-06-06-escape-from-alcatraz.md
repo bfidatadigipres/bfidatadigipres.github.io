@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escape from Alcatraz
-published: false
+published: true
 date: 2022-06-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
