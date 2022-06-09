@@ -2,15 +2,15 @@
 layout: post
 title: All My Friends Hate Me
 published: true
-date: 2021-10-18
+date: 2022-06-09
 readtime: true
 categories: ['PREVIEWS']
 tags: [Comedy, Horror]
 metadata: 'UK 2021, 94 mins<br> Director: Andrew Gaynord'
-pdf: '2021-10-18-all-my-friends-hate-me.pdf'
+pdf: '2022-06-09-all-my-friends-hate-me.pdf'
 ---
 
-_+ intro and Q&A with Tom Palmer and Tom Stourton_
+_+ Q&A with Andrew Gaynord, Tom Palmer and Tom Stourton_
 
 Just because you’re paranoid, Joseph Heller noted, doesn’t mean they aren’t after you. This is birthday boy Pete’s own Catch-22: invited by his old university crew to a country mansion celebration, from the outset something feels off. He’s constantly the butt of strangely pointed jokes. And what about the local chancer who has latched onto the group and seems to be studying him rather too closely?
 
@@ -28,6 +28,24 @@ We’ll also be occasionally harnessing film’s powers to slowly induce paranoi
 
 Our audience will be completely in sync with Pete’s desperation to be liked. Pete feels alone, lost, and wanting to connect. He just wants to have a good birthday party, guys! To me, this is funny.<br>
 **Production notes**<br>
+
+**About the panel**
+
+From Jamie Demetriou, Natasia Demetriou and Lolly Adefope in the U.K. to John Early, Phil Burgers and Tim Robinson in the U.S., **Andrew Gaynord** has a track record of working with comedy’s most exciting rising stars. Andrew is known for Netflix’s _The Characters_ (John Early, Tim Robinson), Comedy Central’s _Detroiters_ and C4’s _Stath Lets Flats_ (Pilot+S3) for which he earned a BAFTA nomination (Best Scripted Comedy).
+
+Prior to this Andrew directed (and helped create) a string of UK comedy pilots including the critically acclaimed _People Time_ (‘best comedy thing I’ve seen in a while’ – Adam Buxton / ‘every beat is perfect’ – _The Guardian_), award-winning comedian Dr. Brown’s C4 show _Dr. Brown: The Outing_. And, more recently, BBC’s _Ellie & Natasia_ [Pilot] starring Natasia Demetriou and Ellie White, Lolly Adefope’s debut short film _Sorry_ and Jax Media’s _Everyone Else Burns_ [Pilot] starring Simon Bird. In his debut feature _All My Friends Hate Me_, Andrew reinforces his fresh, distinct and pioneering comic vision, distilling the talent of a typically striking cast. 
+
+This is the third time Andrew has collaborated with the writers having directed the Toms in _Live at the Electric_ (2014) as well as directing their Award Nominated Edinburgh stage show _Totally Tom_ in 2012.
+
+**Tom Palmer & Tom Stourton** began their career at The Edinburgh Festival where their show _Totally Tom_ received numerous accolades including a nomination for The Fosters Comedy Award – Best Newcomers, 2011. ‘Feverish imagination’ ★★★★ (_Metro_) ‘Refreshingly original’ ★★★★★ (_Telegraph_) 
+
+Their subsequent Edinburgh run of _The Prison Show_ was met with equal critical acclaim and commercial success, with a national tour and an extended run at the Soho Theatre. ‘Deliriously funny’ (_Independent_), ‘The writing is razor sharp … dramatic ability beyond the call of comedy’ ★★★★ (_Herald_), ‘ludicrously inventive characters’ ★★★★★★ _The Skinny_, ‘Warped, clever, funny and well-acted’ (_Times_)
+
+Their screen work has been broadcast on Channel 4 (_Comedy Lab_) BBC3 (_Live at the Electric_, _Bamboo_), Sky Atlantic (_Common Ground_) and BBC Online (_Dean 
+& Midu_).
+
+**Leigh Singer (Host)** is a film programmer, journalist and video essayist whose written and audio-visual work has appeared in numerous newspapers, magazines and websites, including _Sight & Sound_, _Little White Lies_, _The Guardian_ and BFI online. He has been a Programme Advisor for the London Film Festival since 2014 and teaches film studies for various European institutions, including a video essay module at the National Film & Television School. You can find him on Twitter @Leigh_Singer.<br>
+<br>
 
 
 **ALL MY FRIENDS HATE ME**<br>
@@ -65,26 +83,8 @@ Kieran Hodgson _(Graham)_<br>
 UK 2021<br>
 94 mins<br>
 
-Courtesy of BFI Distribution<br>
+A BFI release<br>
 
-
-**IN PERSON & PREVIEWS**<br>
-**Kermode Live in 3D at the BFI**<br>
-Mon 18 Oct 18:15; Mon 8 Nov 18:10<br>
-**Preview: Last Night in Soho**<br>
-Thu 21 Oct 17:50; 31 Oct 17:40 (+ Q&A with Edgar Wright)<br>
-**Screen Epiphany: Adjoa Andoh introduces Mandabi**<br>
-Sun 24 Oct 18:30<br>
-**Mike Leigh in Conversation**<br>
-Thu 28 Oct 20:40<br>
-**Doctor Who: Galaxy 4 (animated)**<br>
-Sun 7 Nov 12:00<br>
-**Preview: Drive My Car (Doraibu mai kâ)**<br>
-Mon 15 Nov 19:40<br>
-**Preview: The Hand of God (È stata la mano di Dio)**<br>
-Thu 18 Nov 18:30<br>
-**TV Preview: The Amazing Mr Blunden + Q&A with writer-director-actor Mark Gatiss and actor Tamsin Greig**<br>
-Mon 29 Nov 18:15<br>
 
 
 **BFI SOUTHBANK**  
