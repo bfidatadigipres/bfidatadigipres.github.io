@@ -2,15 +2,14 @@
 layout: post
 title: All My Friends Hate Me
 published: true
-date: 2022-06-09
+date: 2022-06-10
 readtime: true
-categories: ['PREVIEWS']
+categories: ['NEW RELEASES']
 tags: [Comedy, Horror]
 metadata: 'UK 2021, 94 mins<br> Director: Andrew Gaynord'
-pdf: '2022-06-09-all-my-friends-hate-me.pdf'
+pdf: '2022-06-10-all-my-friends-hate-me.pdf'
 ---
 
-_+ Q&A with Andrew Gaynord, Tom Palmer and Tom Stourton_
 
 Just because you’re paranoid, Joseph Heller noted, doesn’t mean they aren’t after you. This is birthday boy Pete’s own Catch-22: invited by his old university crew to a country mansion celebration, from the outset something feels off. He’s constantly the butt of strangely pointed jokes. And what about the local chancer who has latched onto the group and seems to be studying him rather too closely?
 
@@ -29,7 +28,7 @@ We’ll also be occasionally harnessing film’s powers to slowly induce paranoi
 Our audience will be completely in sync with Pete’s desperation to be liked. Pete feels alone, lost, and wanting to connect. He just wants to have a good birthday party, guys! To me, this is funny.<br>
 **Production notes**<br>
 
-**About the panel**
+**About the filmmakers**
 
 From Jamie Demetriou, Natasia Demetriou and Lolly Adefope in the U.K. to John Early, Phil Burgers and Tim Robinson in the U.S., **Andrew Gaynord** has a track record of working with comedy’s most exciting rising stars. Andrew is known for Netflix’s _The Characters_ (John Early, Tim Robinson), Comedy Central’s _Detroiters_ and C4’s _Stath Lets Flats_ (Pilot+S3) for which he earned a BAFTA nomination (Best Scripted Comedy).
 
@@ -42,9 +41,7 @@ This is the third time Andrew has collaborated with the writers having directed 
 Their subsequent Edinburgh run of _The Prison Show_ was met with equal critical acclaim and commercial success, with a national tour and an extended run at the Soho Theatre. ‘Deliriously funny’ (_Independent_), ‘The writing is razor sharp … dramatic ability beyond the call of comedy’ ★★★★ (_Herald_), ‘ludicrously inventive characters’ ★★★★★★ _The Skinny_, ‘Warped, clever, funny and well-acted’ (_Times_)
 
 Their screen work has been broadcast on Channel 4 (_Comedy Lab_) BBC3 (_Live at the Electric_, _Bamboo_), Sky Atlantic (_Common Ground_) and BBC Online (_Dean 
-& Midu_).
-
-**Leigh Singer (Host)** is a film programmer, journalist and video essayist whose written and audio-visual work has appeared in numerous newspapers, magazines and websites, including _Sight & Sound_, _Little White Lies_, _The Guardian_ and BFI online. He has been a Programme Advisor for the London Film Festival since 2014 and teaches film studies for various European institutions, including a video essay module at the National Film & Television School. You can find him on Twitter @Leigh_Singer.<br>
+& Midu_).<br>
 <br>
 
 
