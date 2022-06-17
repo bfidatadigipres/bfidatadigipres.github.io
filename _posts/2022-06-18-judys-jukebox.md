@@ -7,7 +7,7 @@ readtime: true
 categories: ['JUDY GARLAND - A STAR IS REBORN']
 tags: [Music, Musical]
 metadata:
-pdf: '2022-06-18-juys-jukebox.pdf'
+pdf: '2022-06-18-judys-jukebox.pdf'
 ---
 
 To celebrate 100 years of the brilliant Judy Garland, we present a jukebox night playing clips of some of the best-known hits from her career. Our guest host Caroline George will lead you through songs like _Meet Me in St. Louis’_ ‘The Trolley Song’, _Summer_ _Stock_’s infectiously joyful ‘Get Happy’, and of course Judy’s signature track – the Academy Award-winning ‘Over the Rainbow’. Singing along is essential and dressing up is strongly encouraged!
