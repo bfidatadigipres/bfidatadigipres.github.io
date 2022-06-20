@@ -3,7 +3,7 @@ layout: post
 title: I Could Go On Singing
 published: true
 date: 2022-06-21
-readtime: true
+readtime: false
 categories: ['JUDY GARLAND - A STAR IS REBORN']
 tags: [Drama]
 metadata: 'UK 1963, 100 mins<br> Director: Ronald Neame'
