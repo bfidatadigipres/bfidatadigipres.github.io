@@ -2,15 +2,13 @@
 layout: post
 title: Moon, 66 Questions
 published: true
-date: 2022-06-22
+date: 2022-06-24
 readtime: true
-categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'Greece-France 2021, 108 mins<br> Director: Jacqueline Lentzou'
-pdf: '2022-06-22-moon-66-questions.pdf'
+pdf: '2022-06-24-moon-66-questions.pdf'
 ---
-
-_+ Q&A with writer-director Jacqueline Lentzou_
 
 Jacqueline Lentzou’s short films have been winning prizes on the international festival circuit for some time. _Moon, 66 Questions_ is her debut feature; its subtitle is _A Film About Love, Movement and Flow (and The Lack of Them)_ – an appropriately enigmatic title for a film that holds so much of itself at bay.
 
@@ -78,8 +76,6 @@ Greece-France 2021©
 108 mins
 
 Courtesy of Modern Films
-
-Woman with a Movie Camera is generously supported by Jane Stanton
 <br><br>
 
 **REGULAR PROGRAMME**<br>
