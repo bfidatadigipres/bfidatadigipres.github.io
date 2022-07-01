@@ -2,12 +2,12 @@
 layout: post
 title: Daughters of the Dust
 published: true
-date: 2022-05-06
+date: 2022-07-02
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['IN THE BLACK FANTASTIC']
 tags: [Drama]
 metadata: 'USA 1991, 112 mins<br> Director: Julie Dash'
-pdf: '2022-05-06-daughters-of-the-dust.pdf'
+pdf: '2022-07-02-daughters-of-the-dust.pdf'
 ---
 
 An island off the coast of Georgia, 1902: a Gullah family is gathered for a last supper before the younger generation leave for the mainland, leaving behind the matriarch Nana and the traditions of their African ancestors. Impressionistic, imaginative and steeped in symbols, myth and history, Dash’s time-bending film combines and contrasts different belief systems to highly original effect.<br>
@@ -139,36 +139,42 @@ Leroy Simmons _(Shad Peazant)_<br>
 
 USA 1991©<br>
 112 mins<br>
+<br>
 
-**BIG SCREEN CLASSICS**<br>
-**A Farewell to Arms**<br>
-Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
-**Sunrise: A Song of Two Humans**<br>
-Mon 2 May 12:20; Mon 30 May 18:20<br>
-**Tokyo Story (Tokyo Monogatari)**<br>
-Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
-**The River**<br>
-Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
-**El Sur (The South)**<br>
-Thu 5 May 14:30; Mon 16 May 18:10<br>
+**IN THE BLACK FANTASTIC<br>
+VISIONARY FILMS OF AFROFUTURISM, MYTH AND SPECULATIVE FICTION**<br>
+**The Brother from Another Planet**<br>
+Fri 1 Jul 18:05; Wed 6 Jul 20:45<br>
+**Sankofa**<br>
+Sat 2 Jul 14:00 (+ intro by June Givanni, June Givanni Pan African Cinema Archive); Wed 20 Jul 20:35<br>
 **Daughters of the Dust**<br>
-Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
-**Syndromes and a Century (Sang sattawaat)**<br>
-Sat 7 May 18:10; Thu 12 May 20:50<br>
-**Still Walking (Aruitemo aruitemo)**<br>
-Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
-**The Long Day Closes**<br>
-Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
-**Journey to Italy (Viaggio in Italia)**<br>
-Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
-Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
-**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
-Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
-**The Miracle Worker**<br>
-Tue 17 May 14:30; Sun 29 May 11:20<br>
-**The Incredible Shrinking Man**<br>
-Thu 19 May 14:30; Tue 31 May 18:20<br>
+Sat 2 Jul 20:30; Wed 13 Jul 20:40<br>
+**Yeelen (Brightness)**<br>
+Sun 3 Jul 15:50; Thu 14 Jul 20:40<br>
+**Top of the Heap**<br>
+Mon 4 Jul 18:10; Sat 30 Jul 20:45<br>
+**In the Afrofuture**<br>
+Tue 5 Jul 18:20; Sun 17 Jul 16:00<br>
+**Atlantics (Atlantique)**<br>
+Thu 7 Jul 20:50; Sun 31 Jul 15:40<br>
+**Kuso**<br>
+Sat 9 Jul 20:50; Fri 22 Jul 18:10<br>
+**Touki Bouki**<br>
+Wed 13 Jul 17:50 (+ season introduction); Wed 27 Jul 20:50<br>
+**The Burial of Kojo**<br>
+Fri 15 Jul 18:30; Thu 28 Jul 20:40<br>
+**The Black Atlantic**<br>
+Mon 18 Jul 18:15 (+ Q&A); Sat 30 Jul 12:00<br>
+**Eve’s Bayou**<br>
+Tue 19 Jul 20:45; Thu 28 Jul 18:00<br>
+<br>
+
+Presented in cultural partnership with Hayward Gallery and Southbank Centre
+
+<img style="float: left;" src="/img/southbank-centre-logo-01.png" width="30%" height="30%">
+<br><br><br><br><br>
+
+**In the Black Fantastic** is an exhibition, curated by Ekow Eshun, of contemporary artists from the African diaspora who draw on science fiction, myth and Afrofuturism. Runs **29 Jun to 18 Sep at Hayward Gallery**.
 
 
 **BFI SOUTHBANK**  
