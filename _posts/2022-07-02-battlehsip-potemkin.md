@@ -34,7 +34,7 @@ Later in analysing the sequence, Eisenstein noted ‘the rhythmic drum of the so
 Eisenstein never saw Odessa or the steps again for nine years. In 1934 when he did, he stared down the steps contemptuously, unable to recapture his ‘creative ecstasy’ of 1925. He flung out incoherent remarks and fled. Next morning he was drawn back when he spat grape pips and obscenities down the steps, declaring unconvincingly that the inspiration for the stairs sequence was only the chase denouement of ‘the Western’, a statement contradicted by the reams he wrote about _Potemkin_.  
 **National Film Theatre programme notes**  
 
-**Battleship Potemkin (Bronenosets Potemkin)**  
+**BATTLESHIP POTEMKIN (BRONENOSETS POTEMKIN)**  
 _Director:_ Sergei M. Eisenstein  
 _Co-director:_ Grigori V. Aleksandrov  
 _Production:_ First Studio Goskino  
@@ -48,7 +48,7 @@ _Editor:_ Sergei M. Eisenstein
 _Art Director:_ Vasili Rakhals  
 _Intertitles:_ Nikolai Asseyev, S.M. Tretiakov  
 
-**Cast:**  
+**Cast**  
 Aleksandr Antonov _(Vakulinchuk, sailor)_  
 Vladimir Barsky _(Captain Golikov)_  
 Grigori V. Aleksandrov _(Lieutenant Guiliarovsky)_  
