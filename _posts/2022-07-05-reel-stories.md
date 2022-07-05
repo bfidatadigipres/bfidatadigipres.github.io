@@ -80,10 +80,10 @@ UK 2022©
 <br>
 
 **REGULAR PROGRAMME**  
-**Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**
+**Seniors Premiere: Reel Stories: An Oral History of London’s Projectionists + Q&A**  
 Tue 5 Jul 11:00  
-**Seniors’ Free Matinee: From Trinidad to Lagos + Q&A with author Stephen Bourne**   
-Tue 5 Jul 14:00
+**Seniors’ Free Matinee: From Trinidad to Lagos + Q&A with author Stephen Bourne**  
+Tue 5 Jul 14:00  
 **Art in the Making: Give Us This Day + intro**  
 Thu 14 Jul 18:10  
 **Silent Cinema: Phil-for-Short + intro by BFI Curator Bryony Dixon**  
