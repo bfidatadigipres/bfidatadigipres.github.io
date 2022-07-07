@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
 metadata: 'Denmark 1943, 97 mins<br> Director: Carl Dreyer'
-pdf: '2022-07-07-da-of-wrath.pdf'
+pdf: '2022-07-07-day-of-wrath.pdf'
 ---
 
 Though set in 17th-century Denmark, Dreyer’s masterpiece feels strangely modern in its interest in the plight of women in patriarchal society. Cursed by a woman he sent to the stake for witchcraft, an elderly parson suspects his young wife has become estranged from him after his son returns home… Pleasingly ambivalent regarding the women’s actions and capabilities, the film achieves great emotional intensity.
