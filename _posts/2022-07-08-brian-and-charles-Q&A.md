@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brian and Charles
+title: Brian and Charles + Q&A
 published: true
 date: 2022-07-08
 readtime: true
