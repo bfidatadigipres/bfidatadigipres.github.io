@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Company Limited
-published: false
+published: true
 date: 2022-07-13
 readtime: true
 categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
