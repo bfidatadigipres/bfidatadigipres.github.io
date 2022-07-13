@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In the Black Fantastic introduction + Touki Bouki
-published: false
+published: true
 date: 2022-07-13
 readtime: true
 categories: ['IN THE BLACK FANTASTIC']
