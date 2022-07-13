@@ -5,7 +5,7 @@ published: true
 date: 2022-07-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Coomedy]
+tags: [Comedy]
 metadata: 'USA 1939, 92 mins<br> Director: Howard Hawks'
 pdf: '2022-07-10-his-girl-friday.pdf'
 ---
