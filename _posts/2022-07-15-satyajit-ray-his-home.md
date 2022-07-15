@@ -2,12 +2,12 @@
 layout: post
 title: Satyajit Ray<br> His Home and the World
 published: true
-date: 2022-07-15
+date: 2022-07-16
 readtime: true
 categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
 tags: [Talk]
 metadata: 
-pdf: '2022-07-15-satyajit-ray-his-home.pdf'
+pdf: '2022-07-16-satyajit-ray-his-home.pdf'
 ---
 
 Join us for an afternoon of talks and discussions offering different approaches to appreciating Satyajit Ray, and looking at his influences and legacy. Expert speakers will trace key themes in his work including the city and what it represents, the women in his films, the use of music (often composed by Ray himself), and the development of his distinctive cinematic language.
