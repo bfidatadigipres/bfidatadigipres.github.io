@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Adventures of Goopy and Bagha
-published: false
+published: true
 date: 2022-07-17
 readtime: true
 categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
