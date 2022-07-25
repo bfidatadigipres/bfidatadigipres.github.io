@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Electricity
-published: false
+published: true
 date: 2022-07-25
 readtime: true
 categories: ['RELAXED SCREENING']
@@ -10,7 +10,7 @@ metadata: 'UK 2014, 96 mins<br> Director: Bryn Higgins'
 pdf: '2022-07-25-electricity.pdf'
 ---
 
-<img style="float: left;" src="/img/electricity.png"><br><br>
+<img style="float: left;" src="/img/Electricity.png"><br><br>
 
 _+ intro and discussion._
 
