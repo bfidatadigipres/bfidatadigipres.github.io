@@ -37,7 +37,7 @@ UK 2014
 **We welcome your feedback on this screening. Relaxedscreeningsfeedback@bfi.org.uk**
 
 
-<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br>>br><br>
+<img style="float: left;" src="/img/autistic_society.png"><br><br><br><br><br><br><br><br>
 **BFI Southbank has been awarded the National Autistic Society’s Autism Friendly Award.**
 
 **RELAXED SERIES:**
