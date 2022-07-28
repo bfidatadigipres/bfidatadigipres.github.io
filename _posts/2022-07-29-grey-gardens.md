@@ -59,9 +59,7 @@ USA 1975
 
 _Grey Gardens_ by Matthew Tinkcom is available to buy from the BFI Shop: **https://shop.bfi.org.uk/grey-gardens-bfi-film-classics.html**  
 <img style="float: left;" src="/img/grey-gardens.png" width="30%" height="30%">
-<br><br><br><br><br><br><br><br><br><br><br>
-
-
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **MEMBER EXCLUSIVES**
 **Member Salon: Hit the Road**
