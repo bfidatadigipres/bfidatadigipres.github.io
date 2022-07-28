@@ -6,7 +6,7 @@ date: 2022-07-29
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama, Comedy]
-metadata: 'Iran, 2021, 94 mins<br> Director: Panah Panahi'
+metadata: 'Iran 2021, 94 mins<br> Director: Panah Panahi'
 pdf: '2022-07-29-hit-the-road.pdf'
 ---
 
