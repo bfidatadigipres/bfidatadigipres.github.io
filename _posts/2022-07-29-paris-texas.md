@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paris, Texas
-published: false
+published: true
 date: 2022-07-29
 readtime: true
 categories: ['RE-RELEASES']
