@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hit the Road
-published: false
+published: true
 date: 2022-07-29
 readtime: true
 categories: ['NEW RELEASES']
