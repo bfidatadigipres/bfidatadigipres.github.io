@@ -12,9 +12,8 @@ pdf: '2022-08-01-love-letter.pdf'
 
 _Love Letter_ is the first film of legendary actor turned director Kinuyo Tanaka. The man writes love letters to make a living. One of the women who asks him to do so is someone he’s been searching for. He pursues her, almost like James Stewart pursues Kim Novak in Hitchcock’s _Vertigo_ (1958). Here they are chess pieces. Their sadness is the sadness of post-war Japan. The geometry of Tanaka’s staging is masterful.
 
-Camera positions and eyelines capture the mood, poetry, expectation and uncertainty of the story. Tanaka had worked with the greatest Japanese directors, but her style was less reserved than Ozu, less heroic than Kurosawa. She was closer to Michael Curtiz, perhaps, in her depictions of love and heartache, her brilliant scene breakdowns and her total control.
-
-**Mark Cousins, _Sight & Sound_, May 2020**
+Camera positions and eyelines capture the mood, poetry, expectation and uncertainty of the story. Tanaka had worked with the greatest Japanese directors, but her style was less reserved than Ozu, less heroic than Kurosawa. She was closer to Michael Curtiz, perhaps, in her depictions of love and heartache, her brilliant scene breakdowns and her total control.  
+**Mark Cousins, _Sight & Sound_, May 2020**  
 
 Kinuyo Tanaka is rightly renowned as one of the greatest actors in the history of Japanese cinema. However, her prestige as an actor has overshadowed her parallel career as a film director, and most of the films she directed are hard to track down.
 
@@ -70,7 +69,7 @@ Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45
 
 **In cultural partnership with**  
 <img style="float: left;" src="/img/EIFF.png">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_  
 
