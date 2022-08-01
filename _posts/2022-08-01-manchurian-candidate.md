@@ -2,12 +2,12 @@
 layout: post
 title: The Manchurian Candidate
 published: true
-date: 2021-10-21
+date: 2022-08-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller]
 metadata: 'USA 1962, 126 mins<br> Director: John Frankenheimer'
-pdf: '2021-10-21-manchurian-candidate.pdf'
+pdf: '2022-08-01-manchurian-candidate.pdf'
 ---
 
 In September 1961, Frank Sinatra – the most widely publicised of the president’s friends – was a weekend guest at the Kennedy compound in Hyannis Port. Among other things, Sinatra used his visit to secure the president’s approval for the movie that he, writer George Axelrod and director John Frankenheimer hoped to adapt from Richard Condon’s lurid thriller _The Manchurian Candidate_. Sinatra had a deal with United Artists, but UA president Arthur Krim – who was also the national finance chairman for the Democratic Party – felt that the project was political dynamite. Published in April 1959, _The Manchurian Candidate_ had posited the outrageously paranoid premise that the Russians and Chinese had infiltrated the highest levels of American electoral politics with brainwashed dupes. It was a comic version of the John Birch Society’s so-called ‘Black Book’ – a samizdat that had been circulating among the true believers since the summer of 1958 – in which Birch Society founder Robert Welch identified President Eisenhower as the dedicated agent of a vast Communist conspiracy, who had been painstakingly manoeuvred by his Kremlin handlers into the White House.
@@ -131,43 +131,35 @@ USA 1962©<br>
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**Chinatown**<br>
-Mon 18 Oct 14:15; Sun 24 Oct 11:50;  Wed 27 Oct 14:15; Sat 20 Nov 20:30<br>
-**Inside Man**<br>
-Mon 18 Oct 17:50; Mon 8 Nov 20:30;  Thu 25 Nov 14:30; Tue 30 Nov 20:20<br>
-**House of Bamboo**<br>
-Mon 18 Oct 18:00; Thu 4 Nov 20:50;  Thu 11 Nov 14:30; Mon 15 Nov 18:10<br>
-**Heat**<br>
-Tue 19 Oct 14:00; Sun 24 Oct 14:30;  Sat 13 Nov 16:30; Mon 15 Nov 13:40<br>
-**Kiss Me Deadly**<br>
-Tue 19 Oct 18:00; Fri 5 Nov 20:40;  Sat 20 Nov 18:00; Sat 28 Nov 12:15<br>
-**Devil in a Blue Dress**<br>
-Wed 20 Oct 17:55; Thu 28 Oct 20:50;  Wed 17 Nov 18:00 (+ intro by _Empire Magazine_ Contributing Editor Amon Warmann)<br>
-**Un Flic**<br>
-Wed 20 Oct 18:10 (+ pre-recorded introduction by film critic Christina Newland); Fri 22 Oct 14:20;  Tue 23 Nov 20:45; Mon 29 Nov 20:55<br>
-**The Long Goodbye**<br>
-Wed 20 Oct 20:50; Wed 10 Nov 17:50 (+ intro by Geoff Andrew, Programmer-at-Large);  Sat 27 Nov 20:40<br>
 **The Manchurian Candidate**<br>
-Thu 21 Oct 14:15; Sun 21 Nov 14:50<br>
-**Illustrious Corpses (Cadaveri eccellenti)**<br>
-Thu 21 Oct 20:30; Mon 25 Oct 14:15;  Fri 19 Nov 20:40; Sat 27 Nov 18:10<br>
-**Murder on the Orient Express**<br>
-Sat 23 Oct 17:30; Sun 7 Nov 18:10;  Tue 16 Nov 14:15<br>
-**Blue Velvet**<br>
-Tue 26 Oct 14:30; Tue 2 Nov 18:00;  Sat 13 Nov 20:45; Sun 21 Nov 17:40<br>
-**Dirty Harry**
-Wed 27 Oct 18:00 (+ pre-recorded intro by film scholar Hannah Hamad, Cardiff University); Sun 14 Nov 18:20; Fri 26 Nov 20:45<br>
-**The Silence of the Lambs**<br>
-Fri 29 Oct 20:40; Wed 3 Nov 19:00 (+ pre-recorded intro by Professor Yvonne Tasker, author of BFI Film Classics _The Silence of the Lambs_); Thu 18 Nov 14:40<br>
-**No Country for Old Men**<br>
-Sat 30 Oct 11:00; Mon 1 Nov 20:30;  Wed 24 Nov 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
-**In the Cut**<br>
-Sun 31 Oct 18:30; Tue 30 Nov 18:10<br>
-**Zero Dark Thirty**<br>
-Sat 6 Nov 17:30; Tue 9 Nov 14:15;  Sun 28 Nov 15:20<br>
-**Shaft**<br>
-Fri 12 Nov 20:50; Tue 23 Nov 18:20<br>
-
+Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
+**M**<br>
+Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
+**Sweet Smell of Success**<br>
+Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**Dance, Girl, Dance**<br>
+Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
+**Gaslight**<br>
+Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**Persona**<br>
+Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+**Raging Bull**<br>
+Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
+**La Haine**<br>
+Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
+**Citizen Kane**<br>
+Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
+**The White Ribbon (Das weisse Band)**<br>
+Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
+**Kes**<br>
+Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+**The Night of the Hunter**<br>
+Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
+**Notorious**<br>
+Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
+**Bigger Than Life**<br>
+Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
