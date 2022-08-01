@@ -42,8 +42,6 @@ Jamaica 2019
 This season is presented by **African Odysseys**, which celebrates its 15th anniversary in 2022  
 <img style="float: left;" src="/img/african-odysseys.png">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
 **FROM JAMAICA TO THE WORLD: REGGAE ON FILM**  
 **Seniors’ Free Archive Matinee: Inna de Yard + iscussion**  
 Mon 1 Aug 14:00  
