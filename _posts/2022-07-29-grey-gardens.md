@@ -6,7 +6,7 @@ date: 2022-07-29
 readtime: true
 categories: ['MEMBER EXCLUSIVES']
 tags: [Documentary]
-metadata: 'USA, 1975, 95 mins<br> Directors: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer'
+metadata: 'USA 1975, 95 mins<br> Directors: David Maysles, Albert Maysles, Ellen Hovde, Muffie Meyer'
 pdf: '2022-07-29-grey-gardens.pdf'
 ---
 
