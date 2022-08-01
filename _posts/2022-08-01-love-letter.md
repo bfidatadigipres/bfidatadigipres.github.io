@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Love Letter
-published: false
+published: true
 date: 2022-08-01
 readtime: true
 categories: ['KINUYO TANAKA<br> A LIFE IN FILM']
@@ -69,8 +69,8 @@ Sun 14 Aug 18:10; Sat 27 Aug 16:00; Mon 29 Aug 18:20; Wed 31 Aug 20:30
 Tue 16 Aug 20:45; Sun 28 Aug 18:20; Tue 30 Aug 20:45  
 
 **In cultural partnership with**  
-<img style="float: left;" src="/EIFF.png">
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/EIFF.png">
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 In September we will screen six films with Kinuyo Tanaka as actor, including _The Life of Oharu_ and _A Hen in the Wind_  
 
