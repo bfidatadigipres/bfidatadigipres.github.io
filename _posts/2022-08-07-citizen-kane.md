@@ -2,15 +2,13 @@
 layout: post
 title: Citizen Kane
 published: true
-date: 2022-01-03
+date: 2022-08-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1941, 119 mins<br> Director: Orson Welles'
-pdf: '2022-01-03-citizen-kane.pdf'
+pdf: '2022-08-07-citizen-kane.pdf'
 ---
-
-Orson Welles’ first feature and greatest masterpiece – a richly philosophical survey of the seemingly unfathomable contradictions in the life and character of a media tycoon – was for Truffaut ‘so complete... a world view which is personal, generous and noble.’ He found many reasons to love and admire the film, and paid affectionate tribute to its importance to his life in _Day for Night_.<br>
 
 **Andrew Sarris on the 50th anniversary of the opening of ‘Citizen Kane’**  
 _Citizen Kane_ erupted on to the screen, at least as a long-lived figure of speech, on 1 May 1941 at New York’s Palace Theater. The film was originally to be premiered at the more prestigious and profitable Radio City Music Hall, but the booking was rejected – presumably because of the controversy surrounding the film’s allegedly libellous treatment of William Randolph Hearst and his mistress, Marion Davies. Although Orson Welles always insisted that Charles Foster Kane was a composite of several tycoons, Barbara Learning’s authorised biography of Welles contains the startling information that: ‘Somehow, before making the movie, Orson had found out the secret name that Hearst used to refer to Marion Davies’ genitalia: Rosebud’. So much for the arcane analysis of this most tantalising of cinematic symbols.
@@ -28,8 +26,7 @@ The film met with a warmer reception in France. For filmmakers and critics such 
 
 **Orson Welles on ‘Citizen Kane’**  
 One day in the office they said there’s a man called Toland waiting to see you.  
-And he was, of course, the leading cameraman and he said, ‘I want to make you a picture’. And I said, ‘Well that’s wonderful. Why? I don’t know anything about movie.’ And he said, ‘That’s why I want to do it. If you’re left alone as much as possible we’re gonna have a movie that looks different. I’m tired of working with people who know too much about it.’ We came to a moment in the first week of shooting ... no, the second week, where I suddenly was told by somebody that it was not the job of the director to do all the lighting. Up to then I’d been doing all the lighting with Toland behind me balancing and all but saying don’t tell anybody, you see. Then I had to go and apologise to him and everything. Then another awful moment came when I didn’t understand directions. And that was because I had learned how to make movies by running _Stagecoach_ every night for a month ... if you look at _Stagecoach_ you will see that the Indians attack left to right and then they attack right to left and so on. In other words, there’s no direction followed. Every rule is broken in the picture. And I sat and watched it 45 times. So of course when I was suddenly told in an over shoulder shot that I had to look camera left instead of camera right I said no, because I was standing here... So we closed the picture down. And at about two in the afternoon I went back to my house and Toland showed me how that worked. And I said, ‘Well there’s a lot of stuff here I don’t know,’ and he said, ‘There’s nothing I can’t teach you in three hours.’  
-And that’s when I said that... which has been taken as a very pompous statement, that I learned everything in three hours. It was Toland’s idea that anybody can learn it in three hours and that he taught it to me in three hours. Everything else is if you’re any good or not.
+And he was, of course, the leading cameraman and he said, ‘I want to make you a picture’. And I said, ‘Well that’s wonderful. Why? I don’t know anything about movie.’ And he said, ‘That’s why I want to do it. If you’re left alone as much as possible we’re gonna have a movie that looks different. I’m tired of working with people who know too much about it.’ We came to a moment in the first week of shooting ... no, the second week, where I suddenly was told by somebody that it was not the job of the director to do all the lighting. Up to then I’d been doing all the lighting with Toland behind me balancing and all but saying don’t tell anybody, you see. Then I had to go and apologise to him and everything. Then another awful moment came when I didn’t understand directions. And that was because I had learned how to make movies by running _Stagecoach_ every night for a month ... if you look at _Stagecoach_ you will see that the Indians attack left to right and then they attack right to left and so on. In other words, there’s no direction followed. Every rule is broken in the picture. And I sat and watched it 45 times. So of course when I was suddenly told in an over shoulder shot that I had to look camera left instead of camera right I said no, because I was standing here... So we closed the picture down. And at about two in the afternoon I went back to my house and Toland showed me how that worked. And I said, ‘Well there’s a lot of stuff here I don’t know,’ and he said, ‘There’s nothing I can’t teach you in three hours.’  And that’s when I said that... which has been taken as a very pompous statement, that I learned everything in three hours. It was Toland’s idea that anybody can learn it in three hours and that he taught it to me in three hours. Everything else is if you’re any good or not.
 
 I wanted to have nobody in the film you’d ever seen before. I thought that’d be a great thing in a movie, because those were the days when every studio made 120 pictures a year and those faces were all so well known. Because I believed that a great deal of the success of foreign language films came from the fact that the faces were new to the American public. I’ve since decided that it also came from the fact that the movies were good. But I was an arrogant bastard then and I thought a lot of it came from just new faces. And I liked my people and we got along well together and we’d been in the theatre and radio together, so why not  in films.  
 **_Sight and Sound_, October 1991**
@@ -40,7 +37,7 @@ This is unquestionably one of the most intelligent films to appear for many year
 
 
 
-**Citizen Kane**<br>
+**CITIZEN KANE**<br>
 _Director:_ Orson Welles<br>
 _©/Production Company:_ RKO Radio Pictures<br>
 _Production Company:_ Mercury Productions<br>
@@ -132,34 +129,38 @@ USA 1941©<br>
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**La Grande Illusion**<br>
-Sat 1 Jan 14:30, Tue 11 Jan 18:15, Sun 16 Jan 12:40<br>
+**The Manchurian Candidate**<br>
+Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
+**M**<br>
+Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
+**Sweet Smell of Success**<br>
+Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**Dance, Girl, Dance**<br>
+Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
+**Gaslight**<br>
+Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**Persona**<br>
+Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+**Raging Bull**<br>
+Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
+**La Haine**<br>
+Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
 **Citizen Kane**<br>
-Sun 2 Jan 15:30, Tue 11 Jan 17:50, Thu 27 Jan 18:00<br>
-**Twelve Angry Men**<br>
-Mon 3 Jan 12:50, Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
-**Shadow of a Doubt**<br>
-Mon 3 Jan 15:40, Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
-**Les Enfants terribles**<br>
-Tue 4 Jan 18:00, Sun 30 Jan 15:15<br>
-**Rome, Open City (Roma, città aperta)**<br>
-Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00<br>
-**Letter from an Unknown Woman**<br>
-Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45<br>
-**Casque d’or**<br>
-Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10<br>
-**Gentlemen Prefer Blondes**<br>
-Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20<br>
-**Ordet (The Word)**<br>
-Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
-**Smiles of a Summer Night**<br>
-Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
+Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
+**The White Ribbon (Das weisse Band)**<br>
+Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
+**Kes**<br>
+Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+**The Night of the Hunter**<br>
+Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
+**Notorious**<br>
+Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
 **Bigger Than Life**<br>
-Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
+Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
 <br>
+
 **BFI SOUTHBANK**  
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
-<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
