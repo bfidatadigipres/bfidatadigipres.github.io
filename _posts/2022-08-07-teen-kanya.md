@@ -68,7 +68,7 @@ Devi Neogy _(Haripada)_
 India 1961  
 178 mins  
 
-* Uncredited  
+\* Uncredited  
 
 Print courtesy of the Academy Film Archive.  
 
