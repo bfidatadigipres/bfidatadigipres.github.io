@@ -2,12 +2,12 @@
 layout: post
 title: The White Ribbon
 published: true
-date: 2021-06-06
+date: 2022-08-09
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Germany/Austria/France/Italy, 2009, 144 mins<br> Director: Michael Haneke'
-pdf: '2021-06-06-white-ribbon.pdf'
+pdf: '2022-08-09-white-ribbon.pdf'
 ---
 **Michael Haneke on ‘The White Ribbon”**
 
