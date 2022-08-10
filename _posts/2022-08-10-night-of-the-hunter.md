@@ -2,15 +2,13 @@
 layout: post
 title: The Night of the Hunter
 published: true
-date: 2022-02-21
+date: 2022-08-10
 readtime: true
-categories: ['SENIORS']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Thriller]
 metadata: 'USA, 1955, 92 mins<br> Director: Charles Laughton'
-pdf: '2022-02-21-night-of-the-hunter.pdf'
+pdf: '2022-08-10-night-of-the-hunter.pdf'
 ---
-
-_Introduced by BFI programmer David Somerset_
 
 In my film-watching experience, _The Night of the Hunter_ is the closest a director has come to capturing the hypnotic, compelling potency of the kind of nightmares we have when we are children. Initially, I was knocked out by Stanley Cortez’s stunning black and white photography, but after repeated viewing I have also developed immense respect for [Charles] Laughton’s direction and for the actors’ performances (in particular, Lillian Gish and Robert Mitchum, but Shelley Winters as Mitchum’s new wife is also quite unforgettable). Not only is the film very frightening – every single adult, with the exception of Lillian Gish, betrays the two helpless children – but it’s filled with great beauty and compassion for the innocence of childhood. There is a recurring image of wandering, homeless kids begging for food. At one point Gish comments on children surviving horrendous experiences – ‘they abide and they endure,’ she says.
 
@@ -83,50 +81,41 @@ Corey Allen _(young boy in town)_<br>
 
 USA 1955©<br>
 92 mins<br>
+
+The screening on Wed 10 Aug will be introduced by Jason Wood, BFI Director of Public Programme and Audiences
 <br><br>
 
 
 
-**IN PERSON & PREVIEWS**<br>
-**A Tribute to Roger Michell: Preview:  The Duke + Q&A with actor Jim Broadbent and producer Nicky Latham**<br>
-Thu 24 Feb 18:00<br>
-**BFI Expanded: World Premiere: UNIQUE**<br>
-Fri 25 Feb 19:00 and 20:30<br>
-**Woman with a Movie Camera Preview: Ali & Ava + Q&A with writer-director Clio Barnard**<br>
-Mon 28 Feb 20:20<br>
-**Preview: Rebel Dread + Q&A with Don Letts**<br>
-Thu 3 Mar 18:00<br>
-**Doctor Who: Revelation of the Daleks**<br>
-Sat 5 Mar 12:00<br> 
-**Mark Kermode Live in 3D at the BFI**<br>
-Mon 7 Mar 18:10<br>
-**Woman with a Movie Camera Preview: True Things + Q&A with Director Harry Wootliff**<br>
-Mon 7 Mar 20:35<br> 
-**TV Preview: Gentleman Jack Series 2 + Q&A with writer Sally Wainwright and actors Suranne Jones and Sophie Rundle**<br>
-Wed 9 Mar 18:10<br> 
-**TV Preview: Inside No. 9 + Q&A with creators Reece Shearsmith and Steve Pemberton, and executive producer Adam Tandy**<br>
-Fri 11 Mar 20:40<br> 
-
-
-**REGULAR PROGRAMME**<br>
-**Member Picks:  Close Encounters of the Third Kind**<br>
-Wed 23 Feb 17:50<br>
-**Terror Vision: The People under the Stairs**<br>
-Thu 24 Feb 20:40<br>
-**Relaxed Screening:  Keep the Change + discussion**<br>
-Mon 28 Feb 20:10<br>
-**Projecting the Archive: A Question of Adultery + intro by BFI Curator Josephine Botting**<br>
-Tue 1 Mar 18:20<br> 
-**Member Picks: Evita**<br>
-Fri 4 Mar 17:50<br> 
-**African Odysseys: From the Caribbean to West Africa: Edric Connor’s Travelogues**<br>
-Sun 6 Mar 14:00-16:30<br> 
-**Silent Cinema: The Joker (Jokeren) + intro by BFI Curator Bryony Dixon**<br>
-Sun 6 Mar 15:00<br> 
-**Experimenta: Ticket of No Return + pre-recorded intro remembering Tabea Blumenschein with Ulrike Ottinger**<br>
-Tue 8 Mar 18:00<br> 
-**Film Wallahs: The Beatles and India + intro by co-director Pete Compton and producer Reynold D’Silva**<br>
-Thu 10 Mar 18:15<br> 
+**BIG SCREEN CLASSICS**<br>
+**The Manchurian Candidate**<br>
+Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
+**M**<br>
+Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
+**Sweet Smell of Success**<br>
+Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**Dance, Girl, Dance**<br>
+Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
+**Gaslight**<br>
+Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**Persona**<br>
+Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+**Raging Bull**<br>
+Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
+**La Haine**<br>
+Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
+**Citizen Kane**<br>
+Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
+**The White Ribbon (Das weisse Band)**<br>
+Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
+**Kes**<br>
+Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+**The Night of the Hunter**<br>
+Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
+**Notorious**<br>
+Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
+**Bigger Than Life**<br>
+Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
 <br>
 
 **BFI SOUTHBANK**  
@@ -136,11 +125,12 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**  
