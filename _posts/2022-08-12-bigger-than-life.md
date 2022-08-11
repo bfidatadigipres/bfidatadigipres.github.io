@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Bigger than Life
-published: true
-date: 2022-01-10
+published: false
+date: 2022-08-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'USA 1956, 95 mins<br> Director: Nicholas Ray'
-pdf: '2022-01-10-bigger-than-life.pdf'
+pdf: '2022-08-12-bigger-than-life.pdf'
 ---
-
-A favourite of Truffaut, Godard and Rohmer, Ray repeatedly examined the failings of the American Dream; this searing account of a mild-mannered teacher (Mason) turning egomaniacal after becoming addicted to the cortisone he needs for a heart condition is arguably his masterpiece. Direction, script, camerawork and performance combine to produce a film of enormous anguish; Truffaut applauded its accuracy, honesty and precise intelligence.<br>
-**bfi.org.uk**
 
 Nicholas Ray’s _Bigger than Life_ is among the most radical examples of what may be the most radical genre in American cinema: the small-town melodrama. Though long considered unworthy of serious attention – aimed as it was at the despised female audience – this genre is single-mindedly concerned with the nightmare world of compulsory heterosexuality. The fact that alternatives to heterosexuality couldn’t conceivably be depicted in an American film of the 1940s or 1950s was, far from a limitation, one of the factors that enabled Sam Wood’s _Kings Row_, Douglas Sirk’s _All That Heaven Allows_, Vincente Minnelli’s _Some Came Running_ and Max Ophuls’  _The Reckless Moment_ to pursue their projects without compromise. Indeed, as soon as it became possible for such alternatives to be openly portrayed, the small-town melodrama effectively vanished, playing itself out via a series of films (none of them in fact set in small American towns) about the nightmare world of homosexuality (Donen’s _Staircase_, Friedkin’s _The Boys in the Band_, Aldrich’s _The Killing of Sister George_), and now existing only as postmodern pastiche (Haynes’ _Far from Heaven_).
 
@@ -95,38 +92,43 @@ Mary Carver<br>
 
 USA 1956©<br>
 95 mins<br>
+
+The screening on Wed 17 Aug will be introduced by Geoff Andrew, Programmer at Large
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**Rome, Open City (Roma, città aperta)**<br>
-Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00<br>
-**Letter from an Unknown Woman**<br>
-Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45<br>
-**Casque d’or**<br>
-Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10<br>
-**Gentlemen Prefer Blondes**<br>
-Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20<br>
-**Ordet (The Word)**<br>
-Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
-**Smiles of a Summer Night**<br>
-Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
-**Bigger Than Life**<br>
-Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
+**The Manchurian Candidate**<br>
+Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
+**M**<br>
+Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
+**Sweet Smell of Success**<br>
+Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**Dance, Girl, Dance**<br>
+Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
+**Gaslight**<br>
+Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**Persona**<br>
+Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+**Raging Bull**<br>
+Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
+**La Haine**<br>
+Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
 **Citizen Kane**<br>
-Tue 11 Jan 17:50, Thu 27 Jan 18:00<br>
-**La Grande Illusion**<br>
-Tue 11 Jan 18:15, Sun 16 Jan 12:40<br>
-**Twelve Angry Men**<br>
-Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
-**Shadow of a Doubt**<br>
-Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
-**Les Enfants terribles**<br>
-Sun 30 Jan 15:15<br>
+Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
+**The White Ribbon (Das weisse Band)**<br>
+Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
+**Kes**<br>
+Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+**The Night of the Hunter**<br>
+Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
+**Notorious**<br>
+Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
+**Bigger Than Life**<br>
+Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
 <br>
 
 **BFI SOUTHBANK**  
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
-<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
