@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Old School
-published: false
+published: true
 date: 2022-08-12
 readtime: true
 categories: ['PREVIEW']
