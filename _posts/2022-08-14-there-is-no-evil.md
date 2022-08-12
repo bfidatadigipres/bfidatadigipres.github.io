@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There Is No Evil
-published: false
+published: true
 date: 2022-08-14
 readtime: true
 categories: ['PREVIEWS & EVENTS']
