@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bigger than Life
-published: false
+published: true
 date: 2022-08-12
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
