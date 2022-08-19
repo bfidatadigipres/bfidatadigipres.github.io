@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Home and the World
-published: false
+published: true
 date: 2022-08-21
 readtime: true
 categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
