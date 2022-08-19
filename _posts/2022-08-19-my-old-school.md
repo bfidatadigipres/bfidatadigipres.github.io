@@ -2,15 +2,13 @@
 layout: post
 title: My Old School
 published: true
-date: 2022-08-12
+date: 2022-08-19
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Documentary]
 metadata: 'UK 2022, 104 mins<br> Director: Jono McLeod'
-pdf: '2022-08-12-my-old-school.pdf'
+pdf: '2022-08-19-my-old-school.pdf'
 ---
-
-_+ Q&A with director Jono McLeod and actors Alan Cumming, Clare Grogan and Lulu_
 
 **Director’s Statement**  
 _My Old School_ is a documentary which finally reveals the truth behind one of the most incredible stories of the past 30 years. Featuring interviews with my old classmates and teachers, together we tell how a 32-year-old man tricked his way into our school – and, for the first time, how Brandon Lee’s true identity was revealed.
