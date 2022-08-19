@@ -107,7 +107,7 @@ Malcolm Davidson _(doctor)_<br>
 Ras Angels, Ras Messengers _(singers and drummers in minibus)_<br>
 
 UK 1981©<br>
-105 mins<br>
+106 mins<br>
 
 A BFI release
 
