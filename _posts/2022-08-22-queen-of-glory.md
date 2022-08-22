@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Queen of Glory
-published: false
+published: true
 date: 2022-08-22
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
