@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Enemy of the People
-published: false
+published: true
 date: 2022-08-28
 readtime: true
 categories: ['SATYAJIT RAY<br>THE LANGUAGE OF FILM']
