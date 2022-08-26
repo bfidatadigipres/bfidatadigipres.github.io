@@ -2,12 +2,12 @@
 layout: post
 title: Queen of Glory
 published: true
-date: 2022-08-22
+date: 2022-08-26
 readtime: true
-categories: ['WOMAN WITH A MOVIE CAMERA PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'USA 2021, 79 mins<br> Director: Nana Mensah'
-pdf: '2022-08-22-queen-of-glory.pdf'
+pdf: '2022-08-26-queen-of-glory.pdf'
 ---
 
 _Queen of Glory_ begins with a montage. Cross-cut with close-ups of brightly patterned fabrics and a soundtrack of echoing voices and pulsing percussion, Sarah Obeng (Nana Mensah) packs a suitcase and boards a train. Her destination is not a city in Ghana (which holds a central place in the film’s imaginary) but the Ghanaian diaspora community of the Bronx. Though the neighbourhood is a site of alienating and infantilising familial duty and dysfunction for our heroine, it is also an escape route from the professional and romantic precarity of her adult life in Manhattan – whether she knows it or not.
@@ -75,8 +75,6 @@ USA 2021
 79 mins
 
 A Bohemia Media release
-
-**Woman with a Movie Camera is generously supported by Jane Stanton**
 <br><br>
 
 **REGULAR PROGRAMME**<br>
