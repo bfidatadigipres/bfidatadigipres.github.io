@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wild Strawberries
-published: true
+published: false
 date: 2022-09-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
@@ -85,6 +85,7 @@ Sweden 1957
 
 \* Uncredited
 <br>
+
 **BIG SCREEN CLASSICS**  
 **Lift to the Scaffold (Ascenseur pour l’échafaud)**  
 Thu 1 Sep 18:30; Thu 15 Sep 20:55; Sun 18 Sep 15:50; Wed 21 Sep 21:00; Tue 27 Sep 21:00  
