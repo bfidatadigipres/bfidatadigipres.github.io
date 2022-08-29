@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'France/Italy 1967, 108 mins<br> Director: François Truffaut'
-pdf: '2022-09-05-bride-in-black.pdf'
+pdf: '2022-09-05-bride-wore-black.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
