@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Enigma of<br>Kaspar Hauser
-published: true
+published: false
 date: 2022-09-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
