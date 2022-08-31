@@ -5,7 +5,7 @@ published: false
 date: 2022-09-08
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Musical,Romance, Drama]
+tags: [Musical, Romance, Drama]
 metadata: 'France/West Germany 1964, 93 mins<br> Director: Jacques Demy'
 pdf: '2022-09-08-umbrellas-of-cherbourg.pdf'
 ---
