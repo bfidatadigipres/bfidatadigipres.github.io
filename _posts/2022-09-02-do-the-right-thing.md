@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do the Right Thing
-published: false
+published: true
 date: 2022-09-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
