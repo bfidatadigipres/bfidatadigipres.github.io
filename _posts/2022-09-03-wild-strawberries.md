@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wild Strawberries
-published: false
+published: true
 date: 2022-09-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
