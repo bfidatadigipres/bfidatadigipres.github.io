@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In a Lonely Place
-published: false
+published: true
 date: 2022-09-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
