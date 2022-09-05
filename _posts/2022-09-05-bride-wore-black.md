@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Bride Wore Black
-published: false
+published: true
 date: 2022-09-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
