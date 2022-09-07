@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'UK/USA/France 2004, 126 mins<br> Director: Walter Salles'
-pdf: '2022-09-10-motorcylce-diaries.pdf'
+pdf: '2022-09-10-motorcycle-diaries.pdf'
 ---
 
 In December 1951, 23-year-old medical student Ernesto Guevara, who in the future would become the iconic revolutionary leader ‘Che’, took a long motorcycle trip with his friend Alberto Granado on a Norton named  La Poderosa II (The Powerful One). They left Cordoba in central Argentina, headed first to Buenos Aires to visit Ernesto’s family, then speeded west to the coast of Chile, then north along the Pacific seaboard through Peru and Colombia, ending up in Venezuela in July 1952. This six-month mini-Odyssey, full of mishaps and chance meetings, was the basis for Guevara’s book  _The Motorcycle Diaries_, an impressionable, idealistic youth’s thoughtful commentary on his road encounters and the harsh realities of South American life, which became a backpack classic in the 1960s when Che’s fame was at its height.
