@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Silent Twins
-published: false
+published: true
 date: 2022-09-17
 readtime: true
 categories: ['S.O.U.L. FEST']
@@ -9,7 +9,6 @@ tags: [Drama]
 metadata: 'Poland-UK-USA 2022, 113 mins<br> Director: Agnieszka Smoczynska'
 pdf: '2022-09-17-silent-twins.pdf'
 ---
-
 _+ Q&A with actors Tamara Lawrance and Letitia Wright_
 
 June and Jennifer Gibbons were not always silent. Born in 1963, their early childhood involved following wherever the RAF work of their father took them, before the family settled in Haverfordwest, a town in Pembrokeshire, Wales. School life was not easy for the only West Indian kids in the area; the twins suffered much bullying for looking and acting differently to those around them. At home the pair had always been somewhat withdrawn from their siblings and parents, but increasingly these behavioUrs became more extreme and isolating.
@@ -133,7 +132,9 @@ Poland-UK-USA 2022
 Courtesy of Focus Features  
 <br>
 <img style="float: left;" src="/img/ABFF.jpg" width="30%" height="30%">
-<br><br><br><br>
+<br><br><br><br><br><br><br>
+
+
 <img style="float: left;" src="/img/SOUL.png" width="30%" height="30%">
 <br><br><br><br><br><br><br>
 **BFI SOUTHBANK**  
