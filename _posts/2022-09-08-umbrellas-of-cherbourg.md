@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Umbrellas of Cherbourg
-published: false
+published: true
 date: 2022-09-08
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
