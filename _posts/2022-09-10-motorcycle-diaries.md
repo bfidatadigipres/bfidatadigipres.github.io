@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Motorcycle Diaries
-published: false
+published: true
 date: 2022-09-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
