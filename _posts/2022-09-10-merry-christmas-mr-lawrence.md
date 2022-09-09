@@ -56,11 +56,11 @@ I remained very friendly with him. I probably saw him a couple years before he d
 
 I made _Naked Lunch_ [in 1991, with David Cronenberg] and David told me that when he was younger, he’d go to Soho with the book in the pocket of his jacket, peeking out, just to show that he understood what was going on, though he didn’t really understand what was in the book at the time. He was an incredible person who brought a bit of that fairy dust into _Merry Christmas Mr. Lawrence_. And he knew that and he was very clever with that. But he wasn’t overbearing. He was a joy to behold, the way he was dignified. Of course, I had worked with Nic Roeg, I had done those two films with him, _Bad Timing_ [1980] and _Eureka_ [1983]. So we also had that bond, having [both] worked with Nic. Roeg was a very unusual man, a brilliant person, brilliant teacher, brilliant explainer.
 
-_He worked with Julien Temple as well, just after you, on_ Absolute Beginners _[1986]. And on a short film, a promo for one of his singles, called_ Jazzin’ for Blue Jean _[1984], which is incredibly funny. And he’s a very good actor in that.
+_He worked with Julien Temple as well, just after you, on_ Absolute Beginners _[1986]. And on a short film, a promo for one of his singles, called_ Jazzin’ for Blue Jean _[1984], which is incredibly funny. And he’s a very good actor in that._
 
 Well, that never stopped, and in the end he was working with Tilda [Swinton, in the video for ‘The Stars (Are Out Tonight)’ in 2013]. He never stopped being on the forefront of imagination.
 
-**Interview by Liz Tray, Sight and Sound, October 2022**
+**Interview by Liz Tray, _Sight and Sound_, October 2022**
 <br><br>
 
 **MERRY CHRISTMAS MR. LAWRENCE**<br>
