@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jackie Brown
-published: false
+published: true
 date: 2022-09-09
 readtime: true
 categories: ['RE-RELEASES']
