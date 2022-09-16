@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Silent Twins
-published: false
+published: true
 date: 2022-09-17
 readtime: true
 categories: ['S.O.U.L. FEST']
