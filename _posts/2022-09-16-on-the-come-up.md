@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On the Come Up
-published: false
+published: true
 date: 2022-09-16
 readtime: true
 categories: ['S.O.U.L. FEST']
