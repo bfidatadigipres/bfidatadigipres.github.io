@@ -7,7 +7,7 @@ readtime: true
 categories: ['TV PREVIEW']
 tags: [Drama]
 metadata: 'UK 2022, 60 mins<br> Director: Paul McGuigan'
-pdf: '2022-09-18-silent-land.pdf'
+pdf: '2022-09-21-inside-man.pdf'
 ---
 
 _+ Q&A with creator, writer and executive producer Steven Moffat, director Paul McGuigan and stars David Tennant, Dolly Wells, Lydia West and Stanley Tucci. Hosted by Boyd Hilton_
