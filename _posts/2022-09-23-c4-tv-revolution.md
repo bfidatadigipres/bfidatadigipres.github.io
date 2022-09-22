@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Channel 4 - The Television Revolution
-published: false
+published: true
 date: 2022-09-23
 readtime: true
 categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
@@ -17,14 +17,16 @@ Members of the original Channel 4 Commissioning team come together to explain wh
 **Channel 4: the First Ten Years**  
 The first years of Channel 4 were an exhilarating period for anyone involved. The excitement and optimism of changing television carried everyone along – ‘the remit’ was an explicit rationale to experiment in the form and content of programmes, push the boundaries and to challenge the mainstream by introducing a wider range of distinctive alternative programmes. In many areas Channel 4 introduced a radical diversity – new forms and genres of television, creating spaces where different ideas could meet their audiences.
 
-This short season at the BFI Southbank is planned to celebrate the innovations and principles of early Channel 4, some of which may be relevant again at a time of change as television enters an entirely new digital terrain. A panel discussing Channel 4: The Television Revolution may be the relevant place to offer some elements of the overall intention and rationale in the season.
+This short season at the BFI Southbank is planned to celebrate the innovations and principles of early Channel 4, some of which may be relevant again at a time of change as television enters an entirely new digital terrain. A panel discussing Channel 4: The Television Revolution may be the relevant place to offer some elements of the overall intention and rationale for the season.
 
-It was first conceived in 2019, but delayed as the extensive digitisation at the BFI archive and then the pandemic took place. Following the digitisation a large proportion of the Channel’s output is now viewable at the BFI Mediatheque and supplements the season; with Channel 4 transmitting 3000 hours each year this has involved selecting about 20 hours from 30,000! Also the cinematic venue of the National Film Theatre led to an emphasis on showing substantial pieces of programme making, leaving out whole genres – sport and current affairs for example – and important elements of the schedule like _Channel Four News_ and _Brookside_.
+It was first conceived in 2019, but delayed as the extensive digitisation at the BFI archive and then the pandemic took place. Following the digitisation a large proportion of the Channel’s output is now viewable at the BFI Mediatheque and supplements the season.
 
-It is clear that this is an epoch where linear television is being replaced, certainly for younger generations, by access to streamers and digital resources. Commercial contexts determine commissioning decisions and algorithms curate our viewing choices. The notion that television with a market-led approach fulfils audience needs is highly arguable. It is defended by its supporters as democratic, but in fact operates as a self-fulfilling prophecy which gradually closes down the space for public debate.
+With Channel 4 transmitting 3000 hours each year the selection for the BFI season of about 20 hours from some 30,000 hours overall was an extremely difficult if not impossible task. Also the cinematic venue and audiences of the BFI Southbank naturally led to an emphasis on showing substantial pieces of ground breaking programme making that inevitably left out whole genres – sport and current affairs, animation and experiment for example – and important elements of the schedule like _Channel Four News_ and _Brookside_. However, we hope that in stripping the content across some 9 themed screenings and events we have been able to so some justice to the channel’s remarkable output both then and now.
 
-The various regional and national screenings and events celebrating the 40th anniversary of Channel 4 over the next few months indicate continued interest in the very different framework of that earlier epoch. However disinterring the early years of Channel 4 is not about nostalgia – the innovative principles of its past versions of public service television need to be re-invented and developed in a new epoch.  
-**Rod Stoneman**
+It is clear that this is an epoch where linear television is being replaced, certainly for younger generations, by access to streamers and digital resources. Commercial contexts determine commissioning decisions and algorithms curate our viewing choices. The notion that television with a market-led approach fulfils audience needs has always been a highly contested one. It is defended by its supporters as democratic, and by its detractors as a self-fulfilling prophecy which gradually closes down the space for public debate.
+
+The various regional and national screenings and events celebrating the 40th anniversary of Channel 4 over the next few months indicate continued interest in the very different framework of that earlier epoch. However disinterring the early years of Channel 4 is not about nostalgia – the innovative principles of its past versions of public service television need to be re-invented and developed in a new epoch by all public service television including Channel 4 itself.  
+**Rod Stoneman**  
 
 **About the panel**
 
@@ -90,5 +92,5 @@ Notes may be edited or abridged
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI3MjM4N119
+eyJoaXN0b3J5IjpbLTU0MDk3MzUyMiwtMjE5MjcyMzg3XX0=
 -->
