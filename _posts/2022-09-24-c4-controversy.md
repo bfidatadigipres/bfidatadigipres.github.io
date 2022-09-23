@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Controversy
-published: false
+published: true
 date: 2022-09-24
 readtime: true
 categories: ['CHANNEL 4<br>40 YEARS OF REVOLUTION']
