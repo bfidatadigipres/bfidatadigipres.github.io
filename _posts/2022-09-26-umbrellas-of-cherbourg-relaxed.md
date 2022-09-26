@@ -10,7 +10,7 @@ metadata: 'France/West Germany 1964, 93 mins<br> Director: Jacques Demy'
 pdf: '2022-09-26-umbrellas-of-cherbourg-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/cherbourg.png"><br><br>
+<img style="float: left;" src="/img/cherbourg.png"><br><br><br><br><br><br>
 
 _Lillian Crawford, film and culture writer and a regular host of Autism Through Cinema podcast will host this relaxed screening and the discussion that follows._
 
