@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Time to Die
-published: false
+published: true
 date: 2022-10-02
 readtime: true
 categories: ['JAMES BOND AT 60 WEEKEND']
