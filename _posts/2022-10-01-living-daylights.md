@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Living Daylights
-published: false
+published: true
 date: 2022-10-01
 readtime: true
 categories: ['JAMES BOND AT 60 WEEKEND']
