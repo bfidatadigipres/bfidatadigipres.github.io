@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decision to Leave
-published: false
+published: true
 date: 2022-10-17
 readtime: true
 categories: ['NEW RELEASES']
