@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experimental Sound and Vision<br> Found Sounds, Lyrical Loops and Landscapes
+title: Experimental Sound<br> and Vision<br> Found Sounds, Lyrical Loops and Landscapes
 published: true
 date: 2022-10-27
 readtime: true
