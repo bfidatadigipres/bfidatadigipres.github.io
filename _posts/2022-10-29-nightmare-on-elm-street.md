@@ -1,13 +1,13 @@
 ---
 layout: post
-title: A Nighmare on Elm Street
+title: A Nightmare on Elm Street
 published: true
 date: 2022-10-29
 readtime: true
 categories: ['IN DREAMS ARE MONSTERS']
 tags: [Horror]
 metadata: 'USA 1984, 91 mins<br> Director: Wes Craven'
-pdf: '2022-10-29-nighmare-on-elm-street.pdf'
+pdf: '2022-10-29-nightmare-on-elm-street.pdf'
 ---
 
 When a group of teenagers discover they are all having nightmares about the same creepy guy, they realise they must stay awake if they want to stay alive. Often grouped in with the slasher sub-genre that dominated US horror cinema of the 1980s, Craven’s most infamous creation was in fact rooted firmly in the supernatural, making Freddy Krueger a different kind of vengeful ghost, whose haunting ground was not a house, but the collective subconscious minds of a generation of vulnerable adolescents.  
