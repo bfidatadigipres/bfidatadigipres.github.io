@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Prospero's Books
-published: false
+published: true
 date: 2022-11-01
 readtime: true
 categories: ['FRAMES OF MIND<br> THE FILMS OF PETER GREENAWAY']
