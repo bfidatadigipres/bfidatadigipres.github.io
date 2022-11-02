@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let's Scare Jessica to Death
-published: false
+published: true
 date: 2022-11-02
 readtime: true
 categories: ['IN DREAMS ARE MONSTERS']
