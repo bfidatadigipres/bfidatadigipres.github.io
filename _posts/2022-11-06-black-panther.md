@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black Panther
-published: true
+published: false
 date: 2022-11-06
 readtime: true
 categories: ['CLOSE-UP - RYAN COOGLER']
