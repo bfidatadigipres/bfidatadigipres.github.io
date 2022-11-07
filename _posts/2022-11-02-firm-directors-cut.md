@@ -7,7 +7,7 @@ readtime: true
 categories: ['GARY OLDMAN']
 tags: [Drama, Sport]
 metadata: 'UK 1988, 68 mins<br> Director: Alan Clarke'
-pdf: '2022-11-02-firm-directors-cut.pdf'
+pdf: '2022-11-02-firm- directors-cut.pdf'
 ---
 
 With his wife (Manville, then married to Oldman), child, comfortable home and job as an estate agent, Clive ‘Bexy’ Bissel (Oldman) would seem a respectable citizen; his abiding passion, however, is football hooliganism… Clarke’s TV drama, inspired by the rivalry between the ‘firms’ of violent hooligans of the 70s and 80s, centres on one of Oldman’s most forceful yet subtly persuasive performances.  
