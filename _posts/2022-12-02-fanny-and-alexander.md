@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fanny and Alexander
-published: false
+published: true
 date: 2022-12-02
 readtime: true
 categories: ['RE-RELEASES']
