@@ -7,7 +7,7 @@ readtime: true
 categories: ['PREVIEWS']
 tags: [Children, Animation]
 metadata: 'U 2022, 32 mins<br> Directors: Peter Baynton, Charlie Mackesy'
-pdf: '2022-12-02-boy-the-mole-the-fox-the-horse.pdf'
+pdf: '2022-12-02-boy-the-mole-the-fox-and-the-horse.pdf'
 ---
 
 _+ Q&A with directors Peter Baynton and Charlie Mackesy, and producer Cara Speller_
