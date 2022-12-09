@@ -7,7 +7,7 @@ readtime: true
 categories: ['BBC CENTENARY SPECIAL']
 tags: [Drama, Period, TV]
 metadata: 'UK 1967, 91 mins<br> Director: Herbert Wise'
-pdf: '2022-12-109-incantation-of-casanova.pdf'
+pdf: '2022-12-10-incantation-of-casanova.pdf'
 ---
 
 As part of our Centenary salute to the BBC, we present this very special screening of a major BBC production that resides in the BFI National Archive. We have remastered sound and visual elements from an original 35mm telerecording of this outstanding play from the _Theatre 625_ series of prestigious dramas. This was the second and only surviving part of  _The Magicians_, a trio of unconnected plays about magic and magicians, written by Ken Taylor. In this sensual period drama, con man and cod-magician Casanova hatches an elaborate plan to seduce a farmer’s daughter. Jeremy Brett turns in a characteristically rich and eccentric performance as the mesmerising seducer, with Jacqueline Pearce equally commanding as the object of his desire.  
