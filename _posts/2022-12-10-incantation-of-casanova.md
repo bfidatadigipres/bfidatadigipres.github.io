@@ -21,8 +21,7 @@ When Britain’s third TV channel, BBC Two, launched in 1964 it was conceived as
 
 BBC Drama overseer Sydney Newman launched the _Theatre 625_ strand with an ambitious trilogy of plays known as _The Seekers_, written by Ken Taylor and exploring notions of faith. The success of these led to another trilogy in 1967, _The Magicians_, again all written by Taylor.
 
-_The Magicians_ dramatised incidents in the lives of three historical figures:  
-Dr John Dee, Casanova and Edmund Gurney. The first play, _Dr Dee, Kelly and the Spirits_ (directed by James MacTaggart and featuring Frank Finlay and Alan Dobie), and the third play, _Edmund Gurney and the Brighton Mesmerist_ (directed by Peter Hammond and featuring Richard Todd and Ray Brooks), have not survived, although the scripts for both plays are held in the Ken Taylor collection within BFI Special Collections.
+_The Magicians_ dramatised incidents in the lives of three historical figures: Dr John Dee, Casanova and Edmund Gurney. The first play, _Dr Dee, Kelly and the Spirits_ (directed by James MacTaggart and featuring Frank Finlay and Alan Dobie), and the third play, _Edmund Gurney and the Brighton Mesmerist_ (directed by Peter Hammond and featuring Richard Todd and Ray Brooks), have not survived, although the scripts for both plays are held in the Ken Taylor collection within BFI Special Collections.
 
 The middle play, _The Incantation of Casanova_, was preserved safely on film in the vaults of the BFI National Archive. The play has now been digitally remastered by our specialists from the separate sound and picture 35mm elements held in the archive. Prior to this there was no existing viewing copy of the play, so it’s safe to say it is unseen since its original broadcast in 1967.
 
