@@ -2,12 +2,12 @@
 layout: post
 title: Every Day Except Christmas
 published: true
-date: 2022-12-12
+date: 2022-12-13
 readtime: true
 categories: ['ART IN THE MAKING']
 tags: [Documentary]
 metadata: 'UK 1957, 40 mins<br> Director: Lindsay Anderson'
-pdf: '2022-12-12-every-day-except-christmas.pdf'
+pdf: '2022-12-13-every-day-except-christmas.pdf'
 ---
 
 _+ intro by Patrick Russell, Senior Curator, BFI National Archive_
