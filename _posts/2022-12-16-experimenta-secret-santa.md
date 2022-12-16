@@ -7,7 +7,7 @@ readtime: true
 categories: ['EXPERIMENTA']
 tags: [Experimental]
 metadata: ''
-pdf: '2022-12-16-black-panther.pdf'
+pdf: '2022-12-16-experimenta-secret-santa.pdf'
 ---
 
 W: Hi everybody, we hope you enjoyed the Experimenta Mixtape Secret Santa edition. Kristina and I have put together a whole load of different material which of course you’ve just seen. So today you saw, some of you saw, as you arrived, some opening music, which, um, I haven’t got written down directly in front of me. Can you remember what it was, Kristina?
