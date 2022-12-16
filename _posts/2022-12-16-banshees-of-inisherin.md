@@ -93,38 +93,24 @@ A Walt Disney release for Searchlight Pictures<br>
 <br>
 
 **NEW RELEASES**<br>
-**Decision to Leave (Heojil Kyolshim)**<br>
-From Mon 17 Oct<br>
+**Lynch/Oz**<br>
+From Fri 2 Dec<br>
+**Bones and All**<br>
+From Fri 2 Dec<br>
+**Tori and Lokita**<br>
+From Fri 9 Dec<br>
 **Triangle of Sadness**<br>
-From Fri 28 Oct<br>
+From Fri 16 Dec<br>
+**Decision to Leave**<br>
+From Fri 16 Dec<br>
 **The Banshees of Inisherin**<br>
-From Fri 28 Oct<br>
-**The Greenaway Alphabet**<br>
-From Fri 11 Nov<br>
-**Aftersun**<br>
-From Fri 18 Nov<br>
-**What Do We See When We Look at the Sky? (Ras vkhedavt, rodesac cas vukurebt?)**<br>
-From Fri 25 Nov<br>
-
-**NEW RELEASES**
-**Lynch/Oz**
-From Fri 2 Dec
-**Bones and All**
-From Fri 2 Dec
-**Tori and Lokita**
-From Fri 9 Dec
-**Triangle of Sadness**
-From Fri 16 Dec
-**Decision to Leave**
-From Fri 16 Dec
-**The Banshees of Inisherin**
-From Fri 16 Dec
-**She Said**
-From Sat 17 Dec
-**Living**
-From Mon 19 Dec
-**Corsage**
-From Tue 27 Dec
+From Fri 16 Dec<br>
+**She Said**<br>
+From Sat 17 Dec<br>
+**Living**<br>
+From Mon 19 Dec<br>
+**Corsage**<br>
+From Tue 27 Dec<br>
 
 
 **BFI SOUTHBANK**  
