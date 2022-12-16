@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama, Comedy]
 metadata: 'USA-UK-Ireland 2022, 114 mins<br> Director: Martin McDonagh'
-pdf: '2022-12-16-banshees-of-inisherin.pdf'
+pdf: '2022-12-16-banshees-of-Inisherin.pdf'
 ---
 
 _The Beauty Queen of Leenane_, _The Cripple of Inishmaan_, _The Lieutenant of Inishmore_… In titling his gritty, west coast Irish dramas, Martin McDonagh certainly has a type. All three aforementioned plays debuted (as did two others) between 1996 and 2001, a dazzling period that saw McDonagh anointed as the next great theatrical sensation, his blackly comic, often gruesomely violent tales steeped in authentic locale and caustic yet lyrical language.
