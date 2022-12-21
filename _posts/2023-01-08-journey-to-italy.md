@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Journey to Italy
-published: true
-date: 2022-05-10
+published: false
+date: 2023-01-08
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>72=']
 tags: [Drama]
 metadata: 'Italy/France 1954, 86 mins<br> Director: Roberto Rossellini'
-pdf: '2022-05-10-journey-to-italy.pdf'
+pdf: '2023-01-08-journey-to-italy.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -92,35 +92,75 @@ Italy/France 1954<br>
 86 mins<br>
 <br>
 
-**BIG SCREEN CLASSICS**<br>
-**A Farewell to Arms**<br>
-Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
-**Sunrise: A Song of Two Humans**<br>
-Mon 2 May 12:20; Mon 30 May 18:20<br>
-**Tokyo Story (Tokyo Monogatari)**<br>
-Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
-**The River**<br>
-Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
-**El Sur (The South)**<br>
-Thu 5 May 14:30; Mon 16 May 18:10<br>
-**Daughters of the Dust**<br>
-Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
-**Syndromes and a Century (Sang sattawaat)**<br>
-Sat 7 May 18:10; Thu 12 May 20:50<br>
-**Still Walking (Aruitemo aruitemo)**<br>
-Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
-**The Long Day Closes**<br>
-Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
+**The Leopard (Il gattopardo)**<br>
+Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00<br>
+**Sunset Boulevard**<br>
+Sun 1 Jan 15:50; Fri 27 Jan 14:30;  Mon 30 Jan 17:50<br>
+**Metropolis**<br>
+Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30 BFI IMAX<br>
+**L’avventura (The Adventure)**<br>
+Sun 1 Jan 18:05; Sun 22 Jan 15:20;  Mon 30 Jan 20:15<br>
+**Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
+**The Red Shoes**<br>
+Mon 2 Jan 13:50; Tue 24 Jan 18:05<br>
+**Once Upon a Time in the West  (C’era una volta il West)**<br>
+Mon 2 Jan 15:20; Sat 7 Jan 17:15;  Sun 15 Jan 16:15 BFI IMAX<br>
+**Get Out** <br>
+Mon 2 Jan 18:40; Fri 6 Jan 17:50<br>
+**Pierrot le Fou**<br> 
+Tue 3 Jan 18:10; Wed 4 Jan 20:30;  Thu 19 Jan 20:30<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX;  
+Sat 28 Jan 13:40<br>
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
+Tue 3 Jan 18:30; Sat 28 Jan 20:30<br>
+**Black Girl (La Noire de...)**<br>
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)<br>
+**Ugetsu Monogatari**<br>
+Tue 3 Jan 20:50; Tue 17 Jan 20:30<br>
+**Madame de...**<br>
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)<br>
+**Yi Yi (A One and a Two…)**<br>
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)<br>
+**The Shining**<br>
+Fri 6 Jan 20:10; Tue 10 Jan 20:10;  Sat 21 Jan 20:30 BFI IMAX<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX<br>
+**Tropical Malady (Sud pralad)**<br>
+Sat 7 Jan 13:50; Mon 9 Jan 20:40<br>
+**Histoire(s) du cinema**<br> 
+Sat 7 Jan 16:30<br>
+**Blue Velvet**<br>
+Sat 7 Jan 20:30; Fri 20 Jan 20:35;  Tue 24 Jan 21:00 BFI IMAX<br>
+**Sátántangó**<br>
+Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
+**Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
+Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
 **Journey to Italy (Viaggio in Italia)**<br>
-Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
-Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
-**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
-Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
-**The Miracle Worker**<br>
-Tue 17 May 14:30; Sun 29 May 11:20<br>
-**The Incredible Shrinking Man**<br>
-Thu 19 May 14:30; Tue 31 May 18:20<br>
+Sun 8 Jan 18:20; Mon 23 Jan 14:30;  Fri 27 Jan 20:50<br>
+**Parasite (Gisaengchung)**<br>
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
+Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
+**A Matter of Life and Death**<br>
+Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
+**Chungking Express (Chung Him sam lam)**<br>
+Thu 12 Jan 20:45; Tue 17 Jan 20:50;  Sat 21 Jan 14:15<br>
+**Modern Times**<br>
+Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
+**A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
+Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
+**Imitation of Life**<br>
+Wed 18 Jan 20:30; Wed 25 Jan 14:30;  Sun 29 Jan 12:30<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
+**Sansho the Bailiff (Sansho Dayu)**<br>
+Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
+<br>
 
 
 **BFI SOUTHBANK**  
