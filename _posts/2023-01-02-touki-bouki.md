@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Touki Bouki
-published: true
-date: 2022-07-27
+published: false
+date: 2023-01-02
 readtime: true
-categories: ['IN THE BLACK FANTASTIC']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>66']
 tags: [Drama]
 metadata: 'Senegal 1973, 88 mins<br> Director: Djibril Diop Mambéty'
-pdf: '2022-07-27-touki-bouki.pdf'
+pdf: '2023-01-02-touki-bouki.pdf'
 ---
 
 **John Akomfrah on ‘Touki Bouki’**  
@@ -85,41 +85,75 @@ Senegal 1973<br>
 Restored in 2008 by The World Cinema Foundation at Cineteca di Bologna/L’Immagine Ritrovata in association with the family of Djibril Diop Mambéty. Restoration funding provided by Armani, Cartier, Qatar Airways and Qatar Museum Authority.<br>
 <br>
 
-**IN THE BLACK FANTASTIC<br>
-VISIONARY FILMS OF AFROFUTURISM, MYTH AND SPECULATIVE FICTION**<br>
-**The Brother from Another Planet**<br>
-Fri 1 Jul 18:05; Wed 6 Jul 20:45<br>
-**Sankofa**<br>
-Sat 2 Jul 14:00 (+ intro by June Givanni, June Givanni Pan African Cinema Archive); Wed 20 Jul 20:35<br>
-**Daughters of the Dust**<br>
-Sat 2 Jul 20:30; Wed 13 Jul 20:40<br>
-**Yeelen (Brightness)**<br>
-Sun 3 Jul 15:50; Thu 14 Jul 20:40<br>
-**Top of the Heap**<br>
-Mon 4 Jul 18:10; Sat 30 Jul 20:45<br>
-**In the Afrofuture**<br>
-Tue 5 Jul 18:20; Sun 17 Jul 16:00<br>
-**Atlantics (Atlantique)**<br>
-Thu 7 Jul 20:50; Sun 31 Jul 15:40<br>
-**Kuso**<br>
-Sat 9 Jul 20:50; Fri 22 Jul 18:10<br>
-**Touki Bouki**<br>
-Wed 13 Jul 17:50 (+ season introduction); Wed 27 Jul 20:50<br>
-**The Burial of Kojo**<br>
-Fri 15 Jul 18:30; Thu 28 Jul 20:40<br>
-**The Black Atlantic**<br>
-Mon 18 Jul 18:15 (+ Q&A); Sat 30 Jul 12:00<br>
-**Eve’s Bayou**<br>
-Tue 19 Jul 20:45; Thu 28 Jul 18:00<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
+**The Leopard (Il gattopardo)**<br>
+Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00<br>
+**Sunset Boulevard**<br>
+Sun 1 Jan 15:50; Fri 27 Jan 14:30;  Mon 30 Jan 17:50<br>
+**Metropolis**<br>
+Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30 BFI IMAX<br>
+**L’avventura (The Adventure)**<br>
+Sun 1 Jan 18:05; Sun 22 Jan 15:20;  Mon 30 Jan 20:15<br>
+**Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
+**The Red Shoes**<br>
+Mon 2 Jan 13:50; Tue 24 Jan 18:05<br>
+**Once Upon a Time in the West  (C’era una volta il West)**<br>
+Mon 2 Jan 15:20; Sat 7 Jan 17:15;  Sun 15 Jan 16:15 BFI IMAX<br>
+**Get Out** <br>
+Mon 2 Jan 18:40; Fri 6 Jan 17:50<br>
+**Pierrot le Fou**<br> 
+Tue 3 Jan 18:10; Wed 4 Jan 20:30;  Thu 19 Jan 20:30<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX;  
+Sat 28 Jan 13:40<br>
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
+Tue 3 Jan 18:30; Sat 28 Jan 20:30<br>
+**Black Girl (La Noire de...)**<br>
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)<br>
+**Ugetsu Monogatari**<br>
+Tue 3 Jan 20:50; Tue 17 Jan 20:30<br>
+**Madame de...**<br>
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)<br>
+**Yi Yi (A One and a Two…)**<br>
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)<br>
+**The Shining**<br>
+Fri 6 Jan 20:10; Tue 10 Jan 20:10;  Sat 21 Jan 20:30 BFI IMAX<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX<br>
+**Tropical Malady (Sud pralad)**<br>
+Sat 7 Jan 13:50; Mon 9 Jan 20:40<br>
+**Histoire(s) du cinema**<br> 
+Sat 7 Jan 16:30<br>
+**Blue Velvet**<br>
+Sat 7 Jan 20:30; Fri 20 Jan 20:35;  Tue 24 Jan 21:00 BFI IMAX<br>
+**Sátántangó**<br>
+Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
+**Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
+Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Sun 8 Jan 18:20; Mon 23 Jan 14:30;  Fri 27 Jan 20:50<br>
+**Parasite (Gisaengchung)**<br>
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
+Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
+**A Matter of Life and Death**<br>
+Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
+**Chungking Express (Chung Him sam lam)**<br>
+Thu 12 Jan 20:45; Tue 17 Jan 20:50;  Sat 21 Jan 14:15<br>
+**Modern Times**<br>
+Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
+**A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
+Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
+**Imitation of Life**<br>
+Wed 18 Jan 20:30; Wed 25 Jan 14:30;  Sun 29 Jan 12:30<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
+**Sansho the Bailiff (Sansho Dayu)**<br>
+Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
 <br>
-
-Presented in cultural partnership with Hayward Gallery and Southbank Centre
-
-<img style="float: left;" src="/img/southbank-centre-logo-01.png" width="30%" height="30%">
-<br><br><br><br><br>
-
-**In the Black Fantastic** is an exhibition, curated by Ekow Eshun, of contemporary artists from the African diaspora who draw on science fiction, myth and Afrofuturism. Runs **29 Jun to 18 Sep at Hayward Gallery**.
-
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
