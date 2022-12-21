@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Lost Highway
-published: true
-date: 2022-09-02
+published: false
+date: 2023-01-06
 readtime: true
-categories: ['RE-RELEASES']
-tags: [Drama]
+categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
+tags: [Thriller, Film Noir]
 metadata: 'USA/France 1996, 134 mins<br> Director: David Lynch'
-pdf: '2022-09-02-lost-highway.pdf'
+pdf: '2023-01-06-lost-highway.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
-Patricia Arquette plays two characters in two interrelated stories in this exquisite neo-noir from the unique mind of David Lynch. In one, a saxophonist (Pullman) starts receiving tapes filmed inside his home of him and his wife (Arquette) asleep in bed. He gradually starts to believe that he is being framed for murder. In the second, a mechanic (Getty) gets involved with a woman (Arquette) who is also seeing a dangerous gangster and finds himself being drawn into the criminal underworld. Often cited as Lynch’s ‘masterpiece’, _Lost Highway_ is a complex, enthralling and mature piece of work that rewards repeat viewings. This new 4K restoration shows off the best in  cinematography, editing and a cracking score too.  
-**Justin Johnson, Lead Programmer, bfi.org.uk**  
+I came to this one late, as I’d always been led to believe that it was one of David Lynch’s lesser works. Maybe it was the lack of expectation. But when I did finally see it, the film completely bowled me over. It’s predictably uncompromising, gloriously evoking the nightmare state, featuring _that_ phone call – perhaps Lynch’s most unnerving sequence – and with a final shot that maybe holds the key to the entire mystery of the narrative.  
+**Mark Jenkin**  
 
 The legend of Luis Buñuel’s collaboration with Salvador Dalí is that if either included an image or incident open to rational explanation or interpretation, it would be dropped. Yet _Un chien andalou_ (1928) and _L’Age d’or_ (1930) afford many meaningful readings. It may well be that with _Lost Highway,_ director David Lynch and co-screenwriter Barry Gifford – author of the novel _Wild at Heart_ – have succeeded where Buñuel and Dalí failed, creating an almost entirely meaningless, or perhaps senseless, ﬁlm.
 
@@ -27,6 +27,23 @@ Fred Madison lives in a horror story where an ordinary life can be pulled apart 
 
 As always with Lynch, it is hard to distinguish between a ﬁctional universe created to force a reassessment of your relationship with the real one, and a personal world that suggests an unsympathetic interpretation of its creator’s feelings. The abused and murdered women of _Blue Velvet_ and _Twin Peaks_ are again featured, though there is more eroticising here of living bodies than of dead ones. However, when it comes to genuine ﬁlm fear – as opposed to Wes Craven’s rollercoaster scariness with pop-culture footnotes – Lynch’s is the only game in town. This is post-genre horror: playing down explicit shock, it works on the evocation of unease through subtle sounds and blaring doom metal, offering blurred moments that resolve brieﬂy into dreadful clarity. After 100 years of cinema, it is still possible to make a truly terrifying picture.   
 **Kim Newman, _Sight & Sound_, September 1997**  
+
+**Jaunt**  
+
+Andrew is a constant influence and inspiration. This film stands for all his work and is a distillation of everything I love about it; the exploitation of the creative potential of sound, the playful approach to reality and, above all, the joy and mischievousness that run through all his films. I’m very proud to have been labelled a fellow ‘shoddyist’ by the man himself.  
+**Mark Jenkin**
+<br><br>
+
+**JAUNT**<br>
+_Director:_ Andrew Kötting<br>
+_Production Company:_ London Production Fund<br>
+_Commissioning Company:_ Carlton UK Productions<br>
+_Sponsors:_ London Arts Board, London Film and Video Development Agency<br>
+_Super 8 Photography:_ Gary Parker<br>
+_Editor:_ Cliff West<br>
+_Music:_ John Wall, Andrew Kötting<br>
+UK 1995<br>
+6 mins<br>
 
 **LOST HIGHWAY**  
 _Director:_ David Lynch  
@@ -129,7 +146,36 @@ USA/France 1996
 134 mins  
 
 A Janus Films release  
+<br><br>
 
+**MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN**<br>
+**Walkabout + Oss Oss Wee Oss**<br>
+Sun 1 Jan 13:10; Mon 9 Jan 20:30<br>
+**The Stone Tape + Journey to Avebury**<br>
+Mon 2 Jan 15:40<br>
+**Jeanne Dielman, 23 Quai du Commerce,  1080 Bruxelles**<br>
+Wed 4 Jan 18:30; Sat 28 Jan 16:15<br>
+**Symptoms + Stigma**<br>
+Fri 6 Jan 18:10; Sun 15 Jan 15:30<br>
+**Lost Highway + Jaunt**<br>
+Fri 6 Jan 20:15; Sun 22 Jan 18:10<br>
+**Haunters of the Deep  + The Living and the Dead Episode 2**<br>
+Sun 8 Jan 13:20; Sat 14 Jan 20:40<br>
+**Long Weekend + Between the Tides**<br>
+Tue 10 Jan 18:20; Mon 23 Jan 20:30<br>
+**Penda’s Fen + A Warning to the Curious**<br>
+Wed 11 Jan 17:50<br>
+**Two Years at Sea + A Portrait of Ga**<br>
+Sat 14 Jan 18:00 (+ intro and Q&A with Mark Jenkin and Ben Rivers); Tue 24 Jan 20:45<br>
+**Daguerréotypes + World of Glory**<br>
+Sun 15 Jan 12:00 (+ intro by Mark Jenkin);  Thu 26 Jan 20:50<br>
+**Bait**<br>
+Sun 15 Jan 18:00; Mon 30 Jan 20:50<br>
+**Requiem for a Village + The Signalman**<br>
+Fri 27 Jan 18:20; Tue 31 Jan 20:40<br>
+**Berberian Sound Studio + Wind**<br>
+Sun 29 Jan 15:30 (+ intro by Mark Jenkin and Peter Strickland); Tue 31 Jan 18:10<br>
+<br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
