@@ -1,17 +1,23 @@
 ---
 layout: post
 title: My Neighbour Totoro
-published: true
-date: 2022-04-05
+published: false
+date: 2023-01-03
 readtime: true
-categories: ['ANIME']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>72=']
 tags: [Animation]
 metadata: 'Japan 1988, 87 mins<br> Director: Hayao Miyazaki'
-pdf: '2022-04-05-my-neighbour-totoro.pdf'
+pdf: '2023-01-03-my-neighbour-totoro.pdf'
 ---
 
-Satsuki and Mei move to a new home in the country after their mother falls ill, and soon discover house spirits inside and wood spirits and other creatures outside. The girls are whisked away on a magical adventure where they board a ‘cat bus’ and make quirky new friends. Cited by Akira Kurosawa as one of his favourite Japanese films of all time, _My Neighbour Totoro_ introduced the world to the iconic and loveable Totoro, now the logo of Studio Ghibli.<br>
-**bfi.org.uk**
+Hayao Miyazaki, the co-founder and driving visionary behind Japan’s Studio Ghibli, is renowned for his world-spinning, fecund and furious animated fantasies: across his 11 features he has conjured pre-modern and post-apocalyptic, undersea and above-the-clouds milieux teeming with angry earth gods and lost robots, apprentice witches and wracked wizards, flying pigs, runaway fish-girls and endless vivid bit-creations besides. (His Oscar-winner _Spirited Away_, nearby in this poll, spills forth a phantasmic bathhouse of troubled ghouls.)
+
+_My Neighbour Totoro_ is his less-is-more work: a pastoral, pantheist chamber drama, where the ‘chamber’ lies under the canopy of a great camphor tree that lords over the woods behind a tumbledown farmhouse. Into this adventure realm move two sisters, pre-school Mei and preteen Satsuke, with their inattentive dad, to be nearer their hospitalised mum. Each in turn encounters the spirit of the woods: a giant, furry, ovoid mammal with mighty powers of flying, horticulture and slumber. (He comes with two smaller surrogates, who may or may not indicate a further world of _totori_.)
+
+The storytelling is as simple as Totoro is inscrutable, unfolding in a series of delightful, exquisitely constructed sequences: Satsuke and Mei discovering the farmhouse and its soot-sprite occupants; Mei tracking Totoro’s minions to his lair; the tired children, waiting in the rain for their dad at a bus stop, finding Totoro waiting too – for a twinkle-eyed cat bus; a village-wide hunt for Mei after a misunderstood message from hospital leads her to run away. My favourite is the nocturne in which the girls and Totoros conjure shoots from acorns with an incantatory dance, then soar triumphant through the trees on a spinning top. There’s no plot, just rousing impressions of innocence and experience.
+
+So many films ask us to see the adult world through children’s eyes; _My Neighbour Totoro_ summons wilder, wide-eyed wonder at the forces that inform us: life, nature, connection, change. And, of course, it hymns the uplift of imagination, with Joe Hisaishi’s entrancing synth tunes essential to the magic. The film got two votes in _Sight and Sound_’s 2002 poll, 11 in 2012. A swift hit in Japan, it has spread its spell steadily across the world ever since; a third of a century after its release, many younger critics have grown up with it. It’s clearly an antidote to urbanisation and technology, and a rebuke to a world of environmental breakdown. It’s also a comfort and a reassurance that shows we still have artists who can create something timeless.  
+**Nick Bradshaw, _Sight and Sound_, Winter 2022-23**
 
 _My Neighbour Totoro_ is my favourite film. I would not change, add or remove a single frame. It is perfect as it stands, a shining moment in the career of a great director when everything was at its peak. Hayao Miyazaki’s skills in almost every aspect of animation are justly renowned, and nothing showcases them better than this film, so beautiful that every frame could hang on the walls of a gallery. (Many have done so, more than once.) Studio Ghibli produced this at the same time as _Grave of the Fireflies_ (1988), a pair of masterpieces on childhood and innocence exploring memories from the directors’ pasts. Miyazaki made some beautiful films after _Totoro_, but none would ever capture so honestly and precisely the glorious, unfathomable, heart-breaking fragility of a child’s world.<br>
 
@@ -71,48 +77,74 @@ Japan 1988<br>
 86 mins<br>
 <br>
 <br>
-**THE HISTORY OF ANIME**<br>
-**Early Days of Anime Shorts Programme 1917-1946 + intro**<br>
-Tue 29 Mar 18:00; Mon 11 Apr 20:40<br>
-**Momotaro’s Divine Sea Warriors (Momotarō: Umi no Shinpei)**<br>
-Wed 30 Mar 21:00; Wed 13 Apr 18:30<br>
-**Exploring Anime: Panel Discussion**<br>
-Thu 31 Mar 18:15<br>
-**Astroboy**<br>
-Fri 1 Apr 18:15; Sun 17 Apr 12:10<br>
-**Kimba the White Lion (Jangaru Taitei)**<br>
-Fri 1 Apr 20:45; Sat 9 Apr 12:40<br>
-**Belladonna of Sadness (Kanashimi no Belladonna)**<br>
-Mon 4 Apr 20:30 (+ intro by Helen McCarthy); Mon 18 Apr 15:30<br>
-
-**STUDIO GHIBLI**<br>
-**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
-Mon 28 Mar 20:35; Fri 29 Apr 18:00<br>
-**When Marnie Was There (Omoide No Mani)**<br>
-Tue 29 Mar 20:40<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
+**The Leopard (Il gattopardo)**<br>
+Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00<br>
+**Sunset Boulevard**<br>
+Sun 1 Jan 15:50; Fri 27 Jan 14:30;  Mon 30 Jan 17:50<br>
+**Metropolis**<br>
+Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30 BFI IMAX<br>
+**L’avventura (The Adventure)**<br>
+Sun 1 Jan 18:05; Sun 22 Jan 15:20;  Mon 30 Jan 20:15<br>
+**Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
+**The Red Shoes**<br>
+Mon 2 Jan 13:50; Tue 24 Jan 18:05<br>
+**Once Upon a Time in the West  (C’era una volta il West)**<br>
+Mon 2 Jan 15:20; Sat 7 Jan 17:15;  Sun 15 Jan 16:15 BFI IMAX<br>
+**Get Out** <br>
+Mon 2 Jan 18:40; Fri 6 Jan 17:50<br>
+**Pierrot le Fou**<br> 
+Tue 3 Jan 18:10; Wed 4 Jan 20:30;  Thu 19 Jan 20:30<br>
 **My Neighbour Totoro (Tonari no Totoro)**<br>
-Tue 5 Apr 18:20; Fri 8 Apr 20:50<br>
-
-**ANIME CLASSICS PART 1**<br>
-**Steamboy (Suchîmubôi)**<br>
-Sat 9 Apr 20:20; Fri 15 Apr 20:30; Wed 20 Apr 18:10<br>
-**Royal Space Force: The Wings of Honneamise (Ōritsu Uchūgun: Oneamisu no Tsubasa)**<br>
-Tue 12 Apr 18:00; Sat 23 Apr 20:40<br>
-**Patlabor: The Movie (Kidô keisatsu patorebâ: Gekijô-ban)**  
-Wed 13 Apr 20:40; Sun 17 Apr 18:20; Thu 28 Apr 18:15  
-**Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no tobira)**  
-Thu 14 Apr 20:45; Sat 16 Apr 20:30; Fri 22 Apr 20:40  
-**Patlabor 2: The Movie (Kidô keisatsu patorebâ: The Movie 2)**  
-Fri 15 Apr 18:15; Thu 21 Apr 20:30; Thu 28 Apr 20:45<br>
-**The Case of Hana & Alice (Hana to Arisu Satsujin Jiken)**<br>
-Sat 16 Apr 18:35; Tue 26 Apr 20:55<br>
-
-This season was co-programmed by writer and academic Hanako Miyata<br>
-
-<img style="float: left;" src="/img/japan-nakama.png" width="30%" height="30%">
-<br><br><br><br><br>
-
-**Japan Nakama is an online community for Japanese culture enthusiasts and a marketplace for Japan-made and inspired products.**<br>
+Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX;  
+Sat 28 Jan 13:40<br>
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
+Tue 3 Jan 18:30; Sat 28 Jan 20:30<br>
+**Black Girl (La Noire de...)**<br>
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)<br>
+**Ugetsu Monogatari**<br>
+Tue 3 Jan 20:50; Tue 17 Jan 20:30<br>
+**Madame de...**<br>
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)<br>
+**Yi Yi (A One and a Two…)**<br>
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)<br>
+**The Shining**<br>
+Fri 6 Jan 20:10; Tue 10 Jan 20:10;  Sat 21 Jan 20:30 BFI IMAX<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX<br>
+**Tropical Malady (Sud pralad)**<br>
+Sat 7 Jan 13:50; Mon 9 Jan 20:40<br>
+**Histoire(s) du cinema**<br> 
+Sat 7 Jan 16:30<br>
+**Blue Velvet**<br>
+Sat 7 Jan 20:30; Fri 20 Jan 20:35;  Tue 24 Jan 21:00 BFI IMAX<br>
+**Sátántangó**<br>
+Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
+**Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
+Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Sun 8 Jan 18:20; Mon 23 Jan 14:30;  Fri 27 Jan 20:50<br>
+**Parasite (Gisaengchung)**<br>
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
+Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
+**A Matter of Life and Death**<br>
+Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
+**Chungking Express (Chung Him sam lam)**<br>
+Thu 12 Jan 20:45; Tue 17 Jan 20:50;  Sat 21 Jan 14:15<br>
+**Modern Times**<br>
+Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
+**A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
+Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
+**Imitation of Life**<br>
+Wed 18 Jan 20:30; Wed 25 Jan 14:30;  Sun 29 Jan 12:30<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
+**Sansho the Bailiff (Sansho Dayu)**<br>
+Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
 <br>
 
 **BFI SOUTHBANK**  
