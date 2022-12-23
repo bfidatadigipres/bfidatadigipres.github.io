@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Walkabout
-published: false
+published: true
 date: 2023-01-01
 readtime: true
 categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
