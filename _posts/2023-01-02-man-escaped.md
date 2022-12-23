@@ -2,12 +2,12 @@
 layout: post
 title: A Man Escaped
 published: true
-date: 2023-01-02
+date: 2023-01-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
 tags: [Drama]
 metadata: 'France 1956, 90 mins<br> Director: Robert Bresson'
-pdf: '2023-01-02-man-escaped.pdf'
+pdf: '2023-01-03-man-escaped.pdf'
 ---
 
 The subject is simple. It comes from an escape story by a member of the French secret service called André Devigny. In 1943 he was arrested and interrogated by the Gestapo at Lyons. He made an attempt to escape from a moving car while being taken to prison. It failed. Recaptured and beaten up, he was placed in solitary confinement at the prison called Fort Montluc. He was still determined to escape, only more carefully. After several weeks he managed to dissect three panels from his wooden cell door with an iron spoon that he’d sharpened against the floor. The next stage was to make a rope. The springs of his bed, uncoiled one by one, were a starting point. A parcel of shirts and pyjamas from his family arrived fortunately to be torn into strips and knotted round the springs. Months have passed now. He is ready and yet he does nothing, suddenly overtaken by an inner lethargy. It is only another interview with the Gestapo and the pronouncement of his death sentence that impel him to action. He will escape now. But a 16 year old boy is put in the same cell with him. Is he an informer for the Germans? Ragged and lousy, he tells a story of hiding out and eventual capture, but he wears part of a German uniform. For two days Fontaine, as the hero is called, wonders whether to trust him or kill him. They escape together.
