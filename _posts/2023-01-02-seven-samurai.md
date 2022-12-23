@@ -134,14 +134,12 @@ Thu 26 Jan 21:00; Tue 31 Jan 17:50
 Wed 11 Jan – Wed 22 Feb 18:30  
 
 **In partnership with**  
-
 <img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
-
 <img style="float: left;" src="/img/wagamama.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 **BFI SOUTHBANK**  
