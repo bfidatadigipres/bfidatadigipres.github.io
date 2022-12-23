@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Stone Tape
-published: false
+published: true
 date: 2023-01-02
 readtime: true
 categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
