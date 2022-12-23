@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Neighbour Totoro
-published: false
+published: true
 date: 2023-01-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>72=']
