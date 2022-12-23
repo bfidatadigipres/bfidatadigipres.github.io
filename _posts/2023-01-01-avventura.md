@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'avventura
-published: false
+published: true
 date: 2023-01-01
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>72=']
