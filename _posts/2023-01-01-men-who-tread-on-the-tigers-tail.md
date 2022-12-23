@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Men Who Tread on the Tiger’s Tail
-published: false
+published: true
 date: 2023-01-01
 readtime: true
 categories: ['KUROSAWA']
@@ -82,14 +82,12 @@ Thu 26 Jan 21:00; Tue 31 Jan 17:50
 Wed 11 Jan – Wed 22 Feb 18:30  
 
 **In partnership with**  
-
-<img style="float: left;" src="/img/japan-foundation2.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/Japan Foundation2.JPG" width="40%" height="40%">
+<br><br><br><br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
-
 <img style="float: left;" src="/img/wagamama.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
 **BFI SOUTHBANK**  
