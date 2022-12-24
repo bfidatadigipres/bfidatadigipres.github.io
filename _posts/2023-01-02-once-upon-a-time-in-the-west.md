@@ -79,7 +79,8 @@ _Assistant Make-up:_ Feliziano Ciriaci
 _Assistant Hairdresser:_ Antonietta Caputo  
 _Soprano Soloist:_ Edda Dell’Orso  
 _Weapons Master:_ Benito Stefanelli  
-_Cast:_  
+
+**Cast**  
 Claudia Cardinale _(Jill McBain)_  
 Henry Fonda _(Frank)_  
 Jason Robards _(Cheyenne)_  
@@ -122,6 +123,8 @@ Luigi Magnani, Sandra Salvatori, Dino Zamboni, Livio Andronico, Stefano Imparato
 
 Italy/USA 1968©  
 165 mins  
+<br>
+
 **SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**  
 **The General**  
 Sun 1 Jan 12:10; Sun 29 Jan 15:10  
