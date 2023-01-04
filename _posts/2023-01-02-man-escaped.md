@@ -6,7 +6,7 @@ date: 2023-01-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>95=']
 tags: [Drama]
-metadata: 'France 1956, 90 mins<br> Director: Robert Bresson'
+metadata: 'France 1956, 101 mins<br> Director: Robert Bresson'
 pdf: '2023-01-03-man-escaped.pdf'
 ---
 
@@ -69,7 +69,7 @@ Klaus Detlef Grevenhorst _(German intelligence officer)_
 Leonhard Schmidt _(German escort)_  
   
 France 1956  
-90 mins  
+101 mins  
 
 \* Uncredited  
 
