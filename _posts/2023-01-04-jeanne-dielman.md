@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeanne Dielman<br>23, Quai du Commerce, 1080 Bruxelles
-published: false
+published: true
 date: 2023-01-04
 readtime: true
 categories: ['MARK JENKIN’S THE CINEMATIC DNA OF ENYS MEN']
