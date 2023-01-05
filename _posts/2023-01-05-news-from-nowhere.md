@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News from Nowhere
-published: false
+published: true
 date: 2023-01-05
 readtime: true
 categories: ['ART IN THE MAKING']
