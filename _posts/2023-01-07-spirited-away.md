@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Histoire(s) du cinéma
-published: false
+title: Spirited Away
+published: true
 date: 2023-01-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>75=']
 tags: [Animation]
-metadata: '<Japan 2001, 124 mins<br> Director: <Hayao Miyazaki'
-pdf: '2023-01-07-histoires-du-cinema.pdf'
+metadata: 'Japan 2001, 124 mins<br> Director: Hayao Miyazaki'
+pdf: '2023-01-07-spirited-away.pdf'
 ---
 
 _Spirited Away_ sets its intimations of mortality, the decline of a culture and the loss of nature against one of the most sumptuous and dazzling _mises en scène_ ever created in cinema – in the bathhouse of the gods, where the initially timorous young heroine goes to find work in order to rescue her parents who have been cursed by a magic spell. This is an enchanting and exciting coming-of-age story that can be enjoyed by all ages, but the subdued, lambent melancholy of the movie’s final third, with its train ride into the shadows, is a tour de force of what animation can do.  
@@ -50,8 +50,8 @@ Hiroki Yamada, Yuji Tone
 _CG Engineer_: Masafumi Inoue  
 _Animation Check_: Hitomi Tateno, Mariko Suzuki, Masaya Saito, Minoru Ohashi  
 _Backgrounds_: Kazuo Oga, Sayaka Hirahara, Yoshikazu Fukutome, Naoya Tanaka, Naomi Kasugai, Ryoko Ina, Masako Osada, Tomoe Ishihara, Kikuyo Yano, Keiko Itogawa, Osamu Masuyama, Hisae Saito, Masanori Kikuchi, Kyokko Naganawa, Hiroaki Sasaki, Studio Fuga, Nizo Yamamoto, Kazuo Nagai, Ogura Kobo, Hiromasa Ogura  
-_Editor_: Takeshi Seyama_  
-Art Director_: Yoji Takeshige  
+_Editor_: Takeshi Seyama 
+_Art Director_: Yoji Takeshige  
 _Art Director (Associate)_: Noboru Yoshida  
 _Titles_: Kaoru Mano, Malin Post  
 _Music_: Joe Hisaishi  
