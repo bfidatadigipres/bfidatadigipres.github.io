@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dodes’ka-den
-published: true
+published: false
 date: 2023-01-15
 readtime: true
 categories: ['KUROSAWA']
@@ -27,7 +27,7 @@ Yamamoto’s original work, _Town without Seasons_, was a cycle of quite separat
 
 Kurosawa’s reading both of Gorki and of Yamamoto quite evidently arises from his incorrigibly optimistic view of humanity. With all the physical deprivation and cruelty of their lives, each of the little groups in the film represents a different face of loyalty: the sake boy’s to the girl who tries to kill him, the child to the father who does, unwittingly, kill him; even the unfaithful wife who seeks reconciliation. This, and the simple fact of survival, is what links the characters and imbues Kurosawa’s human comedy with a sense of affirmation.
 
-Even though the film is now 100 minutes shorter than its reputed original length of 224 minutes, the large cast of characters and the variety of action remain entirely coherent, cohesive and symmetrically balanced. It is achieved not so much by the technique of caricature (though Kurosawa has claimed his aim was to create a series of caricatures of different aspects of human character –’humours’ in the old sense – and that the acting style he imposed was directly influenced by the Kyogon vaudeville theatre of Japan) as by the economy and speed of impression, the precision with which a single stroke is made to count, that is associated with traditional Japanese graphic style. Above all, the film is indeed ‘graphic’.
+Even though the film is now 100 minutes shorter than its reputed original length of 224 minutes, the large cast of characters and the variety of action remain entirely coherent, cohesive and symmetrically balanced. It is achieved not so much by the technique of caricature (though Kurosawa has claimed his aim was to create a series of caricatures of different aspects of human character – ‘humours’ in the old sense – and that the acting style he imposed was directly influenced by the Kyogon vaudeville theatre of Japan) as by the economy and speed of impression, the precision with which a single stroke is made to count, that is associated with traditional Japanese graphic style. Above all, the film is indeed ‘graphic’.
 
 It was Kurosawa’s first colour film, and he uses colour like a painter. The colours move from realism into fantasy: the faces of the sick beggar and his child become livid blues and greens and their dreams materialise in wild Dayglo colours; the houses of old petrol cans are multihued, and Kurosawa was fascinated by the magical colours that the rain produced from the chemically polluted soil of the dump where he was shooting on location. Even the sky and the sun, when they appear, turn out to be children’s drawings like those in Rokuchan’s hut; and when the real sun failed to shine for him, Kurosawa simply painted the shadows as he shot. Yet the unique and individual expressionist techniques of both images and acting in _Dodes’ ka-den_ never compromise the essential human quality and human optimism of the film, any more than they appear incongruous beside the sudden, wholly realistic images of the real riverside locations. The mature assurance and total originality of _Dodes’ ka-den_ (made on a shoestring for the company ‘The Four Musketeers’ which Kurosawa had formed with three other major directors) makes only the more tragic the inactivity of the rest of the decade since _Red Beard_.  
 **David Robinson, _Monthly Film Bulletin_, May 1975**  
