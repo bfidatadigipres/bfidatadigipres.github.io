@@ -6,7 +6,7 @@ date: 2023-01-12
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
 tags: [Fantasy, War]
-metadata: 'UK 1946, 104 mins<br> Director: Michael Powell, Emeric Pressburger'
+metadata: 'UK 1946, 104 mins<br> Directors: Michael Powell, Emeric Pressburger'
 pdf: '2023-01-12-matter-of-life-and-death.pdf'
 ---
 
