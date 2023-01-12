@@ -160,7 +160,7 @@ Wed 11 Jan – Wed 22 Feb 18:30
 
 **In partnership with**  
 
-<img style="float: left;" src="/img/Japan Foundation.jpg" width="40%" height="40%">
+<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
 <br><br><br><br><br><br><br><br><br><br><br>
 
 **Promotional partner**  
