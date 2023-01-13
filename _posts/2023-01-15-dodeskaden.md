@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dodes’ka-den
-published: false
+published: true
 date: 2023-01-15
 readtime: true
 categories: ['KUROSAWA']
