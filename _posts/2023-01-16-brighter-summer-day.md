@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brighter Summer Day
-published: false
+published: true
 date: 2023-01-16
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>78=']
