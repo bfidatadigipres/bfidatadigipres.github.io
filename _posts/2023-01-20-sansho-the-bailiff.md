@@ -2,12 +2,12 @@
 layout: post
 title: Sansho the Bailiff
 published: true
-date: 2021-11-08
+date: 2023-01-20
 readtime: true
-categories: ['JAPAN 2021<br>100 YEARS OF JAPANESE CINEMA']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>75=']
 tags: [Drama]
 metadata: 'Japan 1954, 124 mins<br> Director: Kenji Mizoguchi'
-pdf: '2021-11-08-sansho-the-bailiff.pdf'
+pdf: '2023-01-20-sansho-the-bailiff.pdf'
 ---
 
 Never do the years pass so sadly on screen as they do in Kenji Mizoguchi’s _Sansho Dayu_. In this period tragedy set in 11th-century Japan, the reunion of a kidnapped brother and sister with their heartbroken mother seems less and less likely with the escaping decades.
@@ -16,7 +16,7 @@ By the time of _Sansho Dayu_’s release, Mizoguchi was nearing the end of his c
 
 Though Mizoguchi interspersed these sweeping historical epics with a series of brilliant modern-day dramas, it was the exotic tragedies of Japan’s past that were snapped up by western distributors. For English-speaking critics, _Sansho Dayu_ (known as _Sansho the Bailiff_ in the US) confirmed the promise of _Ugetsu monogatari_ that Mizoguchi was a master of visual storytelling, using flowing camera movements and telescoped years to craft tragedies of almost Shakespearian scope and gravity.
 
-Sixty years have done nothing to diminish the emotional power of the film.  It came in at number 59 in _Sight & Sound_’s most recent greatest films poll, and few movies have been written about so effusively. Critic Gilbert Adair called it ‘one of those ﬁlms for whose sake the cinema exists’, while _New Yorker_ reviewer Anthony Lane wrote: ‘I have seen _Sansho_ only once, a decade ago, emerging from the cinema a broken man but calm in my conviction that I had never seen anything better; I have not dared watch it again, reluctant to ruin the spell, but also because the human heart was not designed to weather such an ordeal.’  
+Sixty years have done nothing to diminish the emotional power of the film.  It came in at number 59 in _Sight & Sound_’s 2012 greatest films poll, and few movies have been written about so effusively. Critic Gilbert Adair called it ‘one of those ﬁlms for whose sake the cinema exists’, while _New Yorker_ reviewer Anthony Lane wrote: ‘I have seen _Sansho_ only once, a decade ago, emerging from the cinema a broken man but calm in my conviction that I had never seen anything better; I have not dared watch it again, reluctant to ruin the spell, but also because the human heart was not designed to weather such an ordeal.’  
 **Samuel Wigley, bfi.org.uk, 15 May 2015**
 
 As we read our newsfeeds in the summer of 2019, _Sansho Dayu_ is more relevant than ever. A mother on a dangerous journey to reunite with her exiled husband, her children forcibly taken from her, a callous government complicit in the disruption of her family – the drama at the heart of the film is re-enacted daily by federal officials on the southern border of the United States. There is some historical irony here. When Mizoguchi made _Sansho Dayu_ in 1954 he set the story in an ancient era, far removed from the democratic reforms Japan had newly embraced under the American occupation. The fact that cruelty repeats itself comes as no surprise. What shocks us is the realisation that the current divider of families is the nation that taught the lessons of human rights to the post-war world.
@@ -110,88 +110,75 @@ _Sansho Dayu_ (new edition) by Dudley Andrew and Carole Cavanaugh is available t
 <img style="float: left;" src="/img/sanshu_dayo_bfi_film_classics.jpg" width="40%" height="40%"><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-**JAPAN 2021**<br>
-**100 YEARS OF JAPANESE CINEMA**<br>
-**Early Summer (Bakushû)**<br>
-Mon 18 Oct 14:30; Tue 19 Oct 20:35; Wed 20 Oct 17:50; Thu 18 Nov 20:20 (+ intro by Professor Alastair Phillips, University of Warwick); Sun 21 Nov 11:30<br>
-**The Flavour of Green Tea over Rice (Ochazuke no aji)**<br>
-Mon 18 Oct 18:10; Wed 20 Oct 20:40; Thu 21 Oct 14:40; Mon 8 Nov 14:30; Tue 23 Nov 14:40<br>
-**Tokyo Story (Tôkyô monogatari)**<br>
-Mon 18 Oct 20:20; Thu 21 Oct 14:30; Sat 13 Nov 14:10; Tue 30 Nov 14:00<br>
-**Throne of Blood (Kumonosu-jô)**<br>
-Tue 19 Oct 18:10; Thu 21 Oct 20:35 (+ **Inside Cinema: Akira Kurosawa**); Wed 27 Oct 20:30; Tue 9 Nov 20:40; Fri 12 Nov 14:15 (+ **Inside Cinema: Akira Kurosawa**); Sat 27 Nov 20:50<br>
-**Early Spring (Sôshun)**<br>
-Tue 19 Oct 14:30; Wed 20 Oct 20:15; Thu 21 Oct 17:30; Sat 20 Nov 14:50; Tue 23 Nov 17:40<br>
-**Yojimbo**<br>
-Tue 19 Oct 20:55; Thu 21 Oct 17:55; Fri 19 Nov 14:30 (+ **Inside Cinema: Akira Kurosawa**); Fri 26 Nov 18:10; Sun 28 Nov 12:00 15 (+ **Inside Cinema: Akira Kurosawa**)<br>
-**An Actor’s Revenge (Yukinojô henge)**<br>
-Wed 20 Oct 14:15; Mon 1 Nov 14:30; Thu 11 Nov 20:40 (+ intro by Jennifer Coates, The University of Sheffield); Sat 20 Nov 12:15<br>
-**Souls on the Road (Rojô no reikion)**<br>
-Fri 22 Oct 18:00; Sat 30 Oct 15:30<br>
-**A Page of Madness (Kurutta ichipeiji)**<br>
-Sat 23 Oct 13:00; Mon 15 Nov 20:50<br>
-**Silent Cinema presents: I Was Born, But... (Otona no miru ehon – Umarete wa mita keredo)**<br>
-Sat 23 Oct 15:00; Sun 28 Nov 14:45 (+ intro by Bryony Dixon, BFI National Archive curator)<br>
-**Our Neighbour, Miss Yae (Tonari no Yae-chan)**<br>
-Sun 24 Oct 12:40; Mon 1 Nov 18:15 (+ intro by season co-programmer Alexander Jacoby)<br>
-**Humanity and Paper Balloons (Ninjô kami fûsen)**<br>
-Sun 24 Oct 15:00; Tue 2 Nov 20:45<br>
-**Talk: A Time of Change and How Japanese Film Bore Witness to It**<br>
-Mon 25 Oct 18:20<br>
-**Children of the Beehive (Hachi no su no kodomotachi)**<br>
-Mon 25 Oct 20:45 (+ intro by season co-programmer Alexander Jacoby); Mon 8 Nov 18:20<br>
-**The Life of Matsu the Untamed (aka The Rickshaw Man) (Muhomatsu no issho)**<br>
-Tue 26 Oct 20:40; Sun 7 Nov 11:40<br>
-**Fallen Blossoms (aka Flowers Have Fallen) (Hana chirinu)**<br>
-Sun 31 Oct 13:00; Wed 3 Nov 18:20 (+ intro by Japanese film scholar Alejandra Armendáriz-Hernández)<br>
-**My Love Has Been Burning (aka Flame of My Love) (Waga koi wa moenu)**<br>
-Fri 5 Nov 18:30; Mon 15 Nov 17:40<br>
-**Love Letter (Koibumi)**<br>
-Sat 6 Nov 12:30; Sun 21 Nov 14:40 (+ intro by Irene González-López, co-editor of ‘Tanaka Kinuyo: Nation, Stardom and Female Subjectivity’)<br>
-**An Inn at Osaka (Ôsaka no yado)**<br>
-Sat 6 Nov 15:30; Sun 21 Nov 18:00 (+ pre-recorded intro by Professor Hiroshi Kitamura, College of William & Mary)<br>
-**Godzilla (Gojira)**<br>
-Sun 7 Nov 15:50; Tue 23 Nov 20:40<br>
-**Marital Relations (Meoto zenzai)**<br>
-Sun 7 Nov 18:20; Thu 25 Nov 18:00 (+ pre-recorded intro by Professor Hideaki Fujiki, Nagoya University)<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**The General** Sun 1 Jan 12:10; Sun 29 Jan 15:10<br>
+**The Leopard (Il gattopardo)**<br>
+Sun 1 Jan 14:10; Thu 5 Jan 18:40; Fri 20 Jan 14:00<br>
+**Sunset Boulevard**<br>
+Sun 1 Jan 15:50; Fri 27 Jan 14:30;  Mon 30 Jan 17:50<br>
+**Metropolis**<br>
+Sun 1 Jan 17:55 (+ intro by Bryony Dixon, BFI Curator); Sun 15 Jan 14:40; Mon 30 Jan 16:30 BFI IMAX<br>
+**L’avventura (The Adventure)**<br>
+Sun 1 Jan 18:05; Sun 22 Jan 15:20;  Mon 30 Jan 20:15<br>
+**Touki-Bouki** <br>Mon 2 Jan 13:40; Tue 31 Jan 17:40<br>
+**The Red Shoes**<br>
+Mon 2 Jan 13:50; Tue 24 Jan 18:05<br>
+**Once Upon a Time in the West  (C’era una volta il West)**<br>
+Mon 2 Jan 15:20; Sat 7 Jan 17:15;  Sun 15 Jan 16:15 BFI IMAX<br>
+**Get Out** <br>
+Mon 2 Jan 18:40; Fri 6 Jan 17:50<br>
+**Pierrot le Fou**<br> 
+Tue 3 Jan 18:10; Wed 4 Jan 20:30;  Thu 19 Jan 20:30<br>
+**My Neighbour Totoro (Tonari no Totoro)**<br>
+Tue 3 Jan 18:20; Sun 22 Jan 10:00 BFI IMAX;  
+Sat 28 Jan 13:40<br>
+**A Man Escaped  (Un Condamné à mort s’est échappé)**<br>
+Tue 3 Jan 18:30; Sat 28 Jan 20:30<br>
+**Black Girl (La Noire de...)**<br>
+Tue 3 Jan 20:30; Thu 12 Jan 18:15 (+ intro)<br>
+**Ugetsu Monogatari**<br>
+Tue 3 Jan 20:50; Tue 17 Jan 20:30<br>
+**Madame de...**<br>
+Wed 4 Jan 14:30; Fri 20 Jan 18:10 (+ intro by Ruby McGuigan, Cultural Programme Manager)<br>
+**Yi Yi (A One and a Two…)**<br>
+Wed 4 Jan 18:40; Sun 22 Jan 14:00 (+ intro by Hyun Jin Cho, Film Programmer, BFI Festivals)<br>
+**The Shining**<br>
+Fri 6 Jan 20:10; Tue 10 Jan 20:10;  Sat 21 Jan 20:30 BFI IMAX<br>
+**Spirited Away (Sen to Chihiro no Kamikakushi)**<br>
+Sat 7 Jan 12:10; Sun 22 Jan 12:30 BFI IMAX<br>
+**Tropical Malady (Sud pralad)**<br>
+Sat 7 Jan 13:50; Mon 9 Jan 20:40<br>
+**Histoire(s) du cinema**<br> 
+Sat 7 Jan 16:30<br>
+**Blue Velvet**<br>
+Sat 7 Jan 20:30; Fri 20 Jan 20:35;  Tue 24 Jan 21:00 BFI IMAX<br>
+**Sátántangó**<br>
+Sun 8 Jan 11:15; Sat 21 Jan 13:30<br>
+**Celine and Julie Go Boating  (Céline et Julie vont en bateau)**<br>
+Sun 8 Jan 14:45; Sat 21 Jan 17:00<br>
+**Journey to Italy (Viaggio in Italia)**<br>
+Sun 8 Jan 18:20; Mon 23 Jan 14:30;  Fri 27 Jan 20:50<br>
+**Parasite (Gisaengchung)**<br>
+Mon 9 Jan 17:50; Wed 18 Jan 17:30 BFI IMAX<br>
+**The Gleaners and I (Les glaneurs et la glaneuse) + La Jetée**<br>
+Wed 11 Jan 20:30; Mon 23 Jan 18:10<br>
+**A Matter of Life and Death**<br>
+Thu 12 Jan 20:40; Sun 22 Jan 11:30<br>
+**Chungking Express (Chung Him sam lam)**<br>
+Thu 12 Jan 20:45; Tue 17 Jan 20:50;  Sat 21 Jan 14:15<br>
+**Modern Times**<br>
+Fri 13 Jan 17:45; Sun 22 Jan 13:10<br>
+**A Brighter Summer Day  (Guling jie shaonian sha ren shijian)**<br>
+Mon 16 Jan 18:30; Sat 28 Jan 16:00<br>
+**Imitation of Life**<br>
+Wed 18 Jan 20:30; Wed 25 Jan 14:30;  Sun 29 Jan 12:30<br>
+**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
+Thu 19 Jan 18:00; Sat 28 Jan 13:50<br>
 **Sansho the Bailiff (Sansho Dayu)**<br>
-Mon 8 Nov 20:40; Sun 28 Nov 18:20<br>
-**She Was Like a Wild Chrysanthemum (Nogiku no gotoki kimi nariki)**<br>
-Tue 9 Nov 18:20; Tue 30 Nov 20:40<br>
-**Harakiri (Seppuku)**<br>
-Wed 10 Nov 18:00; Tue 16 Nov 20:25<br>
-**Night Drum (Yoru no tsuzumi)**<br>
-Wed 10 Nov 20:50; Tue 16 Nov 18:15<br>
-**Talk: Female Archetypes in Classical Japanese Cinema**<br>
-Thu 11 Nov 18:10<br>
-**Yearning (Midareru)**<br>
-Fri 12 Nov 18:20; Fri 26 Nov 21:00<br>
-**Elegant Beast (aka The Graceful Brute) (Shitoyakana kedamono)**<br>
-Wed 17 Nov 20:50; Sat 27 Nov 18:30 (+ pre-recorded intro by Professor Yuka Kanno, Doshisha University)<br>
-**Talk: The Family and Home in the Golden Age of Japanese Cinema**<br>
-Thu 18 Nov 18:00<br>
-**Onibaba**<br>
-Fri 19 Nov 20:50; Tue 30 Nov 17:50<br>
-**Tokyo Olympiad (Tôkyô orinpikku)**<br>
-Sat 20 Nov 16:40; Wed 24 Nov 18:40<br>
+Fri 20 Jan 17:45; Thu 26 Jan 17:50<br>
+**Andrei Rublev**<br>
+Thu 26 Jan 18:40; Sun 29 Jan 17:20<br>
 <br>
-
-**Supported by**  
-<img style="float: left;" src="/img/Grand Seiko.png">
-<br><br><br><br><br><br><br><br><br>
-
-**In partnership wtih**  
-<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br>
-
-
-**With special thanks to**
-<img style="float: left;" src="/img/NFAJ.png">
-<br><br><br><br><br><br><br><br><br><br><br>
-
-
-**With the kind support of:**<br>
-Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
 
 
 **BFI SOUTHBANK**  
