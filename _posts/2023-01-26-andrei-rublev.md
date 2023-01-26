@@ -46,7 +46,7 @@ _Assistant Editors:_ T. Egorychevoy, O. Shevkunenko
 _Art Director:_ Yevgeni Chernyaev  
 _Costumes:_ L. Novy, Maia Abar-Baranovskaia  
 _Music:_ Vyacheslav Ovchinnikov  
-_Sound:_ E. Zelentsova
+_Sound:_ E. Zelentsova  
 _Historical Adviser:_ V.G. Pashuto  
 
 **Cast**   
