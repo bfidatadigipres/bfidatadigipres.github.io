@@ -154,7 +154,7 @@ Wed 22 Feb 20:35; Sun 26 Feb 12:40<br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25* 
-* Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
 <img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
