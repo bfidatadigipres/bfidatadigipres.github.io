@@ -19,7 +19,7 @@ Through a union of African diasporic storytelling techniques, visually arresting
 The film, which recently celebrated its 30th anniversary, remains an enduring symphony that sings, reframes and reignites a Black girl’s song.
 
 By refusing a Eurocentric understanding of African-American identity, Dash’s seminal work challenges us all to believe in cinema’s creation – and viewing – as an act of communal healing. With this cinematic heirloom leading the way, may we all continue to.  
-**Maya S. Cade, Sight and Sound, Winter 2022-23**
+**Maya S. Cade, _Sight and Sound_, Winter 2022-23**
 <br>
 
 As a sequel to Julie Dash’s _Daughters of the Dust_ was never made, we never knew what became of the Peazant girls after they crossed over to the mainland from the Sea Islands of South Carolina. That is, until Beyoncé’s visual album _Lemonade_ dropped in 2016 and seemed to pick up the story of its gorgeously garbed Black women as they struggled to find their way in the New World. Thanks to _Lemonade’s_ distinct homage, Dash’s pioneering movie was rediscovered by a new generation and has now been restored and rereleased in time for its 25th anniversary.
