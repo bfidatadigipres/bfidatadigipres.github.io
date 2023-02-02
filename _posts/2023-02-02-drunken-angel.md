@@ -5,7 +5,7 @@ published: true
 date: 2023-02-02
 readtime: true
 categories: ['KUROSAWA']
-tags: [Drama, Crime, Film noir]
+tags: [Drama, Crime, Film Noir]
 metadata: 'Japan 1948, 93 mins<br> Director: Akira Kurosawa'
 pdf: '2023-02-02-drunken-angel.pdf'
 ---
