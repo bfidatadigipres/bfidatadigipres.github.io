@@ -33,6 +33,7 @@ In 2012, Adrian received an Honorary Doctorate in the Arts and was appointed Vis
 
 - Russell Jackson (editor), _The Cambridge Companion to Shakespeare on Film_ (Cambridge University Press, 2000)  
 <br>
+
 **KUROSAWA**  
 **Stray Dog (Nora Inu)**  
 Wed 1 Feb 20:35; Mon 13 Feb 18:10  
