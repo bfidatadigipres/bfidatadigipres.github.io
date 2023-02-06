@@ -1,17 +1,14 @@
 ---
 layout: post
 title: The Battle of Algiers
-published: true
-date: 2021-08-01
+published: false
+date: 2023-02-07
 readtime: true
-categories: ['MORRICONE']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>45']
 tags: [Drama, Political]
 metadata: 'Italy/Algeria 1966, 121 mins<br> Director: Gillo Pontecorvo'
-pdf: '2021-08-01-battle-of-algiers.pdf'
+pdf: '2023-02-07-battle-of-algiers.pdf'
 ---
-
-In Gillo Pontecorvo’s dazzling reconstruction of Algerian nationalist opposition to the French occupation in the mid-1950s, guerrilla fighters venture from the Casbah to attack the colonial new city – and meet with brutal reprisals. Pontecorvo collaborated closely with Morricone, who used a multitude of sound effects and different motifs to distinguish between the French and Algerian forces. A masterpiece of political cinema.  
-**bfi.org.uk**
 
 There are few classic films with as much relevance to the early 21st century as Gillo Pontecorvo’s 1966 re-enactment of the Algerian liberation struggle of the preceding decade. _The Battle of Algiers_ is a singular film, celebrated on the one hand as a paradigm of political cinema, and on the other studied by the military for clues about the problems of confronting urban guerrillas. Writing in the  _New York Times_ in 2003, when it was released on DVD in the US, Michael T. Kaufman reported a screening at the Pentagon where ‘40 officers and civilian experts … were urged to consider and discuss the implicit issues at the core of the film – the problematic but alluring efficacy of brutal and repressive means in fighting clandestine terrorists in places like Algeria and Iraq. Or more specifically, the advantages and costs of resorting to torture and intimidation in seeking vital human intelligence about enemy plans.’ This was not the first time the film had been paid such compliments. Other reports speak of its use as a training film for the troops in Northern Ireland during the Troubles.
 
@@ -22,7 +19,7 @@ There is no cogent definition of what a political film consists: on the contrary
 _The Battle of Algiers_ defies description as propaganda because of the way it presents both sides of the conflict, Algerian and French, locked in a dialectical relation with each other. There is no false objectivity, and the film doesn’t hide its fundamental sympathy for the insurgents, but neither does it obscure the contradictions of the liberation struggle. The parallel storytelling also answers to the film’s classical narrative construction as what Peter Sainsbury back in 1971 called ‘a suspenseful battle of tactics between hunters and hunted, action and counteraction’ – and this is precisely what made it such a good film for the military analysts to get their teeth into. But this also sets _The Battle of Algiers_ squarely within a particularly Italian predilection for the political thriller, a current that includes Elio Petri’s _Investigation of a Citizen above Suspicion_ (1970) and Giuliano Montaldo’s _Sacco and Vanzetti_ (1971), not to mention various films by Francesco Rosi.
 
 The way you understand the renewed contemporary significance of _The Battle of Algiers_ revolves around the question of the political culture of the viewer – and here the text of the flier inviting guests to the Pentagon screening is highly revealing: ‘How to win a battle against terrorism and lose the war of ideas. Children shoot soldiers at point-blank range. Women plant bombs in cafes. Soon the entire Arab population builds to a mad fervour. Sound familiar?’  And the film indeed suggests certain parallels. As Michael T. Kaufman puts it, the events re-enacted in Pontecorvo’s film demonstrate the effective use of the tactics of a ‘people’s war’, ‘where fighters emerge from seemingly ordinary lives to mount attacks and then retreat to the cover of their everyday identities.’ But go back to the passage from Kaufman with which I began, where he speaks of ‘fighting clandestine terrorists in places like Algeria and Iraq’.  By calling both groups terrorists, all historical distinctions are elided to leave only one essential element: that in both cases the insurgents are Muslim.  The liberation struggle of the FLN is reduced to the religious sectarianism of competing strands of Islamic fundamentalism 50 years later. To avoid this trap, the trick is to see _The Battle of Algiers_ as both a contemporary and a historical film at the same time, which is not about the myth of the clash of civilisations, but about the incomprehension of the imperial hegemon.  
-**Michael Chanan, _Sight & Sound_, June 2007**
+**Michael Chanan, _Sight and Sound_, June 2007**
 
 **Critical reception for ‘The Battle of Algiers’**
 
@@ -38,7 +35,7 @@ The way you understand the renewed contemporary significance of _The Battle of A
 
 ‘It may be a deeper film experience than many audiences can withstand: too cynical, too true, too cruel and too heartbreaking. It is about the Algerian war, but those not interested in Algeria may substitute another war; _The Battle of Algiers_ has a universal frame of reference.’ – Roger Ebert, _Chicago Sun-Times_
 
-**_Sight & Sound_, June 2007**
+**_Sight and Sound_, June 2007**
 <br><br>
 
 
@@ -81,52 +78,84 @@ Italy/Algeria 1966<br>
 *Uncredited
 <br><br>
 
-
-
-**MORRICONE**<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Breathless (À bout de souffle)**<br>
+Wed 1 Feb 14:30; Tue 14 Feb 20:50; Fri 24 Feb 18:20<br>
+**Le Mépris (Contempt)**<br>
+Wed 1 Feb 18:10; Fri 17 Feb 20:50<br>
+**Daughters of the Dust**<br>
+Wed 1 Feb 18:15; Thu 16 Feb 20:30<br>
+**Sans Soleil**<br>
+Wed 1 Feb 20:40; Fri 17 Feb 18:00<br>
+**M (Mörder unter uns)**<br>
+Thu 2 Feb 14:30; Thu 16 Feb 20:40; Wed 22 Feb 18:00<br>
+**Moonlight**<br>
+Thu 2 Feb 20:45; Tue 14 Feb 20:30<br>
+**Blade Runner: The Final Cut**<br>
+Fri 3 Feb 20:40; Sun 5 Feb 20:40; Sat 18 Feb 18:10<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Sat 4 Feb 12:40; Sat 18 Feb 18:30<br>
+**La dolce vita**<br>
+Sat 4 Feb 14:15; Sat 25 Feb 19:30<br>
+**Sherlock Jr.**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**City Lights**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**Goodfellas**<br>
+Sat 4 Feb 20:10; Wed 15 Feb 20:10<br>
+**North by Northwest**<br>
+Sat 4 Feb 20:20; Thu 9 Feb 18:00<br>
+**L’Atalante**<br>
+Sun 5 Feb 12:15; Tue 14 Feb 18:30; Wed 22 Feb 14:30<br>
+**Rear Window**<br>
+Sun 5 Feb 12:20; Fri 24 Feb 20:45<br>
+**Stalker**<br>
+Sun 5 Feb 17:40; Tue 7 Feb 20:10; Sun 26 Feb 14:00<br>
+**Casablanca**<br>
+Mon 6 Feb 20:30; Sun 12 Feb 13:20<br>
+**Psycho**<br>
+Mon 6 Feb 20:45; Mon 20 Feb 14:30; Thu 23 Feb 20:40<br>
+**8 1/2  (Otto e mezzo)**<br>
+Tue 7 Feb 18:00; Tue 21 Feb 14:30; Sun 26 Feb 12:50<br>
 **The Battle of Algiers (La battaglia di Algeri)**<br>
-Sun 1 Aug 15:10; Wed 25 Aug 14:30<br>
-**The Sounds of Ennio Morricone**<br>
-Mon 2 Aug 18:10<br>
-**A Fistful of Dollars (Per un pugno di dollari)**<br>
-Mon 2 Aug 20:45; Sat 7 Aug 11:30;  Tue 10 Aug 20:50; Mon 30 12:20<br>
-**Two Mules for Sister Sara**<br>
-Wed 4 Aug 18:00; Sat 21 Aug 20:30<br>
-**Salò, or the 120 Days of Sodom  (Salò o Le 120 giornate di Sodoma)**<br>
-Thu 5 Aug 20:45; Tue 10 Aug 17:45;  Wed 25 Aug 17:50<br>
-**The Untouchables**<br>
-Fri 6 Aug 17:45; Tue 24 Aug 14:30<br>
-**The Thing**<br>
-Fri 6 Aug 20:50; Tue 24 Aug 20:50<br>
-**For a Few Dollars More  (Per qualche dollaro in più)**<br>
-Sat 7 Aug 14:00; Sun 22 Aug 12:10;  Mon 30 Aug 15:00<br>
-**The Good, the Bad and the Ugly  (Il buono, il brutto, il cattivo)**<br>
-Sat 7 Aug 17:10; Sun 29 Aug 18:20;  Mon 30 Aug 18:15<br>
-**White Dog**<br>
-Sat 7 Aug 20:50; Fri 20 Aug 18:10; Fri 27 Aug 20:45<br>
-**Once upon a Time in the West  (C’era una volta il west)**<br>
-Sun 8 Aug 12:00; Fri 27 Aug 14:00;  Tue 31 Aug 14:00<br>
-**The Mission**<br>
-Sun 8 Aug 15:10; Thu 12 Aug 20:30;  Thu 26 Aug 18:00<br>
-**Days of Heaven**<br>
-Mon 9 Aug 21:00; Tue 31 Aug 17:50<br>
-**Tie Me Up, Tie Me Down (Atame!)**<br>
-Wed 11 Aug 20:50; Thu 19 Aug 14:15;  Mon 23 Aug 21:00; Tue 31 Aug 20:45<br>
-**The Hateful Eight**<br>
-Sun 15 Aug 15:00; Sun 22 Aug 18:00<br>
-**Once upon a Time in America**<br>
-Tue 17 Aug 17:40; Sat 28 Aug 11:20<br>
-**The Legend of 1900  (La leggenda del pianista sull’oceano)**<br>
-Sat 21 Aug 11:50; Sun 29 Aug 15:10<br>
-**Cinema Paradiso (Nuovo Cinema Paradiso)**<br>
-Sat 21 Aug 14:30; Thu 26 Aug 14:30<br>
+Tue 7 Feb 18:10; Sat 25 Feb 11:50<br>
+**News from Home**<br>
+Tue 7 Feb 20:45; Fri 17 Feb 18:20 (+ intro)<br>
+**Rashomon (Rashômon)**<br>
+Tue 7 Feb 21:00; Thu 23 Feb 18:20<br>
+**The Piano**<br>
+Wed 8 Feb 20:35; Tue 21 Feb 17:50<br>
+**Wanda**<br>
+Thu 9 Feb 20:30 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sat 18 Feb 18:20<br>
+**Fear Eats the Soul (Angst essen Seele auf)**<br>
+Thu 9 Feb 20:55; Mon 27 Feb 18:00<br>
+**Ordet (The Word)**<br>
+Fri 10 Feb 18:15; Sat 25 Feb 14:30<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+Fri 10 Feb 20:50; Sun 19 Feb 18:40<br>
+**Bicycle Thieves (Ladri di biciclette)**<br>
+Sat 11 Feb 11:50; Mon 20 Feb 20:55; Thu 23 Feb 14:30<br>
+**Barry Lyndon**<br>
+Sat 11 Feb 19:20; Sat 25 Feb 15:30<br>
+**Some Like It Hot**<br>
+Sun 12 Feb 13:30; Tue 14 Feb 18:10<br>
+**The Third Man**<br>
+Sun 12 Feb 18:30; Tue 21 Feb 20:40<br>
+**Killer of Sheep**<br>
+Sun 12 Feb 18:40 (+intro); Sat 18 Feb 20:40<br>
+**Mirror (Zerkalo)**<br>
+Mon 13 Feb 20:50; Tue 28 Feb 20:50<br>
+**Pather Panchali**<br>
+Sat 18 Feb 20:30; Tue 21 Feb 20:35; Sun 26 Feb 15:45<br>
+**The Apartment**<br>
+Wed 22 Feb 20:35; Sun 26 Feb 12:40<br>
 <br>
 
-**Promotional partner**  
-<img style="float: left;" src="/img/partner/scala-radio-logo.png" alt="Scala Radio" title="Scala Radio">
-<br><br><br><br><br><br><br><br><br><br>
-**planetradio.co.uk/scala-radio**  
-<br><br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
