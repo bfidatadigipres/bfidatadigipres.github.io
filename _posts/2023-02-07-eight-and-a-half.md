@@ -1,16 +1,14 @@
 ---
 layout: post
 title: 8½
-published: true
-date: 2022-03-04
+published: false
+date: 2023-02-07
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>31=']
 tags: [Drama]
 metadata: 'Italy 1963, 138 mins<br> Director: Federico Fellini'
-pdf: '2022-03-04-eight-and-a-half.pdf'
+pdf: '2023-02-07-eight-and-a-half.pdf'
 ---
-
-_The screening on Wednesday 16 March will be introduced by Giulia Saccogna, BFI Programme & Research Coordinator._
 
 Back in the 1960s heyday of the pre-video art-house sector, two filmmakers stood as defining poles of the foreign-language art movie – Ingmar Bergman and Federico Fellini. Their qualities complemented and contrasted with each other’s perfectly: Bergman Nordic, serious, austere, locked in a grim struggle with the grey spectre of the Lutheran deity; Fellini exuberant, Mediterranean, expansive, forever poking fun at the wilder excesses of Catholicism. (Although, by strange coincidence, each ended one of his best-known films – _The Seventh Seal_ and _8½_ respectively – with the same image, albeit to startlingly different effect: a chain of people dancing along with hands interlinked.) Neither director now enjoys the critical status he did 40 years ago. But while Bergman remains a respected figure, even if his films are relatively rarely shown these days, Fellini has suffered a crueller fate, widely dismissed as sentimental, overblown and self-indulgent, a filmmaker snared by his own intellectual and aesthetic pretensions.
 
@@ -139,24 +137,85 @@ John Francis Lane<br>
 Italy/France 1963<br>
 138 mins<br>
 <br>
-**BIG SCREEN CLASSICS**<br>
+
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Breathless (À bout de souffle)**<br>
+Wed 1 Feb 14:30; Tue 14 Feb 20:50; Fri 24 Feb 18:20<br>
 **Le Mépris (Contempt)**<br>
-Tue 1 Mar 18:15; Tue 8 Mar 20:50; Sat 12 Mar 20:50<br>
-**42nd Street**<br>
-Wed 2 Mar 18:00 (+ intro by Miles Eady, BFI Cinema and Events); Fri 4 Mar 20:40; Mon 14 Mar 20:45<br>
-**Cabaret**<br>
-Thu 3 Mar 20:40; Sat 12 Mar 18:15<br>
-**8 1/2 (Otto e mezzo)**<br> 
-Fri 4 Mar 18:00; Mon 7 Mar 20:15; Wed 16 Mar 17:50 (+ intro by Giulia Saccogna,  BFI Programme & Research Coordinator)<br>
-**F for Fake**<br>
-Fri 4 Mar 20:50; Wed 9 Mar 18:10 (+ Intro by Programmer-At-Large, Geoff Andrew); Wed 16 Mar 21:10<br>
-**Nashville**<br>
-Sat 5 Mar 19:45; Wed 9 Mar 14:15; Sun 13 Mar 18:00<br>
-**Les Demoiselles de Rochefort  (The Young Ladies of Rochefort)**<br>
-Sun 6 Mar 13:15; Fri 11 Mar 18:05; Tue 15 Mar 18:10<br>
-**Baadasssss!**<br>
-Thu 10 Mar 20:40; Sat 12 Mar 18:10<br>
+Wed 1 Feb 18:10; Fri 17 Feb 20:50<br>
+**Daughters of the Dust**<br>
+Wed 1 Feb 18:15; Thu 16 Feb 20:30<br>
+**Sans Soleil**<br>
+Wed 1 Feb 20:40; Fri 17 Feb 18:00<br>
+**M (Mörder unter uns)**<br>
+Thu 2 Feb 14:30; Thu 16 Feb 20:40; Wed 22 Feb 18:00<br>
+**Moonlight**<br>
+Thu 2 Feb 20:45; Tue 14 Feb 20:30<br>
+**Blade Runner: The Final Cut**<br>
+Fri 3 Feb 20:40; Sun 5 Feb 20:40; Sat 18 Feb 18:10<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Sat 4 Feb 12:40; Sat 18 Feb 18:30<br>
+**La dolce vita**<br>
+Sat 4 Feb 14:15; Sat 25 Feb 19:30<br>
+**Sherlock Jr.**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**City Lights**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**Goodfellas**<br>
+Sat 4 Feb 20:10; Wed 15 Feb 20:10<br>
+**North by Northwest**<br>
+Sat 4 Feb 20:20; Thu 9 Feb 18:00<br>
+**L’Atalante**<br>
+Sun 5 Feb 12:15; Tue 14 Feb 18:30; Wed 22 Feb 14:30<br>
+**Rear Window**<br>
+Sun 5 Feb 12:20; Fri 24 Feb 20:45<br>
+**Stalker**<br>
+Sun 5 Feb 17:40; Tue 7 Feb 20:10; Sun 26 Feb 14:00<br>
+**Casablanca**<br>
+Mon 6 Feb 20:30; Sun 12 Feb 13:20<br>
+**Psycho**<br>
+Mon 6 Feb 20:45; Mon 20 Feb 14:30; Thu 23 Feb 20:40<br>
+**8 1/2  (Otto e mezzo)**<br>
+Tue 7 Feb 18:00; Tue 21 Feb 14:30; Sun 26 Feb 12:50<br>
+**The Battle of Algiers (La battaglia di Algeri)**<br>
+Tue 7 Feb 18:10; Sat 25 Feb 11:50<br>
+**News from Home**<br>
+Tue 7 Feb 20:45; Fri 17 Feb 18:20 (+ intro)<br>
+**Rashomon (Rashômon)**<br>
+Tue 7 Feb 21:00; Thu 23 Feb 18:20<br>
+**The Piano**<br>
+Wed 8 Feb 20:35; Tue 21 Feb 17:50<br>
+**Wanda**<br>
+Thu 9 Feb 20:30 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sat 18 Feb 18:20<br>
+**Fear Eats the Soul (Angst essen Seele auf)**<br>
+Thu 9 Feb 20:55; Mon 27 Feb 18:00<br>
+**Ordet (The Word)**<br>
+Fri 10 Feb 18:15; Sat 25 Feb 14:30<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+Fri 10 Feb 20:50; Sun 19 Feb 18:40<br>
+**Bicycle Thieves (Ladri di biciclette)**<br>
+Sat 11 Feb 11:50; Mon 20 Feb 20:55; Thu 23 Feb 14:30<br>
+**Barry Lyndon**<br>
+Sat 11 Feb 19:20; Sat 25 Feb 15:30<br>
+**Some Like It Hot**<br>
+Sun 12 Feb 13:30; Tue 14 Feb 18:10<br>
+**The Third Man**<br>
+Sun 12 Feb 18:30; Tue 21 Feb 20:40<br>
+**Killer of Sheep**<br>
+Sun 12 Feb 18:40 (+intro); Sat 18 Feb 20:40<br>
+**Mirror (Zerkalo)**<br>
+Mon 13 Feb 20:50; Tue 28 Feb 20:50<br>
+**Pather Panchali**<br>
+Sat 18 Feb 20:30; Tue 21 Feb 20:35; Sun 26 Feb 15:45<br>
+**The Apartment**<br>
+Wed 22 Feb 20:35; Sun 26 Feb 12:40<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -165,8 +224,9 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
