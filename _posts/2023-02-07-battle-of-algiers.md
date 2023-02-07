@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Battle of Algiers
-published: false
+published: true
 date: 2023-02-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>45']
