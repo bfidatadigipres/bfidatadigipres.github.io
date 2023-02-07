@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8½
-published: false
+published: true
 date: 2023-02-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>31=']
