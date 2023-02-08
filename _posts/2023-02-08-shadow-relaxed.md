@@ -19,7 +19,7 @@ Challenging expectations is at the heart of _Shadow_. A group of activists conve
 
 Followed by a post screening discussion in NFT3 about the issues raised, in partnership with Oska Bright Film Festival.
 
-<img style="float: left;" src="/img/oska-logo.jpg"><br><br><br><br><br>
+<img style="float: left;" src="/img/oska-logo.jpg"><br><br><br><br><br><br><br><br>
 
 
 **SHADOW**  
