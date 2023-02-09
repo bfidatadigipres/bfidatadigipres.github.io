@@ -54,21 +54,21 @@ UK 1981
 47 mins  
 
 **NIGHT WORK**  
-_Director:_ Miranda Pennell
-_©:_ BBC, Arts Council of England
-An _Illuminations_ production
-_For_ BBC _and the_ Arts Council of England
-_Executive Producers:_ Peter Maniura, Rodney Wilson
-_Producer:_ Terry Braun
-_Editor:_ Budge Tremlett
-_On-line Editor:_ Darren Jonusas
-_Production Designer:_ Charlotte Watts
-_Art Director:_ Gavin Fitch
-_Costume Design:_ Annie Symons
-_Make-up and Hair:_ Thelma Matthews,Amanda Wallburton
-_Sound Composer:_ Barry Adamson
-_Sound Recordist:_ Ian MacPherson
-_Dubbing Mixer:_ Steve Bray
+_Director:_ Miranda Pennell  
+_©:_ BBC, Arts Council of England  
+An _Illuminations_ production  
+_For_ BBC _and the_ Arts Council of England  
+_Executive Producers:_ Peter Maniura, Rodney Wilson  
+_Producer:_ Terry Braun  
+_Editor:_ Budge Tremlett  
+_On-line Editor:_ Darren Jonusas  
+_Production Designer:_ Charlotte Watts  
+_Art Director:_ Gavin Fitch  
+_Costume Design:_ Annie Symons  
+_Make-up and Hair:_ Thelma Matthews, Amanda Wallburton  
+_Sound Composer:_ Barry Adamson  
+_Sound Recordist:_ Ian MacPherson  
+_Dubbing Mixer:_ Steve Bray  
 
 **Cast**  
 Andree Evans _(cleaning lady)_  
@@ -79,7 +79,7 @@ Denise Stephenson _(career woman)_
 
 UK 1998©  
 14 mins  
-
+<br>
 **REGULAR PROGRAMME**  
 **African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**  
 Sat 11 Feb 14:00  
