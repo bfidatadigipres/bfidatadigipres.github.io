@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Parent Trap
-published: false
+published: true
 date: 2023-02-13
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
