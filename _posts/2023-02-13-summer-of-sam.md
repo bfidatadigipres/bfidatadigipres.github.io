@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer of Sam
-published: false
+published: true
 date: 2023-02-13
 readtime: true
 categories: ['EVENTS']
