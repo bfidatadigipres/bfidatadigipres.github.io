@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spike Lee<br>in conversation
+title: Spike Lee<br>in Conversation
 published: true
 date: 2023-02-13
 readtime: true
