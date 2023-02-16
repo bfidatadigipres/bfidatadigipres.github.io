@@ -6,7 +6,7 @@ date: 2023-02-16
 readtime: true
 categories: ['KUROSAWA']
 tags: [Drama, Adventure]
-metadata: 'URSS Japan 1975, 142 mins<br> Director: Akira Kurosawa'
+metadata: 'URSS/Japan 1975, 142 mins<br> Director: Akira Kurosawa'
 pdf: '2023-02-16-dersu-uzala.pdf'
 ---
 
