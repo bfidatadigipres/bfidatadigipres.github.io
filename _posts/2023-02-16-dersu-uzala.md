@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dersu Uzala
-published: false
+published: true
 date: 2023-02-16
 readtime: true
 categories: ['KUROSAWA']
