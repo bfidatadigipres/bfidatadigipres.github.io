@@ -1,17 +1,14 @@
 ---
 layout: post
 title: Taxi Driver
-published: true
-date: 2022-06-04
+published: false
+date: 2023-03-02
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>29']
 tags: [Drama]
 metadata: 'USA 1976, 114 mins<br> Director: Martin Scorsese'
-pdf: '2022-06-04-taxi-driver.pdf'
+pdf: '2023-03-02-taxi-driver.pdf'
 ---
-
-It was writer Paul Schrader whose love of _Pickpocket_ drove him to script this searing drama – the first of his many ‘lonely man’ studies – about an obsessive New York taxi driver driven to crime. Schrader later borrowed heavily from Bresson’s film for _American Gigolo_ – sadly unavailable for this programme. Though also an admirer, Scorsese opts for a mise-en-scène more expressionist than Bressonian.  
-**bfi.org.uk**
 
 **SPOILER WARNING** The following notes give away some of the plot.
 
@@ -94,32 +91,74 @@ _Taxi Driver_ by Amy Taubin is available from the BFI Shop: **https://shop.bfi.o
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-**BIG SCREEN CLASSICS**<br>
-**The Merchant of Four Seasons  (Händler der vier Jarhreszeiten)**<br>
-Wed 1 Jun 18:10 (+ intro); Sat 11 Jun 20:30<br>
-**Ivan’s Childhood (Ivanovo Detsvo)**<br>
-Thu 2 Jun 14:30; Mon 20 Jun 20:50<br>
-**The Goalkeeper’s Fear of the Penalty (Die Angst des Tormanns beim Elfmeter)**<br>
-Fri 3 Jun 20:50; Mon 13 Jun 18:10; Fri 24 Jun 20:45<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50<br>
+**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 21:30 Blue Room<br>
+**Daisies (Sedmikrásky) + Meshes of the Afternoon**<br>
+Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)<br>
+**Au hasard Balthazar**<br>
+Thu 2 Mar 20:50; Mon 6 Mar 18:30<br>
 **Taxi Driver**<br>
-Sat 4 Jun 20:45; Wed 15 Jun 20:40;  Sun 26 Jun 18:20<br>
-**The Spirit of the Beehive  (El espíritu de la colmena)**<br>
-Sun 5 Jun 13:10; Tue 14 Jun 20:45;  Wed 29 Jun 20:40<br>
-**Escape from Alcatraz**<br>
-Mon 6 Jun 20:45; Sat 25 Jun 17:50<br>
-**Thief**<br>
-Tue 7 Jun 20:30; Thu 16 Jun 18:00;  Sat 18 Jun 20:30; Thu 30 Jun 20:30<br>
-**71 Fragments of a Chronology of Chance  (71 Fragmente einer Chronologie des Zufalls)**<br>
-Wed 8 Jun 18:10 (+ intro by Geoff Andrew, Programmer at Large); Mon 27 Jun 21:00<br>
-**Rosetta**<br>
-Fri 10 Jun 20:50; Wed 22 Jun 18:15 (+ intro)<br>
-**Stranger by the Lake (L’Inconnu du lac)**<br>
-Sun 12 Jun 18:10; Wed 15 Jun 18:10;  Tue 28 Jun 20:40<br>
-**Down by Law**<br>
-Fri 17 Jun 20:45; Tue 21 Jun 20:45<br>
-**Certain Women**<br>
-Sun 19 Jun 13:10; Thu 23 Jun 20:50; Wed 29 Jun 18:10 (+ intro by BFI Director of Public Programme and Audiences, Jason Wood)<br>
+Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40<br>
+**La Règle du jeu (The Rules of the Game)**<br>
+Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05<br>
+**Persona**<br>
+Fri 3 Mar 18:30; Thu 9 Mar 21:05<br>
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**<br>
+Fri 3 Mar 20:30; Wed 8 Mar 20:30<br>
+**Do the Right Thing**<br>
+Fri 3 Mar 20:35; Sat 11 Mar 18:10<br>
+**Singin’ in the Rain**<br>
+Fri 3 Mar 20:40; Thu 9 Mar 18:10 (+ intro by Miles Eady, Film Writer and Curator); Tue 14 Mar 14:30<br>
+**Man With a Movie Camera (Chelovek s kino-apparatom)**<br>
+Sat 4 Mar 15:30; Sun 5 Mar 10:30 BFI IMAX; Thu 9 Mar 20:50<br>
+**Playtime**<br>
+Sat 4 Mar 17:00; Sat 11 Mar 20:30<br>
+**The Searchers**<br>
+Sat 4 Mar 17:40; Tue 7 Mar 20:35<br>
+**Seven Samurai (Shichinin no samurai)**<br>
+Sat 4 Mar 18:50; Tue 14 Mar 18:40<br>
+**Apocalypse Now: Final Cut**<br>
+Sat 4 Mar 19:40; Sun 12 Mar 20:00 BFI IMAX<br>
+**Tokyo Story (Tôkyô monogatari)**<br>
+Sat 4 Mar 20:15; Fri 10 Mar 18:00; Wed 15 Mar 14:30<br>
+**Shoah**<br>
+Sun 5 Mar 11:00; Sun 12 Mar 11:00<br>
+**Sunrise: A Song of Two Humans**<br>
+Sun 5 Mar 11:45; Mon 6 Mar 14:00; Mon 13 Mar 20:35<br>
+**The Passion of Joan of Arc (La passion de Jeanne d’Arc)**<br>
+Sun 5 Mar 14:00 (with live accompaniment); Wed 15 Mar 20:40 (with score)<br>
+**Citizen Kane**<br>
+Sun 5 Mar 16:15; Tue 7 Mar 20:30<br>
+**Cléo from 5 to 7 (Cléo de 5 à 7)**<br>
+Sun 5 Mar 17:45; Wed 8 Mar 21:00<br>
+**2001: A Space Odyssey**<br>
+Sun 5 Mar 19:00; Thu 9 Mar 18:00<br>
+**Vertigo**<br>
+Mon 6 Mar 20:30; Thu 9 Mar 14:30; Wed 15 Mar 18:10<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Mon 6 Mar 20:40; Fri 10 Mar 21:00; Sun 12 Mar 18:30<br>
+**Late Spring (Banshun)**<br>
+Mon 6 Mar 20:45; Tue 7 Mar 14:30; Sun 12 Mar 18:20<br>
+**The Night of the Hunter**<br>
+Tue 7 Mar 18:00; Sat 11 Mar 20:45<br>
+**Mulholland Dr.**<br>
+Tue 7 Mar 20:10; Tue 14 Mar 20:15<br>
+**Beau Travail**<br>
+Wed 8 Mar 14:30; Fri 10 Mar 20:45; Mon 13 Mar 18:20 (+ intro by Catherine Wheatley, Reader in Film Studies, King’s College London)<br>
+**Close-Up (Nema-ye Nazdik)**<br>
+Fri 10 Mar 18:30; Wed 15 Mar 20:50<br>
+**The Godfather**<br>
+Fri 10 Mar 19:00; Sun 12 Mar 18:15<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
