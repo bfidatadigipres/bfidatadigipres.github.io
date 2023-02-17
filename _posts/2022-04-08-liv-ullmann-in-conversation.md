@@ -98,11 +98,11 @@ Born in Tokyo, Japan
 **2003  Saraband** (Sweden/Denmark/ Norway/Italy/Finland; d. Ingmar Bergman) as Marianne<br>
 **2012  Two Lives (Zwei leben)** (Germany/ Norway; d. Georg Maas) as Åse<br>
 
-**Films about Liv Ullmann**
+**Documentaries about Liv Ullmann**
 
 **1973  ‘Liv Ullmann’** episode of **Cinema** (UK; d. Pauline Shaw)<br>
-**1977** segment of **Seven Portraits** (USA;  d.  Edvard Lieber)<br>
-**A Look at Liv** (USA; d. Richard Kaplan)<br>
+**1977  A Look at Liv** (USA; d. Richard Kaplan)<br>
+**1983**  segment of **Seven Portraits** (USA;  d.  Edvard Lieber)<br>
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)<br>
 <br>
 
