@@ -99,7 +99,7 @@ segment of **Seven Portraits** (USA; d.  Edvard Lieber)<br>
 **2003  Saraband** (Sweden/Denmark/ Norway/Italy/Finland; d. Ingmar Bergman) as Marianne<br>
 **2012  Two Lives (Zwei leben)** (Germany/ Norway; d. Georg Maas) as Åse<br>
 
-**Documentaries about Liv Ullmann**
+**Films about Liv Ullmann**
 
 **1973  ‘Liv Ullmann’** episode of **Cinema** (UK; d. Pauline Shaw)<br>
 **1977  A Look at Liv** (USA; d. Richard Kaplan)<br>
