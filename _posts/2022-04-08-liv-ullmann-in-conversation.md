@@ -83,6 +83,7 @@ Born in Tokyo, Japan
 **La Diagonale du fou** (Switzerland;  d. Richard Dembo) as Marina<br>
 **Jacobo Timerman:** **Prisoner without a Name, Cell without a Number** (USA; TV movie; d. Linda Yellen) as Risha Timerman<br>
 **Jenny** (Norway/West Germany; TV mini-series; d. Per Bronken) as Jenny Winge<br>
+segment of **Seven Portraits** (USA; d.  Edvard Lieber)<br>
 **1984  The Bay Boy** (Canada/France;  d. Daniel Petrie) as Mrs Campbell<br>
 **1985  Speriamo che sia femmina** (Italy/France; d. Mario Monicelli) as Elena Leonardo<br>
 **1987  Gaby – A True Story** (USA; d. Luis Mandoki) as Sari Brimmer<br>
@@ -102,7 +103,6 @@ Born in Tokyo, Japan
 
 **1973  ‘Liv Ullmann’** episode of **Cinema** (UK; d. Pauline Shaw)<br>
 **1977  A Look at Liv** (USA; d. Richard Kaplan)<br>
-**1983**  segment of **Seven Portraits** (USA;  d.  Edvard Lieber)<br>
 **1998  Liv Ullmann: Scenes from a Life** (Norway; d. Edvard Hambro)<br>
 <br>
 
