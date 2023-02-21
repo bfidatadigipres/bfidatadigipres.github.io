@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Apartment
-published: true
-date: 2022-12-14
+published: false
+date: 2023-02-22
 readtime: true
-categories: ['CHRISTMAS FILMS']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>54=']
 tags: [Comedy]
 metadata: 'USA 1960, 125 mins<br> Director: Billy Wilder'
-pdf: '2022-12-14-apartment.pdf'
+pdf: '2023-02-22-apartment.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
@@ -79,54 +79,86 @@ Dorothy Abbott _(office worker)_
 
 USA 1960©  
 125 mins  
-
-**CHRISTMAS FILMS**  
-**The Bishop’s Wife**  
-Mon 5 Dec 14:30; Sat 17 Dec 11:50; Mon 19 Dec 18:10; Wed 21 Dec 18:05  
-**The Apartment**  
-Wed 14 Dec 14:30; Wed 21 Dec 17:55; Fri 23 Dec 14:30; Tue 27 Dec 12:00  
-**It’s a Wonderful Life**  
-Fri 16 Dec 18:10; Sun 18 Dec 18:10; Tue 20 Dec 18:10; Thu 22 Dec 14:30 Fri 23 Dec 18:10  
-**Tangerine**  
-Fri 16 Dec 20:45; Tue 20 Dec 18:20  
-**Scrooge**  
-Sat 17 Dec 14:50; Wed 21 Dec 14:30  
-**Scrooged**  
-Sat 17 Dec 18:20; Thu 22 Dec 20:30  
-**Carol**  
-Sat 17 Dec 20:45; Tue 20 Dec 20:40  
-**Tokyo Godfathers (Tokyo goddofazazu)**  
-Sat 17 Dec 20:50; Fri 23 Dec 21:00  
-**Meet Me in St. Louis**  
-Sun 18 Dec 12:15; Mon 19 Dec 14:30; Tue 20 Dec 14:30; Thu 22 Dec 18:05  
-**Gremlins**  
-Tue 20 Dec 20:30; Thu 22 Dec 18:10  
-**REGULAR PROGRAMME**  
-**Woman with a Movie Camera: The Babadook**  
-Thu 15 Dec 18:15  
-**Film Wallahs: Nirvana Inn**  
-Thu 15 Dec 20:50  
-**Seniors: Dead of Night + intro**  
-Fri 16 Dec 14:00  
-**Experimenta Mixtape: Secret Santa Edition**  
-Fri 16 Dec 18:20  
-**African Odysseys: The Woman King + intro & Q&A**  
-Sat 17 Dec 14:00  
-**Art in the Making: News from Nowhere + intro by Rowan Bain, Principle Curator at William Morris Gallery TBC**  
-Thu 5 Jan 18:20  
-**African Odysseys: Hussein Shariffe: A Life Between Exile and Homecoming**  
-Sat 7 Jan 12:00-17:00  
-**Seniors’ Free Matinee: UK Theatrical Premiere: Wild and Free, Twice Daily + Q&A**  
-Mon 9 Jan 14:00  
-**Silent Cinema: Metropolis + intro by Bryony Dixon, BFI Curator**  
-Sun 15 Jan 14:40  
-**Projecting the Archive: Thunder in the City + intro by Jo Botting, BFI Curator**  
-Tue 17 Jan 18:20  
-**Experimenta: Nation’s Finest, Putting Down Roots and Birthing + Q&A**  
-Wed 25 Jan 18:15  
-**Relaxed Screening: The Hidden Fortress + intro & discussion**  
-Mon 30 Jan 18:00  
 <br>
+
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Breathless (À bout de souffle)**<br>
+Wed 1 Feb 14:30; Tue 14 Feb 20:50; Fri 24 Feb 18:20<br>
+**Le Mépris (Contempt)**<br>
+Wed 1 Feb 18:10; Fri 17 Feb 20:50<br>
+**Daughters of the Dust**<br>
+Wed 1 Feb 18:15; Thu 16 Feb 20:30<br>
+**Sans Soleil**<br>
+Wed 1 Feb 20:40; Fri 17 Feb 18:00<br>
+**M (Mörder unter uns)**<br>
+Thu 2 Feb 14:30; Thu 16 Feb 20:40; Wed 22 Feb 18:00<br>
+**Moonlight**<br>
+Thu 2 Feb 20:45; Tue 14 Feb 20:30<br>
+**Blade Runner: The Final Cut**<br>
+Fri 3 Feb 20:40; Sun 5 Feb 20:40; Sat 18 Feb 18:10<br>
+**Battleship Potemkin (Bronenosets Potemkin)**<br>
+Sat 4 Feb 12:40; Sat 18 Feb 18:30<br>
+**La dolce vita**<br>
+Sat 4 Feb 14:15; Sat 25 Feb 19:30<br>
+**Sherlock Jr.**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**City Lights**<br>
+Sat 4 Feb 17:20; Sat 11 Feb 11:45<br>
+**Goodfellas**<br>
+Sat 4 Feb 20:10; Wed 15 Feb 20:10<br>
+**North by Northwest**<br>
+Sat 4 Feb 20:20; Thu 9 Feb 18:00<br>
+**L’Atalante**<br>
+Sun 5 Feb 12:15; Tue 14 Feb 18:30; Wed 22 Feb 14:30<br>
+**Rear Window**<br>
+Sun 5 Feb 12:20; Fri 24 Feb 20:45<br>
+**Stalker**<br>
+Sun 5 Feb 17:40; Tue 7 Feb 20:10; Sun 26 Feb 14:00<br>
+**Casablanca**<br>
+Mon 6 Feb 20:30; Sun 12 Feb 13:20<br>
+**Psycho**<br>
+Mon 6 Feb 20:45; Mon 20 Feb 14:30; Thu 23 Feb 20:40<br>
+**8 1/2  (Otto e mezzo)**<br>
+Tue 7 Feb 18:00; Tue 21 Feb 14:30; Sun 26 Feb 12:50<br>
+**The Battle of Algiers (La battaglia di Algeri)**<br>
+Tue 7 Feb 18:10; Sat 25 Feb 11:50<br>
+**News from Home**<br>
+Tue 7 Feb 20:45; Fri 17 Feb 18:20 (+ intro)<br>
+**Rashomon (Rashômon)**<br>
+Tue 7 Feb 21:00; Thu 23 Feb 18:20<br>
+**The Piano**<br>
+Wed 8 Feb 20:35; Tue 21 Feb 17:50<br>
+**Wanda**<br>
+Thu 9 Feb 20:30 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sat 18 Feb 18:20<br>
+**Fear Eats the Soul (Angst essen Seele auf)**<br>
+Thu 9 Feb 20:55; Mon 27 Feb 18:00<br>
+**Ordet (The Word)**<br>
+Fri 10 Feb 18:15; Sat 25 Feb 14:30<br>
+**The 400 Blows (Les Quatre cents coups)**<br>
+Fri 10 Feb 20:50; Sun 19 Feb 18:40<br>
+**Bicycle Thieves (Ladri di biciclette)**<br>
+Sat 11 Feb 11:50; Mon 20 Feb 20:55; Thu 23 Feb 14:30<br>
+**Barry Lyndon**<br>
+Sat 11 Feb 19:20; Sat 25 Feb 15:30<br>
+**Some Like It Hot**<br>
+Sun 12 Feb 13:30; Tue 14 Feb 18:10<br>
+**The Third Man**<br>
+Sun 12 Feb 18:30; Tue 21 Feb 20:40<br>
+**Killer of Sheep**<br>
+Sun 12 Feb 18:40 (+intro); Sat 18 Feb 20:40<br>
+**Mirror (Zerkalo)**<br>
+Mon 13 Feb 20:50; Tue 28 Feb 20:50<br>
+**Pather Panchali**<br>
+Sat 18 Feb 20:30; Tue 21 Feb 20:35; Sun 26 Feb 15:45<br>
+**The Apartment**<br>
+Wed 22 Feb 20:35; Sun 26 Feb 12:40<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
