@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Apartment
-published: false
+published: true
 date: 2023-02-22
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>54=']
