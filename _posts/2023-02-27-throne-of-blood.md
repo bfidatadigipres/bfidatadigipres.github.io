@@ -10,7 +10,7 @@ metadata: 'Japan 1957, 110 mins<br> Director: Akira Kurosawa'
 pdf: '2023-02-27-throne-of-blood-relaxed.pdf'
 ---
 
-<img style="float: left;" src="/img/throne of blood.png"><br><br>
+<img style="float: left;" src="/img/throne of blood.png"><br><br><br><br><br><br>
 
 _+ intro and discussion_
 
