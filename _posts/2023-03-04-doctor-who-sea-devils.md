@@ -10,7 +10,7 @@ metadata: 'UK 1972, 6 x 25 mins<br> Director: Michael Briant'
 pdf: '2023-03-04-doctor-who-sea-devils.pdf'
 ---
 
-_+ Q&A with Katy Manning_
+_+ Q&A with Katy Manning and Hugh Futcher_
 
 **Making ‘The Sea Devils’**  
 The popularity of the eponymous subterranean menaces from series seven’s _Doctor Who and the Silurians_ hadn’t gone unnoticed by producer Barry Letts and script editor Terrance Dicks who were keen to bring them back, but also to have an adventure for the Doctor, Jo Grant and UNIT set near the sea. Writer Malcolm Hulke, who had created the Silurians, had served in the Royal Navy during World War Two so seemed the obvious choice to combine these two threads. On being commissioned to tackle the serial in March 1971, his solution was to create a sibling race, an aquatic offshoot of the Silurians for a draft titled _The Sea Silurians_. Letts and Dicks were also keen to see The Master back in action. They’d been concerned that he was in danger of becoming overused after he’d appeared, played by Roger Delgado, in all five of series seven’s stories and had decided that he should be used sparingly thereafter. _The Sea Silurians_ was scheduled to be the third story of series nine (though it was recorded before the story that would precede it, _The Curse of Peladon_), The Master being absent from the first two, _Day of the Daleks_ and _The Curse of Peladon_.
@@ -92,6 +92,8 @@ Jim Dowdall, Brian Gilmar, Nick Llewellyn, Roy Pearce, Dennis Plenty, Ron Tingle
 
 BBC1 tx 26.2 – 1.4.1972  
 6 x 25 mins
+
+\* uncredited
 
 _Doctor Who: The Collection – Season 9_ will be released by BBC Studios on Blu-ray soon
 <br><br>
