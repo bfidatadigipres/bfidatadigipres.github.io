@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haunted Engines - UNICA and Other Films from Computer Generated Worlds
-published: false
+published: true
 date: 2023-03-01
 readtime: true
 categories: ['EXPERIMENTA']
