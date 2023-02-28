@@ -7,7 +7,7 @@ readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>25=']
 tags: [Drama]
 metadata: 'France/Sweden 1966, 95 mins<br> Director: Robert Bresson'
-pdf: '2023-03-02-au-hasard-balthazar-.pdf'
+pdf: '2023-03-02-au-hasard-balthazar.pdf'
 ---
 
 **SPOILER WARNING The following notes give away some of the plot.**
