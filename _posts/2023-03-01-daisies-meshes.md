@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daisies + Meshes in the Afternoon
-published: false
+published: true
 date: 2023-03-01
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>28 AND 16']
