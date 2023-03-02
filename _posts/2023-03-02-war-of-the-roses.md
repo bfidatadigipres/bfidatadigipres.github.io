@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The War of the Roses
-published: false
+published: true
 date: 2023-03-02
 readtime: true
 categories: ['MEMBER PICKS']
