@@ -7,7 +7,7 @@ readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>10=']
 tags: [Musical, Comedy]
 metadata: 'USA 1951, 103 mins<br> Directors: Gene Kelly, Stanley Donen'
-pdf: '2023-03-03-regle-du-jeu.pdf'
+pdf: '2023-03-03-singin-in-the-rain.pdf'
 ---
 
 It would be hard to find a more enjoyable, durable musical than this homage to Hollywood’s bumpy transition from silent to talking pictures. Gene Kelly is at his charismatic best, especially during the euphoric title number, while Donald O’Connor uses every trick in his repertoire for ‘Make ‘em Laugh’ and Debbie Reynolds captures a sweet innocence as an ingénue star on the rise. Then there’s Jean Hagen, who pretty much steals all her scenes with that hilarious, screechy delivery. Simply joyous.  
