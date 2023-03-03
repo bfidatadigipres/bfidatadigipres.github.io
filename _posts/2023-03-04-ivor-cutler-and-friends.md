@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ivor Cutler and Friends
-published: false
+published: true
 date: 2023-03-04
 readtime: true
 categories: ['IVOR CUTLER AND THE ECCENTRIC MISCELLANY']
