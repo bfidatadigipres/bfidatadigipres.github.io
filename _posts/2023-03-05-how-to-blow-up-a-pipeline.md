@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Blow Up a Pipeline
-published: false
+published: true
 date: 2023-03-05
 readtime: true
 categories: ['GLASGOW FILM FESTIVAL PREVIEW']
