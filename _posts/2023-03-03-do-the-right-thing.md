@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do the Right Thing
-published: false
+published: true
 date: 2023-03-03
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>24=']
