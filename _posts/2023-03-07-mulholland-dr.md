@@ -7,7 +7,7 @@ readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>8=']
 tags: [Drama, Thriller]
 metadata: 'France/USA 2001, 147 mins<br> Director: David Lynch'
-pdf: '2023-03-07-mulholland-dr.pdf'
+pdf: '2023-03-07-mulhooland-dr.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
