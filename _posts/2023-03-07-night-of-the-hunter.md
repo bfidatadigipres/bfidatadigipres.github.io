@@ -2,12 +2,12 @@
 layout: post
 title: The Night of the Hunter
 published: true
-date: 2022-08-10
+date: 2023-03-07
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>25=']
 tags: [Drama, Thriller]
-metadata: 'USA, 1955, 92 mins<br> Director: Charles Laughton'
-pdf: '2022-08-10-night-of-the-hunter.pdf'
+metadata: 'USA, 1955, 93 mins<br> Director: Charles Laughton'
+pdf: '2023-03-07-night-of-the-hunter.pdf'
 ---
 
 In my film-watching experience, _The Night of the Hunter_ is the closest a director has come to capturing the hypnotic, compelling potency of the kind of nightmares we have when we are children. Initially, I was knocked out by Stanley Cortez’s stunning black and white photography, but after repeated viewing I have also developed immense respect for [Charles] Laughton’s direction and for the actors’ performances (in particular, Lillian Gish and Robert Mitchum, but Shelley Winters as Mitchum’s new wife is also quite unforgettable). Not only is the film very frightening – every single adult, with the exception of Lillian Gish, betrays the two helpless children – but it’s filled with great beauty and compassion for the innocence of childhood. There is a recurring image of wandering, homeless kids begging for food. At one point Gish comments on children surviving horrendous experiences – ‘they abide and they endure,’ she says.
@@ -80,43 +80,79 @@ Paul Bryar _(Bart, the hangman)_<br>
 Corey Allen _(young boy in town)_<br>
 
 USA 1955©<br>
-92 mins<br>
-
-The screening on Wed 10 Aug will be introduced by Jason Wood, BFI Director of Public Programme and Audiences
+93 mins
 <br><br>
 
 
 
-**BIG SCREEN CLASSICS**<br>
-**The Manchurian Candidate**<br>
-Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
-**M**<br>
-Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
-**Sweet Smell of Success**<br>
-Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
-**Dance, Girl, Dance**<br>
-Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
-**Gaslight**<br>
-Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
+**SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022**<br>
+**Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 18:00; Thu 2 Mar 18:50; Sat 11 Mar 18:50<br>
+**Philosophical Screens: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles**<br>
+Wed 1 Mar 21:30 Blue Room<br>
+**Daisies (Sedmikrásky) + Meshes of the Afternoon**<br>
+Wed 1 Mar 20:50; Wed 8 Mar 18:20 (+ intro)<br>
+**Au hasard Balthazar**<br>
+Thu 2 Mar 20:50; Mon 6 Mar 18:30<br>
+**Taxi Driver**<br>
+Thu 2 Mar 21:00 BFI IMAX; Fri 3 Mar 18:10; Mon 13 Mar 20:40<br>
+**La Règle du jeu (The Rules of the Game)**<br>
+Fri 3 Mar 14:30; Sat 4 Mar 13:20; Sat 11 Mar 18:05<br>
 **Persona**<br>
-Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
-**Raging Bull**<br>
-Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
-**La Haine**<br>
-Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
+Fri 3 Mar 18:30; Thu 9 Mar 21:05<br>
+**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**<br>
+Fri 3 Mar 20:30; Wed 8 Mar 20:30<br>
+**Do the Right Thing**<br>
+Fri 3 Mar 20:35; Sat 11 Mar 18:10<br>
+**Singin’ in the Rain**<br>
+Fri 3 Mar 20:40; Thu 9 Mar 18:10 (+ intro by Miles Eady, Film Writer and Curator); Tue 14 Mar 14:30<br>
+**Man With a Movie Camera (Chelovek s kino-apparatom)**<br>
+Sat 4 Mar 15:30; Sun 5 Mar 10:30 BFI IMAX; Thu 9 Mar 20:50<br>
+**Playtime**<br>
+Sat 4 Mar 17:00; Sat 11 Mar 20:30<br>
+**The Searchers**<br>
+Sat 4 Mar 17:40; Tue 7 Mar 20:35<br>
+**Seven Samurai (Shichinin no samurai)**<br>
+Sat 4 Mar 18:50; Tue 14 Mar 18:40<br>
+**Apocalypse Now: Final Cut**<br>
+Sat 4 Mar 19:40; Sun 12 Mar 20:00 BFI IMAX<br>
+**Tokyo Story (Tôkyô monogatari)**<br>
+Sat 4 Mar 20:15; Fri 10 Mar 18:00; Wed 15 Mar 14:30<br>
+**Shoah**<br>
+Sun 5 Mar 11:00; Sun 12 Mar 11:00<br>
+**Sunrise: A Song of Two Humans**<br>
+Sun 5 Mar 11:45; Mon 6 Mar 14:00; Mon 13 Mar 20:35<br>
+**The Passion of Joan of Arc (La passion de Jeanne d’Arc)**<br>
+Sun 5 Mar 14:00 (with live accompaniment); Wed 15 Mar 20:40 (with score)<br>
 **Citizen Kane**<br>
-Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
-**The White Ribbon (Das weisse Band)**<br>
-Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
-**Kes**<br>
-Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
+Sun 5 Mar 16:15; Tue 7 Mar 20:30<br>
+**Cléo from 5 to 7 (Cléo de 5 à 7)**<br>
+Sun 5 Mar 17:45; Wed 8 Mar 21:00<br>
+**2001: A Space Odyssey**<br>
+Sun 5 Mar 19:00; Thu 9 Mar 18:00<br>
+**Vertigo**<br>
+Mon 6 Mar 20:30; Thu 9 Mar 14:30; Wed 15 Mar 18:10<br>
+**In the Mood for Love (Fa yeung nin wah)**<br>
+Mon 6 Mar 20:40; Fri 10 Mar 21:00; Sun 12 Mar 18:30<br>
+**Late Spring (Banshun)**<br>
+Mon 6 Mar 20:45; Tue 7 Mar 14:30; Sun 12 Mar 18:20<br>
 **The Night of the Hunter**<br>
-Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
-**Notorious**<br>
-Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
-**Bigger Than Life**<br>
-Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+Tue 7 Mar 18:00; Sat 11 Mar 20:45<br>
+**Mulholland Dr.**<br>
+Tue 7 Mar 20:10; Tue 14 Mar 20:15<br>
+**Beau Travail**<br>
+Wed 8 Mar 14:30; Fri 10 Mar 20:45; Mon 13 Mar 18:20 (+ intro by Catherine Wheatley, Reader in Film Studies, King’s College London)<br>
+**Close-Up (Nema-ye Nazdik)**<br>
+Fri 10 Mar 18:30; Wed 15 Mar 20:50<br>
+**The Godfather**<br>
+Fri 10 Mar 19:00; Sun 12 Mar 18:15<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
