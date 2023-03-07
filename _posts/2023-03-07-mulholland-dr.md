@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mulholland Dr.
-published: false
+published: true
 date: 2023-03-07
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>8=']
