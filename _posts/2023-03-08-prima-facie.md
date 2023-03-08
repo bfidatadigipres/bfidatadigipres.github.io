@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WOW Festival presents<br>Prima Facie
-published: false
+published: true
 date: 2023-03-08
 readtime: true
 categories: ['PREVIEWS AND EVENTS']
