@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Teckman Mystery + The Stranger Left No Card
-published: false
+published: true
 date: 2023-03-08
 readtime: true
 categories: ['SENIORS<br>CELEBRATING INTERNATIONAL WOMEN’S DAY']
