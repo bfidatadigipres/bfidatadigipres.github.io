@@ -1,4 +1,4 @@
-The Programme Notes are compiled by the Documentation Editors in the BFI's [Data and Digital Preservation department](https://www2.bfi.org.uk/explore-film-tv/bfi-national-archive/about-bfi-national-archive/archive-teams/data-team).
+The Programme Notes are compiled by the Documentation Editors in the BFI's Sight and Sound department.
 
 Historically the notes were printed and made available in BFI Southbank - and that paper version will still be available in venue.
 
