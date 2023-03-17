@@ -1,4 +1,4 @@
-The Programme Notes are compiled by the Documentation Editors in the BFI's [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) department.
+The Programme Notes are compiled by the Programme Notes Editors in the BFI's [Sight and Sound](https://www.bfi.org.uk/sight-and-sound) department.
 
 Historically the notes were printed and made available in BFI Southbank - and that paper version will still be available in venue.
 
