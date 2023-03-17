@@ -1,16 +1,7 @@
-{
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
-  "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
-    "type": "image/png"
-  }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }],
+s{
+  "name": "BFI Southbank Programme Notes",
+  "short_name": "BFI Southbank Programme Notes",
+  "description": "Notes for screening at the BFI's cinemas in Southbank, London",
   "background_color": "#fff",
   "theme_color": "#000",
   "start_url": "/",
