@@ -5,7 +5,7 @@ published: true
 date: 2021-08-11
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Crime, Drama, Thriller, Noir]
+tags: [Crime, Drama, Thriller, Film Noir]
 metadata: 'USA, 1981, 108 mins<br> Director: Ivan Passer'
 pdf: '2021-08-11-cutters-way.pdf'
 ---
