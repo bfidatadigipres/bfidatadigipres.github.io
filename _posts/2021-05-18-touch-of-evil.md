@@ -5,7 +5,7 @@ published: true
 date: 2021-05-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Thriller]
+tags: [Drama, Film Noir, Thriller]
 metadata: 'USA, 1958, 113 mins<br> Director: Orson Welles'
 pdf: '2021-05-18-touch-of-evil.pdf'
 ---
