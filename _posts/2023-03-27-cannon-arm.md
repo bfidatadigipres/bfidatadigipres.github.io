@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cannon Arm and the Arcade Quest <br>(Relaxed Screening)
+title: Cannon Arm and<br> the Arcade Quest <br>(Relaxed Screening)
 published: true
 date: 2023-03-27
 readtime: true
