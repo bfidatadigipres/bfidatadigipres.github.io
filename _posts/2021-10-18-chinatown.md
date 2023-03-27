@@ -5,7 +5,7 @@ published: true
 date: 2021-10-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Noir, Thriller]
+tags: [Drama, Film Noir, Thriller]
 metadata: 'USA 1974, 130 mins<br> Director: Roman Polanski'
 pdf: '2021-10-18-chinatown.pdf'
 ---
