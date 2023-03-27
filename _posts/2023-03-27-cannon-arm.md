@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Documentary]
 metadata: 'Denmark 2021, 98 mins<br> Director: Mads Hedegaard'
-pdf: '2023-03-27-cannon-arm.pdf'
+pdf: '2023-03-27-cannon-arm-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/cannon-arm.png"><br><br>
