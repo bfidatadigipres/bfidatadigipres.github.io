@@ -48,7 +48,7 @@ Given the strange journey Skolimowski himself has made through different countri
 **Jerzy Skolimowski interviewed by David Thomson, _Sight and Sound_, April 2023**  
 <br>
 
-**JERZY SKOLIMOWSKI**
+**JERZY SKOLIMOWSKI**  
 Born 5 May 1938, Łódź, Poland
 
 Selected filmography  
@@ -147,7 +147,7 @@ Sun 23 Apr 18:40; Sat 29 Apr 14:40<br>
 9 Mar-27 Apr kinoteka.org.uk
 <br><br><br><br><br><br><br><br>
 
-<img style="float: left;" src="/img/mamuska-02.png"><br><br><br><br>
+<img style="float: left;" src="/img/mamuska-02.png"><br><br><br><br><br><br><br>
 Proud partners of the BFI’s Jerzy Skolimowski season. Show valid BFI ticket and enjoy 20% off your bill at Mamuśka!
 <br><br><br><br><br><br><br><br>
 
