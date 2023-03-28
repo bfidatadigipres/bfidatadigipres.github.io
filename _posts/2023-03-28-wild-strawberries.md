@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Sweden 1957, 91 mins<br> Director: Ingmar Bergman'
-pdf: '2023-03-28-wild-srawberries.pdf'
+pdf: '2023-03-28-wild-strawberries.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
