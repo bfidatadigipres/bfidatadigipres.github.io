@@ -45,7 +45,7 @@ The director continues: ‘I would say my input is more on the visual side, and 
 Polanksi’s debut feature, _Knife in the Water_ (1962) carries Skolimowski’s credit as co-writer, and it’s an association that has been renewed with Polanski’s latest film, _The Palace_. ‘He had the idea of a film which would take place in one location with an ensemble of people together on New Year’s Eve. I told him my family story, which we used in the final script of _The Palace_, but then he got the idea that it would be New Year’s Eve 1999, when there was the panic about [the threatened global computer meltdown] Y2K. When he asked me if I would work with him on the project, I said yes, but I think Ewa should be involved, as my last scripts were written with her. So we agreed, and worked very fast – in two to three months the script was ready.’
 
 Given the strange journey Skolimowski himself has made through different countries and cultures as well as genres of cinema, I suggest to him that _Eo_ may be read as partly autobiographical. He is amused by the idea. ‘Yes, there are some allusions to the immigrant experience, and the outsider. In that case, it is autobiographical!’ Piaskowska adds: ‘Eo, he’s not that different to Vincent Gallo in _Essential Killing_, is he? Or poor Jeremy Irons, the Polish man with no work in London? The underdog, the outsider, the person whose fate is decided by those who are stronger around him. Barely scraping by, trying to stay upright, not to get drawn in by the waves. It’s the same character, isn’t it?’  
-**Jerzy Skolimowski interviewed by David Thomson, _Sight and Sound_, April 2023**  
+**Jerzy Skolimowski interviewed by David Thompson, _Sight and Sound_, April 2023**  
 <br>
 
 **JERZY SKOLIMOWSKI**  
