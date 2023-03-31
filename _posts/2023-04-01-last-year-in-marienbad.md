@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Last Year in Marienbad
-published: false
+published: true
 date: 2023-04-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
