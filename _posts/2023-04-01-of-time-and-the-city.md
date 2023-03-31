@@ -2,15 +2,13 @@
 layout: post
 title: Of Time and the City
 published: true
-date: 2021-10-02
+date: 2023-04-01
 readtime: true
-categories: ['NFTS AT 50']
+categories: ['NORTHERN VOICES']
 tags: [Documentary]
-metadata: 'UK 2008, 74 mins<br> Director: Terence Davies'
-pdf: '2021-10-02-of-time-and-the-city.pdf'
+metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
+pdf: '2023-04-01-of-time-and-the-city.pdf'
 ---
-
-_+ Q&A with Terence Davies_
 
 There is something mysterious about Terence Davies’ Liverpool from the outset: at the heart of this meditation on the city lies a tension, between urban change as a process that is brutal and unremitting, and the persistence of memory as something that is delicate and filamentary. We weave our memories into a palimpsest of dreams where time and place melt into each other. Memories become maps through places to which we can never return in a world that is changing all about us.
 
@@ -30,41 +28,6 @@ The final tracking shots of gentrified docks and warehouses evoke a sense of pla
 
 Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.<br>
 **Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009)**<br>
-
-**Madonna and Child**<br>
-The centrepiece of Davies’ Liverpool-set Trilogy focuses on his fictional alter-ego in middle age.<br>
-
-
-
-**MADONNA AND CHILD**<br>
-_Directed by:_ Terence Davies  
-_©/Production Company:_ National Film School Production: Mike Maloney  
-_Assistant Director:_ Kees Ryninks  
-_Continuity:_ Victoria McBain  
-_Written by:_ Terence Davies  
-_Cameraman:_ William Diver  
-_Assistant Cameraman:_ Sergio Leo  
-_Grip:_ Tim Rolt  
-_Editor:_ Mick Audsley  
-_Sound Recordist:_ Antoinette de Bromhead  
-_Dubbing Editor:_ Geoff Hogg  
-_With special thanks to:_ Sacred Heart Parish  Church, H.A. Harben & Co., The Harold Ackerley Studio, Canon Kennedy Primary School  
-
-**Cast**  
-Terry O’Sullivan _(Robert Tucker)_  
-Sheila Raynor _(Robert’s mother)_  
-Paul Barber  
-John Meynell  
-Brian Ward  
-Dave Cooper  
-Mark Walton  
-Mal Jefferson  
-Lovette Edwards  
-Rita Thatchery  
-Eddie Ross<br>
-
-UK 1980<br>
-30 mins<br>
 
 **OF TIME AND THE CITY**<br>
 _Directed by:_ Terence Davies  
@@ -95,25 +58,55 @@ _Sound Engineers:_ David Coyle, Steven Guy
 _EPK:_ Krishna Stott, Philip Shotton  
 _Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation<br>
 UK 2008©<br>
-74 mins<br>
+75 mins<br>
 
 
-**NFTS AT 50**<br>
-**Of Time and the City + Q&A with director Terence Davies**<br>
-Sat 2 Oct 14:15<br>
-**Rocks + Q&A with director Sarah Gavron**<br>
-Sat 2 Oct 17:30<br>
+**NORTHERN VOICES**<br>
+**In Celebration**<br>
+Mon 27 Mar 20:30; Sun 23 Apr 18:10<br>
+**Northern Soul**<br>
+Thu 30 Mar 18:15; Sat 15 Apr 20:40<br>
+**The Wednesday Play: No Trams to Lime Street + Armchair Theatre: The Hard Knock**<br>
+Fri 31 Mar 18:20<br>
+**Of Time and the City**<br>
+Sat 1 Apr 20:40; Tue 18 Apr 18:20<br>
+**Saturday Night Theatre: Roll On Four O’Clock + Play for Today: Kisses at 50**<br>
+Tue 4 Apr 18:10<br>
+**Billy Liar**<br>
+Thu 6 Apr 20:30; Fri 14 Apr 18:15; Thu 27 Apr 20:50<br>
+**Letter to Brezhnev**<br>
+Fri 7 Apr 18:20; Thu 20 Apr 20:50<br>
+**Priest**<br>
+Sat 8 Apr 20:40<br>
+**The Arbor**<br>
+Tue 11 Apr 20:40; Sun 30 Apr 14:30<br>
+**Play for Today: Comedians**<br>
+Sat 15 Apr 15:15<br>
+**Play for Today: The Land of Green Ginger + Armchair Theatre: The Pity of it All**<br>
+Sun 16 Apr 15:20<br>
+**Rita, Sue and Bob Too**<br>
+Sun 16 Apr 18:30; Sun 30 Apr 12:10<br>
+**Northern Voices Forum**<br>
+Sun 23 Apr 15:00<br>
+**Laughter from Liverpool + intro**<br>
+Sat 29 Apr 14:50<br>
 
-<img style="float: left;" src="/img/NFTS.png"><br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- 
- 
- 
+**In partnership with**
+<img style="float: left;" src="/img/film-hub-north-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/home-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+<img style="float: left;" src="/img/bfi-fan-01.jpg">
+<br><br><br><br><br><br><br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
