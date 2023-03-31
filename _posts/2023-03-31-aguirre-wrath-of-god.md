@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aguirre, Wrath of God
-published: false
+published: true
 date: 2023-03-31
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
