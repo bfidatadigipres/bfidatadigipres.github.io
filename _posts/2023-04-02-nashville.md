@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nashville
-published: false
+published: true
 date: 2023-04-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
