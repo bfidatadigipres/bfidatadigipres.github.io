@@ -6,7 +6,7 @@ date: 2023-04-06
 readtime: true
 categories: ['TV PREVIEWS']
 tags:  [Drama]
-metadata: 'UK 2023, 70 mins<br> Directors: Lisa Barros D’Sa. Glenn Leyburn'
+metadata: 'UK 2023, 70 mins<br> Directors: Lisa Barros D’Sa, Glenn Leyburn'
 pdf: '2023-04-06-obsession.pdf'
 ---
 
