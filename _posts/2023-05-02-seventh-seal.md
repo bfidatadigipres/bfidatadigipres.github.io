@@ -1,16 +1,14 @@
 ---
 layout: post
 title: The Seventh Seal
-published: true
-date: 2021-05-28
+published: false
+date: 2023-05-02
 readtime: true
-categories: ['DREAM PALACE - THE FILMS THAT CINEMAS WERE BUILT FOR']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'Sweden, 1957, 96 mins<br> Director: Ingmar Bergman'
-pdf: '2021-05-28-seventh-seal.pdf'
+metadata: 'Sweden 1957, 96 mins<br> Director: Ingmar Bergman'
+pdf: '2023-05-02-seventh-seal.pdf'
 ---
-
-_With a pre-recorded introduction by Mike Williams, Editor Sight & Sound._
 
 **Seven reasons to celebrate ‘The Seventh Seal’**
 
@@ -106,57 +104,44 @@ Owe Svensson _(corpse on hillside)_
 
 Sweden 1957  
 96 mins
+<br><br>
 
-**DREAM PALACE: THE FILMS THAT CINEMAS WERE BUILT FOR**  
-**Blow Out**<br>
-Mon 17 May 17:45 (+ intro by Ben Roberts, BFI CEO); Tue 1 Jun 20:40 <br>
-**The General**<br>
-Tue 18 May 18:10; Sat 29 May 12:45 (+ intro by Stuart Brown, BFI Head of Programme and Acquisitions)<br>
-**The Shout** + pre-recorded intro by Mark Jenkin<br>
-Wed 19 May 21:00; Thu 3 Jun<br>
-**The Cook, the Thief, His Wife & Her Lover**<br>
-Thu 20 May 17:30 (+ intro by Justin Johnson,  BFI Lead Programmer); Thu 24 Jun 20:30<br>
-**Footloose** + pre-recorded intro by Francis Lee<br>
-Thu 20 May 20:45; Sat 29 May 18:00<br>
-**Car Wash**<br>
-Fri 21 May 18:00 (+ intro by Gurinder Chadha); Mon 31 May 18:50<br>
-**David Byrne’s American Utopia**<br>
-Fri 21 May 20:45 (+ intro by Tricia Tuttle,  BFI Festival Director); Mon 14 Jun 18:00<br>
-**Beginning** + pre-recorded intro by Luca Guadagnino<br>
-Sat 22 May 11:30; Tue 22 Jun 20:30<br>
-**Black Narcissus**<br>
-Sat 22 May 14:20 (+ intro by Edgar Wright); Mon 7 Jun 17:50<br>
-**The Wonders (Le meraviglie)** + pre-recorded intro by Mark Cousins<br>
-Sat 22 May 15:15; Thu 3 Jun 20:30<br>
-**Hair** + pre-recorded intro by Kleber Mendonça Filho<br>
-Sat 22 May 20:30; Fri 28 May 17:45<br>
-**Magnificent Obsession** + **Fear Eats the Soul (Angst essen Seele auf)**<br>
-Sun 23 May 15:45 (+ intro by Heather Stewart, BFI Creative Director); Sun 6 Jun 18:40<br>
-**Beau Travail** + pre-recorded intro by  Kirsten Johnson<br>
-Sun 23 May 18:40; Sun 30 May 18:20<br>
-**Mirror (Zerkalo)** + pre-recorded intro by Malgorzata Szumowska<br>
-Mon 24 May 17:50; Wed 9 Jun 14:30<br>
-**Syndromes and a Century (Sang sattawat)** + pre-recorded intro by Chaitanya Tamhane<br>
-Mon 24 May 20:30; Sat 19 Jun 17:50<br>
-**Goodbye, Dragon** **Inn (Bú sàn)**<br>
-Wed 26 May 18:10 (+ intro by Peter Strickland); Wed 2 Jun 20:50<br>
-**The Gleaners & I (Les glaneurs et la glaneuse)** + pre-recorded intro by Zhu Shengze<br>
-Thu 27 May 18:15; Fri 26 Jun 14:30<br>
+**BIG SCREEN CLASSICS**<br>
+**L’Argent (Money)**<br>
+Mon 1 May 13:30; Sat 6 May 15:40; Sat 27 May 20:40; Tue 30 May 18:10<br>
 **The Seventh Seal (Det sjunde inseglet)**<br>
-Fri 28 May 20:50 (+ intro by Mike Williams, Editor _Sight & Sound_); Wed 30 Jun 14:30<br>
-**Broadcast News**<br>
-Sun 30 May 15:40 (+ intro by Sarah Smith); Sat 19 Jun 20:20<br>
-**The Elephant Man** + pre-recorded intro by  Prano Bailey-Bond<br>
-Tue 15 Jun 17:45; Sat 19 Jun 12:00<br>
-**The Warriors**<br>
-Mon 21 Jun 18:00 (+ intro by Asif Kapadia); Mon 28 Jun 14:30<br>
+Tue 2 May 20:40; Sat 6 May 12:30; Mon 22 May 20:45; Thu 25 May 14:30<br>
+**The Magnificent Ambersons**<br>
+Wed 3 May 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Mon 15 May 20:40<br>
+**The Discreet Charm of the Bourgeoisie (Le Charme discret de la bourgeoisie)**<br>
+Thu 4 May 20:55; Tue 16 May 20:40; Wed 31 May 18:10 (+ intro)<br>
+**The River**<br>
+Fri 5 May 20:45; Mon 8 May 13:20; Sat 13 May 18:10<br>
+**The Wild Bunch**<br>
+Sat 6 May 20:10; Sun 14 May 18:00; Mon 29 May 18:00<br>
+**Greed**<br>
+Sun 7 May 12:50; Sun 14 May 15:00<br>
+**Le Jour se lève (Daybreak)**<br>
+Tue 9 May 20:50; Thu 11 May 18:30; Sat 13 May 20:30; Wed 24 May 18:15 (+ intro)<br>
+**Persepolis**<br>
+Wed 10 May 18:15 (+ intro); Tue 23 May 18:20; Sat 27 May 18:10<br>
+**The Big City (Mahanagar)**<br>
+Fri 12 May 20:30; Sat 20 May 15:00; Sun 28 May 12:50<br>
+**Still Walking (Aruitemo Aruitemo)**<br>
+Mon 15 May 14:00 (+ intro); Thu 18 May 18:10; Sun 21 May 15:40; Fri 26 May 20:30<br>
+**Dance, Girl, Dance**<br>
+Tue 16 May 18:20; Sat 27 May 16:00<br>
+**Scarface**<br>
+Wed 17 May 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 19 May 20:30; Mon 29 May 13:40<br>
+**The Life and Death of Colonel Blimp**<br>
+Sat 20 May 19:50; Mon 29 May 13:00<br>
+<br>
 
-**In partnership with**  
-<img style="float: left;" src="/img/partner/sight-and-sound-01.png" alt="Sight & Sound" title="Sight & Sound"> 
-<br><br><br><br><br><br><br><br>
-<img align="left" style="float: left;" width="200" height="98" src="/img/partner/popcorn-shed-logo-01.png">
-<br><br><br><br><br><br><br><br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
