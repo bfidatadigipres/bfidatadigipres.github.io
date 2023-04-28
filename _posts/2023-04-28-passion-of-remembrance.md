@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Passion of Remembrance
-published: false
+published: true
 date: 2023-04-28
 readtime: true
 categories: ['RE-RELEASES']
