@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enys Men with live score by The Cornish Sound Unit
-published: false
+published: true
 date: 2023-05-01
 readtime: true
 categories: ['IN PERSON & PREVIEWS']
