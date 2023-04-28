@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Son the Fanatic
-published: false
+published: true
 date: 2023-04-30
 readtime: true
 categories: ['NORTHERN VOICES']
