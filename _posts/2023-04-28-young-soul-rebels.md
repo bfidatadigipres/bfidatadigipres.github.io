@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Young Soul Rebels
-published: false
+published: true
 date: 2023-04-28
 readtime: true
 categories: ['RE-RELEASES']
