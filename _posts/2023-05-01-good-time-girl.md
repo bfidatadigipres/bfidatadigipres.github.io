@@ -48,7 +48,7 @@ _Special Processes_: George Hill *
 _Models_: P. Guidobaldi *  
 _Editor_: V. Sagovsky  
 _Assistant Editor_: May Dennington *  
-_2nd Assistant Editor (2nd)_: H. Taylor, Leslie Hodgson, Rita Murison, W. Martin *  
+_2nd Assistant Editor_: H. Taylor, Leslie Hodgson, Rita Murison, W. Martin *  
 _Supervising Art Director_: George Provis  
 _Designs and Art Direction_: Maurice Carter  
 _Set Dresser_: John Jarvis *  
