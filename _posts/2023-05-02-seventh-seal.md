@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Seventh Seal
-published: false
+published: true
 date: 2023-05-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
