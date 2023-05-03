@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Films by George Barber
-published: false
+published: true
 date: 2023-05-03
 readtime: true
 categories: ['EXPERIMENTA']
