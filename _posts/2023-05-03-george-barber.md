@@ -17,29 +17,28 @@ We are thrilled to present a BFI National Archive showcase of new and recent wor
 **Film programme**
 
 **Mind Wandering in a Van**  
-UK 2022, 28min  
+UK 2022, 28 mins  
 A van travels around London. Participants are asked to listen to music and then tell us what they are thinking about.
 
-**Uprooted**  
-UK 2020, 20min  
-A poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
-
-**Garden Centre**  
-UK 2015, 2min  
-George Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
-
-**We Need to Speak Tony**  
-UK 2017, 16min  
-After being briefed individually and fed anecdotes about Tony Blair by  George Barber, a group of improvisers ‘channel’ themselves into being the  ex-PM for the afternoon.
-
 **Thirty Minutes of Crawl**  
-UK 2015, 5min  
+UK 2015, 5 mins  
 The problem of swimming while expecting a Fed Ex delivery.
 
+**We Need to Speak Tony**  
+UK 2017, 16 mins  
+After being briefed individually and fed anecdotes about Tony Blair by George Barber, a group of improvisers ‘channel’ themselves into being the ex-PM for the afternoon.
+
+**Garden Centre**  
+UK 2015, 2 mins  
+George Barber relates his new artistic manifesto involving NOT being at the centre of things but preferring to be something intriguing at the edge of the frame. It’s all going well too.
+
 **Video Marilyns Andy Never Thought Of**  
-UK 2022, 5min  
+UK 2022, 5 mins    
 Barber took a photo of Marilyn and put it through analogue and digital processes in four short chapters.
-<br>
+
+**Uprooted**  
+UK 2020, 20 mins  
+A poetic response to childhood, growing up in Guyana and leaving once Barber’s parents retired. It also combines, ecological issues, Jim Jones, observations travelling in one of the last pristine rain forests in the world.
 
 **George Barber**’s early work on ‘The Greatest Hits of Scratch Video’ is internationally known and has been featured in many galleries and festivals across the world. _The Independent_ and _Sunday Times_ ran features on it, and the tapes, unusually for video art, sold in record shops. His two famous works of the period, ‘Absence of Satan’ and ‘Yes Frank No Smoke’ are screened regularly and many of the other works are considered seminal in the history of British Video Art. Many younger artists, including James Richards and Hanna Perry have acknowledged Barber’s influence.
 
@@ -47,14 +46,22 @@ His work is diverse and over his career, he has had an installation at Tate Brit
 
 Barber is eclectic, his ideas varied. After Scratch, Barber created many low-tech video pieces and was influential in defining an emergent ‘slacker’ aesthetic. Narrative and found footage seem to be at the centre of much of his work, either deconstructing it or trying as an artist to evolve an approach that is contradictory to the maker’s original intention. His ‘Passing Ship’ has been widely screened at festivals, as too his ‘Hovis Advert’ and ‘Walking Off Court’. Barber’s skills as a writer have led him to produce many lyrical works too, including ‘Ansaphone’, ‘Withdrawal’ and ‘River Sky’. ‘River Sky’ toured in, ‘Figuring Landscapes’ starting at the Tate Modern. (Film & Video Umbrella)
 
-His monologues like ‘Refusing Potatoes’ or ‘I Was Once Involved in a Shit Show’ are simple performances that carry the viewer into a genuinely odd confessional world. The monologue form particularly suits Barber as his instinct for the incongruous is appealing. Here, as in Scratch, he is trying to ‘layer’ another of his own stories and thoughts onto someone else’s creation, and piggyback on the original’s cultural familiarity. This project also continues in his latest found footage work, ‘Following Your Heart’ and ‘Losing Faith’ 2008. Both use off-air adverts and TV films, mostly American. The central conceit is to take found footage and manipulate it into a new artistic experience. The adverts and dramas all essentially present clichéd dialogue but by the use of repetition, music, the work rises away from being humdrum television into something more disturbing and effecting.  The ingredients of television are inverted and put to new purposes. He has always had a relationship to popular culture and his use of other people’s footage is seen as way of puncturing ideology and getting away from the subjective, the idolised hand of the artist. However, this doesn’t stop his work seeming personal and unique in other aspects.
+His monologues like ‘Refusing Potatoes’ or ‘I Was Once Involved in a Shit Show’ are simple performances that carry the viewer into a genuinely odd confessional world. The monologue form particularly suits Barber as his instinct for the incongruous is appealing. Here, as in Scratch, he is trying to ‘layer’ another of his own stories and thoughts onto someone else’s creation, and piggyback on the original’s cultural familiarity. This project also continues in his latest found footage work, ‘Following Your Heart’ and ‘Losing Faith’ 2008. Both use off-air adverts and TV films, mostly American. The central conceit is to take found footage and manipulate it into a new artistic experience. The adverts and dramas all essentially present clichéd dialogue but by the use of repetition, music, the work rises away from being humdrum television into something more disturbing and effecting. The ingredients of television are inverted and put to new purposes. He has always had a relationship to popular culture and his use of other people’s footage is seen as way of puncturing ideology and getting away from the subjective, the idolised hand of the artist. However, this doesn’t stop his work seeming personal and unique in other aspects.
 
 He has also produced a number of ‘language’ free, conceptual works, like ‘Automotive Action Painting’ and ‘The Shouting Match Series’ or ‘Beyond Language’ which reference early video art yet are original too. ‘Automotive Action Painting’ won First Prize at the 24th Hamburg International Short Film Festival.
 
 ‘Gibberish’ attempts to interrupt and convey meaning using nonsense language. ‘Gibberish’ seems to be sense, yet most of the recognisable language spoken is ludicrous and spontaneously thought up. The work starts in a garden with a discussion about lost suitcases at an airport, and over 5 minutes develops through various scenarios into being about a loved kitten and the end of the world.
 
-The first ‘Shouting Match’, is a well-known work that has been shown as a single screen work at the Tate Modern, DCA and Miami Basel. Three other versions have been made, one in Tel Aviv, Bangalore, and New Orleans. This four screen installation of all shouting matches was first shown at Chapter Arts, Cardiff to  much acclaim.  
-**georgebarber.net**
+The first ‘Shouting Match’, is a well-known work that has been shown as a single screen work at the Tate Modern, DCA and Miami Basel. Three other versions have been made, one in Tel Aviv, Bangalore, and New Orleans. This four screen installation of all shouting matches was first shown at Chapter Arts, Cardiff to much acclaim.  
+**georgebarber.net**  
+
+**Matthew Harle** is a writer and curator from London. He documents cultural histories and everyday life in books, exhibitions and live events.
+
+He has written and edited books on the archives of writers and artists, mythic television plays, cultural heritage, lost address books and football.
+
+He is Curator of Public Programme at the Barbican, where he oversees the Centre’s cross-arts programme of talks, performances, exhibitions and screenings across the Centre’s venues and public spaces. Previously, he was part of the team assembling the Barbican archive and before that, the BFI’s archive television unit.
+
+Matthew taught at Birkbeck before visiting lectureships at King’s College and Yale, leading courses on postwar British culture and cities. He has also taught extensively in museums, galleries and adult education.
 <br><br>
 
 **REGULAR PROGRAMME**<br>
@@ -93,11 +100,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwOTcwMjldfQ==
--->
