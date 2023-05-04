@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Headless Woman
-published: false
+published: true
 date: 2023-05-04
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
