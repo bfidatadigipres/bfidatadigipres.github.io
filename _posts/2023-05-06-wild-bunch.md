@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wild Bunch
-published: false
+published: true
 date: 2023-05-06
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
