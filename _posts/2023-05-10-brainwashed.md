@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Brainwashed<br>Sex-Camera-Power + Nina Menkes in Conversation
-published: false
+published: true
 date: 2023-05-10
 readtime: true
 categories: ['IN PERSON & PREVIEWS']
