@@ -6,7 +6,7 @@ date: 2023-03-04
 readtime: true
 categories: ['SIGHT AND SOUND GREATEST FILMS OF ALL TIME 2022<br>9=']
 tags: [Documentary, Experimental]
-metadata: 'USSR 1928, 68 mins<br> Director: Dziga Vertov'
+metadata: 'USSR 1929, 68 mins<br> Director: Dziga Vertov'
 pdf: '2023-03-04-man-with-a-movie-camera.pdf'
 ---
 
