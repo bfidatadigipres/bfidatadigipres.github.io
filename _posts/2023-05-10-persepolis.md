@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Persepolis
-published: false
+published: true
 date: 2023-05-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
