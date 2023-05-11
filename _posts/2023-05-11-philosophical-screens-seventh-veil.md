@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Philosophical Screens<br> The Seventh Veil
-published: false
+published: true
 date: 2023-05-11
 readtime: true
 categories: ['MURIEL BOX<br>A WOMAN’S TAKE']
