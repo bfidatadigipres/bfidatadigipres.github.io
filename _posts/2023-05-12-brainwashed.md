@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Brainwashed<br>Sex-Camera-Power + Nina Menkes in Conversation
+title: Brainwashed<br>Sex-Camera-Power
 published: true
-date: 2023-05-10
+date: 2023-05-12
 readtime: true
-categories: ['IN PERSON & PREVIEWS']
-tags: [Documentary, Talks]
+categories: ['NEW RELEASES']
+tags: [Documentary]
 metadata: 'USA 2022, 107 mins<br> Director: Nina Menkes'
-pdf: '2023-05-10-brainwashed.pdf'
+pdf: '2023-05-12-brainwashed.pdf'
 ---
 
 ‘I hate working. I can’t stand working. I hate working. I can’t stand working.’ Ida, a young and alienated sex worker in East Los Angeles, insists in a disaffected cadence on how much she _hates_ work. Soon she will be accused of killing a john and sent to a prison ruled over by nuns, where she retreats deeper and deeper into her inner world. This is _Magdalena Viraga_, American independent filmmaker Nina Menkes’s dream-like yet urgent feature debut from 1986. Like so many of Menkes’s female protagonists, Ida is beautiful and she is alone. Profoundly alienated by work but dependent on its income to survive, she will eventually refuse to cooperate.
