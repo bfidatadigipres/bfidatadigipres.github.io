@@ -2,14 +2,13 @@
 layout: post
 title: Still Walking
 published: true
-date: 2022-05-08
+date: 2023-05-15
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
-metadata: 'Japan 2008, 114 mins<br> Director: Hirokazu Koreeda'
-pdf: '2022-05-08-still-walking.pdf'
+metadata: 'Japan 2008, 115 mins<br> Director: Hirokazu Koreeda'
+pdf: '2023-05-15-still-walking.pdf'
 ---
-_+ intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies (Wednesday 11 May only)_
 
 **SPOILER WARNING**  The following notes give away some of the plot.
 
@@ -68,39 +67,45 @@ Hotaru Nomoto _(Satsuki Kataoka)_<br>
 Susumu Terajima _(sushi delivery man)_<br>
 
 Japan 2008©<br>
-114 mins<br>
+115 mins<br>
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**A Farewell to Arms**<br>
-Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
-**Sunrise: A Song of Two Humans**<br>
-Mon 2 May 12:20; Mon 30 May 18:20<br>
-**Tokyo Story (Tokyo Monogatari)**<br>
-Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
+**L’Argent (Money)**<br>
+Mon 1 May 13:30; Sat 6 May 15:40; Sat 27 May 20:40; Tue 30 May 18:10<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Tue 2 May 20:40; Sat 6 May 12:30; Mon 22 May 20:45; Thu 25 May 14:30<br>
+**The Magnificent Ambersons**<br>
+Wed 3 May 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Mon 15 May 20:40<br>
+**The Discreet Charm of the Bourgeoisie (Le Charme discret de la bourgeoisie)**<br>
+Thu 4 May 20:55; Tue 16 May 20:40; Wed 31 May 18:10 (+ intro)<br>
 **The River**<br>
-Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
-**El Sur (The South)**<br>
-Thu 5 May 14:30; Mon 16 May 18:10<br>
-**Daughters of the Dust**<br>
-Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
-**Syndromes and a Century (Sang sattawaat)**<br>
-Sat 7 May 18:10; Thu 12 May 20:50<br>
-**Still Walking (Aruitemo aruitemo)**<br>
-Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
-**The Long Day Closes**<br>
-Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
-**Journey to Italy (Viaggio in Italia)**<br>
-Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
-Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
-**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
-Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
-**The Miracle Worker**<br>
-Tue 17 May 14:30; Sun 29 May 11:20<br>
-**The Incredible Shrinking Man**<br>
-Thu 19 May 14:30; Tue 31 May 18:20<br>
+Fri 5 May 20:45; Mon 8 May 13:20; Sat 13 May 18:10<br>
+**The Wild Bunch**<br>
+Sat 6 May 20:10; Sun 14 May 18:00; Mon 29 May 18:00<br>
+**Greed**<br>
+Sun 7 May 12:50; Sun 14 May 15:00<br>
+**Le Jour se lève (Daybreak)**<br>
+Tue 9 May 20:50; Thu 11 May 18:30; Sat 13 May 20:30; Wed 24 May 18:15 (+ intro)<br>
+**Persepolis**<br>
+Wed 10 May 18:15 (+ intro); Tue 23 May 18:20; Sat 27 May 18:10<br>
+**The Big City (Mahanagar)**<br>
+Fri 12 May 20:30; Sat 20 May 15:00; Sun 28 May 12:50<br>
+**Still Walking (Aruitemo Aruitemo)**<br>
+Mon 15 May 14:00 (+ intro); Thu 18 May 18:10; Sun 21 May 15:40; Fri 26 May 20:30<br>
+**Dance, Girl, Dance**<br>
+Tue 16 May 18:20; Sat 27 May 16:00<br>
+**Scarface**<br>
+Wed 17 May 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 19 May 20:30; Mon 29 May 13:40<br>
+**The Life and Death of Colonel Blimp**<br>
+Sat 20 May 19:50; Mon 29 May 13:00<br>
+<br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -116,5 +121,4 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
 **Programme notes and credits compiled by the BFI Documentation Unit  
-Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+Notes may be edited or abridged**  
