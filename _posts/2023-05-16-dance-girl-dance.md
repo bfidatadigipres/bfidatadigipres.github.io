@@ -2,12 +2,12 @@
 layout: post
 title: Dance, Girl, Dance
 published: true
-date: 2022-08-03
+date: 2023-05-16
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Comedy]
 metadata: 'USA 1940, 90 mins<br> Director: Dorothy Arzner'
-pdf: '2022-08-03-dance-girl-dance.pdf'
+pdf: '2023-05-16-dance-girl-dance.pdf'
 ---
 
 _Dance, Girl, Dance_, a glorious and subversively feminist film from the Golden Age of Hollywood, had inauspicious beginnings. In 1940, RKO had a film in production that was going off the rails – a romantic comedy, with a handful of musical numbers, about two young hoofers dreaming of fame, fortune and fabulous love affairs. It was exactly the kind of story Hollywood doled out by the dozen, but no one was happy with how it was progressing, so producer Erich Pommer pulled Roy Del Ruth, one of the industry’s heavyweights, and a master of the musical from the director’s chair. Dorothy Arzner, who was freelancing at that time, picked it up instead. Although shooting had started, she went back to script stage and reworked the movie from the feet up.
@@ -108,41 +108,45 @@ Thelma Woodruff _(Mary)_<br>
 Marjorie Woodworth _(Jane)_<br>
 
 USA 1940©<br>
-90 mins
-
-The screening on Wed 3 Aug will be introduced by Pamela Hutchinson, film critic and historian<br>
+90 mins<br>
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**The Manchurian Candidate**<br>
-Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
-**M**<br>
-Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
-**Sweet Smell of Success**<br>
-Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
+**L’Argent (Money)**<br>
+Mon 1 May 13:30; Sat 6 May 15:40; Sat 27 May 20:40; Tue 30 May 18:10<br>
+**The Seventh Seal (Det sjunde inseglet)**<br>
+Tue 2 May 20:40; Sat 6 May 12:30; Mon 22 May 20:45; Thu 25 May 14:30<br>
+**The Magnificent Ambersons**<br>
+Wed 3 May 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Mon 15 May 20:40<br>
+**The Discreet Charm of the Bourgeoisie (Le Charme discret de la bourgeoisie)**<br>
+Thu 4 May 20:55; Tue 16 May 20:40; Wed 31 May 18:10 (+ intro)<br>
+**The River**<br>
+Fri 5 May 20:45; Mon 8 May 13:20; Sat 13 May 18:10<br>
+**The Wild Bunch**<br>
+Sat 6 May 20:10; Sun 14 May 18:00; Mon 29 May 18:00<br>
+**Greed**<br>
+Sun 7 May 12:50; Sun 14 May 15:00<br>
+**Le Jour se lève (Daybreak)**<br>
+Tue 9 May 20:50; Thu 11 May 18:30; Sat 13 May 20:30; Wed 24 May 18:15 (+ intro)<br>
+**Persepolis**<br>
+Wed 10 May 18:15 (+ intro); Tue 23 May 18:20; Sat 27 May 18:10<br>
+**The Big City (Mahanagar)**<br>
+Fri 12 May 20:30; Sat 20 May 15:00; Sun 28 May 12:50<br>
+**Still Walking (Aruitemo Aruitemo)**<br>
+Mon 15 May 14:00 (+ intro); Thu 18 May 18:10; Sun 21 May 15:40; Fri 26 May 20:30<br>
 **Dance, Girl, Dance**<br>
-Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
-**Gaslight**<br>
-Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
-**Persona**<br>
-Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
-**Raging Bull**<br>
-Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
-**La Haine**<br>
-Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
-**Citizen Kane**<br>
-Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
-**The White Ribbon (Das weisse Band)**<br>
-Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
-**Kes**<br>
-Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
-**The Night of the Hunter**<br>
-Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
-**Notorious**<br>
-Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
-**Bigger Than Life**<br>
-Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+Tue 16 May 18:20; Sat 27 May 16:00<br>
+**Scarface**<br>
+Wed 17 May 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 19 May 20:30; Mon 29 May 13:40<br>
+**The Life and Death of Colonel Blimp**<br>
+Sat 20 May 19:50; Mon 29 May 13:00<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
