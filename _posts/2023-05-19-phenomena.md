@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phenomena
-published: false
+published: true
 date: 2023-05-19
 readtime: true
 categories: ['DARIO ARGENTO<br>DOORS INTO DARKNESS']
