@@ -2,9 +2,9 @@
 layout: post
 title: Beau Is Afraid
 published: true
-date: 2023-05-16
+date: 2023-05-26
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama, Comedy]
 metadata: 'USA 2023, 179 mins<br> Director: Ari Aster'
 pdf: '2023-05-16-beau-is-afraid.pdf'
