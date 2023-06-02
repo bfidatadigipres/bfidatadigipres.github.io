@@ -4,7 +4,7 @@ title: Only Angels Have Wings
 published: true
 date: 2023-06-03
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['RAZOR SHARP<br>THE FABULOUS WOMEN OF HOWARD HAWKS']
 tags: [Drama, Adventure]
 metadata: 'USA, 1939, 121 mins<br> Director: Howard Hawks'
 pdf: '2023-06-03-only-angels-have-wings.pdf'
