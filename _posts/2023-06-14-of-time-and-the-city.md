@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Of Time and the City
-published: true
+published: false
 date: 2023-06-14
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
@@ -31,8 +31,9 @@ Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank
 <br>
 
 **OF TIME AND THE CITY**  
-_Directed by:_ Terence Davies
-_©:_ Hurricane City Limited, Digital Departures Northwest Vision and Media _&_ Digital Departures _presented in association with the_ Liverpool Culture Company _and_ BBC Films  
+_Directed by:_ Terence Davies  
+_©:_ Hurricane City Limited, Digital Departures Northwest Vision and Media _&_ Digital Departures  
+_presented in association with the_ Liverpool Culture Company _and_ BBC Films  
 _Made with the support of_ Northwest Vision + Media _through the_ Merseyside Film and Television Fund _a project part-funded by the_ European Regional Development Fund, Northwest Regional Development Agency _through_ The Regional Attraction Fund, the UK Film Council, the Liverpool Culture Company  
 _Executive Producers:_ Christopher Moll, Lisa-Marie Russo  
 _Produced by:_ Solon Papadopoulos, Roy Boulter  
