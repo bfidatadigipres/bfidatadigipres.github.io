@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Name Me Lawand
-published: true
+published: false
 date: 2023-06-20
 readtime: true
 categories: ['REFUGEE WEEK PREVIEW']
