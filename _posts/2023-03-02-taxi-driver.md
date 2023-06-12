@@ -83,7 +83,7 @@ Martin Scorsese _(passenger watching silhouette)_<br>
 USA 1976©<br>
 114 mins
 
-*Uncredited
+\*Uncredited
 
 _Taxi Driver_ by Amy Taubin is available from the BFI Shop: **https://shop.bfi.org.uk/taxi-driver-bfi-film-classics.html**
 
