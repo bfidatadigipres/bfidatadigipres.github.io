@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Am Weekender
-published: true
+published: false
 date: 2023-06-15
 readtime: true
 categories: ['SONIC CINEMA PREVIEW']
