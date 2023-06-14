@@ -2,12 +2,12 @@
 layout: post
 title: His Girl Friday
 published: true
-date: 2022-07-10
+date: 2023-06-14
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['RAZOR SHARP<br>THE FABULOUS WOMEN OF HOWARD HAWKS']
 tags: [Comedy]
 metadata: 'USA 1939, 92 mins<br> Director: Howard Hawks'
-pdf: '2022-07-10-his-girl-friday.pdf'
+pdf: '2023-06-14-his-girl-friday.pdf'
 ---
 
 Howard Hawks describes the origins of _His Girl Friday_ in one of his favourite and most consistent anecdotes: ‘I was going to prove to somebody one night that _The Front Page_ had the finest modern dialogue that had been written, and I asked a girl to read Hildy’s part and I read the editor and I stopped and I said, “Hell, it’s better between a girl and a man than between two men.” and I called Ben Hecht and I said “What would you think of changing it so that Hildy is a girl?” And he said, “I think it’s a great idea,” and he came out and we did it.’
@@ -68,35 +68,42 @@ Edwin Maxwell _(Dr Max J. Egelhoffer)_
 USA 1939©  
 92 mins  
 <br>
-**BIG SCREEN CLASSICS**  
-**All the President’s Men**  
-Fri 1 Jul 20:25; Tue 5 Jul 18:00; Sat 9 Jul 17:45  
-**Battleship Potemkin (Bronenosets Potemkin)**  
-Sat 2 Jul 11:50 (with live piano accompaniment); Fri 22 Jul 18:30 and Mon 25 Jul 20:50 (with Edmund Meisel score)  
-**Pandora’s Box (Die Büchse der Pandora)**  
-Sat 2 Jul 15:10 and Sat 16 Jul 12:20 (with Peer Raben score); Sun 31 Jul 15:20 (with live piano accompaniment)  
-**Theorem (Teorema)**  
-Sat 2 Jul 20:50; Mon 4 Jul 20:50; Tue 26 Jul 18:00  
-**Rome Open City (Roma città aperta)**  
-Sun 3 Jul 13:10; Mon 18 Jul 18:20; Wed 27 Jul 20:40  
-**To Sleep with Anger**  
-Wed 6 Jul 18:15 (+ intro); Fri 8 Jul 18:10  
-**Day of Wrath (Vredens Dag)**  
-Thu 7 Jul 18:15; Mon 11 Jul 20:30  
-**Blue Velvet**  
-Thu 7 Jul 20:40; Sun 17 Jul 18:30; Fri 29 Jul 20:40  
-**Matewan**  
-Fri 8 Jul 20:25; Tue 19 Jul 18:00  
-**Manhunter**  
-Fri 8 Jul 20:40; Thu 21 Jul 18:20; Sat 23 Jul 20:40  
-**His Girl Friday**  
-Sun 10 Jul 16:50; Wed 20 Jul 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 28 Jul 20:45  
-**The Scarlet Empress**  
-Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20  
-**The Piano**  
-Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45  
-**Mandabi (The Money Order)**  
-Fri 15 Jul 20:40; Wed 27 Jul 18:10  
+**RAZOR SHARP: THE FABULOUS WOMEN OF HOWARD HAWKS**<br>
+**Razor Sharp: The Hawksian Woman Revisited**<br>
+Thu 1 Jun 18:15<br>
+**Twentieth Century**
+Thu 1 Jun 20:40; Fri 16 Jun 18:30;  Thu 22 Jun 21:00<br>
+**Barbary Coast**<br>
+Fri 2 Jun 18:20; Thu 15 Jun 20:40<br>
+**Bringing Up Baby**<br>
+Sat 3 Jun 12:00; Mon 19 Jun 20:40;  Fri 23 Jun 18:20<br>
+**Only Angels Have Wings**<br>
+Sat 3 Jun 15:45; Thu 15 Jun 14:30;  Tue 27 Jun 17:50<br>
+**Ball of Fire**<br>
+Sat 3 Jun 17:55; Tue 20 Jun 20:30<br>
+**To Have and Have Not**<br>
+Sun 4 Jun 19:00; Fri 23 Jun 20:40<br>
+**I Was a Male War Bride  (aka You Can’t Sleep Here)**<br>
+Wed 7 Jun 20:35; Sun 25 Jun 18:30<br>
+**Rio Bravo**<br>
+Mon 12 Jun 17:50; Sun 18 Jun 14:30;  Fri 30 Jun 20:20<br>
+**His Girl Friday**<br>
+Wed 14 Jun 20:50; Sat 17 Jun 13:30; Thu 29 Jun 18:20 (+ intro by Catherine Wheatley, King’s College London)<br>
+**Gentlemen Prefer Blondes**<br>
+Thu 15 Jun 18:15: Thu 29 Jun 21:00<br>
+**The Big Sleep**<br>
+Wed 21 Jun 18:25; Wed 28 Jun 20:45<br>
+**The Thing from Another World**<br>
+Sat 24 Jun 18:30; Fri 30 Jun 18:15<br>
+**Philosophical Screens:  The Philosophy of Marriage: His Girl Friday**<br>
+Thu 29 Jun 20:15 BFI Reuben Library<br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -111,6 +118,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
