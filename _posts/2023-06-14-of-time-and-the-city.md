@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Of Time and the City
-published: false
+published: true
 date: 2023-06-14
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
@@ -9,7 +9,7 @@ tags: [Documentary]
 metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
 pdf: '2023-06-14-of-time-and-the-city.pdf'
 ---
-_With intro on Wednesday 14 June only_
+_With intro by film critic and lecturer Dr Julia Wagner (Wednesday 14 June only)_
 
 There is something mysterious about Terence Davies’ Liverpool from the outset: at the heart of this meditation on the city lies a tension, between urban change as a process that is brutal and unremitting, and the persistence of memory as something that is delicate and filamentary. We weave our memories into a palimpsest of dreams where time and place melt into each other. Memories become maps through places to which we can never return in a world that is changing all about us.
 
