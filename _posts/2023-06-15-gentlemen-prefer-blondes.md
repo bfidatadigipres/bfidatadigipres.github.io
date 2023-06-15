@@ -2,16 +2,13 @@
 layout: post
 title: Gentlemen Prefer Blondes
 published: true
-date: 2022-01-08
+date: 2023-06-15
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
-tags: [Musical, Comedy]
+categories: ['RAZOR SHARP<br>THE FABULOUS WOMEN OF HOWARD HAWKS']
+tags: [Comedy]
 metadata: 'USA 1953, 91 mins<br> Director: Howard Hawks'
-pdf: '2022-01-08-gentlemen-prefer-blondes.pdf'
+pdf: '2023-06-15-gentlemen-prefer-blondes.pdf'
 ---
-
-Howard Hawks’ marvellous musical comedy, based on Anita Loos’ novel about a pair of gold-digging cabaret artists raising the temperatures of various lamentable males on a transatlantic liner, boasts supremely imaginative song-and-dance set-pieces (shot in sumptuous Technicolor), and unforgettable performances from Monroe and Russell. Truffaut praised its ‘pitiless’ intelligence, its sense of the absurd and its tendency towards excess.<br>
-**bfi.org.uk**<br>
 
 Before even the credit titles can appear, Marilyn Monroe and Jane Russell arrive to a blast of music at screen centre from behind a black curtain, in matching orange-red outfits that sizzle the screen covered with spangles, topped with feathers to look at one another, toss white ermines towards the camera and out of frame and sing robustly in unison. As electrifying as the opening of any Hollywood movie that comes to mind, this jazzy materialisation so catches us by surprise that we are scarcely aware of the scene’s fleeting modulations as the dynamic duo makes it through a single chorus. The black curtain changes to a lurid blue, then a loud purple; the two women twice exchange their positions on stage while gradually dancing down a few steps; and the complex flurry of gestures they make towards each other – all gracefully dovetailed into Jack Cole’s deft choreography – makes the spectator feel assaulted by them as a team as well as individually: a double threat.
 
@@ -107,36 +104,45 @@ USA 1953©<br>
 91 mins<br>
 <br>
 
-**BIG SCREEN CLASSICS**<br>
-**Rome, Open City (Roma, città aperta)**<br>
-Wed 5 Jan 17:50, Wed 26 Jan 18:00 (+ intro by lecturer and writer Dr Julia Wagner), Sat 29 Jan 13:00<br>
-**Letter from an Unknown Woman**<br>
-Thu 6 Jan 20:40, Sat 15 Jan 15:40, Mon 31 Jan 20:45<br>
-**Casque d’or**<br>
-Fri 7 Jan 20:45, Wed 12 Jan 17:50 (+ pre-recorded intro by film critic and historian Pamela Hutchinson), Sun 23 Jan 13:10<br>
+**RAZOR SHARP: THE FABULOUS WOMEN OF HOWARD HAWKS**<br>
+**Razor Sharp: The Hawksian Woman Revisited**<br>
+Thu 1 Jun 18:15<br>
+**Twentieth Century**
+Thu 1 Jun 20:40; Fri 16 Jun 18:30;  Thu 22 Jun 21:00<br>
+**Barbary Coast**<br>
+Fri 2 Jun 18:20; Thu 15 Jun 20:40<br>
+**Bringing Up Baby**<br>
+Sat 3 Jun 12:00; Mon 19 Jun 20:40;  Fri 23 Jun 18:20<br>
+**Only Angels Have Wings**<br>
+Sat 3 Jun 15:45; Thu 15 Jun 14:30;  Tue 27 Jun 17:50<br>
+**Ball of Fire**<br>
+Sat 3 Jun 17:55; Tue 20 Jun 20:30<br>
+**To Have and Have Not**<br>
+Sun 4 Jun 19:00; Fri 23 Jun 20:40<br>
+**I Was a Male War Bride  (aka You Can’t Sleep Here)**<br>
+Wed 7 Jun 20:35; Sun 25 Jun 18:30<br>
+**Rio Bravo**<br>
+Mon 12 Jun 17:50; Sun 18 Jun 14:30;  Fri 30 Jun 20:20<br>
+**His Girl Friday**<br>
+Wed 14 Jun 20:50; Sat 17 Jun 13:30; Thu 29 Jun 18:20 (+ intro by Catherine Wheatley, King’s College London)<br>
 **Gentlemen Prefer Blondes**<br>
-Sat 8 Jan 16:00, Thu 13 Jan 18:10, Mon 17 Jan 18:20<br>
-**Ordet (The Word)**<br>
-Sun 9 Jan 13:20, Tue 18 Jan 20:30<br>
-**Smiles of a Summer Night**<br>
-Sun 9 Jan 16:00, Thu 20 Jan 20:50, Tue 25 Jan 18:10<br>
-**Bigger Than Life**<br>
-Mon 10 Jan 14:30, Wed 19 Jan 18:05 (+ intro by Geoff Andrew, Programmer-at-Large), Wed 26 Jan 20:50<br>
-**Citizen Kane**<br>
-Tue 11 Jan 17:50, Thu 27 Jan 18:00<br>
-**La Grande Illusion**<br>
-Tue 11 Jan 18:15, Sun 16 Jan 12:40<br>
-**Twelve Angry Men**<br>
-Fri 14 Jan 14:40, Mon 24 Jan 18:20, Fri 28 Jan 18:20<br>
-**Shadow of a Doubt**<br>
-Sat 22 Jan 12:10, Tue 25 Jan 14:30<br>
-**Les Enfants terribles**<br>
-Sun 30 Jan 15:15<br>
+Thu 15 Jun 18:15: Thu 29 Jun 21:00<br>
+**The Big Sleep**<br>
+Wed 21 Jun 18:25; Wed 28 Jun 20:45<br>
+**The Thing from Another World**<br>
+Sat 24 Jun 18:30; Fri 30 Jun 18:15<br>
+**Philosophical Screens:  The Philosophy of Marriage: His Girl Friday**<br>
+Thu 29 Jun 20:15 BFI Reuben Library<br>
 <br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
 **BFI SOUTHBANK**  
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop. We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
-<br>
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
@@ -148,6 +154,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
