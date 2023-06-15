@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Am Weekender
-published: false
+published: true
 date: 2023-06-15
 readtime: true
 categories: ['SONIC CINEMA PREVIEW']
@@ -10,7 +10,10 @@ metadata: 'UK 2003, 51 mins<br> Director: Chloé Raunet'
 pdf: '2023-06-15-i-am-weekender.pdf'
 ---
 
-_+ Q&A_
+_+ Q&A with Chloé Raunet and WIZ, hosted by Miranda Sawyer. 
+Intro music: Weekender (Requiem for Lost Friends Mix) by Tim Dorney._
+
+_All those attending tonight’s screening are invited to a private after party at The Social, 5 Little Portland Street, London W1W 7JD from 10.30pm. Please bring this sheet as your entry ticket and expect DJ sets from David Holmes and Chris Camm until 1am._
 
 Fuelled by Flowered Up’s epic soundtrack, WIZ’s _Weekender_ was a film ahead of its time. A journey into 1990s club and drug culture, it received an 18 certificate and was banned on mainstream TV. Since then, the film has gained genuine cult status. Now fully restored from the original negative, this tangible document of the British rave scene is coupled with Chloé Raunet’s feature-length documentary about the making of the film and its enduring impact, offering a unique insight into the heart of acid house.  
 **bfi.org.uk**
@@ -45,7 +48,7 @@ Everyone involved in making _Weekender_, from director WIZ (Andrew Whiston) and 
 **Miranda Sawyer, _I_  _Am Weekender_ BFI Blu-ray booklet**
 
 **Nish**  
-Shot in 1989 at a Boy’s Own Party in Kent, with the ghost of Derek Jarman and Mozart behind WIZ’s Super 8 camera. Featuring such acid house luminaries as Danny and Jenni Rampling, Breeze, Andrew Weatherall, Paolo Sedazzari and Anna Haigh, this singular and intimate short delicately captures the guileless beauty of these ecstasy pioneers. Should you want to know why people take drugs, watch this: these people are high, not wasted. Enchanting.  
+Shot in 1989 at a Boy’s Own Party in Kent, with the ghost of Derek Jarman and Mozart behind WIZ’s Super 8 camera. Featuring such acid house luminaries as Danny and Jenni Rampling, Breeze, Andrew Weatherall, Terry Farley and Anna Haigh, this singular and intimate short delicately captures the guileless beauty of these ecstasy pioneers. Should you want to know why people take drugs, watch this: these people are high, not wasted. Enchanting.  
 **_I_  _Am Weekender_ BFI Blu-ray booklet**  
 <br>  
 **I AM WEEKENDER**  
