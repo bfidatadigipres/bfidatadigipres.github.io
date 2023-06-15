@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pretty Red Dress
-published: false
+published: true
 date: 2023-06-16
 readtime: true
 categories: ['NEW RELEASES']
