@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elemental
-published: false
+published: true
 date: 2023-06-18
 readtime: true
 categories: ['PREVIEW']
