@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Name Me Lawand
-published: false
+published: true
 date: 2023-06-20
 readtime: true
 categories: ['REFUGEE WEEK PREVIEW']
@@ -10,19 +10,11 @@ metadata: 'UK 2022, 91 mins<br> Director: Edward Lovelace'
 pdf: '2023-06-20-name-me-lawand.pdf'
 ---
 
-_+ discussion with director Edward Lovelace, Steve Crump OBE, founder and chair of Deaf Kidz International and Sophie Stone, deaf artist, activist and support teacher_
+_+ discussion with director Edward Lovelace; Steve Crump OBE, founder and chair of Deaf Kidz International; and Sophie Stone, deaf artist, activist and support teacher. Hosted by Stuart Brown, BFI Head of Programme and Acquisitions._
 
-Convinced of the potential of their deaf son, a Kurdish family leave Iraq and finally arrive in Derby, where Lawand joins the Royal School for the Deaf Derby. Empowered with British Sign Language, he reveals himself as a witty and popular student, while his family navigate a new common language and fight to remain in the community that has embraced them. Director Edward Lovelace (The Possibilities Are Endless) spent years alongside Lawand and his family, to produce this striking, affecting portrait. On World Refugee Day we are proud to present this powerful documentary, highlighting the importance of community and the transformative effect of finding your voice.  
-**bfi.org.uk**
+Convinced of the potential of their deaf son, a Kurdish family leave Iraq and finally arrive in Derby, where Lawand joins the Royal School for the Deaf Derby. Empowered with British Sign Language, he reveals himself as a witty and popular student, while his family navigate a new common language and fight to remain in the community that has embraced them. Director Edward Lovelace (_The Possibilities Are Endless_) spent years alongside Lawand and his family, to produce this striking, affecting portrait. On World Refugee Day we are proud to present this powerful documentary, highlighting the importance of community and the transformative effect of finding your voice.  
 
-From Mat Whitecross’s _Moving to Mars_ (2009), a study of two Burmese refugee families resettling in Sheffield, to recent fictional evocations of immigrant dislocation such as Ben Sharrock’s _Limbo_ and Remi Weekes’s _His House_ (both 2020), plenty of recent films have explored the truism voiced by the protagonist’s father in _Name Me Lawand_: arriving in the UK in search of sanctuary is ‘not the end of the journey, just the beginning’. Where Edward Lovelace’s portrait of a young Kurdish refugee in Derby shuffles the deck is in the nature of Lawand’s identity and condition: born profoundly deaf, he was consigned to incapacity and isolation in his poorer homeland; at six, his family has brought him to the UK to find sign-language education, to help him communicate, live and grow. Here, the challenges of exile intersect with other forms of difference and exclusion. As Lawand’s elder brother Rawa tells us, in a prologue cut to outer-space imagery, Lawand feels he belongs on another planet.
-
-The film gives us an inside-out portrait of Lawand, especially early on: close-up, shallow-focus camerawork emulates the dampened, muffled sound space he lives in; cut-in phone-camera flashbacks gesture to his trauma. Until now, Lawand has been pressured to conform: even his parents want him to speak to fit in. At the Royal School for the Deaf in Derby he learns British Sign Language; a winning teacher and budding friendships draw him out of his shell. But his progress is delicate, and when news filters in that the Home Office wants to return him to Iraq, Lawand is burdened with banishing a state’s doubts about his potential, on top of upholding his own fragile self-confidence.
-
-Structured in seven pithy, thematically titled chapters (‘Discovery’, ‘Courage’, ‘Truth’, ‘Faith’ etc), the film is carefully, considerately crafted, mediating between subject and viewer through a language of elegant impressionism and collaborative expression rather than more imposing forms of documentary encounter (four editors worked on the rich sensory weave). Viewers – at least those of us different from Lawand – grow into his shoes, approaching an understanding of his needs and outlook. For Lawand, a breakthrough moment is a journey to a rally for BSL rights in London: amid placards saying ‘Hear your deaf voice roar’, he finally feels belonging, on what, Rawa concludes, may after all be his ‘perfect’ planet. What with the gentle, low drone-shots of Derbyshire wheat-fields, and soft-pedalled piano blanketing the soundtrack, the film’s later style, as Lawand blossoms, does occasionally veer towards butter-ad rhetoric. But it’s hard to think of telling his story – heartening, yet insistent – any way but softly.  
-**Nick Bradshaw, _Sight and Sound_, Summer 2023**  
-
-**Director statement**  
+**Director's statement**  
 _Name Me Lawand_ is a story about the power that language gives us, the freedom that a real home allows us, and the burning light of hope that never goes out.
 
 This is a film that feels, instead of tells. It constantly searches, at first unknowingly, for a sense of understanding. Its audience is asked to experience Lawand’s journey just as he did.
@@ -66,17 +58,27 @@ _Sound Designer & Mixer_: Ed Downham
 _Sound Recordists_: Joe Harris, Stephen Hodge  
 _Deaf Consultant_: Sean Chandler  
 
-**Cast**  
-Matthew Gurney _(Steve)_  
-Alan Bury _(Lawand)_  
-Nali Tawfeeq _(Rawa)_  
-Aso Sherabayani _(Rebwar)_  
-Shaniaz Hama Ali _(Gulbahar)_  
-Erin Hutching _(Esther)_    
 UK 2022  
-
 91 mins  
+
 A BFI release  
+
+The screening will be presented with subtitles, including descriptions of non-dialogue audio.  
+BSL interpreters: Pascale Maroney, Sarah Meeks  
+Live captions from MyClearText
+<br><br>
+
+**Presented in partnership with Counterpoints Arts**  
+<img style="float: left;" src="/img/counterpoints-01.jpg" width="40%" height="40%">
+<br><br><br><br>
+  
+<img style="float: left;" src="/img/refugee-week-01.jpg" width="40%" height="40%">
+<br><br><br><br>
+**refugeeweek.org.uk**
+<br><br><br><br><br><br><br><br><br>
+
+_Name Me Lawand_ will be released by BFI on 7 July
+<br><br>
 
 **REGULAR PROGRAMME**  
 **Projecting the Archive: The Return of the Frog + introduction by film historian Jonathan Rigby**  
