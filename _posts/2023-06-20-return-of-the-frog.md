@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Return of the Frog
-published: false
+published: true
 date: 2023-06-20
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
@@ -57,7 +57,7 @@ _Sound Recording_: Harold King
 Gordon Harker _(inspector Elk)_  
 Una O’Connor _(Mum Oaks)_  
 Hartley Power _(Dale Sandford)_  
-René Ray _(Lila)_  
+Rène Ray _(Lila)_  
 Charles Lefeaux _(Golly Oaks)_  
 Cyril Smith _(Maggs)_  
 Charles Carson _(commissioner)_  
