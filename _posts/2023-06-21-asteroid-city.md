@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asteroid City
-published: false
+published: true
 date: 2023-06-21
 readtime: true
 categories: ['PREVIEW']
