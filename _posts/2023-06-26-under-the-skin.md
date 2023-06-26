@@ -53,7 +53,7 @@ After each screening join us for a relaxed discussion as we explore some of thes
 
 **The next relaxed screening is:<br>
 FANTASIA + discussion  
-Monday 31 July 2023 18.)) NFT3**  
+Monday 31 July 2023 18:00 NFT3**  
 
 
 
