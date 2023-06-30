@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Wicker Man
-published: false
+published: true
 date: 2023-06-30
 readtime: true
 categories: ['RE-RELEASES']
