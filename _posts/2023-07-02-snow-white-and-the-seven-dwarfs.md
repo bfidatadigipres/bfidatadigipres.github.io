@@ -139,6 +139,8 @@ Sun 23 Jul 12:50; Sat 29 Jul 16:00
 Sun 23 Jul 15:30  
 **Pocahontas + Lava**  
 Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
+<br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
