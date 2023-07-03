@@ -2,16 +2,13 @@
 layout: post
 title: Les Demoiselles de Rochefort
 published: true
-date: 2022-03-06
+date: 2023-07-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Music, Comedy, Drama]
 metadata: 'France, 1967, 126 mins<br> Director: Jacques Demy'
-pdf: '2022-03-06-demoiselles-de-rochefort.pdf'
+pdf: '2023-07-03-demoiselles-de-rochefort.pdf'
 ---
-
-Following on from the success of _The Umbrellas of Cherbourg_ comes  _Les Demoiselles de Rochefort_ – Jacques Demy’s large-scale tribute to the Hollywood musical featuring screen legend Gene Kelly. The story centres on twin sisters Delphine and Solange (played by real-life sisters Catherine Deneuve and Francoise Dorléac) who, tired of their humdrum existence, dream of finding success and romance in Paris. The superb ensemble, also featuring Danielle Darrieux, Michel Piccoli, Jacques Perrin, George Chakiris and Grover Dale, weave and wander around the town, looking for and just missing the love of their lives.<br>
-**bfi.org.uk**
 
 With a plot of pure Shakespearean farce, witty dialogue and lyrics by Demy, and a magnificent jazz score by the late, great Michel Legrand, _Les Demoiselles de Rochefort_ is an effervescent celebration of life that is sure to captivate and uplift.
 
@@ -20,7 +17,7 @@ As the follow-up to his all-sung musical drama _The Umbrellas of Cherbourg_ (196
 The plot is minimal – twin sisters dream of escaping to Paris, a carnival breezes into town, three sets of lovers are kept apart by contrivances until the final reel – but Demy misses no opportunity for explosions of song and dance on every corner. Unlike its predecessor, the film does include spoken dialogue, although one dinner-party scene plays out in rhymed couplets. Both song and dance are seamlessly integrated into the action; a character will walk along the street and be whirled by successive anonymous passers-by into brief dance routines.
 
 It’s a lesser achievement than _Umbrellas_ – it often feels self-conscious, Demy’s lyrics tend towards the cheesy, and a minor plot-strand about an axe murderer is jarringly out of place. With the exception of Danielle Darrieux as the twin girls’ mother, singing voices are dubbed. But the all-pervasive charm, seasoned with a touch of Demy’s characteristic melancholy, wins through. Michel Legrand’s jazz-tinged score seduces the ear, and the performances – especially Michel Piccoli as a lovelorn music-shop owner – are appealing. It’s also the only film to team real-life sisters Catherine Deneuve and Françoise Dorléac: the latter met a tragically early death in a motor accident only a few months after _Demoiselles_ was released. They’re delightful together.<br>
-**Philip Kemp, _Sight & Sound_, February 2020**
+**Philip Kemp, _Sight and Sound_, February 2020**
 
 **A contemporary review for the dubbed version of  ‘Les Demoiselles de Rochefort’**<br>
 The dubbed version of _Les Demoiselles de Rochefort_ is a very coy film; an anthology of sentimental cliché, in which the inventive details of narrative and imagery only pour ironic fuel on the chocolate-box extravagance. A film I admire, on the other hand, is the original, which has been showing in Paris for several months. The problems of translating Jacques Demy’s gentle _marivaudage_ into an English idiom, of reproducing a particular Gallic tightrope walk between tenderness and whimsy, plus a catastrophic decision to show the film on the Cinerama screen: these, more than the familiar vicissitudes of dubbing, have sunk the English version.
@@ -163,23 +160,44 @@ France 1967<br>
 <br>
 
 **BIG SCREEN CLASSICS**<br>
-**Le Mépris (Contempt)**<br>
-Tue 1 Mar 18:15; Tue 8 Mar 20:50; Sat 12 Mar 20:50<br>
-**42nd Street**<br>
-Wed 2 Mar 18:00 (+ intro by Miles Eady, BFI Cinema and Events); Fri 4 Mar 20:40; Mon 14 Mar 20:45<br>
-**Cabaret**<br>
-Thu 3 Mar 20:40; Sat 12 Mar 18:15<br>
-**8 1/2 (Otto e mezzo)**<br> 
-Fri 4 Mar 18:00; Mon 7 Mar 20:15; Wed 16 Mar 17:50 (+ intro by Giulia Saccogna,  BFI Programme & Research Coordinator)<br>
-**F for Fake**<br>
-Fri 4 Mar 20:50; Wed 9 Mar 18:10 (+ Intro by Programmer-At-Large, Geoff Andrew); Wed 16 Mar 21:10<br>
-**Nashville**<br>
-Sat 5 Mar 19:45; Wed 9 Mar 14:15; Sun 13 Mar 18:00<br>
-**Les Demoiselles de Rochefort  (The Young Ladies of Rochefort)**<br>
-Sun 6 Mar 13:15; Fri 11 Mar 18:05; Tue 15 Mar 18:10<br>
-**Baadasssss!**<br>
-Thu 10 Mar 20:40; Sat 12 Mar 18:10<br>
-<br>
+**El Sur (The South)**<br>
+Sat 1 Jul 12:50; Fri 7 Jul 14:40; Mon 17 Jul 20:30<br>
+**All That Heaven Allows**<br>
+Sat 1 Jul 13:10; Tue 4 Jul 20:50; Thu 13 Jul 20:40<br>
+**Shadow of a Doubt**<br>
+Sun 2 Jul 13:20; Sat 15 Jul 12:40<br>
+**Les Demoiselles de Rochefort (The Young Ladies of Rochefort)**<br>
+Mon 3 Jul 20:30; Thu 13 Jul 20:30; Tue 18 Jul 18:10<br>
+**The Harder They Come**<br>
+Wed 5 Jul 18:00 + intro by author Lloyd Bradley; Mon 10 Jul 20:30<br>
+**The Piano**<br>
+Thu 6 Jul 20:35; Sun 16 Jul 13:10<br>
+**Akenfield**<br>
+Sat 8 Jul 18:00; Fri 21 Jul 20:30<br>
+**Babette’s Feast (Babettes Gæstebud)**<br>
+Sun 9 Jul 13:30; Thu 27 Jul 20:45<br>
+**The Searchers**<br>
+Tue 11 Jul 20:30; Sun 23 Jul 12:10<br>
+**The Man Who Wasn’t There**<br>
+Wed 12 Jul 18:10 + intro by Geoff Andrew, Programmer-at-Large; Wed 19 Jul 20:45; Sat 22 Jul 18:00<br>
+**My Night with Maud (Ma nuit chez Maud)**<br>
+Fri 14 Jul 20:40; Thu 27 Jul 18:10<br>
+**Persona**<br>
+Tue 18 Jul 20:50; Fri 28 Jul 18:10; Mon 31 Jul 20:50<br>
+**The Straight Story**<br>
+Wed 19 Jul 18:10 + intro by Lindsay Hallam, Senior Lecturer in Film, University of East London; Mon 24 Jul 20:40; Sat 29 Jul 18:00<br>
+**Wanda**<br>
+Thu 20 Jul 20:55; Wed 26 Jul 18:10 + intro by Becca Voelcker, Lecturer in Fine Art at Goldsmiths, University of London<br>
+**The Motorcycle Diaries (Diarios de motocicleta)**<br>
+Tue 25 Jul 20:30; Sun 30 Jul 15:30 + intro by Chantelle Lavel Boyea, BFI Assistant Curator of Television<br>
+<br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -188,11 +206,12 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
