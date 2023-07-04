@@ -94,13 +94,13 @@ Wed 26 Jul 18:00; Mon 31 Jul 20:30
 Thu 27 Jul 20:20; Mon 31 Jul 18:05  
 
 **With thanks to**  
-<img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br>
+<img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 Misr International Films (Ahmed Sobky)  
 <br>
 
 **In cultural partnership with**  
-<img style="float: left;" src="/img/SAFAR.jpg" width="40%" height="40%"><br><br><br><br><br>
-<img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br>
+<img style="float: left;" src="/img/SAFAR.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 SAFAR Film Festival is the UK’s largest festival of Arab cinema 29 June – 9 July.  
 The festival programme includes further screenings related to this season: **safarfilmfestival.co.uk**
