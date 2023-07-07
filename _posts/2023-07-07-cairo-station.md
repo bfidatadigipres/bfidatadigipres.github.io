@@ -139,13 +139,13 @@ Wed 26 Jul 18:00; Mon 31 Jul 20:30
 Thu 27 Jul 20:20; Mon 31 Jul 18:05  
 
 **With thanks to**  
-<img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/MISR.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Misr International Films (Ahmed Sobky)  
 <br>
 
 **In cultural partnership with**  
 <img style="float: left;" src="/img/SAFAR.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
-<img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/IF.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 SAFAR Film Festival is the UK’s largest festival of Arab cinema 29 June – 9 July.  
 The festival programme includes further screenings related to this season: **safarfilmfestival.co.uk**
@@ -172,6 +172,10 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
 **Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
