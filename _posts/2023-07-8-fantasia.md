@@ -1,0 +1,227 @@
+---
+layout: post
+title: Cinderella
+published: true
+date: 2023-07-08
+readtime: true
+categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
+tags: [Animation, Musical]
+metadata: 'USA 1940, 124 mins<br> Production Supervisor: Ben Sharpsteen'
+pdf: '2023-07-08-fantasia.pdf'
+---
+
+_Fantasia_ opens with Deems Taylor, better known to 1940 audiences as a radio broadcaster than a composer, walking on stage amid a tuning-up orchestra. As _Fantasia_’s host, he explains that this animated feature won’t tell a single story; rather, it will be a series of classical music pieces set to animation. (_Fantasia_’s working title was  
+_The Concert Feature_.) What we’ll see, Taylor says, ‘are the designs and pictures and stories that music inspired in the minds and imaginations of a group of artists. In other words, they are not going to be the interpretations of trained musicians… which I think is all to the good.’
+
+The film, however, is blatantly seeking musical legitimacy. Its conductor is Leopold Stokowski, a tawny-haired maestro star and proven screen property who’d appeared in the 1937 musical comedy _One Hundred Men and a Girl_, featuring Deanna Durbin. We mostly just see the great man’s illumined back as he leads us into _Fantasia_’s animation. The first sequence is a semi-abstract piece, set to Stokowski’s symphonic rendering of Bach’s ‘Toccata and Fugue’. The on-screen ripples and contrails are linear simplifications of the work of Oskar Fischinger, a German avant-garde animator.
+
+Then come dances from Tchaikovsky’s ‘Nutcracker Suite’: flower fairies, sultry goldfish and Art Babbitt’s famous nodding mushrooms (on-screen for barely a minute). After that, with apologies to Stokowski, comes _Fantasia_’s true icon: Mickey Mouse as Dukas’ ‘Sorcerer’s Apprentice’, overwhelmed by his army of water-bearing broomsticks. Stravinsky’s ‘Rite of Spring’ takes place on an early Earth of volcanoes, evolution and dinosaurs. Then there’s a cherub-strewn version of Beethoven’s ‘Pastoral Symphony’, more on which below; and a burlesque of Ponchielli’s ‘Dance of the Hours’, with ballerina ostriches, hippos, elephants and alligators. Damned souls caper in hellfire for a colossal Devil, to the screaming strings of Mussorgsky’s ‘Night on Bald Mountain’. Dawn segues into a secularised ‘Ave Maria’ (Schubert) where the Madonna – after much indecision on Walt’s part – doesn’t show.
+
+_Fantasia_’s critical reputation is mostly the centaurettes’ fault, those half-horse, half-female fancies, disporting themselves round Mount Olympus in the Pastoral segment. In 1995, Britain’s Channel 4 screened a muckraking documentary called _Secret Lives: Walt Disney_. With admirable precision, it homed in on the centaurettes. ‘(_Fantasia_’s) banal, often tacky imagery came as a disappointment to many,’ explained the narration. ‘The heads of Disneyfied American teenagers are grafted onto the bodies of centaurs… On seeing this, (Walt) Disney was impressed. He said, “Gee, this’ll make Beethoven.”’
+
+Actually, the Beethoven comment came from a story meeting prior to the animation, and no ‘Gee’ was transcribed. (Neal Gabler quotes the line in his Disney biography.) But such smears were part of a fight Walt had picked himself, setting the ordinary American (that is, himself) against the stuffed shirts of the music establishment.
+
+  
+‘We figured that if ordinary folk like ourselves could find entertainment in the visualisations of so-called classical music, so would the average audience…’ Walt said after _Fantasia_’s release. ‘I imagine that the 1200 young people in my organisation who helped make _Fantasia_ are a pretty fair cross-section of average American culture. They’re from the average American home with the average American advantages and upbringing. Every day I see them prove they know the difference between the real stuff and the phoney.’
+
+The populism both provoked and pre-empted a blunt response from Igor Stravinsky, the only living composer represented in _Fantasia_. He declared, ‘The mass add nothing to art.’ Well, _Fantasia_ may not be art, though the label fits it surely closer than ‘kitsch,’ which reviewers wave at the film like a talisman. For what is clear is that, within the hand-drawn form, _Fantasia_’s scope and spectacle are matchless.
+
+In ‘Rite of Spring’, for example, we wander through space to a molten Earth where volcanoes blast like ships’ funnels. From macrocosm to underbrush: the ‘Nutcracker’ is a waterborne ballroom of whirling blossoms, cascades of dancing thistle-men. Gibbous legions swarm round Bald Mountain; one reviewer described them as mad sperm. Dance of the Hours’ bestial ballet ends in zigzag insanity, with the ’gators riding ostriches and twirling hippos on their scales.
+
+Walt publicly thanked Stokowski and Taylor for ‘holding my head up when the water got too deep.’ But doesn’t Mickey command water with the stolen Sorcerer’s hat? No, he only dreams he does, when it threatens to drown him (later, it drowns the whole Earth). After his omnipotent master saves the day, everyman Mickey gives his cheesiest grin in the film’s most Disney moment. But the Sorcerer cocks his brow like Walt. Is Walt him, Mickey, or both? The question exercised critics, who noted that _Fantasia_ was made when Walt was at the height of his hubris, and rushing into calamity.
+
+The scowling Sorcerer, who conjures great butterflies into being and parts the waters like Moses, is a power-sibling to Stokowski on his podium, Zeus throwing down his thunderbolts and even Chernabog, the devil of Bald Mountain, toying with the damned in his giant hands. But there are gentler magicians, more in line with the Disney we know, like the Nutcracker flower-fairy who yawns, lounges and lights up a spiderweb. Then there are the heroes without magic: the perky little mushroom, captivatingly out of step with his peers; the bold foal-Pegasus, chasing a rainbow to its underwater roots; and the animal ballerinas who spoof a spoof through the sheer beauty of their dance-steps. Chuck Jones mocked _Fantasia_’s hubris in his Wagnerian cartoon _What’s Opera Doc?_, but ‘Dance of the Hours’ had beaten him at his parodic game.  
+**Andrew Osmond, _100 Animated Feature Films_ (BFI/Palgrave Macmillan, 2010)**  
+<br>
+
+**TOOT WHISTLE PLUNK AND BOOM**  
+_Directors:_ C. August Nichols, Ward Kimball  
+_©:_ Walt Disney Productions  
+_Production Company:_ Walt Disney Productions  
+_Story by:_ Dick Humer  
+_Colour Styling:_ Eyvind Earle  
+_Character Styling:_ Tom Oreb  
+_Animation:_ Ward Kimball, Julius Svendsen, Marc Davis, Henry Tanous, Art Stevens, Xavier Afencio  
+_Art Director:_ A. Kendall O’Connor  
+_Assistant Art Director:_ Victor Haboush  
+_Music:_ Joseph Dubin  
+_Songs:_ Sonny Burke, Jack Elliott  
+
+**Voice cast**  
+Bill Thompson _(Professor Owl)  
+
+USA 1952©  
+10 mins  
+
+**FANTASIA**  
+_Production Supervision:_ Ben Sharpsteen  
+_©:_ Walt Disney Productions  
+_Producer:_ Walt Disney  
+_Story Direction:_ Joe Grant, Dick Huemer  
+_Camera Operator:_ Chuck Wheeler *  
+_Colour by:_ Technicolor  
+_Musical Direction:_ Edward H. Plumb  
+_Musical Film Editor:_ Stephen Csillag  
+_Recording:_ William E. Garity, C.O. Slyfield, J.N.A. Hawkins  
+_Sound System:_ RCA Sound Recording  
+
+**With**
+Leopold Stokowski _(conductor)_  
+The Philadelphia Orchestra
+Deems Taylor _(narrative introductions)_  
+
+**Toccata and Fugue in D Minor** _–_ Johann Sebastian Bach  
+_Direction:_ Samuel Armstrong  
+_Story Development:_ Lee Blair, Elmer Plummer, Phil Dike  
+_Art Direction:_ Robert Cormack  
+_Background Paintings:_ Joe Stahley, John Hench, Nino Carbe  
+_Animation:_ Cy Young, Art Palmer, Daniel MacManus, George Rowley, Edwin Aardal, Joshua Meador, Cornett Wood  
+
+**The Nutcracker Suite** _–_ Pyotr Ilyich Tchaikovsky  
+_Direction:_ Samuel Armstrong  
+_Story Development:_ Sylvia Moberly-Holland, Norman Wright, Albert Heath, Bianca Majolie, Graham Heid  
+_Character Designs:_ John Walbridge, Elmer Plummer, Ethel Kulsar  
+_Art Direction:_ Robert Cormack, Al Zinnen, Curtiss D. Perkins, Arthur Byram, Bruce Bushman  
+_Background Paintings:_ John Hench, Ethel Kulsar, Nino Carbe  
+_Animation:_ Art Babbitt, Les Clark, Don Lusk, Cy Young, Robert Stokes  
+
+**The Sorcerer’s Apprentice** _–_ Paul Dukas  
+_Direction:_ James Algar  
+_Story Development:_ Perce Pearce, Carl Fallberg  
+_Art Direction:_ Tom Codrick, Charles Philippi, Zack Schwartz  
+_Background Paintings:_ Claude Coats, Stan Spohn, Albert Dempster, Eric Hansen  
+_Animation Supervision:_ Fred Moore, Vladimir Tytla  
+_Animation:_ Les Clark, Riley Thompson, Marvin Woodward, Preston Blair, Edward Love, Ugo D’Orsi, George Rowley, Cornett Wood  
+
+**Rite of Spring** _–_ Igor Stravinsky  
+_Direction:_ Bill Roberts, Paul Satterfield  
+_Story Development and Research:_ William Martin, Leo Thiele, Robert Sterner, John Fraser McLeish  
+_Art Direction:_ McLaren Stewart, Dick Kelsey, John Hubley  
+_Background Paintings:_ Ed Starr, Brice Mack, Edward Levitt  
+_Animation Supervision:_ Wolfgang Reitherman, Joshua Meador  
+_Animation:_ Philip Duncan, John McManus, Paul Busch, Art Palmer, Don Tobin, Edwin Aardal, Paul B. Kossoff  
+_Special Camera Effects:_ Gail Papineau, Leonard Pickley  
+
+**The Pastoral Symphony** _–_ Ludwig van Beethoven  
+_Direction:_ Hamilton Luske, Jim Handley, Ford Beebe  
+_Story Development:_ Otto Englander, Webb Smith, Erdman Penner, Joseph Sabo, Bill Peet, George Stallings  
+_Character Designs:_ James Bodrero, John P. Miller, Lorna S. Soderstrom  
+_Art Direction:_ Hugh Hennesy, Kenneth Anderson, J. Gordon Legg, Herbert Ryman, Yale Gracey, Lance Nolley  
+_Background Paintings:_ Claude Coats, Ray Huffine, W. Richard Anthony, Arthur Riley, Gerald Nevius, Roy Forkum  
+_Animation Supervision:_ Fred Moore, Ward Kimball, Ward Kimball, Eric Larson, Art Babbitt,
+Oliver M. Johnston Jr, Don Towsley  
+_Animation:_ Berny Wolf, Jack Campbell, Jack Bradbury, James Moore, Milt Neil, Bill Justice, John Elliotte, Walt Kelly, Don Lusk, Lynn Karp, Murray McClellan, Robert W. Youngquist,
+Harry Hamsel  
+
+**Dance of the Hours** _–_ Amilcare Ponchielli  
+_Direction:_ T. Hee, Norman Ferguson  
+_Character Designs:_ Martin Provensen, James Bodrero, Duke Russell, Earl Hurd  
+_Art Direction:_ Kendall O’Connor, Harold Doughty, Ernest Nordli  
+_Background Paintings:_ Albert Dempster, Charles Conner  
+_Animation Supervisor:_ Norman Ferguson  
+_Animation:_ John Lounsbery, Howard Swift, Preston Blair, Hugh Fraser, Harvey Toombs, Norman Tate, Hicks Lokey, Art Elliott, Grant Simmons, Ray Patterson, Franklin Grundeen  
+
+**Night on Bald Mountain** _–_ Modest Moussorgsky  
+_Ave Maria –_ Franz Schubert  
+_Direction:_ Wilfred Jackson  
+_Story Development:_ Campbell Grant, Arthur Heinemann, Phil Dike  
+_Art Direction:_ Kay Nielsen, Terrell Stapp, Charles Payzant, Thor Putnam  
+_Background Paintings:_ Merle Cox, Ray Lockrem, Robert Storms, W. Richard Anthony  
+_Animation Supervision:_ Vladimir Tytla  
+_Animation:_ John McManus, William N. Shull, Robert W. Carlson Jr, Lester Novros, Don Patterson  
+_Special Animation Effects:_ Joshua Meador, Miles E. Pike, John F. Reed, Daniel MacManus  
+_Special Camera Effects:_ Gail Papineau, Leonard Pickley  
+_Special Lyrics for ‘Ave Maria’:_ Rachel Field  
+_Choral Director:_ Charles Henderson  
+_Soloist:_ Julietta Novis  
+
+USA 1940©  
+124 mins  
+
+\* Uncredited  
+
+<br>
+With thanks to The Walt Disney Company  
+<br>
+**MAKING MAGIC: 100 YEARS OF DISNEY**  
+**Disney's Silly Symphonies**  
+Sat 1 Jul 13:00; Mon 3 Jul 18:20  
+**Dinosaur + Get a Horse!**  
+Sat 1 Jul 15:20; Sun 23 Jul 18:15  
+**Tangled + Tangled ever After**  
+Sat 1 Jul 17:50; Sun 23 Jul 13:10  
+**Snow White and the Seven Dwarfs + Thru the Mirror**  
+Sun 2 Jul 13:20; Sat 22 Jul 17:45; Mon 24 Jul 14:20  
+**Who Framed Roger Rabbit + Tummy Trouble + Rollercoaster Rabbit**  
+Sun 2 Jul 15:40; Sat 22 Jul 20:30  
+**Splash + Sea Scouts**  
+Wed 5 Jul 20:30; Mon 10 Jul 18:00  
+**Disney at 100**  
+Thus 6 Jul 18:15  
+**UK premiere of 4K Restoration: Cinderella + Trailer Horn**  
+Thu 6 Jul 20:30 + intro by season curator Justin Johnson; Sun 9 Jul 12:20; Tue 25 Jul 14:20  
+**The Black Hole + Lifted**  
+Fri 7 Jul 20:50; Sat 15 Jul 13:00  
+**Sleeping Beauty + Magician Mickey**  
+Sat 8 Jul 12:20; Sun 16 Jul 16:00; Wed 26 Jul 14:20  
+**The Princess and the Frog + Babes in the Woods**  
+Sat 8 Jul 12:30; Thus 18 Jul 18:00  
+**Fantasia + Toot, Whistle, Plunk and Boom**  
+Sat 8 Jul 15:00; Thu 27 Jul 17:50  
+**Fantasia 2000**  
+Sat 8 Jul 18:10; Sun 30 Jul 10:30  
+**Dead Poet Society + Geri's Game**  
+Sat 8 Jul 20:20; Thu 20 Jul 17:50  
+**Alice in Wonderland + Pluto’s Party**  
+Sun 9 Jul 15:30; Thu 13 Jul 18:10  
+**Frozen + Frozen Fever**  
+Fri 14 Jul 20:45; Sun 30 Jul 12:40  
+**TRON + Smash and Grab**  
+Sat 15 Jul 15:10; Fri 21 Jul 18:00  
+**TRON: Legacy + Sanjay’s Super Team**  
+Sat 15 Jul 17:45; Fri 28 Jul 20:20  
+**WALL-E + BURN-E**  
+Sat 15 Jul 20:45; Sat 29 Jul 12:30  
+**Funday Workshop: Encanto Sing-along**  
+Sun 16 Jul 11:00  
+**Funday: Encanto Sing-along**  
+Sun 16 Jul 12:30  
+**Hocus Pocus**  
+Sun 16 Jul 18:10; Wed 26 Jul 20:40  
+**Moana + Inner Workings**  
+Mon 17 Jul 18:00; Sat 29 Jul 13:00; Mon 31 Jul 14:20  
+**Beauty and the Beast + Tick Tock Tale**  
+Sat 22 Jul 11:50; Mon 24 Jul 18:05; Thu 27 Jul 14:20  
+**Once Upon a Time: A Disney Day**  
+Sat 22 Jul 12:00-17:00  
+**Toy Story + The Adventures of Andre & Wally B. + Luxo Jr. + Red’s Dream**  
+Sun 23 Jul 12:50; Sat 29 Jul 16:00  
+**Toy Story 2 + Tin Toy + Knick Knack**  
+Sun 23 Jul 15:30  
+**Pocahontas + Lava**  
+Sun 23 Jul 15:40; Fri 28 Jul 14:20; Sat 29 Jul 20:40  
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
+
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyNjIwNzc5ODhdfQ==
+-->
