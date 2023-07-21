@@ -126,7 +126,7 @@ Gordon Tootoosis _(Kekata)_
 USA 1995©  
 81 minutes  
 
-With thanks to The Walt Disney Company
+With thanks to The Walt Disney Company  
 <br>
 **MAKING MAGIC: 100 YEARS OF DISNEY**  
 **Disney's Silly Symphonies**  
