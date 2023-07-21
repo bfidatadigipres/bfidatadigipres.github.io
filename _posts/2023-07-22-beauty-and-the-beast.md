@@ -11,7 +11,7 @@ pdf: '2023-07-23-beauty-and-the-beast.pdf'
 ---
 Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films.
 
-Following 1989’s _The Little Mermaid_ (everyone seems to forget about _The Rescuers Down Under_ in 1990), _Beauty and the Beast_ cemented Disney’s ‘return’ as an animation studio. Until _Up_ and _Avatar_ in 2009, it was the only animated feature nominated for a Best Picture Oscar, losing to _The Silence of the Lambs_ in 1991_._ For sceptics, though, the new Disney was already brand-Disney. _Beauty and the Beast_ had been meant to be directed by London animators Richard and Jill Purdum (whose studio employed, among others, a young Sylvain Chomet, director of _Belleville Rendez-vous_). The Purdums wanted a non-musical, reportedly ‘dark’ film, ‘something not in the Disney mould,’ according to producer Don Hahn. They were let go, and Ashman and Menken brought aboard to repeat their musical success from _The Little Mermaid._
+Following 1989’s _The Little Mermaid_ (everyone seems to forget about _The Rescuers Down Under_ in 1990), _Beauty and the Beast_ cemented Disney’s ‘return’ as an animation studio. Until _Up_ and _Avatar_ in 2009, it was the only animated feature nominated for a Best Picture Oscar, losing to _The Silence of the Lambs_ in 1991. For sceptics, though, the new Disney was already brand-Disney. _Beauty and the Beast_ had been meant to be directed by London animators Richard and Jill Purdum (whose studio employed, among others, a young Sylvain Chomet, director of _Belleville Rendez-vous_). The Purdums wanted a non-musical, reportedly ‘dark’ film, ‘something not in the Disney mould,’ according to producer Don Hahn. They were let go, and Ashman and Menken brought aboard to repeat their musical success from _The Little Mermaid._
 
 Yet for all this creative rigidity, _Beauty and the Beast’_s first screening was in a uniquely metamorphic state at the 1991 New York Film Festival. This ‘Work in Progress’ (included on the DVD) interleaves pieces of finished animation with moving pencil sketches, static concept art and rough blockings, with the liquid mystery of Cocteau’s _La Belle et la Bête_. In the giant ballroom, the titular dancers (hand-animated in the finished scene by James Baxter) are wire frames moving in staccato, clockwork increments against the monochrome geometries of early CGI. The Beast – shown mostly in naked pencil tests – is a mass of snarling lines, dissolving into ensouled shades and scribbles, like _Forbidden Planet_’s Id monster_._
 
@@ -99,7 +99,8 @@ _Special Sound Effects:_ John P.
 _Special Vocal Effects:_ Frank Welker  
 _ADR Recordists:_ Doc Kane, Vince Caro  
 _Foley Artists:_ John Roesch, Catherine Rowe, Vanessa Ament  
-_Voice Cast:_  
+
+**Voice Cast**  
 Paige O’Hara _(Belle)_  
 Robby Benson _(Beast)_  
 Richard White _(Gaston)_  
