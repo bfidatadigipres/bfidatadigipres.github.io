@@ -7,7 +7,7 @@ readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Talk]
 metadata: ''
-pdf: '2023-07-22-disney-day.pdf'
+pdf: '2023-07-22-once-upon-a-time-a-disney-day.pdf'
 ---
 
 Dive deeper into the fascinating history of the Disney studio in this afternoon of richly illustrated talks and discussions, including a session from the Fantasy/Animation podcast. Our expert speakers will discuss key themes emerging from the Disney universe, including the representation of female characters, the use of music, and the importance of technological advances, among others.
