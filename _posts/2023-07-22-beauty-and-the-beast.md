@@ -2,12 +2,12 @@
 layout: post
 title: Beauty and the Beast
 published: true
-date: 2023-07-23
+date: 2023-07-22
 readtime: true
 categories: ['MAKING MAGIC<BR>100 YEARS OF DISNEY']
 tags: [Comedy, Fantasy, Musical, Animation, Children]
 metadata: 'USA 1991, 91 mins<br> Directors: Gary Trousdale, Kirk Wise'
-pdf: '2023-07-23-beauty-and-the-beast.pdf'
+pdf: '2023-07-22-beauty-and-the-beast.pdf'
 ---
 Disney’s _Beauty and the Beast_ is a tale of transformation, narrated in the overtly stylised fashion of Broadway. Accounts of the film’s production tend to foreground not directors Kirk Wise and Gary Trousdale, but animator Glen Keane, who supervised the reforming Beast, and lyricist Howard Ashman, who directed the singers from his sickbed as he lay dying from AIDS. The musician Alan Menken deserves equal credit, but his lush style, unlike Ashman’s pawky lyrics, was sadly institutionalised in subsequent Disney films.
 
