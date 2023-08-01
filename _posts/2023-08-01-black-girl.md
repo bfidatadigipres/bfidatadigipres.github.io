@@ -39,7 +39,7 @@ Sembène adapts one of his own stories for this tale of the hypocrisy of a villa
 <br>
 
 
-**NIAYE**
+**NIAYE**  
 _Director:_ Ousmane Sembène<br>
 _Production Companies:_ Filmi Doomireew, Actualités Françaises<br>
 _Participation:_ Ministère de la Coopération<br>
@@ -107,12 +107,12 @@ Wed 23 Aug 20:35; Wed 30 Aug 18:00<br>
 **Mooladé**<br>
 Mon 28 Aug 18:20; Wed 30 Aug 20:30 (+ intro)<br>
 
-**With thanks to** 
+**With thanks to**   
 Presented in partnership with Janus Films and Film Forum
 <br><br>
 
 **Promotional partner**
-<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/little-baobab-01.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 London’s finest Senegalese soul food  
 www.littlebaobab.co.uk
 <br><br>
