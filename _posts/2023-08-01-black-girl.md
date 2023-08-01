@@ -2,12 +2,12 @@
 layout: post
 title: Black Girl (La noire de...)
 published: true
-date: 2021-07-03
+date: 2023-08-01
 readtime: true
-categories: ['T A P E PRESENTS<br> BUT WHERE ARE YOU REALLY FROM &#63']
+categories: ['REBEL CINEMA<br>OUSMANE SEMBÈNE AT 100']
 tags: [Drama]
-metadata: 'Senegal/France, 1965, 66 mins<br> Director: Ousmane Sembène'
-pdf: '2021-07-03-black-girl.pdf'
+metadata: 'Senegal/France, 1965, 65 mins<br> Director: Ousmane Sembène'
+pdf: '2023-08-01-black-girl.pdf'
 ---
 
 **SPOILER WARNING  The following notes give away the film’s ending**
@@ -33,16 +33,30 @@ If _La Noire de_… has a primary fault, it’s in the caricaturing of this Fren
 All the dialogue in _La Noire de_… is in French – the last time this would happen in Sembène’s flms. Starting with his next feature, _Mandabi_ (_The Money Order_, 1968), his films would be largely or entirely in his native Wolof or in Diola. (_Mandabi_, though, was also made in a French-language version to satisfy its French backers.) Filmmaking was never easy for Sembène; not only did he have to overcome the vagaries of African production and distribution but also, as often as not, the disapproval and censorship of the same national authorities from whom he was obliged to seek funding. But he rarely compromised, seeing his work as a mission and his films as ‘introductions to a universe that we can transform’.<br>
 **Philip Kemp, _Sight & Sound_, December 2015**
 
-**I Bit My Tongue**<br>
-Can we get our mother tongue, and things lost with it, back? <br>
+**Niaye**  
+Sembène adapts one of his own stories for this tale of the hypocrisy of a village faced with the pregnancy of a young girl abused by her father. Set to the hypnotic folk music of Fatou Casset and Keba Faye, the film presents a scathing critique of patriarchy, inaugurating a feminist ethos that spans all the filmmaker’s work.
+<br>
 <br>
 
 
-**I BIT MY TONGUE**<br>
-_Director:_ Nina Khada<br>
+**NIAYE**
+_Director:_ Ousmane Sembène<br>
+_Production Companies:_ Filmi Doomireew, Actualités Françaises<br>
+_Participation:_ Ministère de la Coopération<br>
+_Assistant Director:_ Ibrahima Barro<br>
+_Screenplay:_ Ousmane Sembène<br>
+_Photography:_ Georges Caristan<br>
+_Editor:_ André Gaudier
 
-France 2020<br>
-25 mins<br>
+**Cast**<br>
+Serigne Sow _(griot)_ <br>
+Astou Ndiaye _(woman griot)_ <br>
+Mame Dia _(mother, Ngoné War Thiandum)_ <br>
+Modou Sene _(soldier)_ <br>
+Sohna<br>
+Keur Haly Sarrata villagers<br>
+Senegal-France 1964<br>
+35 mins<br>
 <br>
 
 **BLACK GIRL (LA NOIRE DE...)**<br>
@@ -69,52 +83,52 @@ Philippe, Sophie, Damien _(children)_<br>
 
 Senegal/France 1965<br>
 65 mins<br>
-
-Restored in 2015 by The Film Foundation’s World Cinema Project in collaboration with the Sembène Estate, Institut National de l’Audiovisuel, INA, Eclair laboratories and Centre National de Cinématographie. Restoration carried out at Cineteca di Bologna/ L’Immagine Ritrovata laboratory.<br>
 <br>
-<img style="float: left;" src="/img/film-foundation-logo-01.png"><br><br>
 
-<img style="float: left;" src="/img/world-cinema-project-logo-01.png"><br><br>
+**REBEL CINEMA: OUSMANE SEMBÈNE AT 100**<br>
+**Black Girl (La Noire de…) + Niaye**<br>
+Tue 1 Aug 18:10 (+ pre-recorded intro by season programmer Chrystel Oloukoï); Tue 8 Aug 18:10<br>
+**Mandabi + Tauw**<br>
+Fri 4 Aug 18:10; Sat 19 Aug 20:30; Wed 23 Aug 18:05<br>
+**Emitaï**<br>
+Fri 4 Aug 20:40; Sat 26 Aug 14:20 (+ pre-recorded intro by season programmer Chrystel Oloukoï)<br>
+**African Odysseys: Sembène! + panel discussion**<br>
+Sat 5 Aug 14:00-17:00<br>
+**Ceddo**<br>
+Sat 5 Aug 18:00 (+ intro); Sat 26 Aug 20:40<br>
+**Camp de Thiaroye**<br>
+Sun 6 Aug 15:00; Sun 20 Aug 15:50<br>
+**Guelwaar**<br>
+Mon 7 Aug 20:35; Thu 17 Aug 18:10<br>
+**Xala + Borom Sarret**<br>
+Wed 9 Aug 20:10; Sat 26 Aug 17:30<br>
+**Faat Kiné**<br>
+Wed 23 Aug 20:35; Wed 30 Aug 18:00<br>
+**Mooladé**<br>
+Mon 28 Aug 18:20; Wed 30 Aug 20:30 (+ intro)<br>
 
-<img style="float: left;" src="/img/cineteca-bologna-logo-01.png"><br><br>
-
-
-<br><br><br><br>
-**T A P E PRESENTS: BUT WHERE ARE YOU REALLY FROM?**<br>
-**Eyimofe (This Is My Desire)**<br>
-Thu 1 Jul 20:30; Fri 9 Jul 17:40<br>
-**Black Girl (La noire de...)**<br>
-Sat 3 Jul 11:40; Mon 12 Jul 18:20<br>
-**Burning an Illusion**<br>
-Sat 3 Jul 14:20; Thu 8 Jul 17:45<br>
-**While We Live (Medan vi lever)**<br>
-Sat 3 Jul 17:30; Tue 20 Jul 20:30<br>
-**Binti**<br>
-Sun 4 Jul 18:20; Mon 19 Jul 20:40<br>
-**Pinky**<br>
-Sat 10 Jul 20:50; Sat 24 Jul 11:40<br>
-**Head-On (Gegen die Wand)**<br>
-Sun 11 Jul 18:30; Tue 27 Jul 20:40<br>
-**The Namesake**<br>
-Wed 14 Jul 17:40 (+ live spoken-word performance); Wed 21 Jul 20:40<br>
-**What Will People Say (Hva vil folk si)**<br>
-Fri 16 Jul 20:30; Sat 31 Jul 17:30<br>
-**In Conversation with Nikesh Shukla**<br>
-Fri 23 Jul 18:20<br>
-**Lilting**<br>
-Sat 24 Jul 17:20; Fri 30 Jul 20:40<br>
-**Shoot the Messenger + Q&A with director Ngozi Onwurah, hosted by T A P E’s Angela Moneke**<br>
-Thu 29 Jul 17:45<br>
-**Culture Shock: Short Film Programme + Q&A with UNDR LNDN**<br>
-Fri 30 Jul 17:40<br>
-
-T A P E was founded in 2015 as a response to the lack of representation on screen. Find out more about this curatorial collective at **tapecollective.co.uk**<br>
+**With thanks to** 
+Presented in partnership with Janus Films and Film Forum
 <br><br>
+
+**Promotional partner**
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+London’s finest Senegalese soul food  
+www.littlebaobab.co.uk
+<br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
 **BECOME A BFI MEMBER**  
-Enjoy a great package of film benefits including priority booking atBFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
@@ -123,6 +137,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
