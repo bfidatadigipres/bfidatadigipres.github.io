@@ -111,7 +111,7 @@ Mon 28 Aug 18:20; Wed 30 Aug 20:30 (+ intro)<br>
 Presented in partnership with Janus Films and Film Forum
 <br><br>
 
-**Promotional partner**<br><br><br><br>
+**Promotional partner**<br><br>
 <img style="float: left;" src="/img/little-baobab-01.jpg" width="40%" height="40%"><br><br><br><br>
 London’s finest Senegalese soul food  
 www.littlebaobab.co.uk
