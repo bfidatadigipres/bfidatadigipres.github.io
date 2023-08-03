@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Night of the Hunter
-published: false
+published: true
 date: 2023-08-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
