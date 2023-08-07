@@ -6,8 +6,8 @@ date: 2023-08-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'Hong Kong 2000, 99 mins<br> Director: Wong Kar Wai'
-pdf:'2023-08-07-in-the-mood-for-love.pdf'
+metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
+pdf: '2023-08-07-in-the-mood-for-love.pdf'
 ---
 
 The signs were already there that Wong Kar Wai’s woozy, hungry, love story was likely to earn a significant promotion in this year’s poll. Ten years ago, it stood out as the best-performing film of the 21st century in the critics’ list, landing in 24th place. With a fresh generation of critics chiming in – one that cinematically came of age when Wong’s film had already attained modern-classic status – it was sure to rise up the ranks.
