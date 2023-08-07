@@ -6,7 +6,7 @@ date: 2023-08-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'Hong Kong 2000 , 99 mins<br> Director: Wong Kar Wai'
+metadata: 'Hong Kong 2000, 99 mins<br> Director: Wong Kar Wai'
 pdf: '2023-08-07-in-the-mood-for-love.pdf'
 ---
 
