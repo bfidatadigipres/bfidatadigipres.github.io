@@ -6,7 +6,7 @@ date: 2023-08-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Romance]
-metadata: 'UK 1945 , 87 mins<br> Director: David Lean'
+metadata: 'UK 1945, 87 mins<br> Director: David Lean'
 pdf: '2023-08-10-brief-encounter.pdf'
 ---
 **SPOILER WARNING** The following notes give away some of the plot.
