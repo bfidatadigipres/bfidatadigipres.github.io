@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Brother the Devil
-published: false
+published: true
 date: 2023-08-16
 readtime: true
 categories: ['BE GAY DO CRIME<br>A SEASON OF QUEER CRIME FILMS']
