@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Velvet
-published: false
+published: true
 date: 2023-08-19
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
