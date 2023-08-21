@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ratatouille
-published: false
+published: true
 date: 2023-08-19
 readtime: true
 categories: ['MAKING MAGIC<br>100 YEARS OF DISNEY']
