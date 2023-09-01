@@ -10,7 +10,8 @@ metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
 pdf: '2023-09-01-tokyo-story.pdf'
 ---
 
-**SPOILER WARNING** The following notes give away some of the plot.<br>
+**SPOILER WARNING** The following notes give away some of the plot
+
 Yasujirō Ozu’s celebrated masterpiece, ranked fourth in the 2022 _Sight and Sound_ Greatest Films of All Time poll and beautifully restored for its 70th anniversary, exemplifies the filmmaker’s minimalist style in its dissection of intergenerational relationships within one family.
 
 Retired couple Shūkichi and Tomi Hirayama, who live with their youngest daughter Kyōko, decide to travel east to visit their eldest son and daughter in Tokyo. Both soon make it clear they are too busy to spend time with their parents, leaving daughter-in-law Noriko to show them around. It’s through her kindness that Ozu explores this family’s dynamic. In its contemplation of tradition and modernity, and its portrait of family as a microcosm of a changing society, Ozu’s most acclaimed film is of a piece with the magnificent work he produced in his final decade. With it, he refined his style to a beguilingly simple degree, emphasising gesture over action, and with each moment building towards a quietly devastating denouement.   
