@@ -2,17 +2,20 @@
 layout: post
 title: Tokyo Story
 published: true
-date: 2022-05-03
+date: 2023-09-01
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['RE-RELEASES']
 tags: [Drama]
 metadata: 'Japan 1953, 136 mins<br> Director: Yasujiro Ozu'
-pdf: '2022-05-03-tokyo-story.pdf'
+pdf: '2023-09-01-tokyo-story.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.<br>
-Ozu’s gently melancholy but hugely moving masterpiece has an elderly country couple visit their grown-up children in post-war Tokyo; their offspring are focused on work and their own families, and only a widowed daughter-in-law comprehends their plight. The film offers a sublimely serene contemplation of changing values in a changing world, profoundly alert to the disappointments almost inevitable in life.<br>
-**bfi.org.uk**<br>
+Yasujirō Ozu’s celebrated masterpiece, ranked fourth in the 2022 _Sight and Sound_ Greatest Films of All Time poll and beautifully restored for its 70th anniversary, exemplifies the filmmaker’s minimalist style in its dissection of intergenerational relationships within one family.
+
+Retired couple Shūkichi and Tomi Hirayama, who live with their youngest daughter Kyōko, decide to travel east to visit their eldest son and daughter in Tokyo. Both soon make it clear they are too busy to spend time with their parents, leaving daughter-in-law Noriko to show them around. It’s through her kindness that Ozu explores this family’s dynamic. In its contemplation of tradition and modernity, and its portrait of family as a microcosm of a changing society, Ozu’s most acclaimed film is of a piece with the magnificent work he produced in his final decade. With it, he refined his style to a beguilingly simple degree, emphasising gesture over action, and with each moment building towards a quietly devastating denouement.   
+**Ian Haydn Smith, Yasujirō Ozu and Kōji Fukada season curator**
+<br>
 
 Ozu described _Tokyo Story_ as his ‘most melodramatic’ movie, an observation taken by most western commentators, dazzled by the director’s minimalist style and resolutely quotidian material, as ironic. But irony was never Ozu’s preferred tone, and his comment surely reflected the film’s uncharacteristic explicitness: this is an almost didactic film about the disintegration of Japanese family values, full of characters and incidents designed to spell out social and psychological points with diagrammatic clarity. In calling the film ‘melodramatic’, Ozu may also have had in the back of his mind the story’s origin in co-writer Kogo Noda’s memories of the 1936 Leo McCarey film _Make Way for Tomorrow_, which similarly contrasts the emotional stoicism of an elderly couple financially ruined in the Depression with the brash impatience of their urbanised children, but does so with a directness entirely normal in Hollywood movies.
 
@@ -82,41 +85,73 @@ Toshinosuke Nagao _(doctor)_<br>
 
 Japan 1953<br>
 136 mins<br>
+Digital 4K (restoration)
+
+*Uncredited
+
+A BFI release<br>
+<br>
 
 
+**A FAMILY AFFAIR: THE FILMS OF YASUJIRO OZU**<br>
+**Tokyo Story (Tōkyō monogatari)**<br>
+From Fri 1 Sep<br>
+**I Flunked, But... (Rakudai wa shitakeredo)**<br>
+Sat 2 Sep 16:15; Wed 13 Sep 20:35<br>
+**Tokyo Chorus (Tōkyō no kōrasu)**<br>
+Sat 2 Sep 18:30; Sun 17 Sep 16:00<br>
+**An Autumn Evening with Yasujirō Ozu**<br>
+Mon 4 Sep 18:15<br>
+**I Was Born, But... (Umarete wa mita keredo)**<br>
+Mon 4 Sep 20:30 (+ intro by Jinhee Choi, King’s College London); Fri 15 Sep 18:30<br>
+**Tokyo Twilight (Tōkyō boshoku)**<br>
+Thu 7 Sep 18:00; Wed 27 Sep 20:15<br>
+**The Only Son (Hitori musuko)**<br>
+Fri 8 Sep 20:40; Sat 16 Sep 18:10 (+ intro by season curator Ian Haydn Smith)<br>
+**A Story of Floating Weeds (Ukigusa monogatari)**<br>
+Sat 9 Sep 11:50; Sat 23 Sep 16:00<br>
+**Good Morning (Ohayō)**<br>
+Sat 9 Sep 18:10; Sat 30 Sep 20:40<br>
+**Floating Weeds (Ukigusa)**<br>
+Sat 9 Sep 20:30; Sun 1 Oct 11:30 BFI IMAX; Mon 2 Oct 18:00<br>
+**Late Spring (Banshun)**<br>
+Sun 10 Sep 12:15 (+ intro by season curator, Ian Haydn Smith); Fri 22 Sep 20:50<br>
+**Early Summer (Bakushu)**<br>
+Sun 10 Sep 15:00; Wed 13 Sep 14:30; Sat 23 Sep 20:35<br>
+**Brothers and Sisters of the Toda Family (Todake no kyōdai)**<br>
+Mon 11 Sep 18:00; Sat 30 Sep 18:20<br>
+**There Was a Father (Chichi ariki)**<br>
+Mon 11 Sep 20:40; Thu 28 Sep 18:20<br>
+**City Lit at BFI: Ozu: Cinema of Everyday Life**<br>
+Tue 12 Sep – 3 Oct 18:30-20:30<br>
+**Record of a Tenement Gentleman (Nagaya Shinshiroku)**<br>
+Tue 12 Sep 20:30; Wed 20 Sep 21:00; Sat 23 Sep 18:30<br>
+**Early Spring (Sōshun)**<br>
+Thu 14 Sep 20:10; Sun 1 Oct 18:00<br>
+**The Flavour of Green Tea Over Rice (Ochazuke no aji)**<br>
+Fri 15 Sep 20:45; Sat 30 Sep 15:30<br>
+**The Anatomy of Ozu**<br>
+Sat 16 Sep 12:00-17:00<br>
+**Late Autumn (Akibiyori)**<br>
+Sun 17 Sep 18:20; Sat 30 Sep 12:30<br>
+**Equinox Flower (Higanbana)**<br>
+Thu 21 Sep 18:00; Sun 1 Oct 15:10<br>
+**An Autumn Afternoon (Sanma no aji)**<br>
+Sun 24 Sep 18:25 (+ intro); Tue 3 Oct 20:45<br>
+
+**Influence and Inspiration**<br>
+**Make Way for Tomorrow**<br>
+Sat 2 Sep 12:40; Sun 24 Sep 15:50 (+ intro by season curator Ian Haydn Smith)<br>
+**Tokyo-Ga**<br>
+Sun 3 Sep 14:00; Mon 2 Oct 20:45<br>
+<br>
 
 
-**BIG SCREEN CLASSICS**<br>
-**A Farewell to Arms**<br>
-Sun 1 May 12:00; Mon 16 May 18:15; Tue 24 May 20:50<br>
-**Sunrise: A Song of Two Humans**<br>
-Mon 2 May 12:20; Mon 30 May 18:20<br>
-**Tokyo Story (Tokyo Monogatari)**<br>
-Tue 3 May 14:30; Sat 7 May 15:00; Sat 21 May 11:10; Wed 25 May 18:00<br>
-**The River**<br>
-Wed 4 May 18:10 + intro by Geoff Andrew, Programmer-at-Large; Sun 15 May 15:10<br>
-**El Sur (The South)**<br>
-Thu 5 May 14:30; Mon 16 May 18:10<br>
-**Daughters of the Dust**<br>
-Fri 6 May 20:50; Fri 20 May 14:40; Thu 26 May 20:40<br>
-**Syndromes and a Century (Sang sattawaat)**<br>
-Sat 7 May 18:10; Thu 12 May 20:50<br>
-**Still Walking (Aruitemo aruitemo)**<br>
-Sun 8 May 15:15; Wed 11 May 17:50 + intro by Dr Alexander Jacoby, Senior Lecturer in Japanese Studies; Mon 23 May 20:45<br>
-**The Long Day Closes**<br>
-Mon 9 May 18:30; Sun 22 May 12:30; Thu 26 May 20:50<br>
-**Journey to Italy (Viaggio in Italia)**<br>
-Tue 10 May 20:50; Thu 19 May 18:10; Wed 25 May 20:50; Fri 27 May 18:20<br>
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
-Fri 13 May 20:45; Tue 17 May 20:50; Sat 28 May 18:15<br>
-**Cleo from 5 to 7 (Cléo de 5 à 7)**<br>
-Sat 14 May 14:45; Wed 18 May 18:10 + intro by Geoff Andrew, Programmer-at-Large<br>
-**The Miracle Worker**<br>
-Tue 17 May 14:30; Sun 29 May 11:20<br>
-**The Incredible Shrinking Man**<br>
-Thu 19 May 14:30; Tue 31 May 18:20<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -131,6 +166,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
