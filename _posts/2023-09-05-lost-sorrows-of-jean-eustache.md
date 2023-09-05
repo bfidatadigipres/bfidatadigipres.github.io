@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lost Sorrows of<br>Jean Eustache
-published: false
+published: true
 date: 2023-09-05
 readtime: true
 categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
