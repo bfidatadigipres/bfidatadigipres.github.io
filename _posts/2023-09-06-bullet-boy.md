@@ -161,7 +161,9 @@ Enjoy a great package of film benefits including priority booking at BFI Southba
  We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
 See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk) 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM0MDExMDIsNTAyOTE2MDUsNzMwOT
-k4MTE2XX0=
--->
+
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
+Notes may be edited or abridged  
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
