@@ -4,7 +4,7 @@ title: Bullet Boy
 published: true
 date: 2023-09-06
 readtime: true
-categories: ['ACTING HARD>br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
+categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
 tags: [Drama]
 metadata: 'UK 2004, 89 mins<br> Director: Saul Dibb'
 pdf: '2023-09-06-bullet-boy.pdf'
