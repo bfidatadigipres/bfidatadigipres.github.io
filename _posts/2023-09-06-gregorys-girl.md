@@ -2,15 +2,15 @@
 layout: post
 title: Gregory's Girl
 published: true
-date: 2022-05-16
+date: 2023-09-06
 readtime: true
-categories: ['SENIORS']
+categories: ['EVENTS']
 tags: [Comedy, Romance]
 metadata: 'UK 1980, 91 mins<br> Director: Bill Forsyth'
-pdf: '2022-05-16-gregorys-girl.pdf'
+pdf: '2023-09-06-gregorys-girl.pdf'
 ---
 
-_+ intro by Sherief Hassan, editor, Movie Masterclass – seeing beyond the screen + discussion_<br>
+_+ intro by Douglas Weir, BFI’s Content Remastering Lead_<br>
 
 **‘Gregory’s Girl’: a contemporary review**<br>
 Bill Forsyth’s second film, _Gregory’s Girl_, is set in and around a pleasant comprehensive school in a New Town near Glasgow. Early on, while our attention is focused on foreground activity of some import to the plot, a small boy in a penguin costume is glimpsed wandering along one of its corridors, before vanishing as abruptly as he appeared. What that capsule description omits, however, is the almost subliminal level at which the gag properly functions: though our immediate perception is of a penguin, albeit an oversized one, our laughter is provoked less _by_ its incongruity than _during_ the fraction of a second which elapses before we conclude that, under the circumstances, it can only be a disguise (perhaps for an end-of-term play). Later, apparently lost, the penguin resurfaces to be directed by the headmaster to the classroom where his presence is mysteriously requested. At which point, we may already suspect that the penguin’s identity and _raison d’être_ are forever to be withheld from us. But what we are unlikely to anticipate is that he will make a third appearance, one which by exactly duplicating the particulars of that preceding it – the by now forlorn wee creature is steered once more towards his elusive destination – would seem to be breaking a basic rule of visual humour. Yet the effectiveness of the joke this time paradoxically depends on our failure to respond to it as such. For we have come to accept the penguin as a familiar and even reassuring element of the school’s curricular routine: that he is no longer funny _is_ funny.
@@ -98,7 +98,18 @@ Christopher Higson _(Penguin)_<br>
 UK 1980©<br>
 91 mins<br>
 
-\* Uncredited<br>
+\* Uncredited
+
+Digital 4K restoration
+
+BFI will release the 4K restoration of _Gregory’s Girl_ on Blu-ray and UHD disc on 11 September. Available to pre-order now at **shop.bfi.org.uk**
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -107,12 +118,13 @@ Welcome to the home of great film and TV, with three cinemas and a studio, a wor
 Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
