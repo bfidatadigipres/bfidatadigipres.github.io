@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La Maman et la putain
-published: false
+published: true
 date: 2023-09-10
 readtime: true
 categories: ['LOVE, PAIN AND CINEMA<br> THE FILMS OF JEAN EUSTACHE']
