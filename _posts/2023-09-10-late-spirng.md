@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Late Spring
-published: false
+published: true
 date: 2023-09-10
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
