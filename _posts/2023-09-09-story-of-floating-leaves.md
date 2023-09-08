@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A  Story of Floating Weeds
-published: false
+published: true
 date: 2023-09-08
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
