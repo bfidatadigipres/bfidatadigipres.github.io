@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Morning
-published: false
+published: true
 date: 2023-09-09
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
