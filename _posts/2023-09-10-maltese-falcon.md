@@ -2,16 +2,13 @@
 layout: post
 title: The Maltese Falcon
 published: true
-date: 2021-09-17
+date: 2023-09-10
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Mystery, Film Noir]
 metadata: 'USA 1941, 101 mins<br> Director: John Huston'
-pdf: '2021-09-17-maltese-falcon.pdf'
+pdf: '2023-09-10-maltese-falcon.pdf'
 ---
-
-John Huston’s directorial debut, this year celebrating its 80th anniversary, turned Bogart into a major star. Adapted from Dashiell Hammett’s novel about a San Francisco detective’s investigations into the murder of his business partner, Huston’s snappily witty script retains the plot’s labyrinthine complexity while revelling in colourful characterisations of the villains Sam Spade encounters during his quest. Inspired casting includes Lorre as volatile Joel Cairo, Greenstreet as menacingly amiable Kasper Gutman, and Cook as his gunman. But it’s the fraught, febrile relationship between Bogart’s Spade and Mary Astor’s femme fatale – who persuaded his partner to take on her case – that shapes the deep, dark core of desire, doubt and duplicity pervading the film from beginning to memorable end.  
-**Geoff Andrew, Programmer-at-large**
 
 John Huston’s career started erratically; the son of Walter Huston, he began as an actor himself. After several false starts it was not until 1938 that his career in films got under way. For the next four years he worked with Warners on such scripts as _Juarez_, _Dr. Ehrlich’s Magic Bullet_, _High Sierra_; his first chance as writer-director came in 1941 with _The Maltese Falcon_.
 
@@ -104,39 +101,44 @@ John Skins Miller _(sign painter)_<br>
 Paul Panzer, Sidney Bracey _(men on street)_<br>
 
 USA 1941©<br>
-101 mins
-
-A BFI release
+101 mins  
+Digital 4K
 <br><br>
 
 **BIG SCREEN CLASSICS**<br>
-**The Stranger**<br>
-Wed 1 Sep 18:00 (+ pre-recorded intro by film critic Farran Smith Nehme); Fri 17 Sep 21:00;  Fri 1 Oct 14:30<br>
-**Detective Story**<br>
-Thu 2 Sep 18:00; Fri 24 Sep 18:00; Sun 3 Oct 12:10<br>
-**Double Indemnity**<br>
-Thu 2 Sep 14:45; Sun 12 Sep 15:00;  Wed 29 Sep 17:45 (+ intro by Lucy Bolton, Queen Mary University of London); Sat 2 Oct 20:50<br>
-**Call Northside 777**<br>
-Fri 3 Sep 20:40; Thu 9 Sep 14:30;  Tue 14 Sep 17:50; Mon 20 Sep 17:50<br>
-**The Hound of the Baskervilles**<br>
-Sat 4 Sep 15:15; Thu 30 Sep 18:15<br>
-**Cry of the City**<br>
-Sun 5 Sep 18:10; Thu 9 Sep 18:10;  Sat 18 Sep 21:00; Tue 21 Sep 14:45<br>
-**The Undercover Man**<br>
-Mon 6 Sep 18:10; Thu 23 Sep 14:45;  Sun 26 Sep 12:00<br>
-**The Big Sleep**<br>
-Tue 7 Sep 20:45; Sun 19 Sep 11:00;  Mon 4 Oct 17:45<br>
-**Laura**<br>
-Wed 8 Sep 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 16 Sep 14:30;  Tue 21 Sep 21:00; Fri 1 Oct 20:50<br>
-**The Third Man**<br>
-Wed 8 Sep 21:00; Fri 10 Sep 14:30;  Tue 14 Sep 20:50; Sat 2 Oct 11:30<br>
-**Rear Window**<br>
-Thu 9 Sep 20:45; Wed 15 Sep 17:20 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large); Sat 25 Sep 11:30; Tue 28 Sep 20:45;  Tue 5 Oct 14:30<br>
-**The Big Heat**<br>
-Sat 11 Sep 14:30; Mon 13 Sep 21:00;  Wed 22 Sep 18:00 (+ intro by Simran Hans,  writer and film critic for ‘The Observer’);  Mon 27 Sep 17:50<br>
-**Philosophical Screens: Temptation and Coincidence in ‘Double Indemnity’**<br>
-Wed 29 Sep 20:00 Blue Room<br>
+**Out of Sight**<br>
+Fri 1 Sep 20:30; Thu 7 Sep 20:35; Fri 22 Sep 17:55<br>
+**Girlhood (Bande des filles)**<br>
+Sat 2 Sep 16:00; Sun 17 Sep 18:30; Mon 2 Oct 18:10<br>
+**Il bidone (The Swindle)**<br>
+Sun 3 Sep 12:20; Thu 14 Sep 20:45; Sat 30 Sep 15:40<br>
+**Hidden (Caché)**<br>
+Mon 4 Sep 18:00; Thu 21 Sep 20:40; Wed 27 Sep 17:50 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**Notorious**<br>
+Tue 5 Sep 14:30; Sat 23 Sep 11:45; Sun 1 Oct 15:20; Tue 3 Oct 20:30<br>
+**The Wind Will Carry Us (Bad mara khahad bourd)**<br>
+Wed 6 Sep 18:10 (+ intro by Shohini Chaudhuri, Professor of Film Studies, University of Essex); Fri 15 Sep 20:40<br>
+**Ace in the Hole (aka The Big Carnival)**<br>
+Fri 8 Sep 14:40; Mon 11 Sep 20:45; Fri 29 Sep 18:00<br>
+**The Killers**<br>
+Sat 9 Sep 18:20; Tue 12 Sep 14:30; Mon 18 Sep 20:50<br>
+**The Maltese Falcon**<br>
+Sun 10 Sep 11:50; Mon 25 Sep 14:40; Tue 26 Sep 20:55<br>
+**F for Fake**<br>
+Wed 13 Sep 18:20 (+ intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Thu 21 Sep 18:30<br>
+**Barry Lyndon**<br>
+Sat 16 Sep 19:30; Sun 24 Sep 14:30<br>
+**The Kid with a Bike (Le Gamin au vélo)**<br>
+Tue 19 Sep 20:45; Tue 26 Sep 18:05<br>
+**Au revoir les enfants**<br>
+Wed 20 Sep 18:00 (+ intro by film critic and lecturer Dr Julia Wagner); Thu 28 Sep 20:45<br>
 <br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -151,9 +153,10 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
+
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTMyNzA5NTYxOSwxNTUxNDU4ODYwXX0=
