@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beautiful Thing
-published: false
+published: true
 date: 2023-09-10
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
