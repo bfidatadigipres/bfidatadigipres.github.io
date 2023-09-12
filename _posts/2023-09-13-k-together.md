@@ -6,7 +6,7 @@ date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
 tags: [Experimental]
-metadata: 'UK 1953, 29 mins<br> Director: Lorenza Mazzetti'
+metadata: 'UK 1953, 29 mins<br> UK 1956, 48 mins<br>Director: Lorenza Mazzetti'
 pdf: '2023-09-13-k-together.pdf'
 ---
 
