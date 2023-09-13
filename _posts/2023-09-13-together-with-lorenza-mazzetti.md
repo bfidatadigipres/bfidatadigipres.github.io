@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Together with Lorenza Mazzetti
-published: false
+published: true
 date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
