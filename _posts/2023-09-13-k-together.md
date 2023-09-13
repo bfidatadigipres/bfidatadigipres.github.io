@@ -1,7 +1,7 @@
 ---
 layout: post
 title: K<br>Together
-published: false
+published: true
 date: 2023-09-13
 readtime: true
 categories: ['TOGETHER<br> THE LONDON FILMS OF LORENZA MAZZETTI']
@@ -89,6 +89,9 @@ UK 1956
 48 mins  
 Digital 4K (restoration)  
 \* Uncredited  
+
+Both films will be screened with descriptive subtitles of non-dialogue audio
+<br><br>
 
 **TOGETHER: THE LONDON FILMS OF LORENZA MAZZETTI**  
 **K + intro by Brighid Lowe and Henry K. Miller, hosted by William Fowler + Together**  
