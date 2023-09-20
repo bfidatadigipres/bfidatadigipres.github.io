@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Beautiful Laundrette
-published: false
+published: true
 date: 2023-09-20
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
