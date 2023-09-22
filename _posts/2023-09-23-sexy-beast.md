@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sexy Beast
-published: false
+published: true
 date: 2023-09-23
 readtime: true
 categories: ['ACTING HARD<br> WORKING CLASS MASCULINITY IN BRITISH CINEMA']
