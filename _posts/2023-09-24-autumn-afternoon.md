@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Autumn Afternoon
-published: false
+published: true
 date: 2023-09-24
 readtime: true
 categories: ['A FAMILY AFFAIR<br> THE FILMS OF YASUJIRO OZU']
