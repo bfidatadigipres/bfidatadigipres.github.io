@@ -5,7 +5,7 @@ published: false
 date: 2023-10-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Petiod]
+tags: [Drama, Period]
 metadata: 'France/Italy 1955, 104 mins<br> Director: Jean Renoir'
 pdf: '2023-10-18-french-cancan.pdf'
 ---
