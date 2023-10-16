@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
 metadata: 'USA 1993, 138 mins<br> Director: Martin Scorsese'
-pdf: '2023-10-16-age-of-innocence.pdf'
+pdf: '2023-10-16-age-of-Innocence.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
