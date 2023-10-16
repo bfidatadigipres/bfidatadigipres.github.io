@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rynox + Hotel Splendide
-published: false
+published: true
 date: 2023-10-16
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
