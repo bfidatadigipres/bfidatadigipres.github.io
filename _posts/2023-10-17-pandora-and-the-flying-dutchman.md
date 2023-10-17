@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pandora and the Flying Dutchman
-published: false
+published: true
 date: 2023-10-17
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
