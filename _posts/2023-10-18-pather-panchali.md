@@ -68,43 +68,31 @@ India 1955
 Digital 4K (restoration)  
 <br>
 
-**BIG SCREEN CLASSICS**  
-**The Age of Innocence**  
-Mon 16 Oct 14:30; Sat 4 Nov 14:20; Mon 13 Nov 17:50; Tue 28 Nov 20:20  
-**The Private Life of Henry VIII**  
-Mon 16 Oct 18:20; Tue 7 Nov 20:50; Mon 27 Nov 14:40  
-**Pandora and the Flying Dutchman**  
-Tue 17 Oct 14:30; Sat 21 Oct 12:30; Mon 20 Nov 20:30  
-**A Midsummer Night’s Dream**  
-Tue 17 Oct 20:25; Sun 12 Nov 12:00  
-**Phantom Thread**  
-Wed 18 Oct 14:30; Fri 10 Nov 10:30; Thu 23 Nov 20:30  
-**French Cancan**  
-Wed 18 Oct 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 1 Nov 14:30; Thu 9 Nov 20:30  
-**Blood and Sand**  
-Thu 19 Oct 14:30; Sun 22 Oct 15:00; Wed 1 Nov 18:10 (+ intro); Sat 18 Nov 20:30  
-**An American in Paris**  
-Thu 19 Oct 20:50; Tue 24 Oct 20:35; Thu 23 Nov 18:00; Sun 26 Nov 11:30  
-**Casablanca**  
-Fri 20 Oct 20:45; Mon 30 Oct 14:30; Sat 18 Nov 11:40  
-**The Tempest**  
-Mon 23 Oct 20:40; Sat 18 Nov 13:00; Wed 22 Nov 18:20 (+ intro by Claire Smith, BFI National Archive Senior Curator)  
-**Blackmail**  
-Wed 25 Oct 18:30 (+ intro by Bryony Dixon, BFI National Archive Curator); Sun 5 Nov 12:00  
-**Black Orpheus** Orfeu Negro  
-Thu 26 Oct 20:35; Wed 15 Nov 18:00 (+ intro by journalist and broadcaster Kevin Le Gendre)  
-**Wings of Desire** Der Himmel über Berlin  
-Fri 27 Oct 18:00; Tue 21 Nov 14:30; Sat 25 Nov 20:25  
-**Do the Right Thing**  
-Sat 28 Oct 20:40; Fri 17 Nov 18:10  
-**The Queen of Spades**  
-Sun 29 Oct 12:20; Tue 31 Oct 14:40; Wed 8 Nov 18:20 (+ intro by Josephine Botting, BFI National Archive Curator); Thu 16 Nov 20:40  
-**Orlando**  
-Thu 2 Nov 20:50; Fri 10 Nov 14:30; Wed 29 Nov 18:20 (+ intro by writer, curator and researcher Jenny Chamarette)  
-**The Grand Budapest Hotel**  
-Fri 3 Nov 20:50; Sat 11 Nov 20:40; Fri 24 Nov 18:15  
-**La Ronde**  
-Tue 14 Nov 20:45; Sun 19 Nov 12:00; Thu 30 Nov 18:20  
+**POWER TO THE PEOPLE: HORACE OVÉ’S RADICAL VISION**  
+**Horace Ové: Reflecting the People – A Career Retrospective + panel and Q&A with actor Lennie James, producers Annabelle Alcazar, Peter Ansorge, Tara Prem and Marcus Ryder, chaired by Samira Ahmed**  
+Mon 23 Oct 18:00  
+**Playing Away**  
+Tue 24 Oct 18:10 (+ intro by writer Caryl Phillips); Tue 21 Nov 20:45  
+**The Black Safari + intro by director Colin Luke + Skateboard Kings**  
+Sat 28 Oct 15:15  
+**James Baldwin and the ‘N’ Word: Baldwin’s N****** **+ Q&A with author Colin Grant and additional guests (tbc)**  
+Sat 4 Nov 14:10  
+**King Carnival + intro by Michael La Rose, George Padmore Institute + Reggae**  
+Tue 7 Nov 18:00  
+**Play for Today: A Hole in Babylon + Play for Today: The Garland Shai Mala Khani**  
+Sun 12 Nov 15:00  
+**Dabbawallahs + pre-recorded intro by producer Annabelle Alcazar + Who Shall We Tell?**  
+Fri 24 Nov 18:00  
+
+**HORACE OVÉ: FILM INFLUENCES**  
+**Pather Panchali**  
+Wed 18 Oct 20:35; Mon 30 Oct 17:50; Tue 14 Nov 14:30  
+**Seniors’ Free Matinee: La dolce vita + intro**  
+Mon 23 Oct 14:00  
+**Bicycle Thieves Ladri di biciclette**  
+Tue 14 Nov 18:20; Sun 19 Nov 18:40; Fri 24 Nov 20:45  
+<br>
+With special thanks to the Ové family for all their guidance and support for this season  
 <br>
 
 
