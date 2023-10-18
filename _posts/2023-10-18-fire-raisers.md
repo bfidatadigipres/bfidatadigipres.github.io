@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fire Raisers
-published: false
+published: true
 date: 2023-10-18
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
