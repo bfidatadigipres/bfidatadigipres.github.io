@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Phantom Thread 
-published: false
+published: true
 date: 2023-10-18
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
