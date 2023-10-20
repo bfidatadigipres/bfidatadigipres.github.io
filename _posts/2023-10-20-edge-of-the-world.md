@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Edge of the World
-published: false
+published: true
 date: 2023-10-20
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
