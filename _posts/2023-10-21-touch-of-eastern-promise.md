@@ -6,7 +6,7 @@ date: 2023-10-21
 readtime: true
 categories: ['TARA PREM<br> REPRESENTING THE UNSEEN']
 tags: [Drama]
-metadata: 'UK 1973, 30 mins<br> Director: <Michael Lindsay-Hogg'
+metadata: 'UK 1973, 30 mins<br> Director: Michael Lindsay-Hogg'
 pdf: '2023-10-21-touch-of-eastern-promise.pdf'
 ---
 
