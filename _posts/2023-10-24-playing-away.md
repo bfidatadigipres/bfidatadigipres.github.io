@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Playing Away 
-published: false
+published: true
 date: 2023-10-24
 readtime: true
 categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
@@ -130,9 +130,9 @@ Mon 23 Oct 18:00
 Tue 24 Oct 18:10 (+ intro by writer Caryl Phillips); Tue 21 Nov 20:45  
 **The Black Safari** + intro by director Colin Luke + **Skateboard Kings**  
 Sat 28 Oct 15:15  
-**James Baldwin and the ‘N’ Word: Baldwin’s N****** + Q&A with author Colin Grant and additional guests (tbc)  
+**James Baldwin and the ‘N’ Word: Baldwin’s N****\** + Q&A with author Colin Grant and additional guests (tbc)  
 Sat 4 Nov 14:10  
-**King Carnival + intro by Michael La Rose, George Padmore Institute + Reggae**  
+**King Carnival** + intro by Michael La Rose, George Padmore Institute + **Reggae**  
 Tue 7 Nov 18:00  
 **Play for Today: A Hole in Babylon + Play for Today: The Garland** Shai Mala Khani  
 Sun 12 Nov 15:00  
