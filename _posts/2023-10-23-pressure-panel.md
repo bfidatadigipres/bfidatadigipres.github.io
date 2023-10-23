@@ -50,8 +50,7 @@ _Director of Photography:_ Mike Davis
 _Assistant Photography:_ Madelyn Most  
 _Gaffers:_ Julian Litvinoff, Nigel Brook  
 _Sparks:_ Albert Bailey  
-_Graphic Presentation:_ Darrell Pockett,
-Haydon Young  
+_Graphic Presentation:_ Darrell Pockett, Haydon Young  
 _Editor:_ Alan J. Cumner-Price  
 _Assistant Editors:_ Cathy Rolfe, Chuma Ukpabi  
 _Illustrations:_ Una Howe  
@@ -61,9 +60,7 @@ _Theme Song Lyrics:_ Horace Ové
 _Sound Recordist:_ Chris Wangler  
 _Sound Assistant:_ Frankie Hart  
 _Dubbing Mixer:_ Tony Anscombe  
-_BFI also wishes to thank the following:_ Keskidee Centre, And So To Bed,
-Ashanti Records, Trojan Records,
-Capital Radio, Basil Smith  
+_BFI also wishes to thank the following:_ Keskidee Centre, And So To Bed, Ashanti Records, Trojan Records, Capital Radio, Basil Smith  
 
 **Cast**  
 Herbert Norville _(Anthony ‘Tony’ Watson)_  
@@ -116,7 +113,7 @@ Tue 24 Oct 18:10 (+ intro by writer Caryl Phillips); Tue 21 Nov 20:45
 Sat 28 Oct 15:15  
 **James Baldwin and the ‘N’ Word: Baldwin’s N******* + Q&A with author Colin Grant and additional guests (tbc)  
 Sat 4 Nov 14:10  
-**King Carnival** + intro by Michael La Rose, George Padmore Institute + **Reggae**  
+**King Carnival + intro by Michael La Rose, George Padmore Institute + Reggae**  
 Tue 7 Nov 18:00  
 **Play for Today: A Hole in Babylon + Play for Today: The Garland** Shai Mala Khani  
 Sun 12 Nov 15:00  
