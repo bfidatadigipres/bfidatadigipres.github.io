@@ -10,8 +10,7 @@ metadata: 'West Germany/France 1987, 129 mins<br> Director: Wim Wenders'
 pdf: '2023-10-27-wings-of-desire.pdf'
 ---
 
-Few modern films have made the transition to classic status as quickly as  
-Wim Wenders’ _Wings of Desire_. His tale of a guardian angel in a still-Wall-divided Berlin who falls in love with – and to earth for – a melancholy trapeze artist is a canny merging of cerebral formal experimentalism and unabashed popular romanticism. It swept up highbrow critics alongside a much larger mainstream audience than was typical for ‘challenging’ foreign-language cinema of the day. Leading US film magazine _Premiere_’s 1980s wrap-up poll voted it second only to _Raging Bull_ (1980) as film of the decade.
+Few modern films have made the transition to classic status as quickly as Wim Wenders’ _Wings of Desire_. His tale of a guardian angel in a still-Wall-divided Berlin who falls in love with – and to earth for – a melancholy trapeze artist is a canny merging of cerebral formal experimentalism and unabashed popular romanticism. It swept up highbrow critics alongside a much larger mainstream audience than was typical for ‘challenging’ foreign-language cinema of the day. Leading US film magazine _Premiere_’s 1980s wrap-up poll voted it second only to _Raging Bull_ (1980) as film of the decade.
 
 Still a quintessential ‘arthouse’ film, its bold use of style (black-and-white, existential voiceover, languorous pacing) – and content (overt symbolism and culture blending, from Rilke-inspired poetry to Nick Cave’s post-punk anthems) fostered an appreciation, even a devotion that endures to this day.
 
