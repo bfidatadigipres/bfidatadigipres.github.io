@@ -2,12 +2,12 @@
 layout: post
 title: The Life and Death of Colonel Blimp
 published: true
-date: 2023-05-20
+date: 2023-10-29
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Drama, War]
 metadata: 'UK 1943, 163 mins<br> Directors: Michael Powell, Emeric Pressburger'
-pdf: '2023-05-20-life-and-death-of-colonel-blimp.pdf'
+pdf: '2023-10-29-life-and-death-of-colonel-blimp.pdf'
 ---
 
 Churchill’s famous opposition to _The Life and Death of Colonel Blimp_ has probably done most to crystallise the image of Powell and Pressburger’s wartime epic as a subversive thrust at the military establishment. Interestingly enough, in the ‘Blimp file’ of official correspondence on the subject, opposition from all government agencies is fiercest at the production stage, when the reasons are necessarily theoretical – mainly that the film was going to resurrect ‘an imaginary type of Army officer which has become an object of ridicule to the general public’. Once the film is completed, the opposition fades, to the point where even the Minister of Information decides that it is ‘too boring’ to do any damage except to the people who made it. Only Churchill (and there is no indication that he even saw it) continues to worry away at the film throughout 1943, seized with an _idée fixe_ that in the end makes him seem an ideal Powell-Pressburger character himself, one who found in the film (or his image of it) the proper sporting ground for his bulldog temperament.
@@ -102,38 +102,86 @@ UK 1943<br>
 163 mins
 
 *Uncredited<br>
+
+New 35mm – A BFI National Archive print (Sun 29 Oct and Sun 5 Nov) & Digital (Thu 23 Nov and Sun 26 Nov)
+
+With introduction by Kevin and Andrew Macdonald (Sun 29 Oct) & pre-recorded intro by Stephen Fry (Sun 26 Nov)
+
+_The Life and Death of Colonel Blimp_ is one of a selection of classic titles presented on brand new 35mm prints, made by the BFI with funding from the National Lottery and the additional support of donors to our Keep Film on Film campaign. 
+
+Restored by the Academy Film Archive in association with the BFI, ITV Studios Global Entertainment Ltd., and The Film Foundation. Restoration funding provided by The Material World Charitable Foundation, The Louis B Mayer Foundation, Cinema per Roma Foundation, and 
+The Film Foundation. Supported by Simon and Harley Hessel. Restoration consultants: Martin Scorsese & Thelma Schoonmaker Powell.
 <br>
 
-**BIG SCREEN CLASSICS**<br>
-**L’Argent (Money)**<br>
-Mon 1 May 13:30; Sat 6 May 15:40; Sat 27 May 20:40; Tue 30 May 18:10<br>
-**The Seventh Seal (Det sjunde inseglet)**<br>
-Tue 2 May 20:40; Sat 6 May 12:30; Mon 22 May 20:45; Thu 25 May 14:30<br>
-**The Magnificent Ambersons**<br>
-Wed 3 May 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Mon 15 May 20:40<br>
-**The Discreet Charm of the Bourgeoisie (Le Charme discret de la bourgeoisie)**<br>
-Thu 4 May 20:55; Tue 16 May 20:40; Wed 31 May 18:10 (+ intro)<br>
-**The River**<br>
-Fri 5 May 20:45; Mon 8 May 13:20; Sat 13 May 18:10<br>
-**The Wild Bunch**<br>
-Sat 6 May 20:10; Sun 14 May 18:00; Mon 29 May 18:00<br>
-**Greed**<br>
-Sun 7 May 12:50; Sun 14 May 15:00<br>
-**Le Jour se lève (Daybreak)**<br>
-Tue 9 May 20:50; Thu 11 May 18:30; Sat 13 May 20:30; Wed 24 May 18:15 (+ intro)<br>
-**Persepolis**<br>
-Wed 10 May 18:15 (+ intro); Tue 23 May 18:20; Sat 27 May 18:10<br>
-**The Big City (Mahanagar)**<br>
-Fri 12 May 20:30; Sat 20 May 15:00; Sun 28 May 12:50<br>
-**Still Walking (Aruitemo Aruitemo)**<br>
-Mon 15 May 14:00 (+ intro); Thu 18 May 18:10; Sun 21 May 15:40; Fri 26 May 20:30<br>
-**Dance, Girl, Dance**<br>
-Tue 16 May 18:20; Sat 27 May 16:00<br>
-**Scarface**<br>
-Wed 17 May 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 19 May 20:30; Mon 29 May 13:40<br>
-**The Life and Death of Colonel Blimp**<br>
-Sat 20 May 19:50; Mon 29 May 13:00<br>
+**CINEMA UNBOUND: THE CREATIVE WORLDS OF POWELL + PRESSBURGER**<br>
+**Rynox + Hotel Splendide**<br>
+Mon 16 Oct 18:10; Fri 10 Nov 18:10<br>
+**A Matter of Life and Death**<br>
+Mon 16 Oct 20:45 (+ intro by Thelma Schoonmaker and Kevin Macdonald); Sun 29 Oct 12:10; Sat 4 Nov 15:00; Tue 7 Nov 18:10 (+ intro by academic Lucy Bolton); Sun 19 Nov 18:30<br>
+**Farewell (Abschied)**<br>
+Tue 17 Oct 18:40 (+ intro by filmmaker Kevin Macdonald); Wed 1 Nov 20:40<br>
+**His Lordship**<br>
+Tue 17 Oct 20:50; Sat 4 Nov 12:20<br>
+**The Fire Raisers**<br>
+Wed 18 Oct 18:40; Sat 11 Nov 12:30<br>
+**Black Narcissus**<br>
+Wed 18 Oct 20:50; Sun 22 Oct 18:30; Wed 8 Nov 18:15; Sun 12 Nov 18:50; Thu 16 Nov 20:50; Sat 18 Nov 20:50; Mon 20 Nov 20:45 (+ intro by author Mahesh Rao)<br>
+**The Edge of the World + Return to the Edge of the World**<br>
+Fri 20 Oct 18:20; Wed 8 Nov 20:30; Wed 15 Nov 20:50<br>
+**The Thief of Bagdad: An Arabian Fantasy in Technicolor (aka The Thief of Bagdad)**<br>
+Fri 20 Oct 20:30; Tue 24 Oct 14:40; Sat 28 Oct 15:00; Sun 26 Nov 12:00<br>
+**The Spy in Black + Smith**<br>
+Sat 21 Oct 15:30; Sun 29 Oct 15:30 (+ intro by Bryony Dixon, BFI National Archive Curator)<br>
+**The Boy Who Turned Yellow + Heavenly Puss**<br>
+Sun 22 Oct 12:00<br>
+**49th Parallel**<br>
+Sun 22 Oct 12:20; Mon 6 Nov 20:30<br>
+**One of Our Aircraft Is Missing!**<br> 
+Sun 22 Oct 15:10; Tue 31 Oct 20:40 (+ intro by film historian Ian Christie)<br>
+**Contraband**<br>
+Mon 23 Oct 17:50 (+ intro by Miranda Gower-Qian, BFI Inclusion Lead); Mon 30 Oct 20:30<br>
+**Red Ensign + The Night of the Party**<br>
+Tue 24 Oct 20:30; Sun 5 Nov 14:40<br>
+**A Canterbury Tale**<br> 
+Wed 25 Oct 20:20 (+ intro by academic Thirza Wakefield); Sat 11 Nov 14:50; Fri 24 Nov 20:35<br>
+**Library Talk:  The interior life of an archive: an evening with the Michael Powell Collection**<br> 
+Mon 27 Nov 18:00<br>
+**The Elusive Pimpernel**<br> 
+Sat 28 Oct 12:20; Mon 13 Nov 18:00 (+ intro by Bryony Dixon, BFI National Archive Curator)<br>
+**Gone to Earth**<br>
+Sat 28 Oct 18:20; Wed 22 Nov 20:45; Sat 25 Nov 17:50<br>
+**Silent Cinema: The Magician + The Riviera Revels + intro by Bryony Dixon, BFI National Archive Curator**<br>
+Sun 29 Oct 15:00<br>
+**The Life and Death of Colonel Blimp**<br> 
+Sun 29 Oct 17:20 (+ intro by Kevin and Andrew Macdonald); Sun 5 Nov 17:45; Thu 23 Nov 17:45; Sun 26 Nov 14:00 (+ pre-recorded intro by Stephen Fry)<br>
+**Paths to Partnership: Powell + Pressburger before The Archers**<br>
+Tue 31 Oct 18:30<br>
+**Projecting the Archive: The Queen’s Guards + intro by Josephine Botting, BFI National Archive Curator**<br>
+Thu 2 Nov 18:20<br>
+**Twice upon a Time**<br>
+Mon 6 Nov 18:10 + extended intro by James Bell, BFI National Archive Senior Curator<br>
+**Talk: Philosophical Screens: A Matter of Life and Death**<br>
+Tue 7 Nov 20:20<br>
+**Talk: Centre Stage: The Leading Women of Powell + Pressburger**<br>
+Thu 16 Nov 18:20<br>
+**Ill Met by Moonlight**<br>
+Fri 17 Nov 20:40; Sat 25 Nov 12:40<br>
+**The Battle of the River Plate**<br>
+Sat 18 Nov 18:20; Mon 27 Nov 20:30<br>
+**Behold a Pale Horse**<br>
+Sun 19 Nov 11:50 Wed 22 Nov 17:50<br>
+**The Wild Heart**<br>
+Sun 19 Nov 15:10<br>
+**Miracle in Soho**<br>
+Mon 20 Nov 18:10; Sun 26 Nov 18:30<br>
+
+**Course: The Magic of Powell + Pressburger**<br>
+Wed 25 Oct to Wed 22 Nov 18:30<br>
 <br>
+
+**With thanks to**
+<img style="float: left;" src="/img/film-foundation-itv-park-circus-logos-02.png"><br><br><br><br><br><br><br><br>
+
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -154,7 +202,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
