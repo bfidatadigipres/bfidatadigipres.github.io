@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wings of Desire
-published: false
+published: true
 date: 2023-10-27
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
