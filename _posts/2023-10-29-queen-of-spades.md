@@ -6,7 +6,7 @@ date: 2023-10-29
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'UK 1949, 95 mins<br> Director: <Thorold Dickinson'
+metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
 pdf: '2023-10-29-queen-of-spades.pdf'
 ---
 
