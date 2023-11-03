@@ -6,8 +6,8 @@ date: 2023-11-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Comedy]
-metadata: 'UK 1949, 95 mins<br> Director: Thorold Dickinson'
-pdf: '2023-10-29-queen-of-spades.pdf'
+metadata: 'USA/Germany 2014, 100 mins<br> Director: Wes Anderson'
+pdf: '2023-11-03-grand-budapest-hotel.pdf'
 ---
 
 ‘His world had vanished long before he entered it,’ the aged owner of the Grand Budapest Hotel, Mr Moustafa (F. Murray Abraham), tells the Author (Jude Law), ‘but he certainly sustained the illusion with a marvellous grace.’ He’s recalling his predecessor and mentor, legendary hotel concierge M. Gustave (Ralph Fiennes), who in the pre-war period ran the hotel with impeccable control, style and suavity. But much the same could be said of Wes Anderson, who, inspired by the illustrative work of his co-screenwriter Hugo Guinness and the writings of Stefan Zweig, has created an intricate fairytale vision of the world of Middle Europe as it probably never was but perhaps should have been before at least one and possibly both world wars. Anderson has always striven to devise alternative universes of his own; _The Grand Budapest Hotel_ is his most complete fabrication yet, a fanatically and fantastically detailed, sugar-iced, calorie-stuffed, gleefully overripe Sachertorte of a film. According to taste, it will likely either enchant or cloy; but for those prepared to surrender to its charms, the riches on offer – both visual and narrative – are considerable.
