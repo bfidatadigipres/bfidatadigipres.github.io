@@ -6,7 +6,7 @@ date: 2023-11-10
 readtime: true
 categories: ['PREVIEW']
 tags: [Drama, Horror]
-metadata: 'UK 2022, 96 mins<br> Joanna Hogg'
+metadata: 'UK 2022, 96 mins<br> Director: Joanna Hogg'
 pdf: '2023-11-10-eternal-daughter-qa.pdf'
 ---
 
