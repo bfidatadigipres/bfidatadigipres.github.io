@@ -4,7 +4,7 @@ title: Resurrected
 published: true
 date: 2023-11-11
 readtime: true
-categories: ['TARA PREM: REPRESENTING THE UNSEEN']
+categories: ['TARA PREM<br>REPRESENTING THE UNSEEN']
 tags: [Drama]
 metadata: 'UK 1989, 96 mins<br> Director: Paul Greengrass'
 pdf: '2023-11-11-resurrected.pdf'
