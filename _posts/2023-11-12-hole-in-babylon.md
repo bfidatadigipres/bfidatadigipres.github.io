@@ -4,7 +4,7 @@ title: A Hole in Babylon
 published: true
 date: 2023-11-12
 readtime: true
-categories: [POWER TO THE PEOPLE<br> HORACE OVÉ’S RADICAL VISION]
+categories: [POWER TO THE PEOPLE<br>HORACE OVÉ’S RADICAL VISION]
 tags: [Drama]
 metadata: 'UK 1975, 125 mins<br> Director: Horace Ové'
 pdf: '2023-11-12-hole-in-babylon.pdf'
