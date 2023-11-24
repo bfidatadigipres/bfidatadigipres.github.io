@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Eternal Daughter
-published: false
+published: true
 date: 2023-11-24
 readtime: true
 categories: ['NEW RELEASES']
