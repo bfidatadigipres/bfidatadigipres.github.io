@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lazybones + Her Last Affaire
+title: Lazybones +<br> Her Last Affaire
 published: false
 date: 2023-12-02
 readtime: true
