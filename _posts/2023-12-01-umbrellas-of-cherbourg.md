@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Umbrellas of Cherbourg
-published: true
-date: 2022-09-08
+published: false
+date: 2023-12-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Musical, Romance, Drama]
-metadata: 'France/West Germany 1964, 93 mins<br> Director: Jacques Demy'
-pdf: '2022-09-08-umbrellas-of-cherbourg.pdf'
+metadata: 'France-West Germany 1964, 93 mins<br> Director: Jacques Demy'
+pdf: '2023-12-01-umbrellas-of-cherbourg.pdf'
 ---
 
 _Les Parapluies de Cherbourg_ enjoys a legendary place as an all-but-unique curiosity in French cinema – the film for which the epithet ‘bittersweet’ was invented, less a musical (though French examples of that genre are rare enough) than an operetta in which everything is sung and there is not a line of spoken dialogue, a richly-coloured feast for celluloid chocaholics. Reviewing the film after many years, however, what is striking is not so much its uniqueness as its intersection with other French films of the _nouvelle vague_ years – not only Demy’s _Lola_ of three years previously (in which Roland Cassard makes his first appearance) but also works that dealt with the impact of the Algerian War on French society. Agnès Varda (Demy’s wife) had counterpointed the suffering of an individual woman to the drama of the call-up in _Cléo de 5 a 7_ the previous year, and Resnais did likewise, though in a totally different way, in _Muriel_ released in the same year as _Les Parapluies_. The addressing of a major political problem through a drama of lost love had of course been most memorably broached by Resnais and Duras in _Hiroshima mon amour_ of 1959, and the rigours of Gaullist censorship had ensured that that was one of the few comparatively safe ways for the cinema to address Algeria.
@@ -96,41 +96,44 @@ Jacques Demy _(singing voice of distracted customer/barman)_ *
 
 France/West Germany 1964  
 93 mins  
+Digital
 
 \* Uncredited  
 <br>
 
 **BIG SCREEN CLASSICS**  
-**Lift to the Scaffold (Ascenseur pour l’échafaud)**  
-Thu 1 Sep 18:30; Thu 15 Sep 20:55; Sun 18 Sep 15:50; Wed 21 Sep 21:00; Tue 27 Sep 21:00  
-**Do the Right Thing**  
-Fri 2 Sep 20:40; Sat 24 Sep 20:40; Wed 28 Sep 18:00 + intro by freelance writer and producer Kaleem Aftab  
-**Wild Strawberries (Smultronstället)**  
-Sat 3 Sep 16:00; Fri 9 Sep 14:30; Tue 13 Sep 18:10; Sat 17 Sep 12:30  
-**Psycho**  
-Sat 3 Sep 20:45; Sun 11 Sep 15:40; Thu 15 Sep 14:30; Tue 4 Oct 18:30  
-**The Enigma of Kaspar Hauser (Jeder für sich und Gott gegen alle)**  
-Sun 4 Sep13:20; Fri 9 Sep 20:45; Tue 13 Sep 20:30  
-**In a Lonely Place**  
-Sun 4 Sep 16:00; Wed 14 Sep 18:15 + intro by Geoff Andrew, Programmer at Large; Fri 23 Sep 18:00; Wed 28 Sep 20:50  
-**The Bride Wore Black (La Mariée était en noir)**  
-Mon 5 Sep 20:50; Fri 30 Sep 18:10; Mon 3 Oct 17:50  
-**Accident**  
-Tue 6 Sep 20:40; Sun 11 Sep 13:10; Tue 20 Sep 17:50  
-**Ratcatcher**  
-Wed 7 Sep 18:15 + intro by Catharine Des Forges, Director of the Independent Cinema Office; Sat 17 Sep 18:00; Thu 29 Sep 21:00  
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**  
-Thu 8 Sep 20:45; Mon 12 Sep 14:30; Mon 19 Sep 20:45; Sun 25 Sep 15:30  
-**Letter from an Unknown Woman**  
-Sat 10 Sep 12:30; Wed 14 Sep 14:30; Wed 21 Sep 18:00 + intro by Geoff Andrew, Programmer at Large  
-**The Motorcycle Diaries (Diarios de motocicleta)**  
-Sat 10 Sep 18:00; Sat 17 Sep 14:45  
-**Cleo from 5 to 7 (Cléo de 5 à 7)**  
-Tue 13 Sep 14:30; Fri 16 Sep 18:00; Tue 20 Sep 20:50; Sat 1 Oct 12:30  
-**Fargo**  
-Thu 22 Sep 20:55; Sat 1 Oct 18:00  
-**Last Year in Marienbad (L’Année dernière à Marienbad)**  
-Mon 26 Sep 20:50; Sun 2 Oct 12:45; Tue 4 Oct 20:40
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
+**The Shop around the Corner**<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
+<br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -145,6 +148,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
