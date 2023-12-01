@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lazybones +<br> Her Last Affaire
-published: false
+published: true
 date: 2023-12-02
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
