@@ -2,20 +2,17 @@
 layout: post
 title: The Passenger
 published: true
-date: 2023-04-05
+date: 2023-12-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
-metadata: 'Italy/France/Spain/USA 1974, 129 mins<br> Director: Michelangelo Antonioni'
-pdf: '2023-04-05-passenger.pdf'
+metadata: 'Italy-France-Spain-USA 1974, 126 mins<br> Director: Michelangelo Antonioni'
+pdf: '2023-12-02-passenger.pdf'
 ---
 
+_The screening on Saturday 2 December will include a pre-recorded introduction by Jason Wood, BFI Executive Director of Public Programmes & Audiences_
+
 **SPOILER WARNING** The following notes give away the film’s ending.
-
-_+ intro by Geoff Andrew, Programmer-at-Large (Wednesday 5 April only)_
-
-Imaginatively scripted by Mark People and Peter Wollen, Antonioni’s last great film centres on a TV reporter (Nicholson) who impulsively decides to exchange identities with a man he finds dead in a north African hotel room – a man, fatefully, whom he barely knows… A wry portrait of a burnt-out case hoping to find a new life for himself, packed with memorable directorial flourishes.  
-**bfi.org.uk**  
 
 Michelangelo Antonioni is, to say the least, not widely recognised as a humorous director. But _The Passenger_ (1975) – in which a man hijacks another’s identity on impulse, knowing next to nothing about him, then spends the rest of the film trying to work out who he’s supposed to be and what he’s supposed to be doing – can be read as existential black comedy of the most deadpan kind.
 
@@ -87,40 +84,37 @@ Jean-Baptiste Tiemele _(murderer)_
 Angel del Pozo _(police inspector)_  
 Chuck Mulvehill _(David Robertson)_  
 
-Italy/France/Spain/USA 1974©  
-129 mins  
+Italy-France-Spain-USA 1974©  
+126 mins  
 <br>
 
 **BIG SCREEN CLASSICS**  
-**Touch of Evil**  
-Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45  
-**Wild Strawberries (Smultronstället)**  
-Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30  
-**To Sleep with Anger + Borom Sarret (The Wagoner)**  
-Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00  
-**Rio Bravo**  
-Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20  
-**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**  
-Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15  
-**Last year in Marienbad (L’Année dernière à Marienbad)**  
-Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45  
-**La Grande Illusion**  
-Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15  
-**The Godfather Part II**  
-Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30  
-**Nashville**  
-Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30  
-**The Passenger (Professione: reporter)**  
-Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10  
-**Pickpocket**  
-Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50  
-**The Portrait of a Lady**  
-Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15  
-**Code Unknown (Code inconnu)**  
-Sun 9 Apr 15:45; Wed 26 Apr 18:15  
-**The Lady Eve**  
-Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15  
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
+**The Shop around the Corner**<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
 <br>
+
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
