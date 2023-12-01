@@ -2,12 +2,12 @@
 layout: post
 title: After Life
 published: true
-date: 2021-12-01
+date: 2023-12-03
 readtime: true
-categories: ['JAPAN 2021<br>100 YEARS OF JAPANESE CINEMA']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Japan 1998, 118 mins<br> Director: Hirokazu Koreeda'
-pdf: '2021-12-01-after-life.pdf'
+pdf: '2023-12-03-after-life.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -135,77 +135,44 @@ Kazuyuki Haneda
 Kaoru Mashimo<br>
 
 Japan 1998<br>
-118 mins<br>
+118 mins  
+Digital
+<br>
 <br>
 
-**JAPAN 2021**<br>
-**100 YEARS OF JAPANESE CINEMA**<br>
-**After Life (Wandafuru raifu)**  
-Wed 1 Dec 18:10; Fri 10 Dec 20:40; Mon 13 Dec 20:40; Wed 29 Dec 14:20  
-**In the Realm of the Senses (Ai no corrida)**  
-Wed 1 Dec 20:50; Sat 11 Dec 20:45; Wed 22 Dec 18:20  
-**Funeral Parade of Roses (Bara no sôretsu)**  
-Thu 2 Dec 18:00 (+ pre-recorded intro by Professor Mitsuyo Wada-Marciano, Kyoto University); Tue 14 Dec 14:30; Mon 27 Dec 15:50  
-**The Shifting Spaces of Modern Japanese Cinema**  
-Thu 2 Dec 20:40  
-**Woman of the Dunes (Suna no Onna)**  
-Fri 3 Dec 18:00 (+ intro by Espen Bale, BFI National Archive); Sat 18 Dec 17:30  
-**Tokyo Drifter (Tôkyô nagaremono)**  
-Fri 3 Dec 20:50; Thu 23 Dec 18:30  
-**Black Rain (Kuroi ame)**  
-Sat 4 Dec 17:50; Tue 28 Dec 18:15  
-**Straits of Hunger (aka A Fugitive from the Past) (Kiga kaikyô)**  
-Sun 5 Dec 16:30; Sat 18 Dec 14:30  
-**Woman of the Lake (Onna no mizûmi)**  
-Mon 6 Dec 18:00; Wed 15 Dec 20:50  
-**Silence Has No Wings (Tobenai chinmoku)**  
-Mon 6 Dec 20:55; Wed 15 Dec 18:00  
-**The Long Darkness (Shinobugawa)**  
-Wed 8 Dec 20:40; Sun 19 Dec 12:40  
-**Pale Flower (Kawaita hana)**  
-Thu 9 Dec 18:00; Sun 19 Dec 18:20  
-**Death By Hanging (Kôshikei)**  
-Fri 10 Dec 17:50; Fri 17 Dec 18:00  
-**Muddy River (Doro no kawa)**  
-Sun 12 Dec 11:50 (+ intro by season co-programmer Alexander Jacoby); Thu 23 Dec 20:40  
-**The Demon (Kichiku)**  
-Sun 12 Dec 14:50 (+ intro by season co-programmer Alexander Jacoby); Sun 19 Dec 16:00  
-**The Man Who Stole the Sun (Taiyô wo nusunda otoko)**  
-Sun 12 Dec 18:00; Thu 16 Dec 20:10  
-**Tampopo**  
-Mon 13 Dec 18:00 (+ intro by Catherine Wheatley, King’s College London); Fri 17 Dec 20:45; Tue 28 Dec 15:10  
-**Philosophical Screens: Tampopo**  
-Mon 13 Dec 20:15 Blue Room  
-**The Emperor’s Naked Army Marches On (Yuki Yukite, Shingun)**  
-Sat 18 Dec 11:40; Mon 27 Dec 18:20  
-**Moving (Ohikkoshi)**  
-Sat 18 Dec 20:35; Wed 29 Dec 20:30  
-**Fire Festival (Himatsuri)**  
-Mon 20 Dec 17:50; Mon 27 Dec 13:20  
-**Suzaku (Moe No Suzaku)**  
-Tue 21 Dec 17:45; Thu 30 Dec 21:00  
-**Shall We Dance? (Shall we dansu?)**  
-Tue 21 Dec 20:30; Thu 30 Dec 17:40  
-**Love Letter**  
-Wed 22 Dec 20:50; Tue 28 Dec 12:10  
-
-**Supported by**  
-<img style="float: left;" src="/img/Grand Seiko.png">
-<br><br><br><br><br><br><br><br><br>
-
-**In partnership wtih**  
-<img style="float: left;" src="/img/Japan Foundation.JPG" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br>
+**BIG SCREEN CLASSICS**  
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
+**The Shop around the Corner**<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
+<br>
 
 
-**With special thanks to**
-<img style="float: left;" src="/img/NFAJ.png">
-<br><br><br><br><br><br><br><br><br><br><br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-
-**With the kind support of:**<br>
-Janus Films/The Criterion Collection, Kadokawa Corporation, Kawakita Memorial Film Institute, Kokusai Hoei Co. Ltd, Nikkatsu Corporation, Toei Co. Ltd<br>
-
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -220,6 +187,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
