@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Five Easy Pieces
-published: false
+published: true
 date: 2023-12-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
