@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Strange Days
-published: false
+published: true
 date: 2023-12-05
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
