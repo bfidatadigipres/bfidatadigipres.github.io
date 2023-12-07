@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Peeping Tom
-published: false
+published: true
 date: 2023-12-07
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
@@ -163,6 +163,9 @@ Fri 22 Dec 20:45; Wed 27 Dec 18:15
 Sat 23 Dec 15:00 BFI IMAX  
 **Black Narcissus**  
 Sat 30 Dec 14:30 BFI IMAX  
+<br>
+**The Red Shoes: Beyond the Mirror**
+Our new BFI Southbank exhibition immerses you in Powell and Pressburger’s _The Red Shoes_. From 10 November to 7 January. Blue Room  
 <br>
 
 **With thanks to**
