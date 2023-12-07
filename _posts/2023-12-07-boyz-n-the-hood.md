@@ -2,16 +2,13 @@
 layout: post
 title: Boyz N the Hood
 published: true
-date: 2023-06-03
+date: 2023-12-07
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Crime, Drama]
 metadata: 'USA 1991, 112 mins<br> Director: John Singleton'
-pdf: '2023-06-03-boyz-n-the-hood.pdf'
+pdf: '2023-12-07-boyz-n-the-hood.pdf'
 ---
-
-With so much of John Singleton’s film raging against the curtailing of life, it was painful to read of his sudden death, aged just 51. His first feature is still powerful and relevant as it follows Tre (Cuba Gooding Jr.) in his mission to leave LA’s Crenshaw ghetto. Charting the despair and tit-for-tat reality of gang life, it also gave Ice Cube a belter of a role as Doughboy, and a place on the soundtrack. Laurence Fishburne and Angela Bassett also make their mark as Tre’s parents, fully committed to a future for which they must fight.  
-**bfi.org.uk**  
 
 _‘One out of every twenty-one Black American males will be murdered in their lifetime. Most will die at the hands of another Black male.’_
 
@@ -124,37 +121,36 @@ Gerard Williams _(utility stunt 2)_
 
 USA 1991©  
 112 mins  
+Digital<br>
 <br>
+
 **BIG SCREEN CLASSICS**  
-**The 400 Blows (Les Quatre cents coups)**  
-Thu 1 Jun 18:20; Tue 13 Jun 20:30  
-**The Big Lebowski**  
-Fri 2 Jun 20:30; Sat 17 Jun 18:10  
-**La dolce vita**  
-Sat 3 Jun 17:00; Tue 13 Jun 13:30; Sun 18 Jun 17:30  
-**Boyz N the Hood**  
-Sat 3 Jun 20:40; Fri 30 Jun 18:10  
-**Vertigo**  
-Sun 4 Jun 15:30; Tue 20 Jun 20:40  
-**Bicycle Thieves (Ladri di biciclette)**  
-Mon 5 Jun 20:45; Fri 16 Jun 20:40; Sat 24 Jun 12:00  
-**The Third Man**  
-Tue 6 Jun 20:40; Wed 21 Jun 18:10 (+ intro); Sun 25 Jun 12:30  
-**The Long Goodbye**  
-Wed 7 Jun 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jun 20:35  
-**Cleo from 5 to 7 (Cléo de 5 à 7)**  
-Mon 12 Jun 21:00; Thu 29 Jun 18:30  
-**Of Time and the City**  
-Wed 14 Jun 18:30 (+ intro); Thu 22 Jun 20:50  
-**Taxi Driver**  
-Sun 18 Jun 18:30; Fri 23 Jun 20:45  
-**Get Carter**  
-Mon 19 Jun 18:20; Mon 26 Jun 20:45  
-**La Haine**  
-Wed 21 Jun 21:00; Sat 24 Jun 20:40; Wed 28 Jun 18:15 (+ intro)  
-**Don’t Look Now**  
-Sat 24 Jun 16:00; Fri 30 Jun 20:45  
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
+**The Shop around the Corner**<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
 <br>
+
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
@@ -175,7 +171,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by Sight and Sound & the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 <!--stackedit_data:
