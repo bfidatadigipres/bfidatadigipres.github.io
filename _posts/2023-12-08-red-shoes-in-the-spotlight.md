@@ -6,7 +6,7 @@ date: 2023-12-08
 readtime: true
 categories: ['CINEMA UNBOUND<br>THE CREATIVE WORLDS OF POWELL + PRESSBURGER']
 tags: [Talk]
-metadata 
+metadata:
 pdf: '2023-12-08-red-shoes-in-the-spotlight.pdf'
 ---
 
