@@ -6,7 +6,7 @@ date: 2023-12-09
 readtime: true
 categories: ['HARRY BELAFONTE<br>MOVIES RACE DEFIANCE']
 tags: [Crime, Drama]
-metadata: 'USA/1996, 115 mins<br> Director: Robert Altman'
+metadata: 'USA/France 1996, 115 mins<br> Director: Robert Altman'
 pdf: '2023-12-09-kansas-city.pdf'
 ---
 
