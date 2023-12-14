@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Shop around the Corner
-published: true
-date: 2021-12-03
+published: false
+date: 2023-12-15
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Comedy, Romance]
 metadata: 'USA, 1940, 99 mins<br> Director: Ernst Lubitsch'
-pdf: '2021-12-03-shop-around-the-corner.pdf'
+pdf: '2023-12-15-shop-around-the-corner.pdf'
 ---
 
 Ernst Lubitsch grew up in Berlin as the son of the Russian Jewish émigré owner of a dressmaking company. He knew the world of shops and they feature often in his films. Perhaps witnessing the patter of his father’s employees – the centrality of role play to the life of a salesman – encouraged the young Lubitsch to play roles, and drew him towards acting as a profession. Before he became a director, he was a successful self-mocking character actor, first on the German stage for Max Reinhardt and later in films. That he should end up in Hollywood seems a natural progression for a Jewish sophisticate trying to escape his trade roots.
@@ -69,52 +69,45 @@ Mabel Colcord _(Aunt Anna)_ *<br>
 Claire DuBrey, Ruth Warren, Joan Blair,  Mira McKinney, Gertrude Simpson _(customers)_ *<br>
 
 USA 1940©<br>
-99 mins
+99 mins  
+Digital
 
 *Uncredited
-
-A BFI release
-
-The screening on Fri 3 Dec 18:10 will feature a  pre-recorded introduction by Geoff Andrew, Programmer-at-Large
 <br><br>
 
-**NEW & RE-RELEASES**<br>
-**Petite Maman**<br>
-Continues from Fri 26 Nov<br>
-**Rebel Dykes**<br>
-Continues from Fri 26 Nov<br>
+**BIG SCREEN CLASSICS**  
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
 **The Shop around the Corner**<br>
-From 3 December<br>
-**Swan Song**<br>
-From Fri 17 Dec<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
 <br>
 
-**BIG SCREEN CLASSICS**<br>
-**The Apartment**<br>
-Wed 1 Dec 18:00 (+ pre-recorded intro by critic and improviser Tara Judah); Mon 13 Dec 14:30; Wed 22 Dec 20:40; Tue 28 Dec 18:10; Thu 30 Dec 20:30<br>
-**Remember the Night**<br>
-Thu 2 Dec 14:30; Mon 27 Dec 13:00; Thu 30 Dec 18:00<br>
-**Meet Me in St Louis**<br>
-Fri 3 Dec 20:45; Sun 19 Dec 12:20; Wed 22 Dec 18:00; Tue 28 Dec 12:20<br>
-**Miracle on 34th Street**<br>
-Sat 4 Dec 15:50; Sat 11 Dec 18:00; Fri 17 Dec 14:30<br>
-**A Christmas Tale (Un conte de Noël)**<br>
-Sun 5 Dec 17:50; Tue 28 Dec 15:15<br>
-**Scrooge (aka A Christmas Carol)**<br>
-Mon 6 Dec 18:30; Thu 16 Dec 21:00; Fri 17 Dec 18:20; Sat 18 Dec 18:10; Sun 19 Dec 15:40; Mon 20 Dec 18:10; Tue 21 Dec 14:30<br>
-**Tim Burton’s The Nightmare Before Christmas**<br>
-Tue 7 Dec 18:30; Sat 11 Dec 16:00; Tue 21 Dec 21:00; Thu 23 Dec 20:45<br>
-**Gremlins**<br>
-Wed 8 Dec 17:50 (+ intro by Justin Johnson, Lead Programmer); Sat 18 Dec 20:45; Wed 22 Dec 20:45; Wed 29 Dec 20:50<br>
-**Bad Santa**<br>
-Fri 10 Dec 20:45; Mon 13 Dec 20:50; Fri 17 Dec 21:00<br>
-**It’s a Wonderful Life**<br>
-From Sun 12 Dec – Thu 23 Dec<br>
-**Tokyo Godfathers (Tokyo goddofazazu)**<br>
-Tue 14 Dec 20:45; Mon 20 Dec 20:45<br>
-**Carol**<br>
-Wed 15 Dec 17:50; Mon 27 Dec 18:00; Thu 30 Dec 14:20<br>
-<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -129,7 +122,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
