@@ -1,19 +1,16 @@
 ---
 layout: post
 title: Fanny and Alexander
-published: true
-date: 2022-12-02
+published: false
+date: 2023-12-23
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
-metadata: 'Sweden/France/Germany 1982, 189 mins<br> Director: Ingmar Bergman'
-pdf: '2022-12-02-fanny-and-alexander.pdf'
+metadata: 'Sweden-France-Germany 1982, 189 mins<br> Director: Ingmar Bergman'
+pdf: '2023-12-23-fanny-and-alexander.pdf'
 ---
 
-**SPOILER WARNING** The following notes give away some of the plot.
-
-Partly autobiographical, partly a summation of his abiding themes, Fanny and Alexander is one of Ingmar Bergman’s most celebrated achievements. Set in the early 1900s, it focuses on the Ekdahls, an extended, well-off family running an Uppsala theatre; their ups and downs are seen primarily through the imaginative eyes of young Alexander – a Bergman surrogate – and his sister Fanny. Though it deals, characteristically, with fraught relationships, fear and mortality, puritanical religion and moral dilemma, the film is generally lighter in tone than most of his work, succeeding as a warmly nostalgic tale of cruelty overcome by supportive love. At the same time, playfully and wittily alluding to earlier Bergman films, it revels in the illusionism of art and life alike. Magic!  
-**Geoff Andrew, Programmer-at-large**  
+**SPOILER WARNING** The following notes give away some of the plot.  
 
 **A contemporary review**  
 Ingmar Bergman has declared that _Fanny and Alexander_ is to be his last film. There have, it should be noted, been previous last performances, and we shall have to wait and see whether this is absolutely and positively the not-so-old Magician’s last trick. If, however, it is, he could hardly have executed a more smiling, confident and sweeping valedictory bow. The proceedings open on Christmas Eve 1907 in an unnamed Swedish provincial town (there is, it transpires, a theatre, a cathedral, a university, a dark rushing river). Our hero, ten-year-old Alexander Ekdahl, is gazing dreamily through the proscenium of a toy theatre. We are then introduced to the sumptuous apartment of Alexander’s grandmother: the imagined, enclosed, ideal home of childhood. It is unmistakably framed as another theatre. The empty stage is soon awash with revelry: for sustained exuberance, as well as for a fluid grace suggesting space and liberating movement, Bergman has never done better. After the years of exile, one can hear the exhalation. The filmmaker is back home among his own people, happy in his own petit theatre.
@@ -49,26 +46,45 @@ Anna Bergman _(Miss Hanna Schwartz)_; Gunnar Björnstrand _(Filip Landahl)_; Mat
 **Jacobi’s House**  
 Erland Josephson _(Isak Jacobi)_; Stina Ekblad _(Ismael)_; Mats Bergman _(Aron)_; Viola Aberlé, Gerd Andersson, Ann-Louise Bergström _(Japanese ladies)_; Marie-Hélène Breillat  
 
-Sweden/France/Germany 1982  
+Sweden-France-Germany 1982  
 189 mins  
-
-A BFI release  
+Digital
+  
 <br>
 
-**RE-RELEASES**  
-**Fanny and Alexander (Fanny och Alexander)**  
-From Fri 2 Dec  
-**The Queen of Spades**  
-From Fri 23 Dec  
-
-**NEW RELEASES**  
-**Lynch/Oz**  
-From Fri 2 Dec  
-**Bones and All**  
-From Fri 2 Dec  
-**Corsage**  
-From Tue 27 Dec  
+**BIG SCREEN CLASSICS**  
+**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**<br>
+Fri 1 Dec 14:40; Wed 13 Dec 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 17 Dec 18:45; Wed 20 Dec 20:55<br>
+**The Passenger**<br>
+Sat 2 Dec 20:20 (+ pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences); Sun 10 Dec 15:45; Wed 27 Dec 17:50<br>
+**After Life (Wandafuru Ralfu)**<br>
+Sun 3 Dec 12:45; Tue 12 Dec 17:15; Wed 27 Dec 14:40; Sat 30 Dec 20:20<br>
+**My Night with Maud (Ma Nuit chez Maud)**<br>
+Mon 4 Dec 18:15; Thu 14 Dec 20:50; Thu 28 Dec 18:15<br>
+**Five Easy Pieces**<br>
+Tue 5 Dec 14:30; Sat 9 Dec 20:55; Tue 19 Dec 18:15; Fri 29 Dec 18:20<br>
+**White Material**<br>
+Wed 6 Dec 18:10 (+ intro by film curator Abiba Coulibaly); Fri 29 Dec 20:45<br>
+**Boyz N the Hood**<br>
+Thu 7 Dec 20:35; Sat 16 Dec 18:15; Sat 23 Dec 20:40<br>
+**Meet Me in St Louis**<br>
+Fri 8 Dec 18:10 (+ intro by writer Richard Dyer); Wed 20 Dec 14:30; Thu 21 Dec 18:10; Sat 23 Dec 11:50<br>
+**It’s a Wonderful Life**<br>
+Wed 13 Dec 18:10; Sat 16 Dec 20:25; Mon 18 Dec 20:25; Wed 20 Dec 18:10; Fri 22 Dec 14:30, 20:25; Sat 23 Dec 18:10<br>
+**The Shop around the Corner**<br>
+Fri 15 Dec 18:20; Mon 18 Dec 14:30; Thu 21 Dec 20:45; Sat 30 Dec 12:20<br>
+**Remember the Night**<br>
+Sun 17 Dec 12:15; Tue 19 Dec 20:40<br>
+**Fanny and Alexander (Fanny och Alexander)**<br>
+Sat 23 Dec 14:20; Fri 29 Dec 13:30; Sat 30 Dec 13:00<br>
 <br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -83,6 +99,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
