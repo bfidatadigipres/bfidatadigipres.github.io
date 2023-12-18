@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year in a Field
-published: false
+published: true
 date: 2023-12-18
 readtime: true
 categories: ['RELAXED SCREENING']
