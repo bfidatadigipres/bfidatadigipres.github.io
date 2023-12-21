@@ -4,7 +4,7 @@ title: Charulata
 published: false
 date: 2024-01-02
 readtime: true
-categories: ['Big Screen Classics']
+categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
 metadata: 'India 1964, 117 mins<br> Director: Satyajit Ray'
 pdf: '2024-01-02-charulata.pdf'
