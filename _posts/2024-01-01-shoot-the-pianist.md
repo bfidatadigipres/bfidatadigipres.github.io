@@ -4,7 +4,7 @@ title: Shoot the Pianist
 published: false
 date: 2024-01-01
 readtime: true
-categories: ['Big Screen Classics']
+categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama]
 metadata: 'France 1960, 80 mins<br> Director: François Truffaut'
 pdf: '2024-01-01-shoot-the-pianist.pdf'
