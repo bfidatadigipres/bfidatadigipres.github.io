@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fata Morgana + The Great Ecstasy of Woodcarver Steiner
-published: false
+published: true
 date: 2024-01-01
 readtime: true
 categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
