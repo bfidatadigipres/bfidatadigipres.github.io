@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shoot the Pianist
-published: false
+published: true
 date: 2024-01-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
