@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Charulata
-published: false
+published: true
 date: 2024-01-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
