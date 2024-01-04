@@ -1,10 +1,10 @@
 ---
 layout: post
 title: The Lady from Shanghai
-published: false
+published: true
 date: 2024-01-04
 readtime: true
-categories: ['Big Screen Classics']
+categories: ['BIG SCREEN CLASSICS']
 tags:  [Drama, Film Noir, Crime]
 metadata: 'USA 1947, 87 mins<br> Director: Orson Welles'
 pdf: '2024-01-04-lady-from-shanghai.pdf'
