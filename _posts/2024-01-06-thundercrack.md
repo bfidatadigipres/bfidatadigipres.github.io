@@ -2,14 +2,13 @@
 layout: post
 title: Thundercrack!
 published: true
-date: 2021-08-21
+date: 2024-01-06
 readtime: true
-categories: ['EXPERIMENTA']
+categories: ['SCALA<br>SEX, DRUGS AND ROCK AND ROLL CINEMA']
 tags: [Sex, Experimental]
-metadata: 'USA 1975, 159 mins<br> Director: Curt McDowell'
-pdf: '2021-08-21-thundercrack.pdf'
+metadata: 'USA 1975, 158 mins<br> Director: Curt McDowell'
+pdf: '2024-01-06-thundercrack.pdf'
 ---
-_+ intro by Jane Giles, author of ‘Scala Cinema 1978-1993’_
 
 A great many Londoners of a certain age remember Curt McDowell’s notorious art/trash/porn crossover with genuine fondness. Made in 1975, it became a monthly staple at the legendary Scala Cinema in King’s Cross throughout the 1980s and early 1990s, usually double- or triple-billed with similarly outré fare by Stephen Sayadian (_Café Flesh_, 1982), Doris Wishman (_Let Me Die a Woman_, 1978) or Edward D. Wood Jr (_Glen or Glenda_, 1953), and attending it became something of a rite of passage for more adventurous cinephiles, who were best advised not to look too closely at what fellow audience members might be doing in neighbouring seats.
 
@@ -31,8 +30,7 @@ Its parodies and burlesques have been taken up second-hand from the cheaper schl
 
 _Thundercrack!_’s particular endeavour – splicing slapstick and hard-core sex scenes into a single viable package – descends directly from the costumed camp repertory of polysexual stage collectives like the Flaming Creatures, the Cockettes, the Cycle Sluts and Les Ballets Trockadero. In _Thundercrack!_, inflatable dolls, French ticklers, suction tubes, salamis, giant vibrators and dildos may conspire to make the viewer feel a relentless voyeur, but what really seals his fate is a pervasive sense that the cast – ripping through their wretched script at a frantic pace – seem to be having a slightly better, more stoned and way-out time than any spectator possibly could.<br>
 **Cynthia Rose, _Monthly Film Bulletin_, December 1980**<br>
-
-**Jane Giles** is a filmmaker and writer currently shooting a feature-length theatrical documentary based on her award-winning book _Scala Cinema 1978-1993_ (FAB Press). She was previously a film distributor and exhibitor at the BFI, ICA and Scala.<br>
+<br>
 
 **THUNDERCRACK!**<br>
 _Director_: Curt McDowell  
@@ -74,44 +72,57 @@ Pamela Primate _(‘Medusa’)_
 Margo O’Connor, Gael Sikula, Bernie Boyle, Billy Paradise _(guests at cocktail and wedding parties)_<br>
 
 USA 1975<br>
-159 mins<br>
+158 mins + interval<br>
+Digital<br><br>
 
 
-**REGULAR PROGRAMME**<br>
-**Experimenta: Thundercrack! + intro by Jane Giles, author of ‘Scala Cinema 1987-1993**<br>
-Sat 21 Aug 17:00<br>
-**Relaxed Screening:  Stand Clear of the Closing Doors**<br>
-Tue 24 Aug 18:00<br>
-**Woman with a Movie Camera: Preview: Souad  + pre-recorded Q&A with director Ayten Amin**<br>
-Tue 24 Aug 18:00<br>
-**Terror Vision: Dr Terror’s House of Horrors**<br>
-Thu 26 Aug 20:40<br>
-**Woman with a Movie Camera: UK Premiere: Copilot (Die Frau des Piloten) + Q&A with director Anne Zohra Berrached**<br>
-Mon 6 Sep 20:25<br>
-**African Odysseys: No Place Like Home (Redux) + Q&A with Justine Henzell**<br>
-Sat 11 Sep 14:00<br>
-**Seniors’ Free Matinee: The Fallen Idol  + intro and Q&A**<br>
-Mon 13 Sep 14:00<br>
-**Gallivant + intro by Eden and Andrew Kötting**<br>
-Sat 18 Sep 14:30<br>
-**Short Films by Eden and Andrew Kötting + Andrew Kötting in Conversation with film curator Gareth Evans**<br>
-Sat 18 Sep 18:00<br>
-**Projecting the Archive: Flesh and Blood +  
-intro by Jason Morell, actor and son of  
-Joan Greenwood**<br>
-Tue 21 Sep 18:10<br>
-**Art in the Making: Cinema Architecture and Atmosphere + discussion**<br>
-Thu 23 Sep 18:10<br>
-**Member Picks: Moonstruck**<br>
-Fri 24 Sep 18:05<br>
-**Silent Cinema: Nasty Women: A Comic Tribute  + intro by curator Bryony Dixon**<br>
-Sun 26 Sep 12:40<br>
-**Relaxed Screening: Seeing The Unseen  
-(Að sjá hið ósýnilega)**<br>
-Tue 28 Sep 18:00<br>
-**Terror Vision: Altered States**<br>
-Thu 30 Sep 21:00<br>
+**SCALA: SEX, DRUGS AND  ROCK AND ROLL CINEMA**<br>
+**Basket Case**<br>
+Mon 1 Jan 15:20; Thu 25 Jan 20:40<br>
+**Pink Flamingos**<br>
+Mon 1 Jan 18:20; Fri 19 Jan 18:20; Fri 26 Jan 20:50 (+ intro by Mark Moore and Tasty Tim)<br>
+**Faster, Pussycat! Kill! Kill!**<br>
+Tue 2 Jan 18:20; Thu 18 Jan 21:00 (+ intro by film scholar and writer Virginie Selavy)<br>
+**Taxi zum Klo**<br>
+Wed 3 Jan 20:50; Mon 8 Jan 20:40 (+ intro by  Vic Roberts, Scala usher)<br>
+**The Warriors**<br>
+Sat 6 Jan 18:15; Sun 14 Jan 12:00; Wed 17 Jan 20:55 (+ intro by SCALA!!! co-director Ali Catterall)<br>
+**Thundercrack!**<br>
+Sat 6 Jan 20:00; Sun 14 Jan 14:10<br>
+**The Evil Dead**<br>
+Fri 5 Jan 20:45 (+ intro by Graham Humphreys, freelance illustrator and designer of the original UK marketing for The Evil Dead); Tue 30 Jan 18:10<br>
+**Salo, or the 120 Days of Sodom**  
+Salò o le 120 giornate di Sodoma<br>
+Tue 9 Jan 20:35 (+ intro by season curator Jason Wood, BFI Executive Director of Public Programmes & Audiences); Tue 23 Jan 18:10<br>
+**Sight and Sound Presents:  Scala Spirit 1993-2023**<br>
+Thu 11 Jan 18:20<br>
+**Shivers**<br>
+Thu 11 Jan 21:00; Sun 21 Jan 15:20<br>
+**Pee-wee’s Big Adventure**<br>
+Fri 12 Jan 18:10 (+ intro by Ben Roberts, BFI CEO); Wed 31 Jan 18:20<br>
+**Pink Narcissus + Un chant d’amour**<br>
+Fri 12 Jan 20:40; Thu 25 Jan 18:20<br>
+**The Saint: Teresa** + intro by Dick Fiddy, Archive TV Programmer + **The Avengers: A Touch of Brimstone**<br>
+Sat 13 Jan 14:30<br>
+**Looking for Mr Goodbar + Dick**<br>
+Sat 13 Jan 17:45 (+ intro by season curator  Jane Giles); Mon 22 Jan 20:10<br>
+**The Thing**<br>
+Sat 13 Jan 20:40; Mon 29 Jan 20:45<br>
+**The Beast** La Bête<br>
+Tue 16 Jan 20:45; Tue 23 Jan 20:50<br>
+**Surprise Film** + intro by season curator Jane Giles<br>
+Sat 20 Jan 17:10<br>
+**A Clockwork Orange**<br>
+Sun 21 Jan 18:00; Wed 31 Jan 20:25<br>
+**Shock, Horror! The Scala All-nighter:  An American Werewolf in London;**  **The Creature from the Black Lagoon – 3D; Videodrome;  The Incredible Shrinking Man; A Nightmare on Elm Street**<br>
+Sat 27 Jan 22:30 BFI IMAX<br>
+<br>
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -126,6 +137,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
