@@ -2,12 +2,12 @@
 layout: post
 title: Aguirre, Wrath of God
 published: true
-date: 2023-03-31
+date: 2024-01-06
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
 tags: [Drama, Period]
-metadata: 'West Germany 1972, 93 mins<br> Director: Werner Herzog'
-pdf: '2023-03-31-aguirre-wrath-of-god.pdf'
+metadata: 'West Germany 1972, 94 mins<br> Director: Werner Herzog'
+pdf: '2024-01-06-aguirre-wrath-of-god.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -68,39 +68,55 @@ Justo Gonzalez _(soldier)_ *
 
 West Germany 1972  
 93 mins  
+Digital
 
 \* Uncredited  
 <br>
 
-**BIG SCREEN CLASSICS**  
-**Touch of Evil**  
-Mon 27 Mar 20:45; Tue 4 Apr 14:30; Sun 9 Apr 18:30; Fri 28 Apr 20:45  
-**Wild Strawberries (Smultronstället)**  
-Tue 28 Mar 20:50; Wed 12 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 14 Apr 20:50; Mon 24 Apr 14:30  
-**To Sleep with Anger + Borom Sarret (The Wagoner)**  
-Wed 29 Mar 18:10 (+ intro); Mon 10 Apr 12:45; Wed 12 Apr 18:00  
-**Rio Bravo**  
-Thu 30 Mar 20:20; Sun 9 Apr 12:50; Fri 21 Apr 20:20  
-**Aguirre, Wrath of God (Aguirre, der Zorn Gottes)**  
-Fri 31 Mar 21:00; Thu 13 Apr 21:00; Thu 20 Apr 18:15  
-**Last year in Marienbad (L’Année dernière à Marienbad)**  
-Sat 1 Apr 12:50; Mon 3 Apr 20:30; Sat 8 Apr 18:20; Tue 18 Apr 20:45  
-**La Grande Illusion**  
-Sat 1 Apr 13:00; Wed 12 Apr 20:40; Sat 15 Apr 18:00; Fri 21 Apr 18:15  
-**The Godfather Part II**  
-Sat 1 Apr 16:00; Sat 22 Apr 18:40; Sun 30 Apr 16:30  
-**Nashville**  
-Sun 2 Apr 17:50; Sat 8 Apr 20:00; Sat 29 Apr 16:30  
-**The Passenger (Professione: reporter)**  
-Wed 5 Apr 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Fri 7 Apr 20:20; Sun 16 Apr 18:15; Thu 27 Apr 18:10  
-**Pickpocket**  
-Thu 6 Apr 20:45; Tue 11 Apr 14:30; Mon 17 Apr 20:50; Mon 24 Apr 20:50  
-**The Portrait of a Lady**  
-Fri 7 Apr 14:30; Wed 19 Apr 17:50 (+ intro); Sat 29 Apr 20:15  
-**Code Unknown (Code inconnu)**  
-Sun 9 Apr 15:45; Wed 26 Apr 18:15  
-**The Lady Eve**  
-Mon 10 Apr 18:15; Sat 15 Apr 12:40; Sun 30 Apr 14:15  
+**JOURNEY INTO THE UNKNOWN: THE FILMS OF WERNER HERZOG**<br>
+**Signs of Life** Lebenszeichen<br>
+Mon 1 Jan 12:30; Sat 13 Jan 15:00<br>
+**Fata Morgana + The Great Ecstasy of Woodcarver Steiner** Die große Ekstase des Bildschnitzers Steiner<br>
+Mon 1 Jan 18:00; Wed 17 Jan 20:30<br>
+**Even Dwarfs Started Small**  
+Auch Zwerge haben klein angefangen<br>
+Tue 2 Jan 18:15; Mon 15 Jan 20:45<br>
+**La Soufrière** Warten auf eine Unausweichliche Katastrophe + **Lessons of Darkness**  
+Lektionen in Finsternis<br>
+Wed 3 Jan 18:20; Tue 16 Jan 20:40 (+ intro by writer Ian Haydn Smith)<br>
+**Heart of Glass** Herz aus Glas<br>
+Thu 4 Jan 18:30; Fri 19 Jan 20:40<br>
+**Land of Silence and Darkness**  
+Land des Schweigens und der Dunkelheit<br>
+Thu 4 Jan 20:50; Wed 10 Jan 20:45; Wed 17 Jan 18:15 (+ BSL intro by deaf filmmaker Sam Arnold)<br>
+**Aguirre, Wrath of God** Aguirre, der Zorn Gottes<br>
+Sat 6 Jan 15:15; Sun 14 Jan 11:40;  Tue 23 Jan 18:30<br>
+**My Best Fiend** Mein liebster Feind – Klaus Kinski<br>
+Sat 6 Jan 17:45; Sat 13 Jan 21:00<br>
+**Little Dieter Needs to Fly** Flucht aus Laos<br>
+Sun 7 Jan 15:20; Thu 18 Jan 20:45<br>
+**Fitzcarraldo**<br>
+Sun 7 Jan 17:45; Sun 14 Jan 14:20;  Thu 18 Jan 17:50<br>
+**Stroszek**<br>
+Mon 8 Jan 18:20; Sat 20 Jan 20:40<br>
+**Werner Herzog’s Tales of Life and Death:  An Illustrated Talk**<br>
+Wed 10 Jan 18:30<br>
+**Nosferatu the Vampyre**  
+Nosferatu: Phantom der Nacht<br>
+Fri 12 Jan 18:10; Wed 24 Jan 20:50;  Sat 27 Jan 15:00<br>
+**Grizzly Man**<br>
+Fri 12 Jan 20:45; Sun 14 Jan 18:15;  Mon 29 Jan 18:15<br>
+**Echoes from a Sombre Empire**  
+Echos aus einem düsteren Reich<br>
+Sat 13 Jan 14:10; Tue 30 Jan 20:30<br>
+**Woyzeck**<br>
+Sat 13 Jan 18:20; Sun 28 Jan 12:30<br>
+**The Fire Within: A Requiem for Katia and Maurice Krafft**<br>
+Fri 19 Jan 18:30; Wed 31 Jan 20:50<br>
+**The White Diamond**<br>
+Sun 21 Jan 18:20; Fri 26 Jan 18:30<br>
+**Into the Abyss – A Tale of Death, a Tale of Life**<br>
+Fri 26 Jan 20:45; Sun 28 Jan 15:10<br>
 <br>
 
 **SIGHT AND SOUND**<br>
