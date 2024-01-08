@@ -7,7 +7,7 @@ readtime: true
 categories: ['REGULAR PROGRAMME']
 tags:  [Drama]
 metadata: 'USA 1950, 110 mins<br> Director: Billy Wilder'
-pdf: '2024-01-08-sunset-blvd.pdf'
+pdf: '2024-01-08-sunset-boulevard.pdf'
 ---
 
 **Gloria Swanson on ‘Sunset Blvd.’**  
