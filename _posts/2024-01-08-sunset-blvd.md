@@ -4,7 +4,7 @@ title: Sunset Blvd.
 published: true
 date: 2024-01-08
 readtime: true
-categories: ['REGULAR PROGRAMME']
+categories: ['SENIORS']
 tags:  [Drama]
 metadata: 'USA 1950, 110 mins<br> Director: Billy Wilder'
 pdf: '2024-01-08-sunset-boulevard.pdf'
