@@ -7,7 +7,7 @@ readtime: true
 categories: ['RE-RELEASES']
 tags:  [Drama, Period]
 metadata: 'West Germany 1974, 110 mins<br> Director: Werner Herzog'
-pdf: '2024-01-19-enigma-of-kaspar-houser.pdf'
+pdf: '2024-01-19-enigma-of-kaspar-hauser.pdf'
 ---
 
 **SPOILER WARNING The following notes give away some of the plot.**
