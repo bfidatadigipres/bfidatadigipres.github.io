@@ -4,7 +4,7 @@ title: Poor Things
 published: false
 date: 2024-01-26
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Fantasy, Drama]
 metadata: 'Ireland-UK-USA 2023, 141 mins<br> Director: Yorgos Lanthimos'
 pdf: '2024-01-26-poor-things.pdf'
@@ -99,15 +99,15 @@ From Fri 2 Feb
 From Fri 9 Feb  
 **The Taste of Things La Passion du Dodin-Bouffant**  
 From Fri 16 Feb (Preview on Wed 14 Feb)  
-**Getting It Back: The Story of Cymande**
+**Getting It Back: The Story of Cymande**  
 From Fri 16 Feb (Preview + Q&A on Tue 13 Feb)  
 
 
 **RE-RELEASES**  
 **The Enigma of Kaspar Hauser** Jeder für sich und Gott gegen alle  
-From Fri 19 Jan
+From Fri 19 Jan  
 **Days of Heaven**  
-From Fri 2 Feb
+From Fri 2 Feb  
 **City of God** Cidade de Deus  
 From Fri 23 Feb  
 <br>
