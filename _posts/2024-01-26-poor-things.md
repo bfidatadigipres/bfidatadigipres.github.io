@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poor Things
-published: false
+published: true
 date: 2024-01-26
 readtime: true
 categories: ['NEW RELEASES']
