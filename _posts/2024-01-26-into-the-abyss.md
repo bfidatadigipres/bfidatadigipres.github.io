@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Into the Abyss<br>A Tale of Death, a Tale of Life
-published: false
+published: true
 date: 2024-01-26
 readtime: true
 categories: ['JOURNEY INTO THE UNKNOWN<br>THE FILMS OF WERNER HERZOG']
