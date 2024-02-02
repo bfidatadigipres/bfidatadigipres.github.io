@@ -6,7 +6,7 @@ date: 2024-02-02
 readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
 tags:  [Drama]
-metadata: 'Italy 1962, 90 mins<br> Directors: <Paolo Taviani, Vittorio Taviani, Valentino Orsini'
+metadata: 'Italy 1962, 90 mins<br> Directors: Paolo Taviani, Vittorio Taviani, Valentino Orsini'
 pdf: '2024-02-02-man-for-burning.pdf'
 ---
 
