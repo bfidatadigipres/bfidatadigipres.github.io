@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Zone of Interest
-published: false
+published: true
 date: 2024-02-02
 readtime: true
 categories: ['NEW RELEASES']
