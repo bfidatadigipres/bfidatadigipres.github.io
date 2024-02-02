@@ -1,7 +1,7 @@
 ---
 layout: post
 title: American Fiction
-published: false
+published: true
 date: 2024-02-03
 readtime: true
 categories: ['NEW RELEASES']
