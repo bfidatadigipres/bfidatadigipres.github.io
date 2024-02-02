@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Doctor Who - Horror of Fang Rock
-published: false
+published: true
 date: 2024-02-04
 readtime: true
 categories: ['EVENTS']
