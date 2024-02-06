@@ -89,6 +89,7 @@ Presented in collaboration with the Italian Embassy in London and the Italian Cu
 **Co-produced by**  
 Cinecittà, Rome
 
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br>
 
 The monograph _Paolo & Vittorio Taviani_, published by Cinecittà, and featuring an article by season curator Adrian Wootton, will be available during the season.  
 <br>
