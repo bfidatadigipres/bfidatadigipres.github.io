@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Allonsanfan
-published: false
+published: true
 date: 2024-02-07
 readtime: true
 categories: ['MAGICAL REALISM<br> THE FILM FABLES OF THE TAVIANI BROTHERS']
