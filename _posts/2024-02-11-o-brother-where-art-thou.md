@@ -2,12 +2,12 @@
 layout: post
 title: O Brother, Where Art Thou?
 published: true
-date: 2024-02-10
+date: 2024-02-11
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags:  [Comedy]
 metadata: 'USA/France/UK 2000, 107 mins<br> Director: Joel Coen'
-pdf: '2024-02-10-o-brother-where-art-thou.pdf'
+pdf: '2024-02-11-o-brother-where-art-thou.pdf'
 ---
 
 One of the earliest gags thrown out (and apparently away) by the Brothers Coen is their po-faced title-credit claim that _O Brother, Where Art Thou?_ is based on the _Odyssey_. Aha, you think, typical smart-alecky college-boy spoofery… and then darn it if the Homeric parallels don’t start coming thick and fast. A hero called Ulysses heading back home to see off the suitors for his wife Penny/Penelope; a one-eyed and hence suitably Cyclopean bad guy in the corpulent form of John Goodman, crooked Bible salesman and KKK goon Big Dan Teague; a trio of exquisitely sexy sirens, who coax our crew, three escapees from a chain gang on the trail of a cache of buried money, to the river and oblivion with sweet song and spiked hooch, and even manage to turn one of them – or so his superstitious pals believe – into a frog; blind men prophesying signs and wonders and a guy called Homer.
