@@ -2,7 +2,7 @@
 layout: post
 title: Honor among Lovers
 published: true
-date: 2024-02-10
+date: 2024-02-11
 readtime: true
 categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
 tags:  [Drama]
