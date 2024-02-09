@@ -2,15 +2,13 @@
 layout: post
 title: All of Us Strangers
 published: true
-date: 2024-01-17
+date: 2024-02-09
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags:  [Drama]
 metadata: 'UK 2023, 105 mins<br> Director: Andrew Haigh'
-pdf: '2024-01-17-all-of-us-strangers-qa.pdf'
+pdf: '2024-02-09-all-of-us-strangers.pdf'
 ---
-
-_+ Q&A with Andrew Haigh_
 
 In an early scene in _All of Us Strangers_, Adam (Andrew Scott), a gay man entering middle age, leaves his London flat to visit the suburban area where he grew up. Across a field he spots a handsome man (Jamie Bell), who returns his gaze. Keeping some distance between them, they walk with nonchalant purpose in the same direction, crossing woodland, converging on a shop to buy booze and fags. ‘Shall we go?’ the man asks. ‘Where?’ Adam replies. ‘Home,’ comes the answer.
 
@@ -70,21 +68,7 @@ UK 2023
 Digital  
 
 Courtesy of Searchlight Pictures  
-<BR>
-
-**IN PERSON & PREVIEWS**  
-**Preview: All of Us Strangers** + Q&A with Andrew Haigh  
-Wed 17 Jan 18:10  
-**Rock ‘n’ Roll Cinema**  
-Thu 18 Jan 18:15  
-**In Conversation: Cartoon Saloon’s Tomm Moore, Nora Twomey and Paul Young**  
-Sun 21 Jan 15:15  
-**Bradley Cooper in Conversation**  
-Wed 24 Jan 18:20  
-**Woman with a Movie Camera Preview: Your Fat Friend** + Q&A with director Jeanie Finlay and Aubrey Gordon  
-Sat 27 Jan 17:50  
-**Shooting the Past 25th Anniversary** + Q&A with writer-director Stephen Poliakoff and actors Lindsay Duncan and Timothy Spall  
-Sun 28 Jan 15:00  
+<br>
 <br>
 
 **SIGHT AND SOUND**<br>
