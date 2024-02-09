@@ -7,7 +7,7 @@ readtime: true
 categories: ['A LEAGUE OF HER OWN<br>THE CINEMA OF DOROTHY ARZNER']
 tags:  [Drama]
 metadata: 'USA 1931, 75 mins<br> Director: Dorothy Arzner'
-pdf: '2024-02-10-honor-among-lovers.pdf'
+pdf: '2024-02-11-honor-among-lovers.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
