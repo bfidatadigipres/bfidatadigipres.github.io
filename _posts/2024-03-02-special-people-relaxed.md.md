@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy, Drama]
 metadata: 'UK 2007, 74 mins<br> Director: Justin Edgar'
-pdf: '2024-03-02-special-people.pdf'
+pdf: '2024-03-02-special-people-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/SP.png"><br><br><br><br><br><br><br><br><br>
