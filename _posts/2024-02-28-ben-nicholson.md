@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ben Nicholson 1894-1982
-published: false
+published: true
 date: 2024-02-28
 readtime: true
 categories: ['ART IN THE MAKING']
