@@ -4,7 +4,7 @@ title: Special People
 published: false
 date: 2024-03-02
 readtime: true
-categories: ['RELAXED SCREENING']
+categories: ['RELAXED SCREENING<br>BUSTING THE BIAS']
 tags: [Comedy, Drama]
 metadata: 'UK 2007, 74 mins<br> Director: Justin Edgar'
 pdf: '2024-03-02-special-people-relaxed.pdf'
