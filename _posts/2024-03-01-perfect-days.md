@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Perfect Days
-published: false
+published: true
 date: 2024-03-01
 readtime: true
 categories: ['NEW RELEASES']
 tags: [Drama]
-metadata: 'Japan/Germany 2023, 123 mins<br> Director: Wim Wenders'
+metadata: 'Japan-Germany 2023, 123 mins<br> Director: Wim Wenders'
 pdf: '2024-03-01-perfect-days.pdf'
 ---
 
