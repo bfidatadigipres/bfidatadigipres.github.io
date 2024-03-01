@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jules et Jim
-published: false
+published: true
 date: 2024-03-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
