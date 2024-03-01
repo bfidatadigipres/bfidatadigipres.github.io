@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Evil Does Not Exist
-published: false
+published: true
 date: 2024-03-01
 readtime: true
 categories: ['NEW RELEASES']
