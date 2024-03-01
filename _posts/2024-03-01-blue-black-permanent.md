@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Black Permanent
-published: false
+published: true
 date: 2024-03-01
 readtime: true
 categories: ['REGULAR PROGRAMME']
