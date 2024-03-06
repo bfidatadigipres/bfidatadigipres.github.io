@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Green Border
-published: false
+published: true
 date: 2024-03-06
 readtime: true
 categories: ['KINOTEKA<br>POLISH FILM FESTIVAL<br>OPENING NIGHT']
@@ -100,7 +100,7 @@ Courtesy of Modern Films
 
 For more information about Kinoteka Polish Film Festival (6-28 March) go to https://kinoteka.org.uk
 
-<img style="float: left;" src="/img/kinoteka.png" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/kinoteka.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **Kinoteka Closing Night Gala: The Peasants + live musical accompaniment**   
 Thursday 28 March 17:45 BFI IMAX  
