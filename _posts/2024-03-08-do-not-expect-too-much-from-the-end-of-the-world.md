@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Comedy]
 metadata: 'Romania 2023, 163 mins<br> Director: Radu Jude'
-pdf: '2024-03-28-do-not-expect-too-much-from-the-end-of-the-world.pdf'
+pdf: '2024-03-08-do-not-expect-too-much-from-the-end-of-the-world.pdf'
 ---
 
 Radu Jude’s delightfully digressive dark satire about the ills of modern life is one of the most remarkable movies of the last year. It follows Angela, an insanely overworked assistant working for a film company, as she drives around auditioning disabled people for a video dubiously promoting safety in the workplace; between encounters she posts bilious TikTok rants pretending to be Andrew Tate. Meanwhile, her wretched existence is contrasted with that of another Angela – a taxi-driver from a 1981 movie.
