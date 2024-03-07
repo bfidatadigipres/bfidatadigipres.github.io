@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Banel & Adama
-published: false
+published: true
 date: 2024-03-08
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA<br> INTERNATIONAL WOMEN’S DAY PREVIEW']
