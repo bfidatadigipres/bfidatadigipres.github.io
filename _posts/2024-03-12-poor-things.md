@@ -7,7 +7,7 @@ readtime: true
 categories: ['NEW RELEASES']
 tags: [Fantasy, Drama]
 metadata: 'Ireland-UK-USA 2023, 141 mins<br> Director: Yorgos Lanthimos'
-pdf: '2024-01-26-poor-things.pdf'
+pdf: '2024-03-12-poor-things.pdf'
 ---
 When a young woman in Victorian England dies, little does she know how much life lies in store for her. Re-animated by her de facto guardian, the scientist Dr Godwin Baxter, Bella Baxter’s mind becomes increasingly alive to the opportunities the world offers. Embarking on a global adventure, unshackled by the mores of the era, she sets her sights on sating all her physical and spiritual desires. 
 Yorgos Lanthimos (The Favourite, The Lobster) continues his creative collaboration with Emma Stone, who is revelatory as Bella - giving a performance that will help define her place as one of the most thrilling and daring actors of her generation.  
