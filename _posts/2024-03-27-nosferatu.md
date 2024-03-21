@@ -1,20 +1,15 @@
 ---
 layout: post
 title: Nosferatu
-published: true
-date: 2022-10-17
+published: false
+date: 2024-03-27
 readtime: true
-categories: ['IN DREAMS ARE MONSTERS']
-tags: [Drama]
+categories: ['BIG SCREEN CLASSICS']
+tags: [Horror]
 metadata: 'Germany 1922, 96 mins<br> Director: F.W. Murnau '
-pdf: '2022-10-17-nosferatu.pdf'
+pdf: '2024-03-27-nosferatu.pdf'
 ---
-
-_+ intro by Silent Film Curator Bryony Dixon and live piano accompaniment. (Sunday 13 November only)_
-
-In this loose adaptation of Bram Stoker’s _Dracula_, the film’s antagonist, Count Orlock (Schreck), is a deviation from the seductive vampire, skulking around his castle like a rat. FW Murnau’s masterpiece may be a hundred years old, but it has lost none of its bite, with stunning imagery and a performance whose influence over horror cinema is arguably greater than any other of its time.  
-**Anna Bogutskaya**  
-
+  
 The question of how _Nosferatu_ came to be made is still something of a mystery. Virtually the only film produced by Prana-Film – a financial sinking ship whose owners were subsequently taken to court for copyright violations by Bram Stoker’s widow, despite having changed most of the characters’ names – the project owed much to the enigmatic figure of Albin Grau, who signed for the decor and costumes but also seems to have been the driving force behind the production, both financially and artistically. Very little is known about Grau, though an article by Enno Patalas depicts him variously as a student of eastern philosophy, a freemason and master of the ‘pansophic lodge of the light-seekers’ in Berlin, a fan of Aleister Crowley, a friend of novelist-painter Alfred Kubin and the author of a pamphlet about the use of colour in décor and lighting in black-and-white films. More predictable collaborators were film industry professionals screenwriter Henrik Galeen (who co-wrote _The Golem_) and director of photography Fritz Arno Wagner, one of the three top cameramen at Ufa.
 
 Germany in 1921-2 was recovering from the bloodletting of World War I.  The spectres that haunted the new republic included the Spartacist uprisings in Berlin and Munich, based on the Soviet model and bloodily suppressed, raging inflation that bled the economy like an internal haemorrhage, and an army of horribly disfigured war cripples. But it was another memorable event that left its echo in _Nosferatu_: in the winter of 1919-20 a Spanish flu epidemic and famine hit Germany, ravaging the country and reportedly killing more civilians than the Great War itself. So the cholera, whose origins _Nosferatu_ is supposed to record, is doubled by several successive disasters befalling a defeated Germany, during which public opinion only too readily blamed the victors of Versailles for not coming to the country’s aid. Instead, the French, adding insult and humiliation to injury and penury, insisted on the prompt payment of war reparations and annexed the Rhineland, setting off a chain of events that gave the nationalist right its first electoral successes among the working class.
@@ -29,6 +24,7 @@ Siegfried Kracauer had argued that Weimar cinema obsessively staged anxieties ab
 
 For a novelist like Jim Shepard, Murnau’s homosexuality is crucial to both his films and his life; sorrow and secrecy become the wellsprings of his creative drive, the motives behind a tale of love, longing, guilt and self-abjection. In his fictionalised 1998 biography of Murnau, _Nosferatu in Love_, Shepard makes the twin poles of self-deprecating humour and self-lacerating grief the protective armour behind which the director feeds on lascivious thoughts furtively indulged. For Shepard, the deepest wound the war inflicted on Murnau was the death on the Eastern Front of his intimate friend Hans Ehrenbaum-Degele, on whom he once recklessly cheated. Baffled and hurt, Hans voluntarily enlists and soon gets himself killed, to the undying shame and mortification of Murnau, at least according to Shepard.  
 **Thomas Elsaesser, _Sight & Sound_, February 2001**  
+<br>
 
 **NOSFERATU (NOSFERATU, EINE SYMPHONIE DES GRAUENS)**  
 _Director:_ F.W. Murnau  
@@ -60,89 +56,77 @@ Karl Etlinger
 
 Germany 1922  
 96 mins  
+Digital
 
-**IN DREAMS ARE MONSTERS**  
-**Nosferatu (Nosferatu – Eine Symphonie des Grauens)**  
-Mon 17 Oct 20:50; Sun 13 Nov 15:50 (+ intro by Silent Film Curator Bryony Dixon); Sat 19 Nov 14:10  
-**Frankenstein**  
-Tue 18 Oct 20:50; Fri 28 Oct 18:20; Tue 8 Nov 18:20; Sun 27 Nov 13:00  
-**The Skeleton Key**  
-Wed 19 Oct 18:00; Mon 14 Nov 20:45  
-**Meet the Monsters: A Season Introduction**  
-Thu 20 Oct 19:30 BFI YouTube  
-**I Walked With a Zombie**  
-Thu 20 Oct 20:40; Tue 1 Nov 18:10  
-**Creature from the Black Lagoon (3D) **  
-Sat 22 Oct 18:15 (+ pre-recorded intro by Mallory O’Meara, award winning and bestselling author of ‘The Lady from the Black Lagoon’); Sat 29 Oct 11:40; Tue 1 Nov 20:50  
-**In Dreams Are Monsters Quiz**  
-Sun 23 Oct 19:00-22:00 Blue Room  
-**Kuroneko (Yabu no naka no kuroneko)**  
-Tue 25 Oct 20:45; Mon 31 Oct 21:00; Fri 18 Nov 18:15  
-**The Fly**  
-Wed 26 Oct 21:00  
-**La Llorona**  
-Thu 27 Oct 20:30; Mon 7 Nov 21:00  
-**Celluloid Screams and Live Cinema UK presents: Ghostwatch + Q&A**  
-Fri 28 Oct 20:20  
-**Viy**  
-Fri 28 Oct 20:45; Tue 8 Nov 20:50  
-**A Nightmare on Elm Street**  
-Sat 29 Oct 18:30; Wed 30 Nov 20:50  
-**Candyman**  
-Sat 29 Oct 20:45; Thu 17 Nov 20:50 (+ intro)  
-**Nightbreed – Director’s Cut**  
-Sun 30 Oct 15:10 (+ intro); Sat 12 Nov 20:35  
-**28 Days Later**  
-Mon 31 Oct 18:00 (+ Q&A with director Danny Boyle); Sat 26 Nov 20:45  
-**Us**  
-Tue 1 Nov 20:40; Sat 19 Nov 15:10; Tue 29 Nov 20:40  
-**The Autopsy of Jane Doe**  
-Wed 2 Nov 18:10; Sat 26 Nov 20:40  
-**Let’s Scare Jessica to Death**  
-Wed 2 Nov 20:45; Sat 19 Nov 20:45  
-**Blacula**  
-Thu 3 Nov 20:55; Sat 26 Nov 13:00  
-**Cronos**  
-Fri 4 Nov 18:30; Sat 19 Nov 12:10; Sun 20 Nov 18:30  
-**Fright Night**  
-Fri 4 Nov 20:50; Tue 22 Nov 20:40 (+ intro)  
-**Possession**  
-Sat 5 Nov 20:20 (+ intro by author Kier-La Janisse); Sun 27 Nov 15:30  
-**Ganja & Hess**  
-Mon 7 Nov 18:00; Sat 26 Nov 15:20  
-**Inferno**  
-Wed 9 Nov 20:40; Sat 26 Nov 18:20  
-**The Entity**  
-Fri 11 Nov 17:55; Tue 15 Nov 20:30  
-**Def by Temptation**  
-Wed 16 Nov 18:10 (+ intro); Sat 26 Nov 18:10  
-**Jennifer’s Body**  
-Sun 20 Nov 15:15; Mon 21 Nov 18:00; Fri 25 Nov 20:45  
-**Pontypool**  
-Mon 21 Nov 20:30; Sun 27 Nov 12:20  
-**Under the Shadow**  
-Wed 23 Nov 20:40; Tue 29 Nov 18:10  
-**Ouija: Origin of Evil**  
-Thu 24 Nov 20:40; Mon 28 Nov 18:10  
-**Pet Sematary**  
-Fri 25 Nov 18:15; Mon 28 Nov 20:40  
-**Good Manners (As Boas Maneiras)**  
-Sun 27 Nov 18:10; Wed 30 Nov 20:25  
+With live piano accompaniment (Wed 27 Mar only)
 
-**IN DREAMS ARE MONSTERS EVENTS**  
-**City Lit at BFI: Screen Horrors – Screen Monsters**  
-Thu 20 Oct – Thu 15 Dec 18:30-20:30  
-**Beyond Nollywood World Premiere: Inside Life + Q&A with director Clarence A Peters**  
-Sat 29 Oct 14:00  
-**Matchbox Cine presents House of Psychotic Women**  
-Sat 5 Nov 17:50  
-**Son of Ingagi + Panel Discussion**  
-Wed 9 Nov 18:10  
-**Live Commentary with Evolution of Horror, Brain Rot and The Final Girls**  
-Sat 19 Nov 18:00  
-**Big Monster Energy**  
-Tue 22 Nov 18:30  
-<br>
+The screening on Wed 27 Mar will be introduced by Arike Oke, Executive Director of Knowledge, Learning & Collections
+<br><br>
+
+**BIG SCREEN CLASSICS**<br>
+**The Trial**<br>
+Mon 25 Mar 12:20; Mon 8 Apr 12:20; Thu 18 Apr 17:25<br>
+**The Gospel According to Matthew** Il Vangelo secondo Matteo<br>
+Tue 26 Mar 20:20; Fri 29 Mar 17:50<br>
+**Nosferatu**<br>
+Wed 27 Mar 18:15 (+ intro by Arike Oke, Executive Director of Knowledge, Learning & Collections); Sat 6 Apr 13:15; Fri 12 Apr 21:00<br>
+**The Picture of Dorian Gray**<br>
+Thu 28 Mar 18:10; Sun 7 Apr 12:50; Tue 23 Apr 12:00<br>
+**Little Women**<br>
+Sat 30 Mar 13:15; Tue 9 Apr 12:20; Sat 27 Apr 20:30<br>
+**The Last Temptation of Christ**<br>
+Sat 30 Mar 19:50; Sun 14 Apr 17:30<br>
+**The Leopard** Il gattopardo<br>
+Sun 31 Mar 17:00; Tue 16 Apr 13:30; Sun 28 Apr 19:30<br>
+**The Grapes of Wrath**<br>
+Mon 1 Apr 20:10; Sat 20 Apr 15:45<br>
+**Pather Panchali**<br>
+Tue 2 Apr 20:30; Mon 22 Apr 18:00; Tue 30 Apr 12:10<br>
+**The Heiress**<br>
+Wed 3 Apr 18:05 (+ intro by Ruby McGuigan, BFI Programme and Acquisitions); Sat 6 Apr 20:30; Mon 15 Apr 20:45<br>
+**Dr. Jekyll and Mr. Hyde**<br> 
+Thu 4 Apr 20:30; Wed 10 Apr 18:10 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**The Last of the Mohicans**<br>
+Fri 5 Apr 18:10; Sun 21 Apr 20:20<br>
+**Women in Love**<br>
+Thu 11 Apr 20:20; Sat 20 Apr 13:00; Fri 26 Apr 14:40<br>
+**Beau Travail**<br>
+Sat 13 Apr 13:20; Fri 19 Apr 20:45; Wed 24 Apr 18:10 (+ intro)<br>
+**Great Expectations**<br>
+Wed 17 Apr 17:45 (+ intro by Jade Evans, AHRC REACH PhD student with QMUL and BFI); Thu 25 Apr 12:00<br>
+**Ordet** The Word<br>
+Sat 27 Apr 13:15; Mon 29 Apr 14:40<br>
+**Rope**<br> 
+Wed 1 May 18:10 (+ intro by Bryony Dixon, BFI National Archive Curator); Fri 3 May 21:00; Tue 14 May 12:30; Sun 26 May 13:00<br>
+**Henry V**<br>
+Thu 2 May 14:40; Thu 9 May 20:15; Thu 30 May 14:30<br>
+**The Magic Flute** Trollflöjten<br>
+Fri 3 May 12:00; Fri 24 May 20:25; Tue 28 May 14:30<br>
+**Pandora’s Box** Die Büchse der Pandora<br>
+Sat 4 May 15:10; Fri 17 May 18:00; Sat 25 May 13:10; Fri 31 May 14:30<br>
+**West Side Story**<br>
+Sun 5 May 19:30; Thu 16 May 14:30<br>
+**Cabaret**<br>
+Mon 6 May 20:20; Sat 11 May 14:45; Tue 21 May 14:30<br>
+**A Streetcar Named Desire**<br>
+Tue 7 May 12:10; Sat 18 May 20:30; Fri 24 May 14:50; Sun 26 May 17:40<br>
+**Camille**<br>
+Wed 8 May 18:10 (+ intro); Sun 12 May 20:40; Mon 27 May 12:30<br>
+**His Girl Friday**<br>
+Fri 10 May 18:10; Sun 19 May 20:30; Thu 23 May 18:30; Wed 29 May 18:00 (+ intro by Geoff Andrew, Programmer-at-Large)<br>
+**Beautiful Thing**<br> 
+Mon 13 May 20:40; Wed 22 May 18:20 (+ intro by Simon McCallum, BFI National Archive Curator); Thu 30 May 12:10<br>
+**Bluebeard’s Castle** Herzog Blaubarts Burg<br> 
+Wed 15 May 18:10 (+ intro by Alex Prideaux, Marketing and Events Manager – Our Screen Heritage); Fri 31 May 18:10<br>
+**Chi-Raq**<br>
+Mon 20 May 18:05; Thu 30 May 20:30<br> 
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -157,6 +141,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
