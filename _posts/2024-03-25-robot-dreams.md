@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robot Dreams
-published: false
+published: true
 date: 2024-03-25
 readtime: true
 categories: ['NEW RELEASES']
