@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, Period]
 metadata: 'Italy/France 1964, 137 mins<br> Director: Pier Paolo Pasolini'
-pdf: '2024-03-26-gospe-according-to-matthew.pdf'
+pdf: '2024-03-26-gospel-according-to-matthew.pdf'
 ---
 
 Although Pier Paolo Pasolini’s film _The Gospel According to Matthew_ (_Il Vangelo secondo Matteo_) is habitually praised as a key work both of the director’s oeuvre and of world cinema as a whole, small myths have congregated about it nonetheless. You may hear that it’s a Marxist life of Jesus, which flies in the face of the Catholic church. Or that it was an extraordinary, contrary story choice for a filmmaker who was gay, an outspoken Marxist and a staunch atheist. Others present it as the unadulterated Gospel, with nothing added or taken away in the service of plot. One hears nigh everywhere it’s mentioned that it’s gritty, raw and handheld; maybe that it’s a quintessential neorealist text. The Matthew Gospel is indeed the main source, certainly of the film’s dialogue, which is sparse – except for Jesus’s sermons and parables – but material from the other Gospels is used too, and more significantly, Pasolini ushers in the visual influence of religious art from many an anachronistic historical period. He himself described the film as a sort of palimpsest, ‘the life of Christ plus 2,000 years of storytelling about the life of Christ’. As for the film’s neorealist credentials, certainly it owes characteristics to the school during the rise of which Pasolini began his filmmaking career.
