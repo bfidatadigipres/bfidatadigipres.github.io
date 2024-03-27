@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nosferatu
-published: false
+published: true
 date: 2024-03-27
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
