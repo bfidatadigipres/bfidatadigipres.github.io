@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silver Haze
-published: false
+published: true
 date: 2024-03-29
 readtime: true
 categories: ['NEW RELEASES']
