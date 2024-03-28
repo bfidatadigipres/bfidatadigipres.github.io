@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Picture of Dorian Gray
-published: false
+published: true
 date: 2024-03-28
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
