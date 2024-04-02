@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pather Panchali
-published: false
+published: true
 date: 2024-04-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
