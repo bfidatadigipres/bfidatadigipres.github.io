@@ -2,12 +2,12 @@
 layout: post
 title: Close Your Eyes
 published: true
-date: 2024-03-27
+date: 2024-04-12
 readtime: true
-categories: ['PREVIEW']
+categories: ['NEW RELEASES']
 tags: [Drama]
 metadata: 'Spain 2023, 169 mins<br> Director: Víctor Erice'
-pdf: '2024-03-27-close-your-eyes.pdf'
+pdf: '2024-04-12-close-your-eyes.pdf'
 ---
 
 Víctor Erice’s first feature in three decades is a characteristically ambitious, richly satisfying meditation on memory, identity, family, friendship… and cinema. Twenty years after an actor’s mysterious disappearance led to a movie-shoot being abandoned, the director, whose career subsequently stalled, reluctantly contributes to a missing-persons television documentary which, once broadcast, has unexpected consequences for a great many people…
