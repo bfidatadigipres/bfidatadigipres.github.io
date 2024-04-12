@@ -2,15 +2,13 @@
 layout: post
 title: Ratcatcher
 published: true
-date: 2022-09-07
+date: 2024-04-12
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['RE-RELEASES']
 tags: [Drama]
-metadata: 'UK/France 1999, 93 mins<br> Director: Lynne Ramsay'
-pdf: '2022-09-07-ratcatcher.pdf'
+metadata: 'UK-France 1999, 93 mins<br> Director: Lynne Ramsay'
+pdf: '2024-04-12-ratcatcher.pdf'
 ---
-
-_+ intro by Catharine Des Forges, Director of the Independent Cinema Office (Wednesday 7 September only)_
 
 Set in and around a Glasgow tenement block during a dustmen’s strike in the mid-’70s, Ramsay’s marvellous first feature centres on a 12-year-old (Eadie) who, haunted by a secret, retreats into a private world of solitude, strange friendships and consoling dreams. A bold lyricism combines with gritty realism to create an impressive and intriguing character study shot through with tenderness and wit.  
 **bfi.org.uk**
@@ -119,41 +117,18 @@ Robert Farrell _(boy)_
 Donnie McMillan _(Artie)_  
 Lisa Taylor _(Anne Marie’s friend)_  
 
-UK/France 1999  
+UK-France 1999  
 93 mins  
-<br>
+Digital
 
-**BIG SCREEN CLASSICS**  
-**Lift to the Scaffold (Ascenseur pour l’échafaud)**  
-Thu 1 Sep 18:30; Thu 15 Sep 20:55; Sun 18 Sep 15:50; Wed 21 Sep 21:00; Tue 27 Sep 21:00  
-**Do the Right Thing**  
-Fri 2 Sep 20:40; Sat 24 Sep 20:40; Wed 28 Sep 18:00 + intro by freelance writer and producer Kaleem Aftab  
-**Wild Strawberries (Smultronstället)**  
-Sat 3 Sep 16:00; Fri 9 Sep 14:30; Tue 13 Sep 18:10; Sat 17 Sep 12:30  
-**Psycho**  
-Sat 3 Sep 20:45; Sun 11 Sep 15:40; Thu 15 Sep 14:30; Tue 4 Oct 18:30  
-**The Enigma of Kaspar Hauser (Jeder für sich und Gott gegen alle)**  
-Sun 4 Sep13:20; Fri 9 Sep 20:45; Tue 13 Sep 20:30  
-**In a Lonely Place**  
-Sun 4 Sep 16:00; Wed 14 Sep 18:15 + intro by Geoff Andrew, Programmer at Large; Fri 23 Sep 18:00; Wed 28 Sep 20:50  
-**The Bride Wore Black (La Mariée était en noir)**  
-Mon 5 Sep 20:50; Fri 30 Sep 18:10; Mon 3 Oct 17:50  
-**Accident**  
-Tue 6 Sep 20:40; Sun 11 Sep 13:10; Tue 20 Sep 17:50  
-**Ratcatcher**  
-Wed 7 Sep 18:15 + intro by Catharine Des Forges, Director of the Independent Cinema Office; Sat 17 Sep 18:00; Thu 29 Sep 21:00  
-**The Umbrellas of Cherbourg (Les Parapluies de Cherbourg)**  
-Thu 8 Sep 20:45; Mon 12 Sep 14:30; Mon 19 Sep 20:45; Sun 25 Sep 15:30  
-**Letter from an Unknown Woman**  
-Sat 10 Sep 12:30; Wed 14 Sep 14:30; Wed 21 Sep 18:00 + intro by Geoff Andrew, Programmer at Large  
-**The Motorcycle Diaries (Diarios de motocicleta)**  
-Sat 10 Sep 18:00; Sat 17 Sep 14:45  
-**Cleo from 5 to 7 (Cléo de 5 à 7)**  
-Tue 13 Sep 14:30; Fri 16 Sep 18:00; Tue 20 Sep 20:50; Sat 1 Oct 12:30  
-**Fargo**  
-Thu 22 Sep 20:55; Sat 1 Oct 18:00  
-**Last Year in Marienbad (L’Année dernière à Marienbad)**  
-Mon 26 Sep 20:50; Sun 2 Oct 12:45; Tue 4 Oct 20:40
+A Park Circus re-release
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -168,6 +143,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
