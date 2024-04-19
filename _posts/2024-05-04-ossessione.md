@@ -111,9 +111,9 @@ Sun 26 May 15:00; Fri 31 May 20:00
 Wed 8 May – Wed 12 Jun 18:30-20:30  
 
 **With thanks to**  
-Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà<br>
+Camilla Cormanni, Paola Ruggiero, Germana Ruscio, Marco Cicala at Cinecittà
 
-<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/cinecitta.png" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br>
 
 <br>
 **SIGHT AND SOUND**<br>
