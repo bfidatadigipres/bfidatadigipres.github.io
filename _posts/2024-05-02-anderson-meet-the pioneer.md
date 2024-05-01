@@ -7,7 +7,7 @@ readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Talk]
 metadata: 
-pdf: '2024-05-02-anderson-meet-the-puoneer.pdf'
+pdf: '2024-05-02-anderson-meet-the-pioneer.pdf'
 ---
 
 Join season curators William Fowler and James Bell as they explore Anderson’s life and work, and interrogate the career of a filmmaker who remained a singularly combative thorn in the side of British cinema, whether as a critic or as a filmmaker. Illustrated with rare clips taken from Anderson’s films, TV plays, interviews and commercials, and sourced from the collections of the BFI National Archive, the talk will consider the complex legacy of one of British cinema’s true iconoclasts.  
