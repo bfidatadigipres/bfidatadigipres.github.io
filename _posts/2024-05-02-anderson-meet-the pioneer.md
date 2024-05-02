@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lindsay Anderson<br>Meet the Pioneer
-published: false
+published: true
 date: 2024-05-02
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
