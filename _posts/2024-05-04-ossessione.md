@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ossessione
-published: false
+published: true
 date: 2024-05-04
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
