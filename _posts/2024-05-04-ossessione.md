@@ -4,7 +4,7 @@ title: Ossessione
 published: true
 date: 2024-05-04
 readtime: true
-categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
+categories: ['CHASING THE REAL<br>ITALIAN NEOREALISM']
 tags: [Drama]
 metadata: 'Italy 1942, 141 mins<br> Director: Luchino Visconti'
 pdf: '2024-05-04-ossessione.pdf'
