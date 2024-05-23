@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Never Apologize<br>A Personal Visit with Lindsay Anderson
+title: Never Apologize<br>A Personal Visit with <br>Lindsay Anderson
 published: false
 date: 2024-05-24
 readtime: true
