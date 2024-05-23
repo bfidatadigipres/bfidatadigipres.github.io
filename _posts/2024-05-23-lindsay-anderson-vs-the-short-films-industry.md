@@ -7,7 +7,7 @@ readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Documentary, Short]
 metadata:  'Director: Lindsay Anderson'
-pdf: '2024-05-23-lindsay-anderson-vs-the-short-film-industry.pdf'
+pdf: '2024-05-23-lindsay-anderson-vs-the-short-films-industry.pdf'
 ---
 
 _+ intro by Patrick Russell, Senior Curator of Non-fiction, BFI National Archive_
