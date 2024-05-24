@@ -5,7 +5,7 @@ published: true
 date: 2024-03-02
 readtime: true
 categories: ['Preview']
-tags: [Television, Sci-fi]
+tags: [Television, Sci-Fi]
 metadata: 'UK 1966, 100 mins<br> Director: Bill Sellars'
 pdf: '2024-03-02-doctor-who-the-celestial-toymaker.pdf'
 ---
