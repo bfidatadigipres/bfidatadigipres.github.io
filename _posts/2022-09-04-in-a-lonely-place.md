@@ -5,7 +5,7 @@ published: true
 date: 2022-09-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Drama, Noir]
+tags: [Drama, Film Noir]
 metadata: 'USA 1950, 94 mins<br> Director: Nicholas Ray'
 pdf: '2022-09-04-in-a-lonely-place.pdf'
 ---
