@@ -5,7 +5,7 @@ published: true
 date: 2022-05-04
 readtime: true
 categories: ['PREVIEW']
-tags: [Comedy, Action, Sci-fi]
+tags: [Comedy, Action, Sci-Fi]
 metadata: 'USA 2022, 139 mins<br> Directors: Daniel Kwan, Daniel Scheinert'
 pdf: '2022-05-04-everything-everywhere-all-at-once.pdf'
 ---
