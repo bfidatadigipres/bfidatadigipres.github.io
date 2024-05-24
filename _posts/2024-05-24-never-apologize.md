@@ -6,7 +6,7 @@ date: 2024-05-24
 readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: [Documentary]
-metadata: 'Director: Mike Kaplan'
+metadata: 'UK 2007, 111 mins<br> Director: Mike Kaplan'
 pdf: '2024-05-24-never-apologize.pdf'
 ---
 No actor was more associated with Anderson than Malcolm McDowell, the ‘Mick Travis’ of the director’s great trilogy, and friend through thick and thin. In this filmed one-man stage performance, first performed at the 2004 Edinburgh Festival on the 10th anniversary of Anderson’s death, McDowell gives a tenderly personal, appropriately gossipy and anecdote-rich reflection on his mentor’s life and work.  
