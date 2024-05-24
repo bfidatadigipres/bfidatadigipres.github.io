@@ -5,7 +5,7 @@ published: true
 date: 2023-10-25
 readtime: true
 categories: ['EXPERIMENTA']
-tags: Experimental]
+tags: Experimental
 metadata: 'UK 2017, 88 mins<br> Director: Andrea Luka Zimmerman'
 pdf: '2023-10-25-erase-and-forget.pdf'
 ---
