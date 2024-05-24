@@ -5,7 +5,7 @@ published: true
 date: 2023-06-18
 readtime: true
 categories: ['PREVIEW']
-tags: [Animation, Children. Adventure]
+tags: [Animation, Children, Adventure]
 metadata: 'USA 2023, 101 mins<br> Director: Peter Sohn'
 pdf: '2023-06-18-elemental.pdf'
 ---
