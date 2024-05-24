@@ -5,7 +5,7 @@ published: true
 date: 2021-08-07
 readtime: true
 categories: ['THE ALAN WHICKER CENTENARY']
-tags: [Documentaries, Television]
+tags: [Documentary, Television]
 metadata: 
 pdf: '2021-08-07-welcome-to-whickers-world.pdf'
 ---
