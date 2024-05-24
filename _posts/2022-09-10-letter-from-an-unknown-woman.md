@@ -5,7 +5,7 @@ published: true
 date: 2022-09-10
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
-tags: [Romance, Period Drama]
+tags: [Romance, Period, Drama]
 metadata: 'USA 1948, 87 mins<br> Director: Max Opuls'
 pdf: '2022-09-10-letter-from-an-unknown-woman.pdf'
 ---
