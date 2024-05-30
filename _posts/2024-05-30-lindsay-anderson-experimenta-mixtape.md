@@ -7,7 +7,7 @@ readtime: true
 categories: ['O DREAMLAND!<br>LINDSAY ANDERSON’S DARK BRITISH CINEMA']
 tags: 
 metadata: 
-pdf: '2024-05-26-anderson-and-others.pdf'
+pdf: '2024-05-30-lindsay-anderson-experimenta-mixtape.pdf'
 ---
 
 Long fascinated with Anderson’s place in British film and television, and praised for his film about Anderson’s relationship with Richard Harris, artist and filmmaker Stephen Sutcliffe is brilliantly well placed to craft an Experimenta Mixtape about the tensions, contexts and opportunities that flowed through Anderson’s life and work. As ever with the Mixtapes, no other information is provided in advance. Expect a richly provocative collage of highly textured film extracts, TV shows, and surprises from a tape compilation master.
