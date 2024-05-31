@@ -69,8 +69,7 @@ _Production Recordists:_ Nathan Boxer,  Jack Jacobsen
 _Re-recordists:_ Walter Murch, Mark Berger, Richard Beggs, Dale Strumpell, Thomas Scott  
 _Sound Editors:_ Leslie Hodgson, Les Wiggins, Pat Jackson, Jay Miracle  
 _Creative Consultant:_ Dennis Jakob  
-_Military Advisers:_ Dick White, Fred Rexer Jr,  
-Paul Gregory, Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan  
+_Military Advisers:_ Dick White, Fred Rexer Jr, Paul Gregory, Lt Colonel Peter Kama (US Army Ret), Paul Hensler, Richard Dioguardi, Doug Ryan  
 _Stunt Co-ordinator:_ Terry J. Leonard  
 
 **Cast**  
@@ -152,7 +151,7 @@ Mon 3 Jun 20:20; Thu 6 Jun 14:30; Tue 18 Jun 14:30
 **Easy Rider**  
 Tue 4 Jun 12:40; Fri 7 Jun 21:00; Sun 16 Jun 20:35; Sat 22 Jun 13:20  
 **The Searchers**  
-Tue 4 Jun 20:30; Thu 20 Jun 12:10; Sat 29 Jun 15:20 
+Tue 4 Jun 20:30; Thu 20 Jun 12:10; Sat 29 Jun 15:20  
 **Where Is the Friend’s House?** Khaneh-je Doost Kojast  
 Wed 5 Jun 12:45; Sat 8 Jun 15:40; Wed 19 Jun 18:15 (+ intro by Geoff Andrew, Programmer-at-Large); Wed 26 Jun 21:00  
 **Alice in the Cities** Alice in den Städten  
