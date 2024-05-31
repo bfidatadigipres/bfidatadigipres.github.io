@@ -6,7 +6,7 @@ date: 2024-06-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama, War]
-metadata: 'USA 1979, 182 mins<br> Directors: Francis Ford Coppola'
+metadata: 'USA 1979, 182 mins<br> Director: Francis Ford Coppola'
 pdf: '2024-06-01-apocalypse-now-the-final-cut.pdf'
 ---
 In the year of its 40th anniversary, Francis Ford Coppola’s acid-drenched odyssey to the dark heart of the Vietnam war is returning to the big screen, in what has been billed _Apocalypse Now: Final Cut_. First unveiled at this year’s Tribeca Film Festival, Coppola has revisited his most tumescent, complex masterpiece in pursuit of an apparently ‘definitive’ version. Standing at three hours, some 30 minutes longer than the original 1979 cut, it includes several additional, divergent details, from a botched live appearance by a group of playboy models at a US outpost; to a woozy adventure on a French plantation shortly before the film’s final act, in which Captain Willard (Martin Sheen) completes his journey up the Nung River in pursuit of the man whose command he has been dispatched to terminate, Colonel Kurtz (Marlon Brando).
