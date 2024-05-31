@@ -148,6 +148,8 @@ Mon 22 Jul 12:20; Wed 24 Jul 18:10 (+ intro by Arike Oke, Executive Director of 
 **F for Fake**  
 Mon 22 Jul 18:20; Wed 24 Jul 12:40; Fri 26 Jul 20:50
 <br>
+
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
