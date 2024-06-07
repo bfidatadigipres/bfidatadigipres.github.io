@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'Germany 1974, 112 mins<br> Director: Wim Wenders'
-pdf: '2024-06-07-alice-in-the-cities.pdf'
+pdf: '2024-06-09-alice-in-the-cities.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away the film’s ending.
