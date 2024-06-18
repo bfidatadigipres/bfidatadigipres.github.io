@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Murder in the Family
-published: false
+published: true
 date: 2024-06-18
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
