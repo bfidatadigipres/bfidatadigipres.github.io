@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Epic of Everest
-published: false
+published: true
 date: 2024-06-23
 readtime: true
 categories: ['CENTENARY SCREENING']
