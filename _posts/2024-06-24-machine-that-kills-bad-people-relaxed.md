@@ -7,7 +7,7 @@ readtime: true
 categories: ['RELAXED SCREENING']
 tags: [Comedy, Fantasy]
 metadata: 'Italy 1948-52, 85 mins<br> Director: Roberto Rossellini'
-pdf: '2024-06-24-machine-that-kills-bad-people.pdf'
+pdf: '2024-06-24-machine-that-kills-bad-people-relaxed.pdf'
 ---
 
 <img style="float: left;" src="/img/mtkbp.png"><br><br><br><br><br><br><br><br><br>
