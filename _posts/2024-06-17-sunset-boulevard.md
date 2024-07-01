@@ -6,7 +6,7 @@ date: 2024-06-17
 readtime: true
 categories: ['MEMBER MONDAYS']
 tags: [Drama]
-metadata: 'USA 1950, 110 mins<br> Director: BIlly Wilder'
+metadata: 'USA 1950, 110 mins<br> Director: Billy Wilder'
 pdf: '2024-06-17-sunset-boulevard.pdf'
 ---
 
