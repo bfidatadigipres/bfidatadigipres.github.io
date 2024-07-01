@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Harry Met Sally
+title: When Harry Met Sally...
 published: true
 date: 2024-07-01
 readtime: true
