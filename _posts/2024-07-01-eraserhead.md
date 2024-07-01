@@ -2,12 +2,12 @@
 layout: post
 title: Eraserhead
 published: true
-date: 2021-05-27
+date: 2024-07-01
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['DISCOMFORT MOVIES']
 tags: [Horror, Fantasy]
 metadata: 'USA, 1976, 89 mins<br> Director: David Lynch'
-pdf: '2021-05-27-eraserhead.pdf'
+pdf: '2024-07-01-eraserhead.pdf'
 ---
 In his first film, _Eraserhead_, David Lynch created a world from which everything has been stripped away except for the anxiety at its heart. Henry Spencer tramps numbly across a ruined industrial landscape. He goes for dinner with his girlfriend Mary at the house of her parents, Mr and Mrs X. They eat small chickens which move and exude a mysterious slime when cut. Henry is compelled to marry Mary because she has given birth – but so prematurely that the hospital wasn’t even sure if the result was a baby.
 
@@ -34,7 +34,7 @@ Critical shorthand would probably append the work of Bosch and Beckett, and perh
 **Paul Taylor, _Monthly Film Bulletin_, March 1979**<br>
 <br><br>
 
-**Eraserhead**<br>
+**ERASERHEAD**<br>
 _Directed by:_ David Lynch<br>
 ©: David Lynch<br>
 _Produced with the co-operation of:_ AFI Center for Advanced Film Studies<br>
@@ -81,69 +81,62 @@ Toby Keeler _(fighting man)_<br>
 Raymond Walsh _(Mr Roundheels)_<br>
 
 USA 1976©<br>
-89 mins
+89 mins<br>
+Digital
+
+The screening on Mon 1 Jul 20:40 will feature an extended intro to the Discomfort Movies season from season curator Kimberley Sheehan
 <br><br><br>
 
-**BIG SCREEN CLASSICS**<br>
+**DISCOMFORT MOVIES**<br>
 **Eraserhead**<br>
-Thu 27 May 18:20; Mon 14 Jun 21:00; Thu 24 Jun 21:10<br>
-**Man Hunt**<br>
-Fri 28 May 18:10; Sat 12 Jun 16:00; Tue 29 Jun 14:15<br>
-**Persona**<br> 
-Fri 28 May 21:00; Wed 2 Jun 18:10 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large) Mon 28 Jun 21:00<br>
-**La Haine**<br> 
-Sat 29 May 21:00; Wed 16 Jun 21:00; Fri 18 Jun 20:40<br>
-**Citizen Kane**<br>
-Sun 30 May 12:40; Mon 21 Jun 20:45<br>
-**Raging Bull**<br> 
-Sun 30 May 15:30; Tue 1 Jun 17:30<br>
-**Touch of Evil**<br> 
-Mon 31 May 12:45; Sat 5 Jun 17:50; Sun 20 Jun 18:15<br>
-**The Last Picture Show (Director’s Cut)**<br>
-Mon 31 May 12:50; Mon 7 Jun 17:45<br>
-**Alice in the Cities (Alice in den Städten)**<br>
-Tue 1 Jun 14:30; Fri 25 Jun 20:45<br>
-**Steamboat Bill, Jr.**<br>
-Thu 3 Jun 14:30; Tue 22 Jun 18:30<br>
-**Sweet Smell of Success**<br>
-Fri 4 Jun 15:00; Sun 13 Jun 15:45; Sat 26 Jun 11:40<br>
-**The Man Who Wasn’t There**<br>
-Fri 4 Jun 17:50; Sun 27 Jun 18:20<br>
-**L’eclisse (The Eclipse)**<br>
-Sat 5 Jun 12:10; Tue 15 Jun 17:50<br>
-**The White Ribbon (Das weisse Band)**<br>
-Sun 6 Jun 18:10; Sat 26 Jun 16:30<br>
-**Le Doulos** + pre-recorded intro by Professor Ginette Vincendeau, King’s College London<br>
-Mon 7 Jun 14:15; Thu 17 Jun 20:45; Wed 30 Jun 17:45<br>
-**The Killers** + pre-recorded intro by Imogen Sara Smith, author of ‘In Lonely Places: Film Noir beyond the City’<br>
-Tue 8 Jun 14:30; Wed 23 Jun 17:50<br>
-**The Night of the Hunter**<br> 
-Tue 8 Jun 20:50; Wed 16 Jun 18:15 (+ pre-recorded intro by Geoff Andrew, Programmer-at-Large)<br>
-**The Tango Lesson**<br> 
-Wed 9 Jun 17:50 (+ pre-recorded intro by So Mayer, author of ‘The Cinema of Sally Potter’)<br>
-**Cleo from 5 to 7** **Cléo de 5 à 7**<br>
-Thu 10 Jun 21:00; Mon 21 Jun 14:30<br>
-**Bitter Victory**<br> 
-Sun 20 Jun 13:00; Mon 28 Jun 17:55<br>
-**The Big City (Mahanagar)**<br> 
-Wed 23 Jun 17:40<br>
-**The Gospel According to Matthew (Il vangelo secondo Matteo)**<br> 
-Thu 24 Jun 17:40<br>
+Mon 1 Jul 20:40 (+ extended intro to the season by curator Kimberley Sheehan); Sun 14 Jul 17:50; Sat 27 Jul 20:50<br>
+**The Lost Weekend**<br>
+Sat 6 Jul 15:10; Sun 21 Jul 17:45; Mon 29 Jul 20:40<br>
+**Requiem for a Dream**<br>
+Sat 6 Jul 20:45; Fri 19 Jul 18:20<br>
+**A Woman under the Influence**<br>
+Sun 7 Jul 19:30; Sun 28 Jul 17:20<br>
+**Bug**<br>
+Mon 8 Jul 18:15; Thu 25 Jul 20:50<br>
+**They Shoot Horses, Don’t They?**<br>
+Tue 9 Jul 18:10; Mon 22 Jul 20:35<br>
+**Threads**<br>
+Thu 11 Jul 18:15; Sun 21 Jul 15:15<br>
+**Possession**<br>
+Mon 15 Jul 18:00<br>
+**Funny Games**<br>
+Mon 15 Jul 20:45; Sat 27 Jul 14:15<br>
+**Climax + Strasbourg 1518**<br>
+Tue 16 Jul 18:10; Sun 28 Jul 20:20<br>
+**Crash + Titane**<br>
+Sat 20 Jul 18:15, 18:30<br>
+**Audition** Ôdishon<br>
+Wed 24 Jul 20:45; Wed 31 Jul 18:15<br>
+**Skinamarink**<br>
+Sun 28 Jul 14:20; Wed 31 Jul 20:45<br>
+**Relaxed Screening: Eraserhead + intro and discussion**<br>
+Mon 29 Jul 18:10<br>
 
 <br><br>
-**BECOME A BFI MEMBER**<br>
-Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at **[bfi.org.uk/join](https://www.bfi.org.uk/become-bfi-member)**
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-**BFI SOUTHBANK**<br>
-Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
-We’re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.
+**BFI SOUTHBANK**  
+Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**BFI PLAYER**<br>
-We are always open online on BFI Player where you can watch the best new, cult & classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals & Free to view. See something different today on **[player.bfi.org.uk](https://player.bfi.org.uk/)**
+**BECOME A BFI MEMBER**  
+Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
 
-**Join the BFI mailing list** for regular programme updates. Not yet registered? Create a new account at **[www.bfi.org.uk/signup](https://player.bfi.org.uk/)**
+**BFI PLAYER**  
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
+
+Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
+
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
-Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk).**
+Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
