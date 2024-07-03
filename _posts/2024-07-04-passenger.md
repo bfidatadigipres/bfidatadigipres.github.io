@@ -16,12 +16,9 @@ Michelangelo Antonioni is, to say the least, not widely recognised as a humorous
 
 As so often with Antonioni, it’s a film that poses far more questions than it answers. And even by this director’s standards, it’s an austere work. Dialogue is sparse – in the first 20 minutes barely 100 words are spoken – and there’s no non-diegetic music until the final credits. His consistent preoccupations are foregrounded: questions of estrangement and identity, a sense of emptiness. Locke (Jack Nicholson), the lead character, at one point says, ‘I used to be someone else but I traded him in.’ Does the title refer to Locke himself, a passenger in someone else’s life, or the nameless young woman (Maria Schneider, credited only as The Girl) who decides to tag along with him?
 
-It’s a premise that could play out as farce or melodrama (cf Robert Hamer’s  
-_The Scapegoat_, 1958; or Rainer Werner Fassbinder’s _Despair_, 1978). But with Antonioni we’re in for something cooler and more dispassionate, with his trademark narrative reticence and his camera that always observes, often at a distance, but never identifies with any of the characters.
+It’s a premise that could play out as farce or melodrama (cf Robert Hamer’s _The Scapegoat_, 1958; or Rainer Werner Fassbinder’s _Despair_, 1978). But with Antonioni we’re in for something cooler and more dispassionate, with his trademark narrative reticence and his camera that always observes, often at a distance, but never identifies with any of the characters.
 
-_The Passenger_ was Antonioni’s third English language film for MGM, after  
-_Blow-Up_ (1967) and _Zabriskie Point_ (1970). _Zabriskie Point_ in particular has dated, but this one not at all. It includes the first screenwriting credit of film theorist and director Peter Wollen, probably best-known for his 1969 book  
-_Signs and Meaning in the Cinema_. Aptly enough, _The Passenger_ is full of signs and meanings, though just what the signs mean isn’t always so clear.
+_The Passenger_ was Antonioni’s third English language film for MGM, after _Blow-Up_ (1967) and _Zabriskie Point_ (1970). _Zabriskie Point_ in particular has dated, but this one not at all. It includes the first screenwriting credit of film theorist and director Peter Wollen, probably best-known for his 1969 book _Signs and Meaning in the Cinema_. Aptly enough, _The Passenger_ is full of signs and meanings, though just what the signs mean isn’t always so clear.
 
 Jack Nicholson called _The Passenger_ ‘the biggest adventure in filming that I ever had in my life’. This was around the time he was making _The Last Detail_ (1973) and _One Flew over the Cuckoo’s Nest_ (1975), but here he gives a downbeat, almost subdued portrayal – far from what we think of as a typical grinning ‘Jack the Lad’ performance. ‘To Antonioni,’ he observed, ‘actors are moving space.’
 
@@ -33,9 +30,8 @@ Now the camera pans left as a police car draws up, then circles slowly rightward
 
 But before this, another mystery. Arriving at the hotel, Locke’s told by the proprietor that ‘Mrs Robertson’ has already arrived, and that he doesn’t need to show his passport – one is enough for both. He meets this supposed wife; it’s Schneider. So this young woman, whom he met a day or so previously, seemingly by chance, is travelling with the surname of his alter ego, implying – what, exactly? Once again, we’re left to supply the answer.
 
-One last, perhaps frivolous question. Following the sinuous virtuoso take we get a final shot of the corner of the hotel at sunset. It features a dog. And we’re in Andalusia. Could this – just possibly – be a sly nod to Buñuel?
-
-Philip Kemp, _Sight and Sound_, June 2018
+One last, perhaps frivolous question. Following the sinuous virtuoso take we get a final shot of the corner of the hotel at sunset. It features a dog. And we’re in Andalusia. Could this – just possibly – be a sly nod to Buñuel?  
+**Philip Kemp, _Sight and Sound_, June 2018**  
 
 I had not revisited the movie since I reviewed it on its release for a long-forgotten journal called _Monogram_. Thirty-one years is a long time not to have seen something, and it’s interesting what sticks in the mind over the passing decades – images, as one might expect, rather than story having the stronger grip. So I remember very clearly certain visual icons: a matched pair of shots that show, first, Nicholson, arms outstretched in a cable car over the bay of Barcelona; and second, Maria Schneider in the back seat of an American convertible throwing out her arms in an identical gesture of freedom as the soon-to-be-lovers speed along a tree-lined avenue, on the run from who knows what to who knows where.
 
