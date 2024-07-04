@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lighthouse
-published: false
+published: true
 date: 2024-07-04
 readtime: true
 categories: ['RESTORED']
