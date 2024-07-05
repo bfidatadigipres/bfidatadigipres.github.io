@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Comedy]
 metadata: 'France-Italy-Spain 1972, 101 mins<br> Director: Luis Buñuel'
-pdf: '2024-07-07-charme-discret-de-la-bourgeoisie.pdf'
+pdf: '2024-07-07-discreet-charm-of-the-bourgeoisie.pdf'
 ---
 
 **A contemporary review**  
