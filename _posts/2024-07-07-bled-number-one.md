@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bled Number One
-published: false
+published: true
 date: 2024-07-07
 readtime: true
 categories: ['TIGRITUDES<br>A PAN-AFRICAN FILM CYCLE 1956-2024']
