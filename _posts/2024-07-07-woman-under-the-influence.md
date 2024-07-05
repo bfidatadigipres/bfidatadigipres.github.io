@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Woman under the Influence
-published: false
+published: true
 date: 2024-07-07
 readtime: true
 categories: ['DISCOMFORT MOVIES']
