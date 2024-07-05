@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Requiem for a Dream
-published: false
+published: true
 date: 2024-07-06
 readtime: true
 categories: ['DISCOMFORT MOVIES']
