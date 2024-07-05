@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Au hasard Balthazar
-published: false
+published: true
 date: 2024-07-05
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
