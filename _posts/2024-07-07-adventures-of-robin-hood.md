@@ -9,7 +9,7 @@ tags: [Adventure]
 metadata: 'USA 1938, 102 mins<br> Directors: Michael Curtiz, William Keighley'
 pdf: '2024-07-07-adventures-of-robin-hood.pdf'
 ---
-<img style="float: left;" src="/img/RH.png"><br><br><br>
+<img style="float: left;" src="/img/RH.png"><br><br><br><br><br>
 
 **What’s it about?**  
 Sir Robin of Locksley becomes an outcast after standing-up to the corrupt rule of Prince John. He takes refuge in Sherwood Forest, where he joins forces with a group of outlaws intent on defeating John and bringing peace to the land. Michael Curtiz’s beloved Hollywood classic offers a defining cinematic version of the Robin Hood tale. Made over 85 years ago, this action-packed adventure remains a colourful, swashbuckling joy.  
