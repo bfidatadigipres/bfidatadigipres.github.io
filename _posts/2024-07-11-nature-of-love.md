@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Nature of Love
-published: false
+published: true
 date: 2024-07-11
 readtime: true
 categories: ['WOMAN WITH A MOVIE CAMERA']
