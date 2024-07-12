@@ -9,7 +9,7 @@ tags: [Animation, Children, Adventure]
 metadata: 'USA 2024, 94 mins<br> Director: Mike Mitchell'
 pdf: '2024-07-14-kung-fu-panda-4.pdf'
 ---
-<img style="float: left;" src="/img/KFP4.png"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img style="float: left;" src="/img/KFP4.png"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 **What’s it about?**  
