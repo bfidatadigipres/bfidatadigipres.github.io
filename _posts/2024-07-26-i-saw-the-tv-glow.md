@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Saw the TV Glow
-published: false
+published: true
 date: 2024-07-26
 readtime: true
 categories: ['NEW RELEASES']
