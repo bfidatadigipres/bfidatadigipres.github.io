@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In a Lonely Place
-published: false
+published: true
 date: 2024-07-29
 readtime: true
 categories: ['MEMBER MONDAYS']
