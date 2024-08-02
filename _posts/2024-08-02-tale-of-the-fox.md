@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Tale of the Fox
-published: false
+published: true
 date: 2024-08-02
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
