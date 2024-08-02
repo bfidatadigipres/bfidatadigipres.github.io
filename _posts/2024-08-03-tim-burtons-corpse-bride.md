@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tim Burton’s Corpse Bride
-published: false
+published: true
 date: 2024-08-03
 readtime: true
 categories: ['STOP MOTION<br>CELEBRATING HANDMADE ANIMATION<br> ON THE BIG SCREEN']
