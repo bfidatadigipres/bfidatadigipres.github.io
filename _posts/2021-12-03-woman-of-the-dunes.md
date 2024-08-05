@@ -6,11 +6,9 @@ date: 2021-12-03
 readtime: true
 categories: ['JAPAN 2021<br>100 YEARS OF JAPANESE CINEMA']
 tags: [Drama]
-metadata: 'Japan 1964, 124 mins<br> Director: Hiroshi Teshigahara'
-pdf: '2021-12-03-woman-of-the-dunes.pdf'
+metadata: 'Japan 1964, 147 mins<br> Director: Hiroshi Teshigahara'
+pdf: '2024-08-05-woman-of-the-dunes.pdf'
 ---
-
-_+ intro by Espen Bale, BFI National Archive (Friday 3 December only)_
 
 Hiroshi Teshigahara’s most famous film follows a hapless entomologist who misses the last bus home and ends up stranded on a beach in the hut of a destitute young widow. Anticipating Oshima Nagisa’s _In the Realm of the Senses_ in its frank depiction of the destructive and claustrophobic relationship between the two leads, the film also has a strong absurdist undertow. Sand has never been more inventively used by a filmmaker. It is at once a force of nature (the widow’s husband is said to have died in a sandstorm), a barrier to the outside world and, in the scene in which the man cleans grains off the woman’s body, there to heighten the eroticism. The minimalist score by Takemitsu Toru adds to the growing unease.<br>
 **Geoffrey Macnab, _Sight & Sound_, November 2006**<br>
