@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Truman SHow
+title: The Truman Show
 published: true
 date: 2024-08-08
 readtime: true
