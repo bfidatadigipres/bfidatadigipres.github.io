@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Philip Glass Effect
-published: false
+published: true
 date: 2024-08-14
 readtime: true
 categories: ['SHIFTING LAYERS<br> THE FILM SCORES OF PHILIP GLASS']
