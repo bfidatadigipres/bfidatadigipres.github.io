@@ -1,16 +1,18 @@
 ---
 layout: post
-title: Guillermo del Toro in Conversation - Animation for All
+title: Guillermo del Toro's Pinocchio
 published: true
-date: 2023-01-27
+date: 2024-08-18
 readtime: true
 categories: ['IN PERSON & PREVIEWS']
-tags: [Talks]
-metadata: 
-pdf: '2023-01-27-gdt-in-conversation-animation.pdf'
+tags: [Animation, Talks]
+metadata: 'USA-Mexico 2022, 116 mins<br> Directors: Guillermo del Toro, Mark Gustafson'
+pdf: '2024-08-18-guillermo-del-toros-pinocchio.pdf'
 ---
 
-Guillermo del Toro’s _Pinocchio_ had its world premiere at the BFI London Film Festival and has gone on to receive huge critical acclaim and awards attention. We are delighted to welcome Guillermo del Toro to BFI Southbank to talk about his long term passion for animation, his journey in making his first animated film and the importance of recognising animation as being a medium that is for everyone. This event will be hosted by the BFI’s Justin Johnson and features clips from some of del Toro’s favourite animated films alongside a discussion about the making of _Pinocchio_ with a guest appearance from his fellow director Mark Gustafson.
+_+ Q&A with writer-director Guillermo del Toro_
+
+This glorious adaptation of Florentine writer Carlo Collodi’s 1883 book _The Adventures of Pinocchio_ is a striking, often breathtakingly beautiful synthesis of stop-motion animation and virtuoso visual effects. Del Toro and co-writer Patrick McHale bring the timeline of the story forward, to Mussolini’s Italy, creating an allegory of a repressive society that ranks alongside the Mexican auteur’s Franco-era Spanish dramas _The Devil’s Backbone_ and _Pan’s Labyrinth_. It’s a superb achievement. This screening is presented as a tribute to Mark Gustafson.
 
 **Guillermo del Toro’s Pinocchio**  
 Humanity may be made of crooked timber, but in Guillermo del Toro’s take on Carlo Collodi’s 1883 children’s classic, it’s the attempt to force us straight that does the damage. Del Toro’s errant wooden boy – lovingly conceived and nurtured into the world over most of two decades by the Mexican director, modelled on Gris Grimly’s illustrations for a 2002 edition of the book – is a natural free spirit, a born-wild child with stick limbs, a rosette of carved hair, open, unvarnished features and a nose for trouble. Where other characters in the film see a potential model Italian youth, or a ticket to riches, or even a surrogate son, del Toro gives us a puckish innocent driven by curiosity and affection, whose need to become ‘real’ is an embrace of love, loss and mortality. Around him, the film condenses Collodi’s picaresque fable as a helter-skelter tumble through the perils of patriarchy and fascism in a 1930s Italy rife with false idols and warped father figures.
@@ -27,55 +29,54 @@ Not that the world of art and entertainment is an escape from cruel vanities. Pi
 **Nick Bradshaw, _Sight and Sound_, Winter 2022-23**
 <br><br>
 
-**IN PERSON & PREVIEWS**<br>
-**Film Sounds: A Conversation between  Mark Jenkin and Peter Strickland**<br>
-Sun 29 Jan 13:00<br>
-**Chinese New Year: Year of the Rabbit: What About China? + intro by Hyun Jin Cho, BFI London Film Festival Programmer**<br>
-Sun 5 Feb 14:30<br>
-**BFI Expanded: Shifting Perspectives: A focus on Female and Non-Binary creators in XR**<br>
-6-12 Feb<br>
-**Mark Kermode Live in 3D at the BFI**<br>
-Mon 6 Feb 18:30<br>
-**UK Premiere: Blind Willow, Sleeping Woman  + intro with director Pierre Földes**<br>
-Mon 6 Feb 20:45<br>
-**Preview: Joyland +Q&A**<br> 
-Wed 8 Feb 18:00<br>
-**BFI Future Film Festival**<br>
-16-19 Feb<br>
-**Preview: Subject + Q&A with director Camilla Hall and contributor Margaret Ratliff**<br>
-Fri 17 Feb 18:10<br>
-**Preview: The Strays + Q&A**<br>
-Mon 20 Feb 18:15<br>
+**GUILLERMO DEL TORO’S PINOCCHIO**<br>
+_Directed by:_ Guillermo del Toro, Mark Gustafson<br>
+©: Netflix<br>
+a Double Dare You! film<br>
+a Shadowmachine production<br>
+_in association with:_ The Jim Henson Company<br>
+_Executive Producer:_ Jason Lust<br>
+_Produced by:_ Guillermo del Toro, Lisa Henson, Gary Ungar, Alex Bulkley, Corey Campodonico<br>
+_Script Supervisor:_ Derek Cohen-Copeland<br>
+_Casting by:_ Mary Hildago<br>
+_Screenplay by:_ Guillermo del Toro, Patrick McHale<br>
+_Screen Story by:_ Guillermo del Toro, Matthew Robbins<br>
+_Based on the book Pinocchio written by:_ Carlo Collodi<br>
+_Director of Photography:_ Frank Passingham<br>
+_Animation Supervisor:_ Brian Leif Hansen<br>
+_Edited by:_ Ken Schretzmann, Holly Klein<br>
+_Production Design by:_ Curt Enderle, Guy Davis<br>
+_Art Director:_ Robert DeSue<br>
+_Music by:_ Alexandre Desplat<br>
+_Music Supervisor:_ Steven Gizicki<br>
+_Sound Design and Supervision:_ Scott Martin Gershin<br>
+_Re-recording Mixers:_ Jon Taylor, Frank A. Montaño<br>
 
-**REGULAR PROGRAMME**<br>
-**Relaxed Screening:  The Hidden Fortress + intro & discussion**<br>
-Mon 30 Jan 18:00<br>
-**Member Picks: Sunshine**<br>
-Thu 2 Feb 18:15<br>
-**Seniors: The Long Memory + intro and Q&A  
-with film historian Marcus Powell**<br>
-Mon 6 Feb 14:00<br>
-**Shadow + intro and discussion**<br>
-Wed 8 Feb 18:20<br>
-**Art in the Making: Edward Hopper + intro by Steven Foxon, Curator BFI National Archive + Night Work**<br>
-Thu 9 Feb 18:30<br>
-**African Odysseys: Free Renty: Lanier v. Harvard + intro and Q&A**<br>
-Sat 11 Feb 14:00<br>
-**Silent Cinema:  Neil Brand Presents Laurel and Hardy**<br>
-Sun 12 Feb 16:00<br>
-**Woman with a Movie Camera: Galentine’s Day: The Parent Trap 25th Anniversary**<br>
-Mon 13 Feb 20:15<br>
-**Projecting the Archive: I’ll Get You for This (aka Lucky Nick Cain) + intro by Rosie Taylor, Curatorial Archivist, BFI National Archive**<br>
-Tue 21 Feb 18:20<br>
-**Experimenta: Right of Way + Q&A with artists Dan Guthrie, Ufuoma Essi and Arjuna Neuman, hosted by Jonathan Ali**<br>
-Thu 23 Feb 18:10<br>
-**Film Wallahs: Kekee Manzil: House of Art**<br>
-Fri 24 Feb 20:40<br>
-**Course: Filmmaking for Artists:  Beginners Filmmaking Workshop**<br>
-Sun 26 Feb 10:30-16:30<br>
-**Relaxed Screening: Throne of Blood (Kumonosu-jô) + intro and discussion**<br>
-Mon 27 Feb 18:15<br>
+**Voice Cast**<br>
+Ewan McGregor _(Cricket)_<br>
+David Bradley _(Geppetto)_<br>
+Gregory Mann _(Pinocchio and Carlo)_<br>
+Burn Gorman _(priest)_<br>
+Ron Perlman _(Podesta)_<br>
+John Turturro _(Dottore)_<br>
+Finn Wolfhard _(Candlewick)_<br>
+Cate Blanchett _(Spazzatura)_<br>
+Tim Blake Nelson _(black rabbits)_<br>
+Christoph Waltz _(Count Volpe)_<br>
+Tilda Swinton _(wood sprite and Death)_<br>
+Tom Kenny _(Mussolini/right hand man/sea captain)_<br>
+
+USA-Mexico 2022©<br>
+116 mins<br>
+Digital<br>
 <br>
+<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -90,7 +91,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
