@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sátántangó
-published: true
+published: false
 date: 2024-08-17
 readtime: true
 categories: ['WILL HEAVEN FALL UPON US? <br>A BÉLA TARR RETROSPECTIVE']
