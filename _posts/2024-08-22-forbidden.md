@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Forbidden
-published: false
+published: true
 date: 2024-08-22
 readtime: true
 categories: ['PROJECTING THE ARCHIVE']
