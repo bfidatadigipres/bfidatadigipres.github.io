@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pulp Fiction (30th Anniversary)
-published: false
+published: true
 date: 2024-08-23
 readtime: true
 categories: ['RE-RELEASES']
