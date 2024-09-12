@@ -2,7 +2,7 @@
 layout: post
 title: Quay Brothers<br>in Conversation
 published: true
-date: 2024-06-12
+date: 2024-09-12
 readtime: true
 categories: ['EVENTS']
 tags: [Talk]
