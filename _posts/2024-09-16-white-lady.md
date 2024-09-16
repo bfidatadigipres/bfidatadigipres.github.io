@@ -2,7 +2,7 @@
 layout: post
 title: White Lady + Children of the Stones
 published: true
-date: 2024-09-13
+date: 2024-09-16
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror]
