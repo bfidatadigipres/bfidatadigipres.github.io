@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Elephant Man
-published: false
+published: true
 date: 2024-09-17
 readtime: true
 categories: ['EVENTS']
