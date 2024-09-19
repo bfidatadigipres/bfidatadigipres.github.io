@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Pumpkin Eater
-published: true
-date: 2021-12-08
+published: false
+date: 2024-09-27
 readtime: true
-categories: ['A CLASS OF HIS OWN<br>THE FILMS OF JACK CLAYTON']
+categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
 tags: [Drama]
-metadata: 'UK 1964, 112 mins<br> Director: Jack Clayton'
-pdf: '2021-12-08-pumpkin-eater.pdf'
+metadata: 'UK 1964, 118 mins<br> Director: Jack Clayton'
+pdf: '2024-09-27-pumpkin-eater.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -95,7 +95,8 @@ Kash Dewar  _(Mark)_
 Mark Crader  _(youngest child)_<br>
 
 UK 1964<br>
-112 mins<br>
+118 mins<br>
+35mm<br>
 
 
 Sixties British Cinema by Robert Murphy is available to buy from the BFI Shop: [**shop.bfi.org.uk**](https://shop.bfi.org.uk)<br> 
@@ -104,26 +105,59 @@ Sixties British Cinema by Robert Murphy is available to buy from the BFI Shop: [
 <br>
 
 
-**A CLASS OF HIS OWN: THE FILMS OF JACK CLAYTON**<br>
-**Room at the Top**<br>
-Thu 2 Dec 18:10 (+ intro by BFI Curator Josephine Botting); Sat 18 Dec 14:10; Wed 22 Dec 18:10; Wed 29 Dec 14:30<br>
-**The Innocents**<br>
-Sat 4 Dec 20:40; Thu 9 Dec 20:45; Mon 13 Dec 18:10; Thu 23 Dec 14:20; Mon 27 Dec 15:20; Thu 30 Dec 14:30<br>
-**Our Mother’s House**<br>
-Tue 7 Dec 20:40 (+ intro); Mon 20 Dec 18:15<br>
-**The Passions of Jack Clayton**<br>
-Wed 8 Dec 18:10<br>
+**MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA**<br>
+**Shooting Stars**<br>
+Sun 1 Sep 11:30; Mon 9 Sep 20:40<br>
+**Brief Ecstasy**<br>
+Tue 3 Sep 18:30; Wed 11 Sep 20:35<br>
+**The Man in Grey**<br>
+Fri 6 Sep 18:10; Tue 17 Sep 20:40<br>
+**This Happy Breed**<br>
+Fri 6 Sep 20:40; Tue 24 Sep 18:00<br>
+**The Seventh Veil**<br>
+Sat 7 Sep 15:10; Wed 25 Sep 20:40<br>
+**Green for Danger**<br>
+Sun 8 Sep 15:40; Thu 26 Sep 20:55<br>
+**It Always Rains on Sunday**<br>
+Sun 8 Sep 18:10; Fri 27 Sep 20:50<br>
+**Hue and Cry**<br>
+Sat 14 Sep 20:30; Mon 30 Sep 18:15 (+ intro by Josephine Botting, Curator, BFI National Archive)<br>
+**Uncle Silas**<br>
+Sat 14 Sep 18:20<br>
+**Terence Fisher Double Bill:  To the Public Danger + Stolen Face**<br>
+Sun 15 Sep 18:10; Tue 1 Oct 20:30<br>
+**Mandy**<br>
+Mon 16 Sep 18:35; Sat 28 Sep 12:20<br>
+**Yield to the Night**<br>
+Fri 20 Sep 18:00; Sat 28 Sep 15:10<br>
+**The Flesh and the Fiends**<br>
+Sat 21 Sep 14:50; Wed 2 Oct 20:40<br>
+**The Damned**<br>
+Sat 21 Sep 20:40; Fri 4 Oct 18:30<br>
+**Station Six Sahara**<br>
+Sun 22 Sep 12:30; Sat 5 Oct 16:00<br>
+**The Mind Benders**<br>
+Sun 22 Sep 18:00; Wed 2 Oct 18:20<br>
+**Went the Day Well?** + intro by James Bell,  Senior Curator, BFI National Archive<br>
+Mon 23 Sep 18:20<br>
 **The Pumpkin Eater**<br>
-Wed 8 Dec 20:40; Sat 18 Dec 12:50 (+ pre-recorded intro by critic Lucy Scholes); Tue 28 Dec 12:15; Thu 30 Dec 18:10<br>
-**The Lonely Passion of Judith Hearne**<br>
-Fri 10 Dec 20:30; Tue 21 Dec 14:20; Wed 29 Dec 17:50<br>
-**The Great Gatsby**<br>
-Sat 11 Dec 20:20; Mon 27 Dec 12:45<br>
-**Something Wicked This Way Comes**<br>
-Sun 12 Dec 18:30; Tue 21 Dec 20:40<br>
-**Memento Mori + The Bespoke Overcoat**<br>
-Sun 19 Dec 18:00<br>
-<br>
+Fri 27 Sep 18:00; Sun 6 Oct 15:00<br>
+**Dr. Jekyll and Sister Hyde**<br>
+Sat 28 Sep 18:10; Thu 3 Oct 18:15 + intro by  Sam Clemens, son of Brian Clemens<br>
+**The Legend of Hell House**<br>
+Sat 28 Sep 20:40; Mon 7 Oct 18:20<br>
+**Guns at Batasi**<br>
+Sun 29 Sep 18:20; Sat 5 Oct 18:20<br>
+
+**With thanks to**<br>
+Martin Scorsese and Edgar Wright<br>
+<br><br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -138,6 +172,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
