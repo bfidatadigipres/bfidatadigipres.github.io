@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Thief and the Cobbler<br> A Moment in Time
-published: false
+published: true
 date: 2024-09-22
 readtime: true
 categories: ['EVENTS']
