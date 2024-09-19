@@ -1,13 +1,13 @@
 ---
 layout: post
 title: The Hunger
-published: false
-date: 2024-09-18
+published: true
+date: 2024-09-19
 readtime: true
 categories: ['ROOTS, RITUALS AND PHANTASMAGORIA']
 tags: [Horror, Romance]
 metadata: 'USA 1983, 87 mins<br> Director: Tony Scott'
-pdf: '2024-09-18-the-hunger.pdf'
+pdf: '2024-09-19-the-hunger.pdf'
 ---
 
 _The Hunger_ helped challenge my perception of what dark fantasy could be. It didn’t have to be epic in scale, but by employing a quieter register and mood it was possible to weave an entrancing story. It’s a film that oozes gothic style thanks to its incredible cinematography and production design. If you didn’t already know, it stars David Bowie as an aged vampire whose no less voluptuous lover, played by Catherine Deneuve, is drawn to Susan Sarandon’s gerontologist.  
