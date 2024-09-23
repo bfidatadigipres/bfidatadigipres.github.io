@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Went the Day Well?
-published: false
+published: true
 date: 2024-09-23
 readtime: true
 categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
