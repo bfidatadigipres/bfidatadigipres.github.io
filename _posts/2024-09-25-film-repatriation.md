@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Film Repatriation and<br>New Relational Possibilities<br>An Illustrated Talk by<br>Xavier Pillai
-published: false
+published: true
 date: 2024-09-25
 readtime: true
 categories: ['EXPERIMENTA']
