@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Strangelove or<br>How I Learned to Stop Worrying<br> and Love the Bomb
+title: Dr. Strangelove or<br>How I Learned to<br> Stop Worrying<br> and Love the Bomb
 published: true
 date: 2024-09-26
 readtime: true
