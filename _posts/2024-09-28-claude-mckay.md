@@ -2,12 +2,12 @@
 layout: post
 title: Claude McKay,<br> from Harlem to Marseille
 published: true
-date: 2024-09-29
+date: 2024-09-28
 readtime: true
 categories: ['AFRICAN ODYSSEYS']
 tags: [Documentary]
 metadata: 'France 2021, 80 mins<br> Director: Matthieu Verdeil'
-pdf: '2024-09-29-claude-mckay.pdf'
+pdf: '2024-09-28-claude-mckay.pdf'
 ---
 _We are pleased to welcome writer and poet, Hannah Lowe, who joins this event and discuss her life and work in connection to the life and work of Claude McKay. We are also really pleased to welcome Jason Allen-Paisant (Jamaican poet, writer and academic) and Colin Grant (director of WritersMosaic). Panel discussion hosted by actor-director Burt Caesar._
 
