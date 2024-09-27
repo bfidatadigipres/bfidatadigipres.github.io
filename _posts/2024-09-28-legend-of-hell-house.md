@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Legend of Hell House
-published: false
+published: true
 date: 2024-09-28
 readtime: true
 categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
