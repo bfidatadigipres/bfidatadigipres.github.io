@@ -9,7 +9,7 @@ tags: [Animation, Comedy]
 metadata: 'UK-USA 2005, 84 mins<br> Directors: Nick Park, Steve Box'
 pdf: '2024-09-29-curse-of-the-were-rabbit.pdf'
 ---
-<img style="float: left;" src="/img/were-rabbit.png" width="40%" height="40%"><br><br><br><br>
+<img style="float: left;" src="/img/were-rabbit.png" width="80%" height="80%"><br><br><br><br><br><br><br>
 
 
 **What’s it about?**  
