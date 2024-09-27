@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pumpkin Eater
-published: false
+published: true
 date: 2024-09-27
 readtime: true
 categories: ['MARTIN SCORSESE SELECTS HIDDEN GEMS OF BRITISH CINEMA']
