@@ -54,6 +54,7 @@ _Titles and Title Cards:_ Laurent Brett
 _End Titles:_ Olivier Leibig  
 _Colour Grader:_ Yov Moor  
 _Sound:_ Erwan Kerzanet, Sylvain Malbrant, Olivier Guillaume  
+
 **Cast**  
 Arieh Worthalter _(Pierre Goldman)_  
 Arthur Harari _(Maître Georges Kiejman)_  
