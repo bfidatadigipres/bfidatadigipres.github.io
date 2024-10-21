@@ -109,25 +109,28 @@ Mon 21 Oct 14:30; Tue 5 Nov 20:30; Sat 30 Nov
 Mon 21 Oct 18:20; Wed 27 Nov 20:50  
 **Seven Samurai** Shichinin no samurai  
 Mon 21 Oct 18:30; Sun 3 Nov 13:30; Sun 10 Nov 11:45; Sun 24 Nov 14:30  
-**Hell Drivers** 
+**Hell Drivers**  
 Tue 22 Oct 18:15; Thu 14 Nov 12:20; Sat 16 Nov 20:40  
-**The Thief of Bagdad** Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30  
+**The Thief of Bagdad**  
+Wed 23 Oct 14:30; Thu 31 Oct 12:20; Sat 9 Nov 12:30  
 **Goldfinger 60th anniversary screenings**  
 Wed 23 Oct 18:20 (+ intro by season programmer Dick Fiddy); Sun 10 Nov 18:40; Sat 23 Nov 18:20  
-**Bullitt**  
+**Bullitt**   
 Wed 23 Oct 20:40; Sun 3 Nov 16:25; Thu 21 Nov 14:30; Tue 26 Nov 20:45  
-**The Mark of Zorro**  
+**The Mark of Zorro**   
 Thu 24 Oct 14:30 (+ intro by Bryony Dixon, curator, BFI National Archive); Sat 2 Nov 11:45; Sat 23 Nov 15:00  
 **Enter the Dragon**  
 Thu 24 Oct 20:45; Fri 1 Nov 14:40; Mon 4 Nov 20:50; Wed 13 Nov 18:10 (+ intro by film critic Katie Smith-Wong); Mon 18 Nov 14:30  
 **Crouching Tiger, Hidden Dragon**  
 Wo hu cang long  Fri 25 Oct 20:35; Sun 3 Nov 11:00 BFI IMAX; Fri 8 Nov 12:20; Mon 11 Nov 18:00; Wed 27 Nov 18:10 (+ intro)  
-**Battleship Potemkin** Bronenosets Potyomkin  
+**Battleship Potemkin** Bronenosets Potyomkin   
 Sat 26 Oct 13:20; Thu 7 Nov 20:55; Tue 12 Nov 14:30  
 **Captain Blood**  
 Sun 27 Oct 12:45; Wed 6 Nov 18:10 (+ intro)  
-**The Train** Sun 27 Oct 17:45; Sat 2 Nov 20:25  
-**Taxi** Mon 28 Oct 18:30; Fri 22 Nov 18:20; Mon 25 Nov 20:50  
+**The Train**  
+Sun 27 Oct 17:45; Sat 2 Nov 20:25  
+**Taxi**  
+Mon 28 Oct 18:30; Fri 22 Nov 18:20; Mon 25 Nov 20:50  
 **Three the Hard Way**  
 Wed 30 Oct 18:15 (+ intro by Ti Singh, BFI FAN season producer); Thu 7 Nov 12:30; Sun 17 Nov 16:10  
 **Police Story** Ging chaat goo si  
