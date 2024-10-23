@@ -4,7 +4,7 @@ title: The Long Kiss Goodnight
 published: true
 date: 2024-10-23
 readtime: true
-categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [Action, Drama]
 metadata: 'USA 1996, 121 mins<br> Director: Renny Harlin'
 pdf: '2024-10-23-long-kiss-goodnight.pdf'
