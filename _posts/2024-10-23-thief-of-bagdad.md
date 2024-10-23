@@ -4,7 +4,7 @@ title: The Thief of Bagdad
 published: true
 date: 2024-10-23
 readtime: true
-categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [Action]
 metadata: 'UK 1940, 106 mins<br> Directors: Ludwig Berger,  
 Michael Powell, Tim Whelan'
