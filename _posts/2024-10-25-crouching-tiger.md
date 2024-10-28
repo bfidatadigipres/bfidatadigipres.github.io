@@ -4,7 +4,7 @@ title: Crouching Tiger,<br> Hidden Dragon
 published: true
 date: 2024-10-25
 readtime: true
-categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [Action, Period, Martial Art]
 metadata: 'China, Taiwan, USA, Hong Kong 2000, 120 mins<br> Director: Ang Lee'
 pdf: '2024-10-25-crouching-tiger.pdf'
