@@ -4,7 +4,7 @@ title: Battleship Potemkin
 published: true
 date: 2024-10-26
 readtime: true
-categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
+categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
 tags: [War, Drama]
 metadata: 'USSR 1925, 72 mins<br> Director: Sergei Eisenstein'
 pdf: '2024-10-26-battleship-potemkin.pdf'
