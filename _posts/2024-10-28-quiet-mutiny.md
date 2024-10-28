@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Quiet Mutiny
-published: false
+published: true
 date: 2024-10-28
 readtime: true
 categories: ['HIDDEN TRUTHS<br>JOHN PILGER AND THE POWER OF DOCUMENTARY']
