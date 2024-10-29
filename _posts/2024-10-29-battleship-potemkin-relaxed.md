@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Battleship Potemkin
-published: false
+published: true
 date: 2024-10-29
 readtime: true
 categories: ['RELAXED SCREENING']
