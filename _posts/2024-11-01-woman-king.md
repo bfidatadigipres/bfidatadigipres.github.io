@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Woman King
-published: false
+published: true
 date: 2024-11-01
 readtime: true
 categories: [ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA]
