@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Color Adjustment
-published: false
+published: true
 date: 2024-11-01
 readtime: true
 categories: ['TEAR THIS BUILDING DOWN<br>JAMES BALDWIN ON FILM']
