@@ -7,7 +7,7 @@ readtime: true
 categories: ['ART OF ACTION<br> CELEBRATING THE REAL ACTION STARS OF CINEMA']
 tags: [Comedy, Action]
 metadata: 'UK 2023, 103 mins<br> Director: Nida Manzoor'
-pdf: '2024-11-07-polite-society.pdf'
+pdf: '2024-11-17-polite-society.pdf'
 ---
 
 _+ Q&A with director Nida Manzoor_
