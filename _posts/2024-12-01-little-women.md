@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Little Women
-published: false
+published: true
 date: 2024-12-01
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
