@@ -4,7 +4,7 @@ title:  The Apartment
 published: false
 date: 2024-12-10
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['CHRISTMAS FILMS']
 tags: [Comedy, Drama]
 metadata: 'USA 1960, 125 mins<br> Director: Billy Wilder'
 pdf: '2024-12-10-apartment.pdf'
