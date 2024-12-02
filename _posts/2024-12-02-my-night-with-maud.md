@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My Night with Maud
-published: false
+published: true
 date: 2024-12-02
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
