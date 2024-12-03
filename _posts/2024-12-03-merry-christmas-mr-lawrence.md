@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Merry Christmas Mr. Lawrence
-published: false
+published: true
 date: 2024-12-03
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
