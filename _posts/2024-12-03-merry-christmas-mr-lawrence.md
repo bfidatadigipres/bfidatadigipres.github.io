@@ -7,7 +7,7 @@ readtime: true
 categories: ['BIG SCREEN CLASSICS']
 tags: [Drama]
 metadata: 'UK/Japan/New Zealand 1983, 123 mins<br> Director: Nagisa Oshima'
-pdf: '2024-12-02-my-night-with-maud.pdf'
+pdf: '2024-12-03-merry-christmas-mr-lawrence.pdf'
 ---
 
 **Jeremy Thomas on David Bowie and ‘Merry Christmas Mr. Lawrence’**
