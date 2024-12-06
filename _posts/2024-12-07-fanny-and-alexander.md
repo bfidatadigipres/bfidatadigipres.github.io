@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fanny and Alexander
-published: false
+published: true
 date: 2024-12-04
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
