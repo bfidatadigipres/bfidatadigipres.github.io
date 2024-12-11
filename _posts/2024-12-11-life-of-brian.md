@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Monty Python’s Life of Brian
-published: false
+published: true
 date: 2024-12-11
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
