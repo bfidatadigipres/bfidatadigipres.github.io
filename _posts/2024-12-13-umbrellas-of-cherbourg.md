@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Umbrellas of Cherbourg
-published: false
+published: true
 date: 2024-12-13
 readtime: true
 categories: ['RE-RELEASES']
