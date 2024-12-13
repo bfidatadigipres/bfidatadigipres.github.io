@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eyes Wide Shut
-published: false
+published: true
 date: 2024-12-14
 readtime: true
 categories: ['BIG SCREEN CLASSICS']
