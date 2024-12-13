@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Shop around the Corner
-published: false
+published: true
 date: 2024-12-14
 readtime: true
 categories: ['CHRISTMAS FILMS']
