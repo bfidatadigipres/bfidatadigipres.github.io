@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Eternal Sunshine<br> of the Spotless Mind
-published: false
+published: true
 date: 2024-12-19
 readtime: true
 categories: ['MEMBER PICKS']
