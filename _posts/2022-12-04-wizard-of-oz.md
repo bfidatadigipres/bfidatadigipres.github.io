@@ -2,12 +2,12 @@
 layout: post
 title: The Wizard of Oz
 published: true
-date: 2022-12-04
+date: 2025-01-03
 readtime: true
-categories: ['OVER THE RAINBOW']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Fantasy, Musical]
 metadata: 'USA 1939, 102 mins<br> Director: Victor Fleming'
-pdf: '2022-12-04-wizard-of-oz.pdf'
+pdf: '2025-01-03-wizard-of-oz.pdf'
 ---
 
 On 13 October 1938 Production No.1060 on the MGM’s Culver City lot went before the cameras. A full six months later than the moneymen wanted, the film had already notched up the kind of budget MGM were used to receiving in box office receipts, not the other way around. When the lights finally went out on their newest sound stages after a record 22 weeks of filming, the total cost would come in at $2,777,000, the biggest budget yet for the studio with the lion’s roar.
@@ -23,7 +23,7 @@ Along with Ebsen, Oz’s producers Mervyn LeRoy and Arthur Freed replaced origin
 One last change behind the scenes perhaps sealed the fate not only of _The Wizard of Oz_ taking up residence in our hearts all these years, but of its tragic star as well. Fleming, having steered his stars along what turned out to be quite a tumultuous path down the Yellow Brick Road was called over to yet another troubled production shooting in 1939, ironically enough replacing George Cukor again as _Gone with the Wind_ sailed in to some choppy waters. All that was left on _Oz_ to shoot was the farewell ending in the Emerald City and the black-and-white scenes on the Kansas farm, so in stepped King Vidor. Bringing with him the wealth of experience garnered in his work in silent film, which can quite clearly be seen in what has become the iconic moment from the film, when Judy sings ‘Over the Rainbow’. He goes uncredited for the work he did on _Oz_, but no one can underestimate his contribution which, like Cukor’s, arguably shapes the film into what it is today. With emotion and melancholy borne out of the deeply affecting lyrics of Yip Harburg’s Oscar winning song, Judy’s rendition is at the heart of the film, Vidor’s direction adding some indelible element that perhaps would not have been there had it been left to Fleming.
 
 Fourteen writers, four directors, on-set accidents with fire and exploding broomsticks, not to mention 120 ‘munchkins’ running amok on the MGM lot, couldn’t have made _The Wizard of Oz_ the easiest film to work on. But it is undoubtedly a classic. Proving that dreams, even the ones thought up in Hollywood, really do come true.  
-**Emma Smart, BFI Reuben Library Manager**  
+**Emma Smart, BFI Director of Collections, Learning & Engagement**  
 
 **THE WIZARD OF OZ**  
 _Director:_ Victor Fleming  
@@ -67,19 +67,14 @@ Singer Midgets _(The Munchkins)_
 
 USA 1939  
 102 mins  
+<br>  
 <br>
-**OVER THE RAINBOW**  
-**Mulholland Drive**  
-Thu 1 Dec 20:15; Sun 11 Dec 17:45; Mon 19 Dec 20:15; Fri 30 Dec 20:15  
-**Blue Velvet**  
-Sat 3 Dec 20:40; Fri 9 Dec 20:40; Wed 21 Dec 20:40; Tue 27 Dec 15:00  
-**The Wizard of Oz**  
-Sun 4 Dec 11:30; Fri 16 Dec 20:30; Sun 18 Dec 15:15  
-**The Elephant Man**  
-Mon 5 Dec 20:30; Sat 10 Dec 20:30; Thu 15 Dec 20:40; Fri 23 Dec 20:40  
-**Wild at Heart**  
-Wed 7 Dec 18:10; Thu 22 Dec 20:35; Fri 30 Dec 17:50  
-<br>
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -94,6 +89,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
