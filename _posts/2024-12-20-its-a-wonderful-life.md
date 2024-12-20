@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  It's a Wonderful Life
-published: false
+published: true
 date: 2024-12-20
 readtime: true
 categories: ['CHRISTMAS FILMS']
 tags: [Drama]
-metadata: 'USA 1946, 129 mins<br> Director: Franck Capra'
+metadata: 'USA 1946, 129 mins<br> Director: Frank Capra'
 pdf: '2024-12-20-its-a-wonderful-life.pdf'
 ---
 Frank Capra cleared his throat, and began. The war was over and he was anxious to make another movie. In early October 1945, he approached Lew Wasserman, James Stewart’s agent at MCA, telling him that he wanted to sketch out for Jimmy the idea for a film he had just bought. Capra recalled that ‘Wasserman said Stewart would gladly play the part without hearing the story. But I insisted. If Jimmy was as scared as I was about making another film I’d like to know it.’ Out of practice, demobbed, uncertain, Capra fretted over whether he could still make a great fiction film. He invited Stewart and Wasserman to his business colleague Samuel Briskin’s apartment. There he blundered through what now seemed the sappy tale of a desperate small-town man, redeemed by an angel granting his wish that he had never been born. Capra lost faith in the plot even as he laid it out, and it abruptly struck him as ‘the lousiest piece of shit I’ve ever heard’. According to Capra, the pitch bombed: Wasserman was ‘dying’, and ‘Jimmy doesn’t want to hear [the] story’. And yet, Stewart did want to hear the story. Rather than letting the project give up the ghost, the actor phoned the next morning and persuaded Capra to make the film.
