@@ -2,19 +2,13 @@
 layout: post
 title: Videodrome
 published: true
-date: 2022-09-10
+date: 2025-01-06
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['BIG SCREEN CLASSICS']
 tags: [Sci-Fi, Horror, Thriller]
-metadata: 'Canada 1983, 87 mins<br> Director: David Cronenberg'
-pdf: '2022-09-10-videodrome.pdf'
+metadata: 'Canada 1983, 89 mins<br> Director: David Cronenberg'
+pdf: '2025-01-06-videodrome.pdf'
 ---
-
-In pursuit of sensational television programming that will push boundaries, a station CEO (James Woods) stumbles across a disturbing snuff-broadcast, which seemingly starts to melt into his own reality. Ahead of David Cronenberg’s highly anticipated latest feature _Crimes of the Future_, dive into a brand new, director-approved, 4K restoration of one of the body horror king’s original, most provocative works.  
-**bfi.org.uk**  
-
-There is much more to _Videodrome_ than James Woods’ mutant hand and seductive anthropomorphic televisions. This was Cronenberg’s reaction to the video nasty scare of the early 80s, a grisly exploration into what might unfold if viewers replicated the extreme depictions of sex and violence available to them on videocassette. TV executive-turned-detective Max Renn (Woods) is a fine lead, but the dangerous philosophy of _Videodrome_ is the real star here as it continuously asks provocative questions about society’s relationship with entertainment and technology.  
-**Greg Evans, bfi.org.uk, 14 March 2017**  
 
 **A contemporary review**  
 David Cronenberg’s audacious attempt at conflating medium and message produces more than just the time-honoured confusion of illusion and reality: it actually tests the audience’s receptiveness to TV’s ‘post-narrative’ properties of fragmentation and flow in an alien (theatrical) context. Accordingly, Renn’s ‘hallucinations’ are not presented as formal breaks in the film’s narrative structure, but as determinants of that structure. For a good part of _Videodrome_’s running time, Cronenberg actually risks a devilishly playful replication of the comparatively subjective video-viewing experience (grounded as it is in notions of personal programming, multiple channel choice, diversified attentiveness, and so on).
@@ -85,37 +79,17 @@ Jayne Eastwood _(woman caller)_
 Franciszka Hedland _(belly-dancer)_  
 
 Canada 1983  
-87 mins  
-
-Park Circus  
+89 mins  
+Digital 4K 
+<br><br>  
 <br>
 
-**NEW RELEASES**  
-**Queen of Glory**  
-From 26 Aug  
-**Official Competition**  
-From 26 Aug  
-**Wildhood**  
-From Fri 2 Sep  
-**Eric Ravilious: Drawn to War**  
-From Mon 5 Sep  
-**Bodies Bodies Bodies**  
-From Fri 9 Sep  
-**Crimes of the Future**  
-From Fri 9 Sep  
-**In Front of Your Face**  
-From Fri 23 Sep  
-**Flux Gourmet**  
-From Fri 30 Sep  
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-**RE-RELEASES**  
-**Lost Highway**  
-From Fri 2 Sep  
-**Videodrome**  
-From Sat 10 Sep  
-**Jackie Brown**  
-From Fri 16 Sep  
-<br>
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
+
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
@@ -129,6 +103,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
