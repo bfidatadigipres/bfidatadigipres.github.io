@@ -109,6 +109,30 @@ France-Belgium 1988
 Digital (restoration)
 <br><br>
 
+**In partnership with**  
+<img style="float: left;" src="/img/fondation-chantal-akerman-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br><br>
+<img style="float: left;" src="/img/cinematek-logo-01.jpeg" width="40%" height="40%">
+<br><br><br><br>
+<img style="float: left;" src="/img/wallonia-brussels-01.png" width="40%" height="40%">
+<br><br><br><br><br>
+
+All restorations by Royal Film Archive of Belgium (CINEMATEK) and Fondation Chantal Akerman unless otherwise stated.
+
+Season generously supported by Philippe & Stephanie Camu.
+
+Supported by the General Representation of Wallonia-Brussels in the United Kingdom.
+
+With thanks to Céline Brouwez, Fondation Chantal Akerman; Joanna Hogg and Adam Roberts, A Nos Amours.
+<br><br>
+
+**Chantal Akerman Collection Vol.1: 1967-1978 (Limited Edition 5-Disc Blu-ray Box Set)**  
+Spanning the period 1967 to 1978, and representing the first significant release of Chantal Akerman’s work in the UK, this 5-Blu-ray set includes her most famous film, _Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles_. Available from BFI Shop from 24 February.
+
+**Sight and Sound presents the auteurs series: Chantal Akerman**  
+Revisiting material from the _Sight and Sound_ and _Monthly Film Bulletin_ archive and also publishing exclusive texts and images from the Fondation Chantal Akerman archive, _Sight and Sound presents the auteurs series: Chantal Akerman_. Available now from BFI Shop.
+<br><br><br>
+
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
@@ -128,7 +152,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
