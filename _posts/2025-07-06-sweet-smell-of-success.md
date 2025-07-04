@@ -2,13 +2,28 @@
 layout: post
 title: Sweet Smell of Success
 published: true
-date: 2022-08-02
+date: 2025-07-06
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['Moviedrome<br>Bringing the Cult TV Series to the Big Screen']
 tags: [Drama]
-metadata: 'USA, 1957, 97 mins<br> Director: Alexander Mackendrick'
-pdf: '2022-08-02-sweet-smell-of-success.pdf'
+metadata: 'USA 1957, 96 mins<br> Director: Alexander Mackendrick'
+pdf: '2025-07-06-sweet-smell-of-success.pdf'
 ---
+
+_The screening on Sunday 6 July will be introduced by filmmaker and Moviedrome presenter Alex Cox_
+
+‘What is a cult film? A cult film is one which has a passionate following but does not appeal to everybody. Just because a movie is a cult movie does not automatically guarantee quality. Some cult films are very bad. Others are very, very good. Some make an awful lot of money at the box office. Others make no money at all. Some are considered quality films. Others are exploitation.’ From 1988 to 2000 _Moviedrome_ was presented by Alex Cox and then Mark Cousins. Across that time, more than 200 features were shown, and generations of movie fans and filmmakers would be informed and inspired by the selection, alongside the wit and wisdom of the introductions that preceded each screening. _Moviedrome_ was a portal into the world of weird and wonderful cinema. This two-month season features some of the most notable titles screened and wherever possible they are preceded by the original televised introduction.  
+**Nick Freand Jones, season curator and producer  of _Moviedrome_**
+<br>
+
+**Alex Cox:** _Sweet Smell of Success_ is the story of a sleazy press agent called Sidney Falco (Tony Curtis), and his life’s work currying favour with the sinister and powerful newspaper columnist J.J. Hunsecker (Burt Lancaster). Both Curtis and Lancaster are great. Lancaster’s character seems to be modelled on the powerful media personality Walter Winchell; he’s a friend of senators and big-time mafiosi. Curtis is always snapping at his heels, barking for scraps. It’s a fantastic film, but almost unknown in the United States.
+
+It was directed by Alexander Mackendrick who was born in Boston, Massachusetts but educated in Scotland. The director of some of the finest Ealing comedies, including _Whiskey Galore_ and _The Ladykillers_, this was his first American film, an incredibly funny indictment of the media and advertising and human relationships and just about everything else. Maybe it was Mackendrick’s ex-patriot background that helped him cut through all the bullshit and make a great American film. Other ‘foreign directors’ who spring to mind are John Schlesinger with _Midnight Cowboy_ and Miloš Forman with _One Flew over the Cuckoo’s Nest_. Or, flowing the other way, Stanley Kubrick came to Britain and made _Clockwork Orange_, a pretty good movie about us.
+
+_Sweet Smell of Success_ was written by Ernest Lehman and Clifford Odets who did a similar hatchet job on Hollywood with _The Big Knife_. _Success_ was photographed by James Wong Howe, one of the great Hollywood cameramen. We need heroes and villains, and this film has two of the latter. In the words of Sidney Falco: never forget, ‘it’s in a man’s nature to get out there and hustle and get the things he wants’.  
+**Alex Cox’s original introduction for _Moviedrome_. Also published in _Moviedrome: The Guide_ (BBC, 1990). With thanks to moviedromer.tumblr.com**
+
+
 **Franc Roddam on ‘Sweet Smell of Success’**<br>
 _Sweet Smell of Success_ is a film that is sympathetic to the anger that I feel about the way in which the public is bamboozled into believing half-truths and downright lies by politicians and the press and the narrow artistic confines that Hollywood imposes on filmmakers.
 
@@ -35,7 +50,7 @@ Mackendrick’s defence of the artist and the individual, against a corrupt and 
 <br><br>
 
 
-**SWEET SMELL OF SUCCESS**<br>
+**Sweet Smell of Success**<br>
 _Directed by:_ Alexander Mackendrick<br>
 _©/Production Companies:_ Norma Productions, Curtleigh Productions<br>
 _Production Company:_ Hecht-Hill-Lancaster Productions<br>
@@ -80,42 +95,24 @@ John Fiedler _(barman)_ *<br>
 Fred Katz _(himself)_ *<br>
 
 USA 1957©<br>
-97 mins
+96 mins  
+35mm
 
-\* Uncredited<br>
-<br><br>
+\* Uncredited
 
+Moviedrome transmission date: 3 Sep 1989
 
-**BIG SCREEN CLASSICS**<br>
-**The Manchurian Candidate**<br>
-Mon 1 Aug 14:40; Fri 5 Aug 18:00; Sun 14 Aug 14:40<br>
-**M**<br>
-Tue 2 Aug 18:15; Wed 10 Aug 20:45; Tue 23 Aug 20:50; Mon 29 Aug 12:00<br>
-**Sweet Smell of Success**<br>
-Tue 2 Aug 20:50; Sat 13 Aug 18:10; Mon 29 Aug 18:30<br>
-**Dance, Girl, Dance**<br>
-Wed 3 Aug 18:00 (+ intro by Pamela Hutchinson, Film Critic and Historian); Thu 18 Aug 20:45<br>
-**Gaslight**<br>
-Thu 4 Aug 18:15; Mon 8 Aug 20:45<br>
-**Persona**<br>
-Fri 5 Aug 20:50; Thu 11 Aug 21:00; Wed 31 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
-**Raging Bull**<br>
-Sat 6 Aug 20:30; Thu 11 Aug 20:30; Fri 26 Aug 20:30<br>
-**La Haine**<br>
-Sat 6 Aug 21:00; Fri 19 Aug 20:50; Wed 24 Aug 18:10 (+ intro by Ginette Vincendeau, Professor of film studies at King’s College London)<br>
-**Citizen Kane**<br>
-Sun 7 Aug 14:30; Tue 16 Aug 18:15; Wed 24 Aug 20:40<br>
-**The White Ribbon (Das weisse Band)**<br>
-Tue 9 Aug 17:50; Sat 27 Aug 17:50<br>
-**Kes**<br>
-Tue 9 Aug 20:45; Mon 15 Aug 18:15; Tue 30 Aug 20:40<br>
-**The Night of the Hunter**<br>
-Wed 10 Aug 18:10 (+ intro by Jason Wood, BFI Director of Public Programme and Audiences); Mon 22 Aug 20:45; Sun 28 Aug 12:20<br>
-**Notorious**<br>
-Thu 11 Aug 18:10; Wed 17 Aug 20:45; Sun 21 Aug 12:20; Thu 25 Aug 18:15<br>
-**Bigger Than Life**<br>
-Fri 12 Aug 20:40; Wed 17 Aug 18:20 (+ intro by Geoff Andrew, Programmer at Large)<br>
+New 35mm print made with funding from the National Lottery
+
+**With thanks to**   
+Bob Cummins and Sharon Maitland
+<br><br> 
 <br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -130,6 +127,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
