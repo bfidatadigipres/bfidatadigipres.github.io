@@ -18,7 +18,7 @@ pdf: '2025-07-07-american-werewolf-in-london.pdf'
 _An American Werewolf in London_ was directed by John Landis, an American whose most notable cult feature is _The Blues Brothers_. _An American Werewolf in London_ was influenced by _Dead of Night_, the classic 1945 British horror film, and it contains every conceivable song in which the word ‘moon’ appears. It features a nice cameo by Mr Frank Oz – Muppets genius and director of the very funny _Dirty Rotten Scoundrels_ – as Mr Collins, the man from the US Embassy. You can also spot Rik Mayall playing chess in a pub called The Slaughtered Lamb, and Brian Glover, who is a very good actor.
 
 It’s a weird mixture of naive comedy and apocalyptic violence with an abrupt ending. If you sit through all the credits, you will see that the film is dedicated to ‘Their Highnesses the Prince and Princess of Wales on the occasion of their marriage’. Only an American could be that patriotic.  
-**Alex Cox’s original introduction for Moviedrome. Also published in Moviedrome: The Guide (BBC, 1990). With thanks to moviedromer.tumblr.com**
+**Alex Cox’s original introduction for Moviedrome. Also published in _Moviedrome: The Guide_ (BBC, 1990). With thanks to moviedromer.tumblr.com**
 
 **Contemporary reviews**  
 Sophomore humour appeals, if at all, simply because it is sophomoric; thus, there was no dickering with ‘sophistication’ in the John Landis team’s _Animal House_. Here, however, the material calls for a much lighter tread, so often has the ground been covered by filmmakers in hobnail boots.
