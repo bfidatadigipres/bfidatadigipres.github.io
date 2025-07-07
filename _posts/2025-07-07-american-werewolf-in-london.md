@@ -2,17 +2,23 @@
 layout: post
 title: An American Werewolf in London
 published: true
-date: 2024-07-03
+date: 2025-07-07
 readtime: true
-categories: ['EVENTS']
+categories: ['Moviedrome<br>Bringing the Cult TV Series to the Big Screen']
 tags: [Horror]
-metadata: 'USA/UK 1981, 97 mins<br> Director: John Landis'
-pdf: '2024-07-03-american-werewolf-in-london.pdf'
+metadata: 'USA-UK 1981, 97 mins<br> Director: John Landis'
+pdf: '2025-07-07-american-werewolf-in-london.pdf'
 ---
 
-_+ intro by Griffin Dunne_  
-As they make their way across the Yorkshire Moors, two backpacking US students are attacked by a ferocious creature. Only one of them survives and on arriving in London he realises that he has become cursed. John Landis’s classic film redefined the very idea of comedy horror – with much of the humour coming from Griffin Dunne’s hilarious performance – and features Rick Baker’s groundbreaking make-up effects.  
-**bfi.org.uk**  
+‘What is a cult film? A cult film is one which has a passionate following but does not appeal to everybody. Just because a movie is a cult movie does not automatically guarantee quality. Some cult films are very bad. Others are very, very good. Some make an awful lot of money at the box office. Others make no money at all. Some are considered quality films. Others are exploitation.’ From 1988 to 2000 _Moviedrome_ was presented by Alex Cox and then Mark Cousins. Across that time, more than 200 features were shown, and generations of movie fans and filmmakers would be informed and inspired by the selection, alongside the wit and wisdom of the introductions that preceded each screening. _Moviedrome_ was a portal into the world of weird and wonderful cinema. This two-month season features some of the most notable titles screened and wherever possible they are preceded by the original televised introduction.  
+**Nick Freand Jones, season curator and producer  of _Moviedrome_**
+
+**Alex Cox:** _An American Werewolf in London_ is part of a very honourable cult genre: the werewolf/vampire film. The rules of these films are standardised. Vampires are blood-drinking, living corpses whose mere bite can make you one of their number. Werewolves are people who turn into wolves, or wolf-like humanoids, at every full moon, and their bite turns other humans into werewolves. Vampires can only be killed by fire, removal of the head or a stake through the heart. Werewolves can only be killed by a silver bullet or the SAS.
+
+_An American Werewolf in London_ was directed by John Landis, an American whose most notable cult feature is _The Blues Brothers_. _An American Werewolf in London_ was influenced by _Dead of Night_, the classic 1945 British horror film, and it contains every conceivable song in which the word ‘moon’ appears. It features a nice cameo by Mr Frank Oz – Muppets genius and director of the very funny _Dirty Rotten Scoundrels_ – as Mr Collins, the man from the US Embassy. You can also spot Rik Mayall playing chess in a pub called The Slaughtered Lamb, and Brian Glover, who is a very good actor.
+
+It’s a weird mixture of naive comedy and apocalyptic violence with an abrupt ending. If you sit through all the credits, you will see that the film is dedicated to ‘Their Highnesses the Prince and Princess of Wales on the occasion of their marriage’. Only an American could be that patriotic.  
+**Alex Cox’s original introduction for Moviedrome. Also published in Moviedrome: The Guide (BBC, 1990). With thanks to moviedromer.tumblr.com**
 
 **Contemporary reviews**  
 Sophomore humour appeals, if at all, simply because it is sophomoric; thus, there was no dickering with ‘sophistication’ in the John Landis team’s _Animal House_. Here, however, the material calls for a much lighter tread, so often has the ground been covered by filmmakers in hobnail boots.
@@ -36,7 +42,7 @@ Landis is understandably aggrieved by the sudden presence on the screen of full 
 Landis is full of praise for Rick Baker’s special effects wizardry (and indeed the metamorphosis is a remarkable piece of engineering) and for the British crew who made the film. But he insists that making movies today is no different from what it was in the heyday of the studio system. ‘Although individual people like Cedric Gibbons and Hans Dreier might have vanished from the huge studio art departments, the organisation and infrastructure has survived. In Hollywood, whatever you might need for a scene, from a 1961 lilac Studebaker to a trained animal, it’s there the next morning ready for work. The city authorities are very co-operative for location work. In England the situation is different. We had to be extremely persistent to shoot in Piccadilly Circus, where you literally have to rely on the goodwill of the bobby on the beat, and even things like trained animals are difficult to get. You end up using one of the crew’s pets and waste hours until it barks on cue. There is a myth, though, that you can achieve better special effects in Britain than you can in Hollywood. The truth is that you can get them cheaper in Britain, which is why _Star Wars_ and _Superman_ were based here.’  
 **Adrian Turner, _Sight and Sound_, Winter 1981-82**  
 <br>
-**AN AMERICAN WEREWOLF IN LONDON**  
+**An American Werewolf in London**  
 _Directed by_: John Landis  
 _©_: American Werewolf Inc  
 _Production Company_: Lycanthrope Films Limited  
@@ -149,11 +155,17 @@ Bob Babenia _(usher)_
 Ken Sicklen, John Salthouse _(bobbies at cinema)_  
 John Altman, Keith Hodiak, John Owens, Roger Rowland _(assorted police)_  
 
-USA/UK 1981©  
+USA-UK 1981©  
 97 mins  
-Digital  
+Digital 4K  
+
+Moviedrome transmission date: 22 July 1990
 <br>
 
+**With thanks to**   
+Bob Cummins and Sharon Maitland
+<br><br> 
+<br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
 *Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
