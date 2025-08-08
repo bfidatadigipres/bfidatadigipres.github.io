@@ -2,17 +2,13 @@
 layout: post
 title: Dr. Strangelove or<br>How I Learned<br> to Stop Worrying<br> and Love the Bomb
 published: true
-date: 2024-09-26
+date: 2025-08-09
 readtime: true
-categories: ['EVENTS']
+categories: ['In Character<br>The Films of Peter Sellers']
 tags: [War, Comedy]
-metadata: 'UK-USA 1963, 95 mins<br> Director: Stanley Kubrick'
-pdf: '2024-09-26-dr-strangelove.pdf'
+metadata: 'UK-USA 1963, 94 mins<br> Director: Stanley Kubrick'
+pdf: '2025-08-09-dr-strangelove.pdf'
 ---
-
-_+ Q&A with Armando Iannucci and Sean Foley_
-
-_We celebrate the 60th anniversary of Kubrick’s classic film in the company of the creative team behind the forthcoming stage production._
 
 When _Dr. Strangelove_ was released, many people assumed its humour derived chiefly from Terry Southern, who was strongly associated with 1960s’ counter-culture. Kubrick insisted that the satire was his own idea and that the order of script credits on the screen (himself first, Peter George second and Southern third) was proper. At one point, he threatened legal action against MGM for advertising _The Loved One_ (1964), an adaptation by Southern of a novel by Evelyn Waugh, as a film by ‘the writer of _Dr. Strangelove_’. In fact, Kubrick deserves a good deal of credit, if only because he recognised how easily the basic elements of George’s story could be tipped over into absurdity (it takes only a minor alteration, for instance, to transform ‘Peace on Earth’ into ‘Purity of Essence’). Because of this strategy, combined with Kubrick’s direction, _Dr. Strangelove_ became a box-office hit and one of the most effective black comedies in film history. A risky commercial venture at the time of the Cuban missile crisis and the assassination of John F. Kennedy, it has never lost its edge and still looks refreshingly irreverent in today’s world of global capitalism, nuclear proliferation and flag-waving militarism.
 
@@ -29,7 +25,7 @@ Of all the film’s US admirers, however, theatre critic and director Robert Bru
 The iconoclastic attitude Brustein was describing could be detected elsewhere in America in the 1950s and early 1960s – in Nabokov’s _Lolita_, in Joseph Heller’s _Catch-22_, in pulp fiction by Jim Thompson and Charles Willeford, in the early issues of _Mad_ comics, in Lenny Bruce’s nightclub act and even in certain episodes of Alfred Hitchcock’s television show. But the sheer popularity of Kubrick’s Juvenalian satire was unexpected. Far from being harmed by negative reviews or picketed by right-wing bullies, the film prospered. Perhaps because of its gleeful, totalising cynicism, it especially appealed to young people (Elvis Presley was said to be one of its biggest fans). Without actually planning it, Kubrick had moved ahead of the cultural curve, tapping into a youth audience that would sustain him over the next decade no matter what the critics said.  
 **Extracted from _On Kubrick_ by James Naremore, (BFI, 2007) Reproduced by kind permission of Bloomsbury Publishing. (c)James Naremore**  
 <br>
-**DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB**  
+**Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb**  
 _Directed by:_ Stanley Kubrick  
 _©/Production Company:_ Hawk Films  
 _Production Company:_ Columbia Pictures Corporation  
@@ -84,14 +80,14 @@ Laurence Herder _(Burpelson base defender)_
 Gordon Tanner _(General Faceman)_  
 John McCarthy _(Burpelson base defender)_  
 
-UK/USA 1963©  
-95 mins  
-Digital  
+UK-USA 1963©  
+94 mins  
+Digital 4K  
 
 \* Uncredited
 
 
-Stanley Kubrick’s _Dr. Strangelove_, starring Steve Coogan, co-adapted by Armando Iannucci, and co-adapted and directed by Sean Foley, plays at the Noël Coward Theatre from 8 October.  
+  
 <br>
 **SIGHT AND SOUND**  
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
