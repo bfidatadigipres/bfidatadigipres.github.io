@@ -2,13 +2,16 @@
 layout: post
 title: Battleship Potemkin
 published: true
-date: 2022-07-02
+date: 2025-09-05
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['Re-releases']
 tags: [Drama]
 metadata: 'USSR 1925, 72 mins<br> Director: Sergei M. Eisenstein'
-pdf: '2022-07-02-battleship-potemkin.pdf'
+pdf: '2025-09-05-battleship-potemkin.pdf'
 ---
+
+Marking the film’s 100th anniversary, Eisenstein’s legendary drama of rebellion and revolution returns to the big screen with a celebrated score from the Pet Shop Boys. During the Russian Revolution of 1905, the crew of the battleship Potemkin leads a mutiny against their tyrannical officers. Eisenstein’s landmark fusion of art and politics – a regular on _Sight and Sound_’s Greatest Films of All Time poll – is brimming with technical brilliance, and a pioneering approach to editing and montage that had an indelible impact on the future of cinema. It is always a gift to witness one of the greatest silent epics on the big screen, but Neil Tennant and Chris Lowe’s music enhances the experience. Performed with the Dresdner Sinfoniker and orchestrated by Torsten Rasch, the soundtrack blends electronic beats with orchestral grandeur, offering a stirring contemporary twist on the classic masterpiece.  
+**Kimberley Sheehan, Lead Programmer**
 
 Every phenomenon has a chance, superficial manifestation. And underlying it is a profound feeling that reason has dictated it. So it was too with the film _Battleship Potemkin_. A grand epic, ‘1905’, was conceived by Nina Agadjanova and myself in preparation for the 20th anniversary of 1905. The mutiny on the battleship Potemkin was to have been just one among the many episodes chosen to commemorate that year of the revolutionary struggle.
 
@@ -34,7 +37,7 @@ Later in analysing the sequence, Eisenstein noted ‘the rhythmic drum of the so
 Eisenstein never saw Odessa or the steps again for nine years. In 1934 when he did, he stared down the steps contemptuously, unable to recapture his ‘creative ecstasy’ of 1925. He flung out incoherent remarks and fled. Next morning he was drawn back when he spat grape pips and obscenities down the steps, declaring unconvincingly that the inspiration for the stairs sequence was only the chase denouement of ‘the Western’, a statement contradicted by the reams he wrote about _Potemkin_.  
 **National Film Theatre programme notes**  
 
-**BATTLESHIP POTEMKIN (BRONENOSETS POTEMKIN)**  
+**Battleship Potemkin** Bronenosets Potemkin  
 _Director:_ Sergei M. Eisenstein  
 _Co-director:_ Grigori V. Aleksandrov  
 _Production:_ First Studio Goskino  
@@ -71,39 +74,18 @@ Andrei Fait
 
 USSR 1925  
 72 mins  
+Digital
 
-With live piano accompaniment (2 July) and with Edmund Meisel score (22 and 25 July)  
+With Pet Shop Boys score
+
+A BFI re-release<br>  
 <br>
 
-**BIG SCREEN CLASSICS**  
-**All the President’s Men**  
-Fri 1 Jul 20:25; Tue 5 Jul 18:00; Sat 9 Jul 17:45  
-**Battleship Potemkin (Bronenosets Potemkin)**  
-Sat 2 Jul 11:50 (with live piano accompaniment); Fri 22 Jul 18:30 and Mon 25 Jul 20:50 (with Edmund Meisel score)  
-**Pandora’s Box (Die Büchse der Pandora)**  
-Sat 2 Jul 15:10 and Sat 16 Jul 12:20 (with Peer Raben score); Sun 31 Jul 15:20 (with live piano accompaniment)  
-**Theorem (Teorema)**  
-Sat 2 Jul 20:50; Mon 4 Jul 20:50; Tue 26 Jul 18:00  
-**Rome Open City (Roma città aperta)**  
-Sun 3 Jul 13:10; Mon 18 Jul 18:20; Wed 27 Jul 20:40  
-**To Sleep with Anger**  
-Wed 6 Jul 18:15 (+ intro); Fri 8 Jul 18:10  
-**Day of Wrath (Vredens Dag)**  
-Thu 7 Jul 18:15; Mon 11 Jul 20:30  
-**Blue Velvet**  
-Thu 7 Jul 20:40; Sun 17 Jul 18:30; Fri 29 Jul 20:40  
-**Matewan**  
-Fri 8 Jul 20:25; Tue 19 Jul 18:00  
-**Manhunter**  
-Fri 8 Jul 20:40; Thu 21 Jul 18:20; Sat 23 Jul 20:40  
-**His Girl Friday**  
-Sun 10 Jul 16:50; Wed 20 Jul 18:20 (+ intro by Geoff Andrew, Programmer-at-Large); Thu 28 Jul 20:45  
-**The Scarlet Empress**  
-Wed 13 Jul18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Sun 24 Jul 13:20  
-**The Piano**  
-Thu 14 Jul 14:20; Sat 23 Jul 17:50; Sat 30 Jul 11:45  
-**Mandabi (The Money Order)**  
-Fri 15 Jul 20:40; Wed 27 Jul 18:10  
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -118,7 +100,7 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
