@@ -2,12 +2,12 @@
 layout: post
 title: Thelma & Louise
 published: true
-date: 2021-08-01
+date: 2025-09-10
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['Ridley Scott<br>Building Cinematic Worlds']
 tags: [Drama]
-metadata: 'USA, 1991, 130 mins<br> Director: Ridley Scott'
-pdf: '2021-08-01-thelma-and-louise.pdf'
+metadata: 'USA-UK-France 1991, 129 mins<br> Director: Ridley Scott'
+pdf: '2025-09-10-thelma-and-louise.pdf'
 ---
 
 In the summer of 1991, _Thelma & Louise_ was a much talked-about movie, sparking a broad public debate about women, men, guns and the fate of women who break the law. A generation later, we could say that this discussion continues on in new forms yet with many of the same debates. Today, the rise of the #MeToo movement has dramatically changed the public conversation about sexual assault and harassment, and popular, consumer, and political culture is increasingly filled with representations of female empowerment. Yet that movement has exposed just how little has changed about the abuse of male power and responses to it. To see _Thelma & Louise_ today is to understand how much gender power relations have changed and, inevitably, the many ways that they have remained the same.
@@ -25,7 +25,7 @@ Social change moves forward and is pushed back with virulence, and moves forward
 
 
 
-**THELMA & LOUISE**<br>
+**Thelma & Louise**<br>
 _Directed by_: Ridley Scott  
 _©_: Pathé Entertainment Inc  
 _Production Companies_: Percy Main, Pathé Entertainment  
@@ -97,15 +97,21 @@ Michael Delman _(Silver Bullet dancer)_
 Kristel L. Rose _(girl smoker)_  
 Noel Walcott _(mountain bike rider)_<br>
 
-USA/UK/France 1991<br>
-130 mins<br>
+USA-UK-France 1991<br>
+129 mins<br>
+35mm
 
-_Thelma & Louise BFI Film Classics_ by Marita Sturken  (Bloomsbury Publishing) is available to buy in the BFI Shop. **shop.bfi.org.uk**
+A BFI National Archive print
 
-<img style="float: left;" src="/img/Thelma.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br>
-<br>
-<br>
+New 35mm print made with funding from the National Lottery
+<br><br><br>
+
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -120,6 +126,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
