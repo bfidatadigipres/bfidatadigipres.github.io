@@ -2,13 +2,16 @@
 layout: post
 title: Brief Encounter
 published: true
-date: 2023-08-10
+date: 2025-10-20
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['Too Much<br>Melodrama on Film']
 tags: [Drama, Romance]
 metadata: 'UK 1945, 87 mins<br> Director: David Lean'
-pdf: '2023-08-10-brief-encounter.pdf'
+pdf: '2025-10-20-brief-encounter.pdf'
 ---
+
+_The 80th Anniversary screening on Sunday 16 November will include a discussion with theatre director Emma Rice, filmmaker Barnaby Thompson and writer Oliver Soden_
+
 **SPOILER WARNING** The following notes give away some of the plot.
 
 _Brief Encounter_ has always been regarded as a quintessentially British film, typical of British cinema and of Britishness itself. This has been its glory but also a stick to beat it with. It was swiftly heralded, at home and abroad, as the acme of British cinema. There was talk of it representing a ‘British school’, not only by C.A. Lejeune (who used the phrase) but also by André Bazin (though he retracted his enthusiasm a few years later). It was straightaway a reference point in British writing about film, notably in the work of the _Penguin Film Review_ and Roger Manvell, which set the agenda for the serious consideration of cinema in Britain for many years. The script was published (a rare enough accolade) in 1950 as one of _Three British Screenplays_ and in 1974 as one of four _Masterworks of the British Cinema_. By the 1960s it was also being excoriated for the very same Britishness, by the journal _Movie_, for instance, and in Raymond Durgnat’s book _A Mirror for England_. Its place has nonetheless remained secure.
@@ -30,7 +33,7 @@ Yet if _Brief Encounter_ recognises the difficulty of going with one’s feeling
 \* Please note that since this article was written Carnforth Station has been restored and refurbished, and the Carnforth Station Heritage Centre and Brief Encounter Refreshment Room opened for visitors in 2003.  
 <br>
 
-**BRIEF ENCOUNTER**  
+**Brief Encounter**  
 _Director:_ David Lean  
 _Production Companies:_ Cineguild, Independent Producers  
 _Producer:_ Noël Coward  
@@ -95,39 +98,10 @@ Jack May _(boatman)_
 
 UK 1945  
 87 mins  
-<br>
+Digital
 
-**BIG SCREEN CLASSICS**  
-**Miller’s Crossing**  
-Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10  
-**Sawdust and Tinsel (Gycklanas afton)**  
-Wed 2 Aug 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 22 Aug 20:45  
-**The Night of the Hunter**  
-Thu 3 Aug 20:50; Sat 26 Aug 18:10; Tue 29 Aug 20:50  
-**The Bigamist**  
-Fri 4 Aug 20:45; Wed 9 Aug 18:00 (+ intro by Aga Baranowska, Events Programmer)  
-**3 Women**  
-Sat 5 Aug 20:30; Sun 20 Aug 18:25  
-**La Peau douce (Silken Skin)**  
-Sun 6 Aug 18:30; Thu 24 Aug 20:45  
-**In the Mood for Love (Huayang Nianhua)**  
-Mon 7 Aug 18:10; Fri 18 Aug 20:45; Fri 25 Aug 18:20  
-**Charulata (The Lonely Wife)**  
-Tue 8 Aug 20:35; Wed 16 Aug 18:00 (+ intro by Professor Chandak Sengoopta, Birkbeck College, University of London)  
-**Brief Encounter**  
-Thu 10 Aug 18:30; Sun 20 Aug 13:20  
-**Merrily We Go to Hell**  
-Fri 11 Aug 18:20; Wed 23 Aug 18:15 (+ intro by author and film journalist Helen O’Hara)  
-**Love Is the Devil: Study for a Portrait of Francis Bacon**  
-Sat 12 Aug 20:40; Wed 30 Aug 18:10 (+ intro)  
-**Mildred Pierce**  
-Sun 13 Aug 15:40; Mon 21 Aug 20:45; Mon 28 Aug 15:10  
-**Beau travail**  
-Tue 15 Aug 20:45; Mon 28 Aug 18:30  
-**Red River**  
-Thu 17 Aug 20:20; Sun 27 Aug 15:20  
-**Blue Velvet**
-Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
+In partnership with the David Lean Foundation and Noël Coward Foundation
+<br>  
 <br>
 
 **SIGHT AND SOUND**<br>
