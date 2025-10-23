@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Distant Voices Still Lives
+title: Distant Voices, Still Lives
 published: true
-date: 2023-10-20
+date: 2025-10-23
 readtime: true
-categories: ['EVENTS']
+categories: ['Love, Sex, Religion, Death<br>The Complete Films of Terence Davies']
 tags: [Drama]
-metadata: 'UK/West Germany 1988, 84 mins<br> Director: Terence Davies'
-pdf: '2023-10-20-distant-voices-still-lives.pdf'
+metadata: 'UK-West Germany 1988, 84 mins<br> Director: Terence Davies'
+pdf: '2025-10-23-distant-voices-still-lives.pdf'
 ---
-
-**Contemporary reviews**  
+  
 Terence Davies makes films in instalments. The 100-minute Trilogy – _Children_, _Madonna and Child_, _Death and Transfiguration_ – which was begun in 1976 took eight years to complete. It won the 1984 BFI Award, and led to the BFI Production Department backing the development of Davies’ first 35mm colour project, _Distant Voices_, a memoir of working-class life in Liverpool during and shortly after the Second World War. Where the Trilogy used autobiography as a springboard, _Distant Voices_ effaced Davies himself to recall the experiences of his parents, sisters and brothers. (Davies was the youngest of ten children, seven of whom survived infancy; but in the film the family has been reduced to manageable dramatic proportions.) _Distant Voices_ was to be stylised, jumping back and forth in time, and was to have an eclectic range of music. Moreover, as Davies said, content did not just dictate form, it dictated length too – and the length in this case was just 45 minutes.
 
 Nonetheless, production went ahead, with Freda Dowie as Davies’ cowed mother and Peter Postlethwaite as the near-psychotic father of whom Davies still speaks with undimmed hatred. The film ends with the father’s death: the stomach cancer which killed him in his late forties may have been hastened, Davies suggests, by the bottle of disinfectant he drank in order to avoid army call-up; an act of characteristic perversity, since he had earlier volunteered for the navy. His chief problem in writing the screenplay, Davies adds, was that several remembered episodes – such as his mother, at the end of her tether, jumping from an upper window with a baby in her arms to be miraculously caught by a passing soldier – would have seemed too fantastic to be true.
@@ -28,15 +27,16 @@ One sequence is set in one of the picture houses haunted by Davies in boyhood. T
 Before returning to the cramped snug, its claustrophobia heightened by clouds of perfumed ‘smoke’, Davies talks of the film being ‘a homage to what Liverpool used to be before the planners vandalised it.’ It might also function as something of a storehouse of vanishing Lancastrian vernacular. Will many spectators be acquainted with such usages as ‘mither’ and ‘get a cob on’, or with the picturesque injunction ‘until next Preston Guild’? These approximately translate as pester, get annoyed, and until the moon turns blue.  
 **Tim Pulleine, _Sight and Sound_, Winter 1987-88**  
 
-Dogger, Tyne, Heligoland. Fisher, Forties, Bight. For anyone born before the age of universal television, this liturgy of mysterious places is an indelible memory. The radio shipping forecast, rendered with the unmodulated precision of a religious creed, was somehow required listening. You did not talk over it, out of respect. It was a moment out of time. _Distant Voices Still Lives_ begins with a radio shipping forecast, a voice out of nowhere as the camera holds and holds on a shot of a staircase. It is a breathtaking moment, paradoxically tense in its absolute stasis. And it encapsulates from the start what I take to be the central mood (it is scarcely a theme) of Terence Davies’ extraordinary film: a sense of crystallised time, of memories in aspic.
+**A contemporary review**  
+Dogger, Tyne, Heligoland. Fisher, Forties, Bight. For anyone born before the age of universal television, this liturgy of mysterious places is an indelible memory. The radio shipping forecast, rendered with the unmodulated precision of a religious creed, was somehow required listening. You did not talk over it, out of respect. It was a moment out of time. _Distant Voices, Still Lives_ begins with a radio shipping forecast, a voice out of nowhere as the camera holds and holds on a shot of a staircase. It is a breathtaking moment, paradoxically tense in its absolute stasis. And it encapsulates from the start what I take to be the central mood (it is scarcely a theme) of Terence Davies’ extraordinary film: a sense of crystallised time, of memories in aspic.
 
 They are family memories. And it will doubtless be said that, as in his trilogy of films which culminated in _Death and Transfiguration_, Davies is here again working out his relationship with his family. Clearly there is some truth in this, not least by the filmmaker’s own admission and from biographical evidence. Davies was born in Liverpool in 1945, and evidently had the kind of childhood which leaves permanent scars. His new film is set in Liverpool in the 1940s and 50s, and centres on a family wounded by the malign presence of a brutish father. But this is only an autobiographical work in the sense that, say, _Sons and Lovers_ is ‘about’ Lawrence’s own family. It is a film rooted in personal memory, but transcending it. As in the doctrine of transubstantiation – and the family here is Catholic – the substance is mysteriously made something else. For one thing, the setting is deliberately denied a geographical specificity: the city of Liverpool is recognisable only from the characters’ accents. As in a family photograph, exteriors are cropped out, rendered insignificant by the centrality of the subjects. The terraced houses and grim Victorian public buildings belong in a working-class area of a large city, but the film does not have a Liverpool accent. It is a work of intense interiority, unmediated by the particularity of place.
 
-_Distant Voices Still Lives_ is actually two films joined together, the second half shot two years after the first. The seams don’t show, not least because the two lighting cameramen, William Diver and Patrick Duval, achieve an extraordinarily resonant matching of image to mood. The film’s key device, however, is Davies’ use of the music of the time. There are long moments of communion as the family and their friends sing in the pub, and other moments when the popular songs of the period add a primary colour to the darker tonal range of the images. The songs are also used transitionally, overlapping one fragmented memory and the next. There are too many songs perhaps, particularly in the several long scenes in the pub, though on the whole they are used aptly and precisely. But it is the precision of the images which haunts. Locked in their stillness is a potency of emotion which recalls Bresson, a director (and of course one whose films are steeped in Catholicism) whom it would be no surprise to learn that Terence Davies admires. The question now is whether this remarkable filmmaker can finally close the family album.  
+_Distant Voices, Still Lives_ is actually two films joined together, the second half shot two years after the first. The seams don’t show, not least because the two lighting cameramen, William Diver and Patrick Duval, achieve an extraordinarily resonant matching of image to mood. The film’s key device, however, is Davies’ use of the music of the time. There are long moments of communion as the family and their friends sing in the pub, and other moments when the popular songs of the period add a primary colour to the darker tonal range of the images. The songs are also used transitionally, overlapping one fragmented memory and the next. There are too many songs perhaps, particularly in the several long scenes in the pub, though on the whole they are used aptly and precisely. But it is the precision of the images which haunts. Locked in their stillness is a potency of emotion which recalls Bresson, a director (and of course one whose films are steeped in Catholicism) whom it would be no surprise to learn that Terence Davies admires. The question now is whether this remarkable filmmaker can finally close the family album.  
 **David Wilson, _Sight and Sound_, Autumn 1988**  
 <br>
 
-**DISTANT VOICES STILL LIVES**  
+**Distant Voices, Still Lives**  
 _Directed by:_ Terence Davies  
 ©: Terence Davies  
 _Production Company/Presented by:_ British Film Institute Production Board  
@@ -131,13 +131,16 @@ Jeanette Moseley _(barmaid)_
 Ina Clough _(licensee)_  
 Chris Benson, Judith Barker, Tom Williamson, Lorraine Michaels _(Rose’s family)_  
 
-UK/West Germany 1988©  
+UK-West Germany 1988©  
 84 mins  
 Digital 4K  
 
-Introduced by Ben Roberts, BFI CEO
-(Fri 20 Oct 20:50 only)  
-<br>
+The screenings on Mon 27 Oct and Sat 29 Nov will include a screening of Terence Davies’ short film _Boogie_
+
+**With thanks to**  
+James Dowling, John Taylor, Dan Copley,  
+Sophie Smith, Edge Hill University
+<br><br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
