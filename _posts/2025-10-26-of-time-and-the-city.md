@@ -2,14 +2,13 @@
 layout: post
 title: Of Time and the City
 published: true
-date: 2023-06-14
+date: 2025-10-26
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['Love, Sex, Religion, Death<br>The Complete Films of Terence Davies']
 tags: [Documentary]
-metadata: 'UK 2008, 75 mins<br> Director: Terence Davies'
-pdf: '2023-06-14-of-time-and-the-city.pdf'
+metadata: 'UK 2008, 74 mins<br> Director: Terence Davies'
+pdf: '2025-10-26-of-time-and-the-city.pdf'
 ---
-_With intro by film critic and lecturer Dr Julia Wagner (Wednesday 14 June only)_
 
 There is something mysterious about Terence Davies’ Liverpool from the outset: at the heart of this meditation on the city lies a tension, between urban change as a process that is brutal and unremitting, and the persistence of memory as something that is delicate and filamentary. We weave our memories into a palimpsest of dreams where time and place melt into each other. Memories become maps through places to which we can never return in a world that is changing all about us.
 
@@ -30,7 +29,7 @@ The final tracking shots of gentrified docks and warehouses evoke a sense of pla
 Beautiful and scathing in equal measure, _Of Time and the City_ must surely rank as one of the best films about a British city that has ever been made. But the film is not simply about Liverpool: it is also a mordant response to the failures and disappointments of post-war Britain and a bittersweet exploration of the delicate connections between memory and place that anchor our sense of individual and collective identity amidst the tumult of historical change.  **Matthew Gandy (Professor of Cultural and Historical Geography and Fellow of King’s College, University of Cambridge), _Of Time and the City_ DVD booklet essay (BFI, 2009) **
 <br>
 
-**OF TIME AND THE CITY**  
+**Of Time and the City**  
 _Directed by:_ Terence Davies  
 _©:_ Hurricane City Limited, Digital Departures Northwest Vision and Media _&_ Digital Departures  
 _presented in association with the_ Liverpool Culture Company _and_ BBC Films  
@@ -60,38 +59,18 @@ _EPK:_ Krishna Stott, Philip Shotton
 _Unit Publicity:_ Keeley Naylor, Zoe Flower, emfoundation  
 
 UK 2008©  
-75 mins  
+74 mins  
+Digital
+
+The screening on Sun 26 Oct will be preceded by a 2008 filmed interview with Terence Davies from _The Culture Show_ (BBC 2008. 15min. Digital)
+
+The screening on Wed 29 Oct will include a pre-recorded intro by Jason Wood, BFI Executive Director of Public Programmes & Audiences<br>
 <br>
-**BIG SCREEN CLASSICS**  
-**The 400 Blows (Les Quatre cents coups)**  
-Thu 1 Jun 18:20; Tue 13 Jun 20:30  
-**The Big Lebowski**  
-Fri 2 Jun 20:30; Sat 17 Jun 18:10  
-**La dolce vita**  
-Sat 3 Jun 17:00; Tue 13 Jun 13:30; Sun 18 Jun 17:30  
-**Boyz N the Hood**  
-Sat 3 Jun 20:40; Fri 30 Jun 18:10  
-**Vertigo**  
-Sun 4 Jun 15:30; Tue 20 Jun 20:40  
-**Bicycle Thieves (Ladri di biciclette)**  
-Mon 5 Jun 20:45; Fri 16 Jun 20:40; Sat 24 Jun 12:00  
-**The Third Man**  
-Tue 6 Jun 20:40; Wed 21 Jun 18:10 (+ intro); Sun 25 Jun 12:30  
-**The Long Goodbye**  
-Wed 7 Jun 18:00 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 27 Jun 20:35  
-**Cleo from 5 to 7 (Cléo de 5 à 7)**  
-Mon 12 Jun 21:00; Thu 29 Jun 18:30  
-**Of Time and the City**  
-Wed 14 Jun 18:30 (+ intro); Thu 22 Jun 20:50  
-**Taxi Driver**  
-Sun 18 Jun 18:30; Fri 23 Jun 20:45  
-**Get Carter**  
-Mon 19 Jun 18:20; Mon 26 Jun 20:45  
-**La Haine**  
-Wed 21 Jun 21:00; Sat 24 Jun 20:40; Wed 28 Jun 18:15 (+ intro)  
-**Don’t Look Now**  
-Sat 24 Jun 16:00; Fri 30 Jun 20:45  
-<br>
+**With thanks to**  
+James Dowling, John Taylor, Dan Copley, 
+Sophie Smith, Edge Hill University
+<br><br>
+
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
