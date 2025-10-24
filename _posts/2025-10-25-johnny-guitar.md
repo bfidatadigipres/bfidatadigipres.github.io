@@ -27,7 +27,7 @@ McCambridge’s performance maintains a steady pitch of barely repressed hysteri
 A surprise hit on its release, _Johnny Guitar_ has become a cinephile touchstone, especially revered by the directors of the French New Wave. Lyrical intensity and inspired lunacy charge both its big moments, like the indelible image of Vienna in a billowing white dress playing the piano while a lynch mob seethes around her; and its small moments, like the deft flourish with which Johnny catches a whiskey glass as it rolls off the bar. This is one of those rapturous, intoxicating movies that seems at times to be primarily about its own movie-ness.
 
 The whole film has the vivid illogic and compulsion of a dream, in which hidden desires, fears and furies are boldly acted out. So intense are the emotions of these women and men, it’s as though all the violence, the explosions and flames and flying bullets, were really inside them.  
-**Imogen Sara Smith, Sight and Sound, May 2016**
+**Imogen Sara Smith, _Sight and Sound_, May 2016**
 <br><br>
 
 **Johnny Guitar**  
