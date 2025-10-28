@@ -30,13 +30,13 @@ But despite its Hollywood touches, the film is firmly situated within everyday r
 Sound and camera movement give fluidity, depth and richness to the film. The way the camera tracks and dissolves, together with the symmetrical framings, gives a sense of artifice, celebrating a stylised cinematic view of the world. There is a freedom of movement from one space to another which allusively links different aspects of Bud’s life, particularly home, cinema, church and school. The soundtrack combines numerous musical pieces, film quotations and everyday sounds; the film sound clips produce an ironic commentary on the images and the music gives the film an almost symphonic form. Davies has the courage to hold key images so that we listen fully to the music, mainly popular songs, used in conjunction with classical music, which he sees now as complementing the feelings he had then. So important is the combination of visuals and music that for some major shots the music was played as the camera crew was filming.
 
 Davies wanted to recreate both emotional and visual memories, and in _The Long Day Closes_ the emotions are reached through the visuals, in particular costume, design and the overall ‘look’ of the film. Though he denies that making the film was a therapeutic process – ‘It’s never catharsis because it’s too painful’ – the effects on our eyes, ears and heart are powerful. By the end of the film we may recall, mourn, celebrate and reflect upon our own as well as Bud’s early years; an experience that invokes an acute sense of loss that touches the heart. Few directors dare to do that today.  
-**Pat Kirkham and Mike O’Shaughnessy, Sight and Sound, May 1992**
+**Pat Kirkham and Mike O’Shaughnessy, _Sight and Sound_, May 1992**
 
 **Passing Time**  
 A meditation on loss, love, and of the consoling power of words, music and nature.
 <br><br>
 
-**Passing Time**
+**Passing Time**  
 _Written and Read by:_ Terence Davies<br>
 _Filmed, Recorded and Produced by:_ James Dowling<br>
 _Commissioned by:_ Film Fest Ghent<br>
