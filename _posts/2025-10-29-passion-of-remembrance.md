@@ -1,17 +1,14 @@
 ---
 layout: post
-title: The Passion of Remembrance
+title: The Passion of Remembrance + Step Forward Youth
 published: true
-date: 2023-04-28
+date: 2025-10-29
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['Big Screen Classics']
 tags: [Drama]
-metadata: 'UK 1986, 82 mins<br> Directors: Maureen Blackwood, Isaac Julien'
-pdf: '2023-04-28-passion-of-remembrance.pdf'
+metadata: 'UK 1986, 83 mins<br> Directors: Maureen Blackwood, Isaac Julien'
+pdf: '2025-10-29-passion-of-remembrance.pdf'
 ---
-
-The men disaffected by the turbulence of the 1980s place themselves at the forefront of black liberation, embodying their authoritative traditional gender roles to dictate a vision for the future. Feminist Maggie Baptiste and her friend Gary (Chance), a gay black man, are youthful advocates who reject marginalisation. Punctuating dream sequences, featuring dual narrators, explore these conflicts.  
-**Xavier Alexandre Pillai, BFI National Archive**
 
 Almost 40 years after it was first made, the Sankofa collective’s _The Passion of Remembrance_ remains salient. The film is a grand tapestry filled with allusions to the intersectional concerns, motives and desires of different subsections of the Black community. It comprises two concurrent narratives: the first is a story about disagreements in a Black British family; the second takes place in an abstract ideological plane created to openly express each character’s political will.
 
@@ -32,7 +29,26 @@ The transplantation of the landmark New York gay club into the film’s London s
 Also featuring references to African American art and textual extracts by Malcolm X and June Jordan, ultimately _The Passion of Remembrance_ advocates for transatlantic cultural exchange. Suitably, the BFI National Archive’s new 4K remastering of this landmark film, undertaken with the directors and cinematographer Nina Kellgren from the original 16mm negative and magnetic soundtrack, will premiere concurrently in London and New York.  
 **Xavier Alexandre Pillai, bfi.org.uk, 4 October 2022**  
 
-**THE PASSION OF REMEMBRANCE**  
+**Menelik Shabazz on ‘Step Forward Youth’**<br>
+_Step Forward Youth_ was my very first film back in 1977. I was in my early twenties just out of film school with my partner in crime David Kinoshi. David’s presence, encouragement and talents were key in me making this film. He was both cameraman and editor (some of you might remember him as an actor in the movie _Pressure_).
+
+I had the idea to do this film to counter the negative targeting of Black British Youth by the media. Then, the catchphrase was ‘mugging’ – today it’s ‘gun crime’. We lived in the shadows of Enoch Powell’s speech predicting Black immigration would lead to conflict and ‘blood on our streets’. I was living in another reality of Malcolm X, Black Panthers, Angela Davis and George Jackson which was shaping my views about the world I wanted to change. 
+
+The title came from a reggae tune of the same name by Prince Jazzbo. I wanted this film to be relevant to my community more than looking for outside recognition.
+
+In those days we were shooting on raw 16mm film stock which was expensive, but we were not daunted. With the help of a few donors we managed to gather enough to give encouragement.
+
+The main funder was David’s uncle who was a fairly rich Nigerian. He owned an apartment in St Johns Wood, London. To get his money we had to turn up at his apartment at 10am regularly. He kept us waiting for hours while he had a bath and talked on the phone. His display of power didn’t go down too well with us till eventually we got tired of playing his game. 
+
+Anyway, he coughed some of the money but it wasn’t enough so I had to make a decision about whether we should stop and wait to get more money or keep going. I decided to keep going – it was the most important decision of my life – aged 21.
+
+With a few favours, we managed to edit and complete the film and Uncle came in with some more money that helped us through the film procession costs. Despite the way he treated us, he wanted to support David.
+
+What was sad was that in the same year we completed the film, 1977, David died of sickle cell anaemia which was a real blow. He was so talented – a sad loss… This film is dedicated to his memory.  
+**menelikshabazz.co.uk**
+
+
+**The Passion of Remembrance**  
 _Directed by:_ Maureen Blackwood, Isaac Julien  
 _©:_ Sankofa Film and Video  
 _Financially Assisted by:_ Channel Four, The GLC Police Support Committee    
@@ -82,28 +98,32 @@ Marcelle Williams _(Mrs Campbell)_
 Derek Blackwood, Maureen Blackwood, Osaze Ehibor _(voices off screen)_  
 
 UK 1986  
-82 mins  
+83 mins  
+Digital
 
-A BFI Release  
+**Step Forward Youth**<br>
+_Director:_ Menelik Shabazz<br>
+_Production Company:_ Kuumba Black Arts<br>
+_Producer:_ Menelik Shabazz<br>
+_Script:_ Menelik Shabazz, David Kinoshi<br>
+_Director of Photography:_ David Kinoshi<br>
+_Photography:_ David Kinoshi<br>
+_Editor:_ David Kinoshi<br>
+_Sound Recording:_ Albert Bailey
+
+UK 1977<br>
+29 mins<br>
+Digital<br>
+
+The screening on Wed 29 Oct will include an introduction by Harry Kalfayan, film programmer and Documentaries Channel Manager at Channel 4<br>
 <br>
-**RE-RELEASES**  
-**Young Soul Rebels**  
-Continues from Fri 28 Apr  
-**The Passion of Remembrance**  
-Continues from Fri 28 Apr  
-**The Three Colours Trilogy**  
-From Fri 26 May  
 
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-**NEW RELEASES**  
-**Return to Seoul (Retour à Séoul)**  
-From Fri 5 May  
-**Brainwashed: Sex-Camera-Power**  
-From Fri 12 May  
-**Plan 75**  
-From Fri 19 May  
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
-<br>
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
