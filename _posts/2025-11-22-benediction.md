@@ -2,15 +2,13 @@
 layout: post
 title: Benediction
 published: true
-date: 2022-05-09
+date: 2025-11-22
 readtime: true
-categories: ['PREVIEWS']
+categories: ['Love, Sex, Religion, Death<br>The Complete Films of Terence Davies']
 tags: [Drama, Period, Biopic]
 metadata: 'UK-USA 2021, 137 mins<br> Director: Terence Davies'
-pdf: '2022-05-09-benediction.pdf'
+pdf: '2025-11-22-benediction.pdf'
 ---
-
-_+ extended introduction with actor Jack Lowden_
 
 _Benediction_ explores the turbulent life of First World War poet, Siegfried Sassoon, through the eyes of the revered filmmaker Terence Davies. Sassoon was a complex man who survived the horrors of fighting in the First World War and was decorated for his bravery but who became a vocal critic of the government’s continuation of the war when he returned from service. His poetry was inspired by his experiences on the Western Front and he became one of the leading war poets of the era. Adored by members of the aristocracy as well as stars of London’s literary and stage world, he embarked on affairs with several men as he attempted to come to terms with his homosexuality. At the same time, broken by the horror of war, he made his life’s journey a quest for salvation, trying to find it within the conformity of marriage and religion. His story is one of a troubled man in a fractured world searching for peace and self-acceptance, something which speaks as meaningfully to the modern world as it did then.
 
@@ -48,7 +46,11 @@ Terence is thrilled by the young actors who appear in _Benediction_: ‘The weal
 The gratitude goes two ways: Calam Lynch remains delighted he got the chance to play the outrageous Stephen Tennant in _Benediction_: ‘It was such a privilege and for most of us the first job after lockdown, so the sense of joy was palpable. And to be able to say I’ve worked on a film with Terence Davies!’<br>
 **Production notes**<br>
 
-**BENEDICTION**<br>
+**But Why?**  
+For the 2021 Viennale Film Festival trailer, Davies created an elegy to time and life, and a companion piece to _Benediction_.
+<br><br>
+
+**Benediction**<br>
 _Directed by_: Terence Davies  
 _©_: UME14 Limited, BBC, The British Film Institute  
 _Production Company_: EMU Films  
@@ -171,42 +173,19 @@ Ian Beach _(amputee solider)_<br>
 
 UK-USA 2021<br>
 137 mins<br>
-
-Courtesy of Vertigo<br>
+Digital
 <br>
 
-**IN PERSON & PREVIEWS**<br>
-**Preview: Benediction + extended introduction with director Terence Davies + actor Jack Lowden**<br>
-Mon 9 May 20:15<br>
-**Gaspar Noé in Conversation**<br>
-Tue 10 May 21:00<br>
-**Preview: Summer Ghost + Q&A with director Loundraw**<br>
-Fri 13 May 18:30<br>
-**Work in Progress Preview: All at Sea**<br>
-Tue 26 May 18:10<br>
+**With thanks to**  
+James Dowling, John Taylor, Dan Copley,  
+Sophie Smith, Edge Hill University
+<br><br>
 
-**SPECIAL FILMS & EVENTS**<br>
-**Film Wallahs: Adieu Godard + intro**<br>
-Wed 11 May 18:20<br>
-**Focus Hong Kong: The Bride with White Hair + intro**<br>
-Thu 12 May 18:20<br>
-**Focus Hong Kong: UK Premiere: Bamboo Theatre + intro**<br>
-Fri 13 May 18:15<br>
-**UK Asian Film Festival: Closing Night: Gangnam Girls + intro by director and producer**<br>
-Sun 15 May 11:30<br>
-**UK Premiere: The Coup d’etat Factory + discussion with chair, Baroness Christine Blower and special guests (TBA)**<br>
-Sun 29 May 14:00<br>
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
 
-**QUEER EAST**<br>
-**Girls’ School + Q&A with Wang Chun-Chi, Chairwoman of Taiwan Women’s Film Association**<br>
-Tue 24 May 18:10<br>
-**East Palace, West Palace Dong gong xi gong + intro by Chris Berry, Professor of Film Studies, King’s College London**<br>
-Fri 27 May 20:30<br>
-**Malila: The Farewell Flower + Q&A with director Anucha Boonyawatana**<br>
-Sat 28 May 15:00<br>
-**Queer East Closing Night: Metamorphosis + Q&A with director JE Tiglao**<br>
-Sun 29 May 18:00<br>
-
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
@@ -221,6 +200,6 @@ See something different today on [**player.bfi.org.uk**](https://player.bfi.org.
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
