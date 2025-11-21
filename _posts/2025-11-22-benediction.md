@@ -14,8 +14,7 @@ _Benediction_ explores the turbulent life of First World War poet, Siegfried Sas
 
 ‘When I first said I’d make this film, which is six years ago now,’ says Terence Davies, ‘I didn’t know that much about Siegfried Sassoon’s life. So I went out and bought three huge biographies of him. There was so much in them. It seemed he knew everybody – he was never in! So at first, it was difficult to know how to make the film, how to shape it.’ For all that, he felt a strong affinity with Sassoon’s character and life story.
 
-Within the British film industry Terence – a veteran who is both screenwriter and director of _Benediction_ – is widely regarded as one of our truly great filmmakers, thanks to an extraordinary body of work that includes _Distant Voices, Still Lives_ (1988), _The Long Day Closes_ (1992), _The Neon Bible_ and _The House of Mirth_ (both from 2000) and his remarkable documentary  
-_Of Time and the City_ (2008) – set in a working-class area of Liverpool, where he grew up.
+Within the British film industry Terence – a veteran who is both screenwriter and director of _Benediction_ – is widely regarded as one of our truly great filmmakers, thanks to an extraordinary body of work that includes _Distant Voices, Still Lives_ (1988), _The Long Day Closes_ (1992), _The Neon Bible_ and _The House of Mirth_ (both from 2000) and his remarkable documentary  _Of Time and the City_ (2008) – set in a working-class area of Liverpool, where he grew up.
 
 In 2015 Terence agreed to write and direct _Benediction_ and production company EMU Films came on board with Michael Elliott as a producer in April 2016, before they all began developing the project with the BFI. ‘Originally we thought it would have wrapped in about a year,’ Terence says now. ‘But the timescale turned out to be more than five years.’
 
