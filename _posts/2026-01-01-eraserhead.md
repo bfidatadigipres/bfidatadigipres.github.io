@@ -2,12 +2,12 @@
 layout: post
 title: Eraserhead
 published: true
-date: 2024-07-01
+date: 2026-01-01
 readtime: true
-categories: ['DISCOMFORT MOVIES']
+categories: ['David Lynch<br>The Dreamer']
 tags: [Horror, Fantasy]
 metadata: 'USA, 1976, 89 mins<br> Director: David Lynch'
-pdf: '2024-07-01-eraserhead.pdf'
+pdf: '2026-01-01-eraserhead.pdf'
 ---
 In his first film, _Eraserhead_, David Lynch created a world from which everything has been stripped away except for the anxiety at its heart. Henry Spencer tramps numbly across a ruined industrial landscape. He goes for dinner with his girlfriend Mary at the house of her parents, Mr and Mrs X. They eat small chickens which move and exude a mysterious slime when cut. Henry is compelled to marry Mary because she has given birth – but so prematurely that the hospital wasn’t even sure if the result was a baby.
 
@@ -24,8 +24,7 @@ Making _Eraserhead_, David Lynch had a level of control over every aspect of the
 Such an approach can prove difficult for critics, and when _Eraserhead_ appeared in Britain in 1979 there was a general unwillingness to provide exegesis. As Paul Taylor prudently concluded in his review in the _Monthly Film Bulletin_, it was ‘a movie to be experienced rather than explained’. However what is needed for _Eraserhead_ is not a glossary of symbols but a clear account of its imaginative power. The two sources of horror in the film are the diseased organic world of the body itself and the cruel machines (and indeed the ruined industrial setting) that surround it. With a cold, clear eye, David Lynch shows us both kinds of disgust – the slimy, unguent products of the human body and its activities and then the vividly imagined device into which Henry’s head is inserted to be processed into erasers for pencils.<br>
 **Sean French, _Sight & Sound_, Spring 1987**
 
-**A contemporary review**
-
+**A contemporary review**  
 No synopsis could adequately convey the perfect nightmare of David Lynch’s extraordinary black-and-white horror; the film itself is an absurdist, surreal treat of repulsive beauty and grisly comedy. Over and above its perverse plot, the film’s crisp imagery (often of inexplicable phenomena) and its controlled playing have a unique and eerie suggestiveness.
 
 Even though there’s material enough in this post-punk dreamscape for an imaginative Freudian to have a field-day, Lynch consistently eschews symbolism and allegory, and gives priority to none of the levels of inevitably decomposing ‘reality’ inhabited by his catatonic hero. He also refuses to indulge in isolated shocks – although the superb effects provide opportunities aplenty – and concentrates on a cumulative, suspenseful grotesquerie. Henry’s unique odyssey, finally, is tracked towards an almost intimate apocalypse.
@@ -34,7 +33,7 @@ Critical shorthand would probably append the work of Bosch and Beckett, and perh
 **Paul Taylor, _Monthly Film Bulletin_, March 1979**<br>
 <br><br>
 
-**ERASERHEAD**<br>
+**Eraserhead**<br>
 _Directed by:_ David Lynch<br>
 ©: David Lynch<br>
 _Produced with the co-operation of:_ AFI Center for Advanced Film Studies<br>
@@ -82,41 +81,13 @@ Raymond Walsh _(Mr Roundheels)_<br>
 
 USA 1976©<br>
 89 mins<br>
-Digital
-
-The screening on Mon 1 Jul 20:40 will feature an extended intro to the Discomfort Movies season from season curator Kimberley Sheehan
+Digital 4K
 <br><br><br>
 
-**DISCOMFORT MOVIES**<br>
-**Eraserhead**<br>
-Mon 1 Jul 20:40 (+ extended intro to the season by curator Kimberley Sheehan); Sun 14 Jul 17:50; Sat 27 Jul 20:50<br>
-**The Lost Weekend**<br>
-Sat 6 Jul 15:10; Sun 21 Jul 17:45; Mon 29 Jul 20:40<br>
-**Requiem for a Dream**<br>
-Sat 6 Jul 20:45; Fri 19 Jul 18:20<br>
-**A Woman under the Influence**<br>
-Sun 7 Jul 19:30; Sun 28 Jul 17:20<br>
-**Bug**<br>
-Mon 8 Jul 18:15; Thu 25 Jul 20:50<br>
-**They Shoot Horses, Don’t They?**<br>
-Tue 9 Jul 18:10; Mon 22 Jul 20:35<br>
-**Threads**<br>
-Thu 11 Jul 18:15; Sun 21 Jul 15:15<br>
-**Possession**<br>
-Mon 15 Jul 18:00<br>
-**Funny Games**<br>
-Mon 15 Jul 20:45; Sat 27 Jul 14:15<br>
-**Climax + Strasbourg 1518**<br>
-Tue 16 Jul 18:10; Sun 28 Jul 20:20<br>
-**Crash + Titane**<br>
-Sat 20 Jul 18:15, 18:30<br>
-**Audition** Ôdishon<br>
-Wed 24 Jul 20:45; Wed 31 Jul 18:15<br>
-**Skinamarink**<br>
-Sun 28 Jul 14:20; Wed 31 Jul 20:45<br>
-**Relaxed Screening: Eraserhead + intro and discussion**<br>
-Mon 29 Jul 18:10<br>
-
+**With thanks to**  
+Sabrina Sutherland  
+Lindsey Bowden
+<br>
 <br><br>
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
