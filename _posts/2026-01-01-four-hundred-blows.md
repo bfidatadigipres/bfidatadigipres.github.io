@@ -4,7 +4,7 @@ title: The 400 Blows
 published: true
 date: 2026-01-01
 readtime: true
-categories: ['Ensemble<br>The Filmmakers from Richard Linklater’s _Nouvelle Vague_']
+categories: ['Ensemble<br>The Filmmakers from Richard Linklater’s Nouvelle Vague']
 tags: [Drama]
 metadata: 'France 1959, 99 mins<br> Director: François Truffaut'
 pdf: '2026-01-01-four-hundred-blows.pdf'
