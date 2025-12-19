@@ -2,18 +2,19 @@
 layout: post
 title: The 400 Blows
 published: true
-date: 2024-06-10
+date: 2026-01-01
 readtime: true
-categories: ['MEMBER MONDAYS']
+categories: ['Ensemble<br>The Filmmakers from Richard Linklater’s _Nouvelle Vague_']
 tags: [Drama]
 metadata: 'France 1959, 99 mins<br> Director: François Truffaut'
-pdf: '2024-06-10-400-blows.pdf'
+pdf: '2026-01-01-four-hundred-blows.pdf'
 ---
 
-**SPOILER WARNING** The following notes give away some of the plot.
+**Linklater on Truffaut**  
+I don’t know if Godard means the most to me. I think it’s Truffaut and Rohmer – long term, it’s probably Truffaut. I like Chabrol’s early films, but he became more of a genre guy.
 
-One of the greatest films about childhood, Truffaut’s partly autobiographical first feature is also profoundly moving. Forever in trouble at school – when he’s not playing truant – 13-year-old Antoine Doinel finds life no easier at home; besides demanding he help with housework and shopping, his parents frequently bicker with one another. Eventually there’s a tipping point... Eliciting a memorably affecting and naturalistic performance from the young Jean-Pierre Léaud, and achieving a documentary-like authenticity by shooting in far-from-glamorous Paris locations, Truffaut leavens Antoine’s faltering progress through a painful pubescence with moments of irreverent humour and exhilarating energy. Never sentimental, it’s nonetheless a heartbreakingly plausible portrait of adolescent individuality under threat from adult conformism.  
-**Geoff Andrew, BFI Programmer-at-large**  
+Everybody goes their own way, don’t they? Rivette carried the torch for truly experimental – he and Godard pushed themselves and stayed on that track. All of them were really true to themselves – the ones we talk about. I don’t love _Fahrenheit 451_ [1966] and _The Bride Wore Black_ [1968] so much. Truffaut’s genre work… it’s OK. They’re not my favourites. Other than that, I’m with him – film in, film out. _The Green Room_ [1978], some of his lesser-known films: I like _Mississippi Mermaid_ [1969]. The first Truffaut film I ever saw was _The Woman Next Door_ [1981]; I had never seen _The 400 Blows_. Once I finally started catching up with him, he quickly became my favourite.  
+**Richard Linklater interviewed by Jonathan Romney, Sight and Sound, Winter 2025-26**  
 
 **A contemporary review**  
 That there’s a Chaplinesque pathos about François Truffaut’s _Les Quatre Cents Coups_ isn’t surprising; for like Chaplin’s tramp, Antoine Doinel, the protagonist of this film, tries to live a way of life that quickly brings him into conflict with society. Antoine presents positives similar to Chaplin: he’s a bit of a dandy, full of tricks and affection, with a lovely appreciation of life, and yet a sense of its absurdity also. But for him, the conflict with society is more than a matter of pathos; for Antoine is only 12-and-a-half years old, and his history presents in an extreme form that most tragic experience of adolescence, the loss of spontaneity. In a series of incidents of ever-increasing significance, Antoine is shown as the victim of such irresponsible people as his parents, the masters at his school, and various social workers who have to deal with him. The more he tries to evade their tyranny, the stronger is their hold over him. The prison of his home and of his school leads to a cage at the police station, and eventually to the barred windows of an Institute for Juvenile Delinquents.
