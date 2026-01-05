@@ -136,7 +136,7 @@ New 35mm print made with funding from the National Lottery
 <br>
 
 **With thanks to**  
-Sabrina Sutherland
+Sabrina Sutherland  
 Lindsey Bowden
 <br>  
 <br>
