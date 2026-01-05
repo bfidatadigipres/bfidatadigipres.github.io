@@ -132,7 +132,7 @@ The screening on Thu 15 Jan will be introduced by Ben Tyrer, Lecturer in Film Th
 <br>
 
 **With thanks to**  
-Sabrina Sutherland
+Sabrina Sutherland  
 Lindsey Bowden
 <br><br>
 
