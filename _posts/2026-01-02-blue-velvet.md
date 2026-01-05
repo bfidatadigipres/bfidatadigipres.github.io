@@ -2,12 +2,12 @@
 layout: post
 title: Blue Velvet
 published: true
-date: 2023-08-19
+date: 2026-01-02
 readtime: true
-categories: ['BIG SCREEN CLASSICS']
+categories: ['David Lynch<br>The Dreamer']
 tags: [Drama]
 metadata: 'USA 1986, 121 mins<br> Director: David Lynch'
-pdf: '2023-08-19-blue-velvet.pdf'
+pdf: '2026-01-02-blue-velvet.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -39,7 +39,7 @@ When you make a film like _Blue Velvet_, there’s a danger that Dorothy becomes
 **David Lynch interviewed by Jane Root, _Monthly Film Bulletin_, April 1987**  
 <br>
 
-**BLUE VELVET**  
+**Blue Velvet**  
 _Directed by:_ David Lynch  
 _©:_ De Laurentiis Entertainment Group, Inc.  
 _Presented by:_ De Laurentiis Entertainment Group  
@@ -128,39 +128,17 @@ Sparky _(the dog)_
 
 USA 1986  
 121 mins  
+35mm / Digital 4K (IMAX only)
+
+A BFI National Archive print
+
+New 35mm print made with funding from the National Lottery
 <br>
 
-**BIG SCREEN CLASSICS**  
-**Miller’s Crossing**  
-Tue 1 Aug 20:40; Sat 12 Aug 15:20; Mon 14 Aug 18:10  
-**Sawdust and Tinsel (Gycklanas afton)**  
-Wed 2 Aug 18:10 (+ intro by Geoff Andrew, Programmer-at-Large); Tue 22 Aug 20:45  
-**The Night of the Hunter**  
-Thu 3 Aug 20:50; Sat 26 Aug 18:10; Tue 29 Aug 20:50  
-**The Bigamist**  
-Fri 4 Aug 20:45; Wed 9 Aug 18:00 (+ intro by Aga Baranowska, Events Programmer)  
-**3 Women**  
-Sat 5 Aug 20:30; Sun 20 Aug 18:25  
-**La Peau douce (Silken Skin)**  
-Sun 6 Aug 18:30; Thu 24 Aug 20:45  
-**In the Mood for Love (Huayang Nianhua)**  
-Mon 7 Aug 18:10; Fri 18 Aug 20:45; Fri 25 Aug 18:20  
-**Charulata (The Lonely Wife)**  
-Tue 8 Aug 20:35; Wed 16 Aug 18:00 (+ intro by Professor Chandak Sengoopta, Birkbeck College, University of London)  
-**Brief Encounter**  
-Thu 10 Aug 18:30; Sun 20 Aug 13:20  
-**Merrily We Go to Hell**  
-Fri 11 Aug 18:20; Wed 23 Aug 18:15 (+ intro by author and film journalist Helen O’Hara)  
-**Love Is the Devil: Study for a Portrait of Francis Bacon**  
-Sat 12 Aug 20:40; Wed 30 Aug 18:10 (+ intro)  
-**Mildred Pierce**  
-Sun 13 Aug 15:40; Mon 21 Aug 20:45; Mon 28 Aug 15:10  
-**Beau travail**  
-Tue 15 Aug 20:45; Mon 28 Aug 18:30  
-**Red River**  
-Thu 17 Aug 20:20; Sun 27 Aug 15:20  
-**Blue Velvet**
-Sat 19 Aug 17:45; Thu 24 Aug 18:10; Thu 31 Aug 20:35  
+**With thanks to**  
+Sabrina Sutherland
+Lindsey Bowden
+<br>  
 <br>
 
 **SIGHT AND SOUND**<br>
