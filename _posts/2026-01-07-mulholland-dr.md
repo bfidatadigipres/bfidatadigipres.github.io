@@ -2,12 +2,12 @@
 layout: post
 title: Mulholland Dr.
 published: true
-date: 2024-05-13
+date: 2026-01-07
 readtime: true
-categories: ['MEMBER MONDAYS']
+categories: ['David Lynch<br>The Dreamer']
 tags: [Thriller]
-metadata: 'France/USA 2001, 147 mins<br> Director: David Lynch'
-pdf: '2024-05-13-mulholland-dr.pdf'
+metadata: 'France-USA 2001, 147 mins<br> Director: David Lynch'
+pdf: '2026-01-07-mulholland-drive.pdf'
 ---
 
 **SPOILER WARNING** The following notes give away some of the plot.
@@ -26,7 +26,7 @@ A film bound to irritate audiences who want to emerge with a cut-and-dried sense
 **Kim Newman, _Sight and Sound_, January 2002**
 <br>
 
-**MULHOLLAND DR.**  
+**Mulholland Dr.**  
 _Director:_ David Lynch  
 _©:_ Studio Canal+  
 _Production Companies:_ Films Alain Sarde, Asymmetrical Productions  
@@ -114,28 +114,15 @@ Lyssie Powell _(blond in bed)_
 Scott Coffey _(Wilkins)_  
 Kimberly Clever, Joshua Collazo, Lisa Ferguson, David Frutos, Peter Loggins, Theresa Salazar, Thea Samuels, Christian Thompson _(dancers)_  
 
-France/USA 2001©  
+France-USA 2001©  
 147 mins  
 Digital  
 <br>
 
-**MEMBER MONDAYS**  
-**La Règle du jeu** The Rules of the Game  
-Mon 13 May 17:50, 20:45  
-**Mulholland Dr.**  
-Mon 13 May 18:00, 20:00  
-**Tokyo Story** Tōkyō monogatari  
-Mon 20 May 18:00  
-**An Autumn Afternoon** Sanma no aji  
-Mon 20 May 20:45  
-**The Godfather**  
-Mon 27 May 15:30  
-**The Godfather Part II**  
-Mon 27 May 19:15  
-**Once Upon a Time in the West  C’era una volta il West**  
-Mon 3 Jun 17:30, 19:45  
-**Portrait of a Lady on Fire (Portrait de la jeune fille en feu)**  
-Mon 3 Jun 17:20, 20:35  
+**With thanks to**  
+Sabrina Sutherland  
+Lindsey Bowden
+<br>  
 <br>
 
 **SIGHT AND SOUND**<br>
