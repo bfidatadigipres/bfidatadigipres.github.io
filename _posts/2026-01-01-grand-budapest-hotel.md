@@ -86,7 +86,7 @@ Digital
 <br>
 
 <img style="float: left;" src="/img/FCIA.jpg" width="40%" height="40%">
-<br><br><br><br>
+<br><br><br><br><br><br>
 <img style="float: left;" src="/img/AHRC.png" width="40%" height="40%">
 <br><br><br><br><br><br><br>
 
