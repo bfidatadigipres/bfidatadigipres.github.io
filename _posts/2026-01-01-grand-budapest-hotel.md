@@ -86,9 +86,9 @@ Digital
 <br>
 
 <img style="float: left;" src="/img/FCIA.jpg" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <img style="float: left;" src="/img/AHRC.png" width="40%" height="40%">
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
