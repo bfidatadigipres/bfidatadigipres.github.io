@@ -2,12 +2,12 @@
 layout: post
 title: Point Break
 published: true
-date: 2024-11-08
+date: 2026-02-13
 readtime: true
-categories: ['RE-RELEASES']
+categories: ['Close to the Edge<br>The Films of Kathryn Bigelow']
 tags: [Action]
 metadata: 'USA 1991, 122 mins<br> Director: Kathryn Bigelow'
-pdf: '2024-11-08-point-break.pdf'
+pdf: '2026-02-13-point-break.pdf'
 ---
 
 Production on _Point Break_ began on 9 July 1990, some three years after the project was first developed. Of the long gestation period for the film, producers Robert L. Levy and Peter Abrams note, ‘We’ve sort of been in pre-production the entire time. When Peter lliff first wrote the script, we had four studios that wanted it. In the space of a month, we had a director, a star and a studio committed. Then a new regime took over at the studio, and everything fell apart. Kathryn Bigelow was the first director we wanted when we began to regroup. We’d go over directors, around and around, and we’d always come back to Kathryn.’
@@ -40,7 +40,7 @@ Oddly lightweight in cast, as though the theme (which, taking our hint from _Nea
 **Philip Strick, _Sight and Sound_, December 1991**
 <br><br>
 
-**POINT BREAK**  
+**Point Break**  
 _Director_: Kathryn Bigelow  
 ©: Largo Entertainment Inc.  
 _Production Companies_: Levy/Abrams/Guerin,  JVC Entertainment  
@@ -132,27 +132,9 @@ Sedrick J. Azurdia _(fruit vendor)_
 
 USA 1991  
 122 mins  
-Digital 4K (restoration)
-
-A BFI release
+Digital 4K
 <br><br>
 
-**NEW RELEASES**<br>
-**The Room Next Door**<br>
-From Fri 25 Oct<br>
-**Anora**<br>
-From Fri 1 Nov<br>
-**Bird**<br>
-From Fri 15 Nov<br>
-**All We Imagine as Light**<br>
-From Fri 29 Nov
-
-**RE-RELEASES**<br>
-**Watership Down**<br>
-From Fri 25 Oct<br>
-**Point Break**<br>
-From Fri 8 Nov<br>
-<br><br>
 
 **SIGHT AND SOUND**<br>
 Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
