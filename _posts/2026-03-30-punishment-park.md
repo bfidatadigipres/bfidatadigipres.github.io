@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Punishment Park
-published: false
+published: true
 date: 2026-03-30
 readtime: true
 categories: ['Big Screen Classics']
