@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hold Me While I’m Naked, George Kuchar!
-published: false
+published: true
 date: 2026-04-03
 readtime: true
 categories: ['Trash! The Wildest Films You’ve Ever Seen']
