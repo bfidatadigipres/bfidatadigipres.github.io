@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Year of Living Dangerously
-published: false
+published: true
 date: 2026-04-04
 readtime: true
 categories: ['Finding Your Way<br>The Films of Peter Weir']
