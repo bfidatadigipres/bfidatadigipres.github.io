@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sins of the Fleshapoids
-published: false
+published: true
 date: 2026-04-02
 readtime: true
 categories: ['Trash! The Wildest Films You’ve Ever Seen']
