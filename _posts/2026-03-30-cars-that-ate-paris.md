@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cars That Ate Paris
-published: false
+published: true
 date: 2026-03-30
 readtime: true
 categories: ['Finding Your Way<br>The Films of Peter Weir']
