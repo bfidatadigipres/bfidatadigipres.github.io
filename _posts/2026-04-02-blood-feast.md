@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blood Feast
-published: false
+published: true
 date: 2026-04-02
 readtime: true
 categories: ['Trash! The Wildest Films You’ve Ever Seen']
