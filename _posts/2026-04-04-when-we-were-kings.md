@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When We Were Kings
-published: false
+published: true
 date: 2026-04-04
 readtime: true
 categories: ['The Cinematic Life of Boxing']
