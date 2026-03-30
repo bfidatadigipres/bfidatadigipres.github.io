@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truman Show
-published: false
+published: true
 date: 2026-04-03
 readtime: true
 categories: ['Finding Your Way<br>The Films of Peter Weir']
