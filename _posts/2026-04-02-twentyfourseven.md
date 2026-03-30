@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TwentyFourSeven
-published: false
+published: true
 date: 2026-04-02
 readtime: true
 categories: ['The Cinematic Life of Boxing']
