@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multiple Maniacs
-published: false
+published: true
 date: 2026-03-31
 readtime: true
 categories: ['Trash! The Wildest Films You’ve Ever Seen']
