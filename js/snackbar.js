@@ -39,7 +39,7 @@ var createSnackbar = (function() {
       }
       var actionButton = document.createElement('button');
       actionButton.className = 'action';
-      actionButton.innerHTML = actionText;
+      actionButton.textContent = actionText;
       actionButton.addEventListener('click', action);
       snackbar.appendChild(actionButton);
     }
