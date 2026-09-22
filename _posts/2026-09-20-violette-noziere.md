@@ -7,7 +7,7 @@ readtime: true
 categories: ['Claude Chabrol<br>Elements of Crime']
 tags: [Drama, Crime]
 metadata: 'France-Canada 1978, 125 mins<br> Director: Claude Chabrol'
-pdf: '2026-09-20-violette-noziere.pdf'
+pdf: '2026-09-20-violette-nozière.pdf'
 ---
 
 **‘I fell in love with Violette Nozière’ by Claude Chabrol**  
