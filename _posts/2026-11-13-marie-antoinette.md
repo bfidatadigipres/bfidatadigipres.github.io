@@ -2,15 +2,13 @@
 layout: post
 title: Marie Antoinette
 published: true
-date: 2022-03-08
+date: 2026-11-13
 readtime: true
-categories: ['SEEN & HEARD']
+categories: ['Re-releases']
 tags: [Drama, Period]
-metadata: 'USA/France/Japan 2005, 123 mins<br> Director: Sofia Coppola'
-pdf: '2022-03-08-marie-antoinette.pdf'
+metadata: 'USA-France-Japan 2005, 123 mins<br> Director: Sofia Coppola'
+pdf: '2026-11-13-marie-antoinette.pdf'
 ---
-
-_The screening on Tuesday 8 March will be introduced by Hannah Strong, Little White Lies Digital Editor and author of Sofia Coppola: Forever Young._
 
 The spirit of fashion as creative reinvention, performance and personal style statement informs Sofia Coppola’s movie, where costume and set design are used in various ways: to capture the essence of the period, to suggest mood, to reinforce and comment on character, to project the state of mind of its heroine, and to visualise the director’s concerns. The young Austrian archduchess who married into the French royal family in the years leading up to the revolution and was beheaded at the height of the Reign of Terror is often remembered for her apparent disregard for the suffering of her starving subjects, encapsulated in her notorious remark, ‘Let them eat cake’. Marie Antoinette has always been the focus of extremes of hostility and sympathy, though even sympathisers find it difficult to come to terms with her lack of interest in the world outside Versailles and her frivolous lifestyle.
 
@@ -40,7 +38,7 @@ Such insouciance, together with a nonchalant approach to period trappings in des
 **Pam Cook, _Sight & Sound_, November 2006**
 <br><br>
 
-**MARIE ANTOINETTE**  
+**Marie Antoinette**  
 _Directed by_: Sofia Coppola  
 ©: I Want Candy LLC  
 _Production Company/From_:  American Zoetrope  
@@ -160,41 +158,32 @@ Alain Doutey _(chief valet)_
 Bo Barrett _(page)_  
 Joseph Malerba _(queen’s guard)_
 
-USA/France/Japan 2005©  
-123 mins
-<br><br>
+USA-France-Japan 2005©  
+123 mins  
+Digital 4K (restoration)
 
-**SEEN & HEARD: DARING FEMALE COMING-OF-AGE FILMS**<br>
-**Skate Kitchen**<br>
-Tue 1 Mar 20:40; Sun 13 Mar 20:45<br>
-**Divines**<br>
-Wed 2 Mar 20:50; Tue 15 Mar 20:50<br> 
-**Jinn**<br>
-Sat 5 Mar 17:45; Tue 8 Mar 21:00<br> 
-**37 Seconds (37 sekanzu)**<br>
-Sat 5 Mar 20:30; Sat 12 Mar 20:45<br> 
-**Water Lilies (Naissance des pieuvres)**<br>
-Sun 6 Mar 18:45; Mon 14 Mar 20:50<br> 
-**Marie Antoinette**<br> 
-Tue 8 Mar 18:10 (+ intro by Hannah Strong, Little White Lies Digital Editor and author of Sofia Coppola: Forever Young); Sun 13 Mar 18:00<br> 
-**Somersault**<br>
-Fri 11 Mar 20:50; Mon 14 Mar 18:10<br>
+A Park Circus re-release
+<br><br>
 <br>
 
+
+**SIGHT AND SOUND**<br>
+Never miss an issue with _Sight and Sound_, the BFI’s internationally renowned film magazine. Subscribe from just £25*<br>
+*Price based on a 6-month print subscription (UK only). More info: [**sightandsoundsubs.bfi.org.uk**](https://sightandsoundsubs.bfi.org.uk/subscribe)
+
+<img style="float: left;" src="/img/sight-and-sound.jpg" width="40%" height="40%"><br><br><br><br><br><br><br><br>
 
 **BFI SOUTHBANK**  
 Welcome to the home of great film and TV, with three cinemas and a studio, a world-class library, regular exhibitions and a pioneering Mediatheque with 1000s of free titles for you to explore. Browse special-edition merchandise in the BFI Shop.We&#39;re also pleased to offer you a unique new space, the BFI Riverfront – with unrivalled riverside views of Waterloo Bridge and beyond, a delicious seasonal menu, plus a stylish balcony bar for cocktails or special events. Come and enjoy a pre-cinema dinner or a drink on the balcony as the sun goes down.  
 
-**BECOME A BFI MEMBER**  
-Enjoy a great package of film benefits including priority booking at BFI Southbank and BFI Festivals. Join today at [**bfi.org.uk/join**](http://www.bfi.org.uk/join)  
-
 **BFI PLAYER**  
- We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.<br> 
-See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk/)
+ We are always open online on BFI Player where you can watch the best new, cult &amp; classic cinema on demand. Showcasing hand-picked landmark British and independent titles, films are available to watch in three distinct ways: Subscription, Rentals &amp; Free to view.  
+
+See something different today on [**player.bfi.org.uk**](https://player.bfi.org.uk)  
 
 Join the BFI mailing list for regular programme updates. Not yet registered? Create a new account at [**www.bfi.org.uk/signup**](http://www.bfi.org.uk/signup)
 
-**Programme notes and credits compiled by the BFI Documentation Unit  
+**Programme notes and credits compiled by Sight and Sound and the BFI Documentation Unit  
 Notes may be edited or abridged  
 Questions/comments? Contact the Programme Notes team by [email](mailto: prognotes@bfi.org.uk)**
 
